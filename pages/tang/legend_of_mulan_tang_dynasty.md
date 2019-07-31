@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Legend of Mulan During the Tang Dynasty
-description: The oldest known version of Mulan&rsquo;s story, which inspired countless retellings for centuries to come.
-image: northern_wei_ballad_of_mulan.jpg
-alt: The Ballad of Mulan written in traditional calligraphy (Public domain).
+description: As the status of women began to rise during the Tang Dynasty, an influx of female protagonists appeared in literature. Mulan was one of the heroines emphasized during this time.
+image: tang_dynasty_article_empress_wu.jpg
+alt: A portrait of Empress Wu Zetian (Public domain).
 imageType: big
 ---
 
@@ -18,5 +18,4 @@ imageType: big
 
 <p>Early renditions of Mulan&rsquo;s story almost exclusively focused on Mulan&rsquo;s beauty, elegance, and virtue. The most popular retelling, Du Mu&rsquo;s Mulan Temple, depicts Mulan as agonizing over whether it would be appropriate for her to drink together with the other officers. Even while dressed as a man, she struggled to act in a way that was becoming for a lady.</p>
 
-<p>Although these depictions of Mulan may seem disappointingly anti-feminist to the modern reader, they mark a revolutionary shift in Chinese ideology. Previously, Ban Zhao had insisted that &ldquo;a man&rsquo;s worth lies in his strength while a woman&rsquo;s beauty stems from her inferiority&rdquo; (<a href="https://zh.m.wikisource.org/wiki/%E5%A5%B3%E8%AA%A1">¤k»|</a>). As the status of women gradually rose, poets challenged the culture with the story of Mulan, yet assured readers that a woman who becomes strong will not lose her beauty or virtue. Mulan, the most filial daughter, was heralded as the perfect woman.</p>
 {:/}
