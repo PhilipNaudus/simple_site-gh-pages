@@ -12,7 +12,7 @@ Mulan Temple was once located on [Mulan Mountain](http://en.hubei.gov.cn/special
 During the Yuan Dynasty (1332 AD), a memorial was inscribed into a large stone beside the temple. It reads:
 
 <blockquote>
-During the reign of [Emperor Wen of Han](https://en.wikipedia.org/wiki/Emperor_Wen_of_Han), the Xiongniu invaded the land and (the emperor) ordered that all the men under heaven be gathered together to resist them. Mulan&rsquo;s father was among those who were called upon to resist the invasion. Her father, who was extremely ill and had no son to take his place, lamented his fate.<br />
+During the reign of <a href="https://en.wikipedia.org/wiki/Emperor_Wen_of_Han">Emperor Wen of Han</a>, the Xiongniu invaded the land and (the emperor) ordered that all the men under heaven be gathered together to resist them. Mulan&rsquo;s father was among those who were called upon to resist the invasion. Her father, who was extremely ill and had no son to take his place, lamented his fate.<br />
 <br />
 Mulan, in her bedroom chamber, pitied her father. Washing the makeup from her face and stripping herself of her pearls, she donned a military uniform and hurried to join the army. She fought valiantly and returned victoriously after twelve years. For her meritorious service, she was offered a prominent position, which she declined, saying that she wished to return to her home to and serve her parents. Emperor Wen praised her noble aspirations.<br />
 <br />

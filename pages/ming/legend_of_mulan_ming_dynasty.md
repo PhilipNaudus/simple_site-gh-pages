@@ -7,7 +7,7 @@ alt: The Ballad of Mulan written in traditional calligraphy (Public domain).
 imageType: big
 ---
 
-Because the *Ballad of Mulan* is an anonymous and undated work, very little can be said about it with certainty. It was most likely composed during the era of Northern Wei and passed down orally for over a century until it was finally preserved in written form during the Tang Dynasty {::nomarkdown}<span class="nowrap">(<span class="tip">source<span class="tiptext">&#26408;&#34349;&#30740;&#31350;<br /><small><a href="http://bit.ly/2KizXBx">http://bit.ly/2KizXBx</a></small></span></span>).</span>{:/}
+Because the *Ballad of Mulan* is an anonymous and undated work, very little can be said about it with certainty. It was most likely composed during the era of Northern Wei and passed down orally for over a century until it was finally preserved in written form during the Tang Dynasty <span class="nowrap">(<span class="tip">source<span class="tiptext">&#26408;&#34349;&#30740;&#31350;<br /><small><a href="http://bit.ly/2KizXBx">http://bit.ly/2KizXBx</a></small></span></span>).</span>
 
 The version which was finally put into writing begins with Mulan sitting in front of her loom, weeping over the fact that her father has just received his conscription orders. Because Mulan has no elder brother, she is resolved to take her father's place. Upon returning, she is offered a prominent position but turns it down; her only request is that she be sent home to her family.
 
