@@ -44,7 +44,7 @@ nav {
 }
 #logo h1 a img, #logo h1 a, #logo h1, #logo {
     max-width: 2000px;
-    width: 100%;
+    width: calc(100%-50px);
     height: auto;
 }
 nav.mnu{
