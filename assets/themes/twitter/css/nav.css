@@ -48,7 +48,7 @@ nav.mnu {
 }
 #logo img {
     max-width: 200px;
-    width: calc(100vw - 200px);
+    width: calc(100vw - 70px);
 }
 nav.mnu{
     margin-top: 2em;
