@@ -7,6 +7,8 @@ alt: The Ballad of Mulan written in traditional calligraphy (Public domain).
 imageType: big
 ---
 
+Welcome to the {{ dynastyName }} dynasty.
+
 This is what to do if you just want a website. (This page is a bit
 long, but it's really not that much work.)
 
