@@ -11,14 +11,14 @@ description: "In-depth analysis into Mulan's history and legend, including resea
 {% assign dynastyAlts = "A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv#A pagoda built during the Tang Dynasty. Image source: http://bit.ly/2GpfHwP#A tower built durnig the Yuan Dynasty. Image source: http://bit.ly/2LIJlkX#An arch constructed during the Ming Dynasty. Image source: http://bit.ly/2GveIuU#A gate to the Forbidden City, which was used during the Qing Dynasty. Image source: http://bit.ly/2ybwq23" | split: '#' %}
 
 {% for dynasty in dynastyArr %}
-	<h4 class="heading text-left mb-5"><img src="/assets/images/thumbs/dynasties/{{ dynasty }}.jpg" alt="{{ dynastyAlts[forloop.index0] | strip_html }}">{{ dynastyNames[forloop.index0] }}</h3>
+	<h4 class="heading text-left mb-5"><img src="/assets/images/thumbs/dynasties/{{ dynasty }}.jpg" alt="{{ dynastyAlts[forloop.index0] }}">{{ dynastyNames[forloop.index0] }}</h3>
 	{% assign folderName = '/' | append: dynasty | append: '/' %}
 	{% assign folder = site.pages | where_exp: "item" , "item.path contains folderName" | sort: "num" %}
 
 	{% for article in folder %}
 		<div class="row {% if forloop.last %} last_article {% else %} first_article {% endif %}">
 			<div class="col-md-4 main-1">
-				<a href="{{ article.url }}"><img src="/assets/images/thumbs/articles/{{ article.image }}" alt="{{ article.alt }}" class="img-fluid"></a>
+				<a href="{{ article.url }}"><img src="/assets/images/thumbs/articles/{{ article.image }}" alt="{{ article.alt | strip_html }}" class="img-fluid"></a>
 			</div>
 			<div class="col-md-8 main-2">
 				<h3 class="mt-2"><a href="{{ article.url }}">{{ article.title }}</a></h3>
