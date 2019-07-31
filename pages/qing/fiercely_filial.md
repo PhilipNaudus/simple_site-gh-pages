@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fiercely Filial (1850)
+title: Fiercely Filial by Zhang Shaoxian (1850)
 description: This novel, which unites many of the previous renditions of Mulan&rsquo;s story into a single volume, emphasizes that Mulan&rsquo;s brilliance and courage stemmed from her virtue
 image: hua_mulan_lu_wanhua_sworn_sisters.jpg
 alt: Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua. Included as an illustrations in an early woodblock printing of Fiercely Filial.
