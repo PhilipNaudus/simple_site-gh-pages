@@ -5,6 +5,7 @@ description: A memorial to Mulan, which was discovered next to the remains of a 
 image: mulan_mountain.jpg
 alt: "Mulan Mountain (Image credit: hubei.gov.cn)"
 imageType: float
+num: 1
 ---
 
 Mulan Temple was once located on [Mulan Mountain](http://en.hubei.gov.cn/special/sinh_2015/summerresorts_2015/201507/t20150726_694712.shtml) in Hubei, China. While the date of this temple&rsquo;s construction is unknown, references to it have appeared in literature dating back to the Tang Dynasty, indicating that it could have been built as early as 700 AD.
