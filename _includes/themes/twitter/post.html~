@@ -1,4 +1,5 @@
 {% assign dynastyArr = "northern_wei#tang" | split: '#' %}
+{% assign dynastyNames = "Northern Wei (386&ndash;534 AD)#Tang Dynasty (618&ndash;907 AD)" | split: '#' %}
 {% assign dynastyAlts = "A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv#A pagoda built during the Tang Dynasty. Image source: http://bit.ly/2GpfHwP" | split: '#' %}
 
 {% for name in dynastyArr %}
