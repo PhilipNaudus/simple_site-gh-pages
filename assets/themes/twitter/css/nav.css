@@ -48,7 +48,7 @@ nav {
 }
 #logo {
     max-width: 2000px;
-    width: 100%;
+    width: calc(100% - 50px);
 }
 nav.mnu{
     margin-top: 2em;
