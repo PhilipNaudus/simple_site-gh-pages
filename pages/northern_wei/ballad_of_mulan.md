@@ -1,82 +1,205 @@
-﻿---
+---
 layout: page
-title: The <i>Ballad of Mulan</i> (unknown author)
-description: The oldest known version of Mulan's story, which inspired countless retellings for centuries to come.
+title: The Ballad of Mulan (unknown author)
+description: The oldest known version of Mulan&rsquo;s story, which inspired countless retellings for centuries to come.
 image: northern_wei_ballad_of_mulan.jpg
 alt: The Ballad of Mulan
 ---
 
-<!DOCTYPE html>
-<html lang="en">
+This is what to do if you just want a website. (This page is a bit
+long, but it's really not that much work.)
 
-<head>
-	<title>The Ballad of Mulan - Mulanbook: The legend and history of Hua Mulan</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Historical records on Mulan reveal the touching true story of a girl who sacrificed everything for her ailing father and went on to become a legendary hero.">
-	<meta name="keywords" content="Hua Mulan,Mulan,real,true,history,story,legend">
-	<meta name="author" content="Philip Naudus">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<script src="https://kit.fontawesome.com/27def0ec8f.js"></script>
-	<link href="../../css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../../css/nav.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="../../css/articles.css" rel="stylesheet" type="text/css" media="all" />
-	<link rel="stylesheet" href="../../css/tip.css" type="text/css" media="all" />
-</head>
+### First things
 
-<body>
-<header>	
-<div class="container">
-			<nav class="mnu">
-                        <div class="logo" id="logo">
-                            <h1> <a href="../../index.html"><img src="../../images/logo_mulanbook.png" alt="MulanBook Logo" /></a>
-                            </h1>
-                        </div>
+Start by cloning
+[the repository for the present site](https://github.com/kbroman/simple_site). (Or,
+alternatively, fork it and then clone your own version.)
 
-                        <label for="drop" class="toggle"><i class="fa fa-bars"></i></label>
-                        <input type="checkbox" id="drop">
-                        <ul class="menu mt-1">
-                            <li class="mr-lg-4 mr-3"><a href="../../index.html">Home</a></li>
-                            <li class="mr-lg-4 mr-3"><a href="../../about.html" class="scroll">About</a></li>
-                        </ul>
-                    </nav>
+    git clone git://github.com/kbroman/simple_site
 
-</div>
-</header>
-	<!-- /banner_bottom -->
-	<div class="banner_bottom" id="article">
-	<div class="clearfix"> </div>
-		<div class="container">
-			<div class="inner_sec_top_aglieits">
-				<div class="banner_bottom_info">
-					<div class="header"><img src="../../images/thumbs/dynasties/northern_wei.jpg" alt="A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv" class="img-responsive"><h1>The Ballad of Mulan</h1></div>
-					<br />
-						<!-- begin text -->
-						<figure>
-						<img class="fillimg" src="../../images/articles/northern_wei_ballad_of_mulan.jpg" alt="The Ballad of Mulan written in traditional calligraphy" />
-						<figcaption style="text-align: center;"><i>The Ballad of Mulan written in traditional calligraphy (Public domain).</i></figcaption>
-						</figure><br />
+Then change the name of that directory to something meaningful.
 
-						<p><i>Because the Ballad of Mulan</i> is an anonymous and undated work, very little can be said about it with certainty. It was most likely composed during the era of Northern Wei and passed down orally for over a century until it was finally preserved in written form during the Tang Dynasty <span class="nowrap">(<span class="tip">source<span class="tiptext">木蘭研究<br /><small><a href="http://bit.ly/2KizXBx">http://bit.ly/2KizXBx</a></small></span></span>).</span></p>
+    mv simple_site something_meaningful
 
-						<p>The version which was finally put into writing begins with Mulan sitting in front of her loom, weeping over the fact that her father has just received his conscription orders. Because Mulan has no elder brother, she is resolved to take her father&rsquo;s place. Upon returning, she is offered a prominent position but turns it down; her only request is that she be sent home to her family.</p>
+(Of course, don't use `something_meaningful` but rather
+_something meaningful_.)
 
-						<p>After Mulan is reunited with her parents and she has resumed her feminine appearance, her comrades were flabbergasted to discover that she is a woman&mdash;for the twelve years that they fought together, none of them had suspected anything. The ballad concludes by commenting, &ldquo;When a pair of rabbits run side by side, who can distinguish male from female?&rdquo;</p>
+Now change into that directory and remove the `.git` directory
+(because you don't want the history of _my_ repository).
 
-						<p>This final line is a direct challenge against the ancient proverb &ldquo;Men are wolves who fear weakness; women are rats who fear strength&rdquo; (生男如狼，猶恐其?；生女如鼠，猶恐其虎). The thought that men and women are nearly identical would have been considered outrageously progressive.</p>
+    cd something_meaningful
+    rm -r .git
 
-						<p>Although most historians assume that the <i>Ballad of Mulan</i> is a work of fiction, Cao Xi from Qiqihar University argues that it is not only historically accurate, but was authored by Mulan herself (see The Search for the Historical Mulan). Prior to the twentieth century, the story of Mulan was assumed to be a real historical event; it was not until when recent times that the historicity of Mulan began to be questioned. <a href="../yuan/memorial_filial_general.html">A memorial dedicated to Mulan during the Yuan Dynasty</a> explicitly mentions the <i>Ballad of Mulan</i> and cites it as a history.</p>
+Now make it a git repository again.
 
-						<p>Nevertheless, the arguments which modern historians make when casting doubt upon the historicity of Mulan's story are weighty. The so-called historical documents which insist that Mulan was a real person are contradictory. Because none of these historical accounts are particularly authoritative, many historians have decided to reject them all and assume that Mulan's story has no true historical basis.</p>
-					<!-- end text -->
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- /footer -->
-	<div class="footer">
-		<div class="container">
-			<p>&copy; 2020 mulanbook.com. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
-		</div>
-	</div>
-</body>
-</html>
+    git init
+
+### Things not to change
+
+You'll need to keep the following files and directories largely unchanged.
+
+    Rakefile
+    _includes
+    _layouts
+    _plugins
+    assets/themes
+
+We _will_ change one file within `_includes/`; see below.
+
+### Edit the `_config.yml` file
+
+The
+[`_config.yml`](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml)
+file contains a bunch of configuration information. You'll want to
+edit this file to replace my information with your information.
+
+Perhaps edit the
+[line with `exclude:`](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L5)
+if you've named `License.md` and/or `ReadMe.md` differently. (I've
+edited this line a bit, here.)
+
+    exclude: [..., "ReadMe.md", "Rakefile", "License.md"]
+
+Edit the
+[lines about the site name and author](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L11-L17).
+
+    title : simple site
+    author :
+      name : Karl Broman
+      email : kbroman@gmail.com
+      github : kbroman
+      twitter : kwbroman
+      feedburner : nil
+
+Edit the
+[`production_url` line](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L19)
+by replacing `kbroman` with _your_ github user name, and replace
+`simple_site` with the name that your repository will have on github
+(`something_meaningful`?).
+
+    production_url : https://kbroman.github.io/simple_site
+
+Note that the `https` (vs `http`) is important here; see
+&ldquo;[Securing your github pages site with https](https://help.github.com/articles/securing-your-github-pages-site-with-https/).&rdquo;
+(I need to use `http` because my site uses the custom domain
+`kbroman.org`, but you likely need `https`.)
+
+Replace the
+[`BASE_PATH` line](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L52)
+with the same url.
+
+    BASE_PATH : https://kbroman.github.io/simple_site
+
+There's also an
+[`ASSET_PATH` line](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L62),
+but you can leave that commented-out (with the `#` symbol at the beginning).
+
+Note that for the `BASE_PATH`, I actually have
+`https://kbroman.org/` in place of `https://kbroman.github.io/`. I set up
+a
+[custom domain](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages),
+which involved a series of emails with a DNS provider. I
+don't totally understand how it works, and I'm not _entirely_ sure
+that I've done it right. But if you want to have a custom domain, take
+a look at
+[that GitHub help page](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages).
+
+### Edit `_includes/themes/twitter/default.html`
+
+The
+[`_includes/themes/twitter/default.html`](https://github.com/kbroman/simple_site/blob/gh-pages/_includes/themes/twitter/default.html)
+file defines how a basic page will look on your site. In particular,
+it contains a bit of html code for a footer, if you want one.
+
+Find the
+[footer for my site](https://github.com/kbroman/simple_site/blob/gh-pages/_includes/themes/twitter/default.html#L47-L50)
+and remove it or edit it to suit. This is the only bit of html you'll
+have to deal with.
+
+    <!-- start of Karl's footer; modify this part -->
+        <a href="https://creativecommons.org/publicdomain/zero/1.0/">  ...
+        <a href="https://kbroman.org">Karl Broman</a>
+    <!-- end of Karl's footer; modify this part -->
+
+### Edit or remove the Markdown files
+
+Edit the
+[`index.md`](https://raw.githubusercontent.com/kbroman/simple_site/gh-pages/index.md)
+file, which will become the main page for your site.
+
+First, edit the initial chunk with a different title and tagline. Feel
+free to just delete the tagline.
+
+    ---
+    layout: page
+    title: simple site
+    tagline: Easy websites with GitHub Pages
+    ---
+
+Now edit the rest (or, for now, just remove) the rest of the file.
+
+Now go into the [`pages/`](https://github.com/kbroman/simple_site/blob/gh-pages/pages) directory and remove or rename and modify
+all of the Markdown files in there
+
+Note that when you link to any of these Markdown-based pages, you'll
+want to use a `.html` extension rather than `.md`. For example, look
+at the
+[main page](https://raw.githubusercontent.com/kbroman/simple_site/gh-pages/index.md)
+for this site; the links in the bullet points for the various pages
+look like this:
+
+    - [Overview](pages/overview.html)
+    - [Making an independent website](pages/independent_site.html)
+    - [Making a personal site](pages/user_site.html)
+    - [Making a site for a project](pages/project_site.html)
+    - [Making a jekyll-free site](pages/nojekyll.html)
+    - [Testing your site locally](pages/local_test.html)
+    - [Resources](pages/resources.html)
+
+### Commit all of these changes.
+
+At the start, we'd removed the `.git/` subdirectory (with the history
+of _my_ repository) and then used `git init` to make it a new git
+repository.
+
+Now you want to add and commit all of the files, as modified.
+
+    git add .
+    git commit -m "Initial commit"
+
+Then change the name of the master branch to `gh-pages`.
+
+    git branch -m master gh-pages
+
+### Push everything to GitHub
+
+Now go back to GitHub and create a new repository, called something
+meaningful. (I'll again pretend that it's explicitly
+`something_meaningful`.)
+
+Then go back to the command line and push your repository to
+[GitHub](https://github.com).
+
+    git remote add origin git@github.com:username/something_meaningful
+
+Replace `username` with your GitHub user name and
+`something_meaningful` with the name of your repository. And you might
+want to use the `https://` construction instead, if you're not using ssh.
+
+    git remote add origin https://github.com/username/something_meaningful
+
+Finally, push everything to GitHub.
+
+    git push -u origin gh-pages
+
+Note that we're using `gh-pages` and not `master` here, as we want
+this stuff in a `gh-pages` branch.
+
+### Check whether it worked
+
+Go to `https://username.github.io/something_meaningful` and cross your
+fingers that it worked. (Really, _I_ should be crossing my fingers.)
+
+### Up next
+
+Now go to [making a personal site](user_site.html).
