@@ -5,6 +5,7 @@ description: The oldest known version of Mulan&rsquo;s story, which inspired cou
 image: northern_wei_ballad_of_mulan.jpg
 alt: The Ballad of Mulan written in traditional calligraphy (Public domain).
 imageType: big
+num: 1
 ---
 
 Because the *Ballad of Mulan* is an anonymous and undated work, very little can be said about it with certainty. It was most likely composed during the era of Northern Wei and passed down orally for over a century until it was finally preserved in written form during the Tang Dynasty <span class="nowrap">(<span class="tip">source<span class="tiptext">&#26408;&#34349;&#30740;&#31350;<br /><small><a href="http://bit.ly/2KizXBx">http://bit.ly/2KizXBx</a></small></span></span>).</span>
