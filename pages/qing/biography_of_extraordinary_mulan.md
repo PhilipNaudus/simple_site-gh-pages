@@ -5,6 +5,7 @@ description: This novel tells the story of an ambitious scholar who never achiev
 image: mulan_training_martial_arts_grandfather_biography_of_extraordinary_mulan.png
 alt: Mulan receives instruction in martial arts from her grandfather as her grandmother looks on. Included as an illustration in a late woodblock reprinting of Biography of Extraordinary Mulan (Public domain).
 imageType: float
+num: 3
 ---
 
 Despite the title, the main protagonist is Mulan's grandfather, Zhu Ruoxu. Ruoxu is a gifted scholar who is determined to earn an official position for himself. However, due to political corruption, he finds that he is not given a fair chance at the prefectural examinations. In the process of fighting for his rights to be gien the opportunity which he feels that he deserves, Ruoxu meets Li Jing, who becomes his mentor, and Yuchi Gong, a struggling calligrapher. Ruoxu rescues Yuchi Gong from financial ruin and the two become sworn brothers.
