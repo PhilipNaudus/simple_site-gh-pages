@@ -6,8 +6,19 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
 {::nomarkdown}
-{% for page in site.pages %}
-     <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+<h4 class="heading text-left mb-5"><img src="images/thumbs/dynasties/northern_wei.jpg" alt="A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv">Northern Wei (386&ndash;534 AD)</h3>
+
+{% for page in site.pages.northern_wei %}
+	<div class="row {% if forloop.last %} last_article {% else %} first_article {% endif %}">
+		<div class="col-md-4 main-1">
+			<a href="{{ page.url }}"><img src="{{ page.image }}" alt="{{ page.alt }}" class="img-fluid"></a>
+		</div>
+		<div class="col-md-8 main-2">
+			<h3 class="mt-2"><a href="{{ page.url }}">{{ page.title }}</a></h3>
+			<p class="mt-3">{{ page.description }}</p>
+		</div>
+	</div>
+     <!--<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>-->
 {% endfor %}
 {:/}
 
