@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: The Ballad of Mulan (unknown author)
 description: The oldest known version of Mulan&rsquo;s story, which inspired countless retellings for centuries to come.
 image: northern_wei_ballad_of_mulan.jpg
