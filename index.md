@@ -8,7 +8,7 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 {::nomarkdown}
 <h4 class="heading text-left mb-5"><img src="images/thumbs/dynasties/northern_wei.jpg" alt="A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv">Northern Wei (386&ndash;534 AD)</h3>
 
-{% assign northern_wei = site.pages | where_exp: "item" , "item.path contains 'folder1'"%}
+{% assign northern_wei = site.pages | where_exp: "item" , "item.path contains 'northern_wei'"%}
 
 
 {% for page in northern_wei %}
