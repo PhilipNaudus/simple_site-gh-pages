@@ -42,7 +42,7 @@ nav {
 	color: #000;
     font-weight: 800;
 }
-#logo h1 a img {
+#logo h1, #logo h1 a, #logo h1 a img {
     width: 100%;
     height: auto;
 }
