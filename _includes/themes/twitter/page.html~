@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="{{ ASSET_PATH }}/css/page.css" type="text/css" media="all" />
 
 
 <section class="main py-5" id="blog">
@@ -18,3 +17,4 @@
   </div>
 </div>
 
+<link rel="stylesheet" href="{{ ASSET_PATH }}/css/page.css" type="text/css" media="all" />
