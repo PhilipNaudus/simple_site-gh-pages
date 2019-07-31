@@ -169,7 +169,7 @@ li > a:only-child:after {
     content: '';
 }
 
-.clearfix { margin-top: 50px; }
+.clearfix { margin-top: 70px; }
 
 
 /* Media Queries
@@ -307,10 +307,10 @@ li > a:only-child:after {
     }
 }
 @media screen and (max-width: 991px) {
-.clearfix { margin-top: 100px; }
+.clearfix { margin-top: 120px; }
 }
 @media screen and (max-width: 414px) {
-.clearfix { margin-top: 80px; }
+.clearfix { margin-top: 1000px; }
 }
 
 .footer {
