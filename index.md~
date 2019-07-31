@@ -8,7 +8,7 @@ description: "In-depth analysis into Mulan's history and legend, including resea
 
 {% assign dynastyArr = "northern_wei#tang#yuan" | split: '#' %}
 {% assign dynastyNames = "Northern Wei (386&ndash;534 AD)#Tang Dynasty (618&ndash;907 AD)#Yuan Dynasty (1271&ndash;1368 AD)" | split: '#' %}
-{% assign dynastyAlts = "A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv#A pagoda built during the Tang Dynasty. Image source: http://bit.ly/2GpfHwP" | split: '#' %}
+{% assign dynastyAlts = "A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv#A pagoda built during the Tang Dynasty. Image source: http://bit.ly/2GpfHwP#A tower built durnig the Yuan Dynasty. Image source: http://bit.ly/2LIJlkX#Ming Dynasty (1368&ndash;1644 AD)" | split: '#' %}
 
 {% for dynasty in dynastyArr %}
 	<h4 class="heading text-left mb-5"><img src="/assets/images/thumbs/dynasties/{{ dynasty }}.jpg" alt="{{ dynastyAlts[forloop.index0] }}">{{ dynastyNames[forloop.index0] }}</h3>
