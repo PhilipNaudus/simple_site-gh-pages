@@ -8,10 +8,8 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 {::nomarkdown}
 <h4 class="heading text-left mb-5"><img src="images/thumbs/dynasties/northern_wei.jpg" alt="A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv">Northern Wei (386&ndash;534 AD)</h3>
 
-{% assign northern_wei = site.pages | where_exp: "item" , "item.path contains 'northern_wei'"%}
-
-
-{% for page in northern_wei %}
+{% for page in site.pages %}
+	{% if page.url contains "northern_wei" %}
 	<div class="row {% if forloop.last %} last_article {% else %} first_article {% endif %}">
 		<div class="col-md-4 main-1">
 			<a href="{{ page.url }}"><img src="{{ page.image }}" alt="{{ page.alt }}" class="img-fluid"></a>
@@ -21,6 +19,7 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 			<p class="mt-3">{{ page.description }}</p>
 		</div>
 	</div>
+	{% endif %}
      <!--<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>-->
 {% endfor %}
 {:/}
