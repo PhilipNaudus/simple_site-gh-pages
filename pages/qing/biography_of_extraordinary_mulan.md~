@@ -34,3 +34,6 @@ Many years later, some evil men convince the emperor that a man with the surname
 The emperor is finally convinced of her innocence, but it is too late. In his remorse, he gives her an honorable burial, writing "Filial, loyal, and valiant martyr" on her tombstone.
 
 <a href="https://zh.wikisource.org/wiki/%E6%9C%A8%E8%98%AD%E5%A5%87%E5%A5%B3%E5%82%B3">Read the original Chinese text of <i>Biography of Extraordinary Mulan.</i></a>
+
+<script type="text/javascript" src="/assets/js/float.js"></script>
+
