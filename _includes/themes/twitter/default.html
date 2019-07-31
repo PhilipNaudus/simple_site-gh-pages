@@ -20,7 +20,7 @@
 <div class="container">
 			<nav class="mnu">
                         <div class="logo" id="logo">
-                            <h1> <a href="index.html"><img src="images/logo_mulanbook.png" alt="MulanBook Logo" /></a>
+                            <h1> <a href="/"><img src="{{ ASSET_PATH }}/images/logo_mulanbook.png" alt="MulanBook Logo" /></a>
                             </h1>
                         </div>
 
@@ -35,23 +35,17 @@
 </div>
 </header>
 
-    <div class="container-narrow">
-
-      <div class="content">
-        {{ content }}
-      </div>
-      <hr>
-      <footer>
-        <p><small>
-  <!-- start of Karl's footer; modify this part -->
-          <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" alt="CC0"/></a> &nbsp;
-          <a href="https://kbroman.org">Philip Naudus</a>
-  <!-- end of Karl's footer; modify this part -->
-        </small></p>
-      </footer>
-
-    </div>
-
-    {% include JB/analytics %}
-  </body>
+<section class="main py-5" id="blog">
+	<div class="clearfix"> </div>
+	<div class="container py-lg-5">
+		<div class="row main_top">
+			<div class="col-lg-8 main_left">
+				{{ content }}
+			</div>
+	<div class="footer">
+		<div class="container">
+			<p>&copy; 2020 mulanbook.com. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+		</div>
+	</div>
+</body>
 </html>
