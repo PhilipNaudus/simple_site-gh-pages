@@ -31,7 +31,7 @@ nav {
 #logo a span {
     color: #000;
 }
-  .logo h1 a{ 
+  #logo h1 a{ 
 	    font-size: 24px;
     text-transform: uppercase;
     display: initial;
@@ -40,6 +40,11 @@ nav {
     line-height: 1.3em;
 	color: #000;
     font-weight: 800;
+}
+#logo img {
+    max-width: 200px;
+    width: 100%;
+    height: auto;
 }
 nav.mnu{
     margin-top: 2em;
