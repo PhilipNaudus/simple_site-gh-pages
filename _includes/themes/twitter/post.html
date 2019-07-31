@@ -4,7 +4,7 @@
 {% for name in dynastyArr %}
 	{% if page.url contains name %}
 		{% assign dynasty = name %}
-		{% assign dynasty = dynastyAlts[forloop.index0] %}
+		{% assign dynastyAlt = dynastyAlts[forloop.index0] %}
 	{% endif %}
 {% endfor %}
 
