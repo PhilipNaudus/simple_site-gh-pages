@@ -1,57 +1,30 @@
-	<!-- /banner_bottom -->
-	<div class="banner_bottom" id="article">
+{% assign dynastyArr = "northern_wei#tang" | split: '#' %}
+{% assign dynastyAlts = "A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv#A pagoda built during the Tang Dynasty. Image source: http://bit.ly/2GpfHwP" | split: '#' %}
+
+{% for name in dynastyArr %}
+	{% if page.url contains name %}
+		{% assign dynasty = name %}
+		{% assign dynasty = dynastyAlts[forloop.index0] %}
+	{% endif %}
+{% endfor %}
+
+<!-- /banner_bottom -->
+<div class="banner_bottom" id="article">
 	<div class="clearfix"> </div>
-		<div class="container">
-			<div class="inner_sec_top_aglieits">
-				<div class="banner_bottom_info">
-					<div class="header"><img src="../../images/thumbs/dynasties/northern_wei.jpg" alt="A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv" class="img-responsive"><h1>The Ballad of Mulan</h1></div>
-					<br />
-						<!-- begin text -->
-						<figure>
-						<img class="fillimg" src="/assets/images/articles/{{ page.imgage }}" alt="{{ page.alt }}" />
-						<figcaption style="text-align: center;"><i>{{ page.alt}} </i></figcaption>
-						</figure><br />
+	<div class="container">
+		<div class="inner_sec_top_aglieits">
+			<div class="banner_bottom_info">
+				<div class="header"><img src="/assets/images/dynasties/{{ dynasty }}.jpg" alt="{{ dynastyAlt }}" class="img-responsive"><h1>The Ballad of Mulan</h1></div>
+				<br />
+				<!-- begin text -->
+				<figure {>
+				<img class="fillimg" src="/assets/images/articles/{{ page.image }}" alt="{{ page.alt }}" />
+				<figcaption style="text-align: center;"><i>{{ page.alt}} </i></figcaption>
+				</figure><br />
 
-						{{ content }}
+				{{ content }}
 
-    </div>
-
-  {% unless page.categories == empty %}
-    <ul class="tag_box inline">
-      <li><i class="icon-folder-open"></i></li>
-      {% assign categories_list = page.categories %}
-      {% include JB/categories_list %}
-    </ul>
-  {% endunless %}  
-
-  {% unless page.tags == empty %}
-    <ul class="tag_box inline">
-      <li><i class="icon-tags"></i></li>
-      {% assign tags_list = page.tags %}
-      {% include JB/tags_list %}
-    </ul>
-  {% endunless %}  
-
-    <hr>
-    <div class="pagination">
-      <ul>
-      {% if page.previous %}
-        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
-      {% else %}
-        <li class="prev disabled"><a>&larr; Previous</a></li>
-      {% endif %}
-        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
-      {% if page.next %}
-        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
-      {% else %}
-        <li class="next disabled"><a>Next &rarr;</a>
-      {% endif %}
-      </ul>
-    </div>
-    <hr>
-    {% include JB/comments %}
-  </div>
+			</div>
+		</div>
+	</div>
 </div>
-
-<link rel="stylesheet" href="/assets/themes/twitter/css/post.css" type="text/css" media="all" />
-

@@ -17,4 +17,4 @@
   </div>
 </div>
 
-<link rel="stylesheet" href="{{ ASSET_PATH }}/css/page.css" type="text/css" media="all" />
+<link rel="stylesheet" href="/assets/themes/twitter/css/page.css" type="text/css" media="all" />

@@ -1,14 +1,24 @@
+{% assign dynastyArr = "northern_wei#tang" | split: '#' %}
+{% assign dynastyAlts = "A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv#A pagoda built during the Tang Dynasty. Image source: http://bit.ly/2GpfHwP" | split: '#' %}
+
+{% for name in dynastyArr %}
+	{% if page.url contains name %}
+		{% assign dynasty = name %}
+		{% assign dynasty = dynastyAlts[forloop.index0] %}
+	{% endif %}
+{% endfor %}
+
 <!-- /banner_bottom -->
 <div class="banner_bottom" id="article">
 	<div class="clearfix"> </div>
 	<div class="container">
 		<div class="inner_sec_top_aglieits">
 			<div class="banner_bottom_info">
-				<div class="header"><img src="../../images/thumbs/dynasties/northern_wei.jpg" alt="A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv" class="img-responsive"><h1>The Ballad of Mulan</h1></div>
+				<div class="header"><img src="/assets/images/dynasties/{{ dynasty }}.jpg" alt="{{ dynastyAlt }}" class="img-responsive"><h1>page.title</h1></div>
 				<br />
 				<!-- begin text -->
-				<figure>
-				<img class="fillimg" src="/assets/images/articles/{{ page.imgage }}" alt="{{ page.alt }}" />
+				<figure {>
+				<img class="fillimg" src="/assets/images/articles/{{ page.image }}" alt="{{ page.alt }}" />
 				<figcaption style="text-align: center;"><i>{{ page.alt}} </i></figcaption>
 				</figure><br />
 
@@ -18,5 +28,3 @@
 		</div>
 	</div>
 </div>
-
-<link rel="stylesheet" href="/assets/themes/twitter/css/post.css" type="text/css" media="all" />

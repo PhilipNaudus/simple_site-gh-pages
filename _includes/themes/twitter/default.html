@@ -11,8 +11,9 @@
 	<!-- css files -->
 	<script src="https://kit.fontawesome.com/27def0ec8f.js"></script>
 	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/nav.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/bootstrap.css" type="text/css" media="all" /> <!-- Style-CSS --> 
-	<!-- //css files -->
+	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/bootstrap.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/{{ page.layout }}.css" type="text/css" media="all" />
+	{% if page.layout contains "page" %}
 </head>
 <body>
 <header>	
