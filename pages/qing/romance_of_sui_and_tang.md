@@ -7,11 +7,6 @@ alt: Hua Mulan. Included in a late woodblock reprinting of Romance of Sui and Ta
 imageType: float
 ---
 
-<figure class="float left" style="max-width:450px;">
-<img class="fillimg" src="../../images/articles/hua_mulan_romance_of_sui_and_tang.jpg" alt="Princess Dou Xianniang, Mulan's sworn sister. Included in a late reprinting of Romance of Sui and Tang (Public domain)." />
-<figcaption style="text-align: center;">*Hua Mulan. Included in a late woodblock reprinting of Romance&nbsp;of&nbsp;Sui&nbsp;and&nbsp;Tang (Public domain).*</figcaption>
-</figure>
-
 In this 100-chapter novel, Chu Renhuo's primary aim is to demonstrate that the rise of the Tang dynasty was mandated by heaven. The original readers would have understood that the author subtly contrasts this against the rulers of his day, with the intention of drawing the conclusion that the Qing dynasty did not have the right to rule over China. (See <a href="legend_of_mulan_qing_dynasty.html">The Legend of Mulan During the Qing Dynasty</a>.)
 
 Chu Renhuo concludes Mulan's story with a tragic ending (which was likely inspired by historian <a href="miniscule_book_from_the_yongzhuang_studio.html">Zhu Guozhen's retelling</a>) to comment on the wrongdoing committed by the Manchu under whom he was forced to serve. In this novel, the Chinese are depicted as wonderfully benevolent, while the non-Chinese are evil.
