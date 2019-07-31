@@ -5,6 +5,7 @@ description: As the status of women began to rise during the Tang Dynasty, an in
 image: tang_dynasty_article_empress_wu.jpg
 alt: A portrait of Empress Wu Zetian (Wikimedia Commons).
 imageType: float
+num: 1
 ---
 
 Shortly after the formation of the Tang Dynasty, Empress Wu rose to power. This woman's sovereign reign over all of China, unsurprisingly, had a profound impact on the society's opinion of women. However, because culture is often slow to adapt, it was not until after Empress Wu's death that authors began portraying women in a more positive light.
