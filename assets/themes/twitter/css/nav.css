@@ -43,12 +43,12 @@ nav {
     font-weight: 800;
 }
 #logo h1, #logo h1 a, #logo h1 a img {
-    width: 100%
+    width: 100%;
     height: auto;
 }
 #logo {
     max-width: 2000px;
-    width: 100%
+    width: 100%;
 }
 nav.mnu{
     margin-top: 2em;
