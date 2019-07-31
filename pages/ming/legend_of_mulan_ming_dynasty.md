@@ -5,6 +5,7 @@ description: As the Ming Dynasty witnessed a decline in intellectualism and a ri
 image: li_zhi_chinese_philosopher.jpg
 alt: A portrait of Li Zhi, Chinese philosopher (Wikimedia commons).
 imageType: float
+num: 1
 ---
 
 The Ming Dynasty witnessed a decline in intellectualism and a rise in entertainment. Whereas previous generations prized scholars who were devoted to nourishing their minds, the influential philosopher Li Zhi encouraged the populace to retain &ldquo;childlike hearts&rdquo; (<span class="tip">source<span class="tiptext">&#31461;&#24515;&#35498; <small><a href="http://bit.ly/2OoqBt8">http://bit.ly/2OoqBt8</a></small></span></span>). This resulted in a rise in the pursuit of personal happiness; submission to one&rsquo;s husband, father, or emperor was no longer paramount.
