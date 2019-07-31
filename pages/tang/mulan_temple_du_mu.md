@@ -25,4 +25,4 @@ Deep in the heart of inner Mongolia, they all raise their glasses to the beautif
 <small><a href="https://fanti.dugushici.com/ancient_proses/27451">Original Chinese text</a></small><br /><br />
 </blockquote>
 
-The fact that this poem is titled <i>Mulan Temple</i> seems suprising. After all, the poem itself has nothing to do with a temple. [A memorial which was erected during the Yuan Dynasy](../yuan/memorial_filial_general.html) reveals that this poem was used as a sacred text by a Taoist sect which revered Mulan as a goddess. These Taoists were probably the ones who chose the title for this poem.
+The fact that this poem is titled <i>Mulan Temple</i> seems suprising. After all, the poem itself has nothing to do with a temple. [A memorial which was erected during the Yuan Dynasy](../yuan/memorial_filial_general) reveals that this poem was used as a sacred text by a Taoist sect which revered Mulan as a goddess. These Taoists were probably the ones who chose the title for this poem.
