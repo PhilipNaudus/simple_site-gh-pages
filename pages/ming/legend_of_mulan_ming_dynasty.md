@@ -3,7 +3,7 @@ layout: post
 title: The Legend of Mulan During the Ming Dynasty
 description: As the Ming Dynasty witnessed a decline in intellectualism and a rise in entertainment, Mulan&rsquo;s story ceased being a tale of virtue and, instead, focused on humor.
 image: li_zhi_chinese_philosopher.jpg
-alt: A portrait of Li Zhi, Chinese philosopher (Wikimedia commons).
+alt: A portrait of Li Zhi, Chinese philosopher (<a href="https://commons.m.wikimedia.org/wiki/File%3ALi_Zhi.jpg">Wikimedia commons</a>).
 imageType: float
 num: 1
 ---
