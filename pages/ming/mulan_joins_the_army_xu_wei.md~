@@ -19,7 +19,7 @@ Despite this play's shortcomings, Xu Wei's most significant accomplishment was b
 
 <br />
 <figure>
-<img class="fillimg" src="../../images/articles/mulan_returns_home.jpg" alt="Mulan returns home. Included as an illustration in an early woodblock printing of a collection of Xu Wei's plays" />
+<img class="fillimg" src="/assets/images/articles/mulan_returns_home.jpg" alt="Mulan returns home. Included as an illustration in an early woodblock printing of a collection of Xu Wei's plays" />
 <figcaption style="text-align: center;"><i>Mulan returns home. Included as an illustration in an early printing of a collection of Xu Wei's plays.</i></figcaption></figure>
 <br />
 

@@ -10,6 +10,7 @@ imageType: float
 If Mulan was a real person, one of the best sources to use to argue for her existence would be historian <a href="https://en.wikipedia.org/wiki/Zhu_Guozhen_(Ming_dynasty)">Zhu Guozhen's</a> writings. Zhu Guozhen was remarkably thorough in the way he preserved historical details; his scholarship has enabled modern-day scholars to gain a greater understanding of events from imperial China (<span class="tip">source<span class="tiptext">b&#26417;&#22269;&#31087;&#12298;&#28044;&#24162;&#23567;&#21697;&#12299;&#30740;&#31350;<br /><small><a href="http://bit.ly/30W6MdY">http://bit.ly/30W6MdY</a></small></span></span>).
 
 During the Ming Dynasty (c. 1625), Zhu Guozhen collected reports on various civil and political topics which he had witnessed, compiling them into a work which he titled *A Minuscule Book from the Yongzhuang Studio*. When addressing the subject of woman soldiers, he wrote:
+
 <blockquote>
 Employing women soldiers provides many tactical advantages... Wei Mulan, *The Filial General*, was virgin from Qiao in <a href="https://en.wikipedia.org/wiki/Bozhou">Bozhou</a> who served during the reign of <a href="https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui">Emperor Yang of Sui</a>. She was greatly distressed by her father's ailing health during the time when soldiers were being recruited for an expedition east of the <a href="https://en.wikipedia.org/wiki/Liao_River">Liao River</a>. Because her brother and sister were both young and immature, she resolved to take her father's place. After gathering supplies and donning a suit of armor, she rode off on a horse. She fought in eighteen battles over the course of twelve years, but her comrades never discovered her true identity.<br /><br />
 
@@ -19,9 +20,8 @@ When the royal court finally heard about Mulan's true nature, Emperor Yang offer
 
 Emperor Yang was greatly moved by how fiercely loyal she was to defending her family and her chastity. Thus, he posthumously promoted her to general and added "filial" to her title. This is why she is now known as *The Filial General*.
 <br />
-<small><a href="https://archive.org/details/02096876.cn/page/n30">Original Chinese text</a>
+<small><a href="https://archive.org/details/02096876.cn/page/n30">Original Chinese text</a><br /><br />
 </blockquote>
-<br />
 
 This excerpt comes from a text which has been <a href="http://cdmd.cnki.com.cn/Article/CDMD-10476-1012420931.htm">praised by modern scholars</a> for taking great care to handle historical materials well. Most interestingly, Zuo Guozhen notes that Mulan's surname was Wei. This should not seem strange, as the name Hua Mulan was invented for poetic (not historical) reasons.
 
@@ -32,3 +32,5 @@ Even though *A Minuscule Book from the Yongzhuang Studio* has been accepted by n
 I, personally, feel that this does not give the text a fair treatment, as it is certainly possible that Zhu Guozhen had access to historical records which have now been lost. After all, Zhu Guozhen does not refer to Mulan as a myth, but asserts that she was a real person. While I must admit that this defense of Zuo Guozhen is rather speculative, historians who assert that he did not have the resources to research Mulan's story are, themselves, making speculations.
 
 Although this argument does not prove that Mulan really lived, it at least forces us to take a step away from doubting her existence.
+
+<link rel="stylesheet" href="/assets/themes/twitter/css/tip.css" type="text/css" media="all" />
