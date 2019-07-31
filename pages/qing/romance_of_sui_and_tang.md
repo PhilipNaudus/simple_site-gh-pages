@@ -5,6 +5,7 @@ description: This famous historical fiction novel contains a subplot in which Mu
 image: hua_mulan_romance_of_sui_and_tang.jpg
 alt: Hua Mulan. Included in a late woodblock reprinting of Romance of Sui and Tang (Public domain).
 imageType: float
+num: 2
 ---
 
 In this 100-chapter novel, Chu Renhuo's primary aim is to demonstrate that the rise of the Tang dynasty was mandated by heaven. The original readers would have understood that the author subtly contrasts this against the rulers of his day, with the intention of drawing the conclusion that the Qing dynasty did not have the right to rule over China. (See <a href="legend_of_mulan_qing_dynasty.html">The Legend of Mulan During the Qing Dynasty</a>.)
