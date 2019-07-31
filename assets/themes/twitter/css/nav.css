@@ -42,10 +42,13 @@ nav {
 	color: #000;
     font-weight: 800;
 }
-#logo h1 a img, #logo h1 a, #logo h1, #logo {
+#logo img {
+    width: 100%
+    height: auto;
+}
+#logo {
     max-width: 2000px;
     width: calc(100%-50px);
-    height: auto;
 }
 nav.mnu{
     margin-top: 2em;
