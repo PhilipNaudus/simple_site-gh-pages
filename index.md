@@ -13,7 +13,7 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 
 {% for dynasty in dynastyArr %}
 	<h4 class="heading text-left mb-5"><img src="images/thumbs/dynasties/{{ dynasty }}.jpg" alt="{{ dynastyAlts[forloop.index0] }}">{{ dynastyNames[forloop.index0] }}</h3>
-	{% assign folder = site.pages | where_exp: "item" , "item.path contains folder"%}
+	{% assign folder = site.pages | where_exp: "item" , "item.path contains dynasty"%}
 	{% for article in folder %}
 		<div class="row {% if forloop.last %} last_article {% else %} first_article {% endif %}">
 			<div class="col-md-4 main-1">
