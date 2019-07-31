@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mulan Temple by Du Mu (c. 830 AD)
+title: <i>Mulan Temple</i> by Du Mu (c. 830 AD)
 description: A short but vivid poem which describes Mulan&rsquo;s inner struggle. Will she be true to her inner feminine nature or lose herself and become a hardened warrior?
 image: du_mu_chinese_poet_author_of_mulan_temple.jpg
 alt: Du Mu, author of Mulan Temple (Public domain).
