@@ -19,7 +19,7 @@
 				<br />
 				<!-- begin text -->
 				<figure {% if page.imageType contains "float" %} class="float left" style="max-width: 450px;" {% endif %}>
-				<img class="fillimg" src="/assets/images/articles/{{ page.image }}" alt="{{ page.alt }}" />
+				<img class="fillimg" src="/assets/images/articles/{{ page.image }}" alt="{{ page.alt | strip_html }}" />
 				<figcaption style="text-align: center;"><i>{{ page.alt}} </i></figcaption>
 				</figure><br />
 
