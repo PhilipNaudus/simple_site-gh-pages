@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: The <i>Ballad of Mulan</i> (unknown author)
+title: The Ballad of Mulan (unknown author)
 description: The oldest known version of Mulans story, which inspired countless retellings for centuries to come.
 ---
 

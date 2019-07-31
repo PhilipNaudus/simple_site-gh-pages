@@ -1,7 +1,7 @@
-﻿---
+---
 layout: page
-title: The <i>Ballad of Mulan</i> (unknown author)
-description: The oldest known version of Mulan's story, which inspired countless retellings for centuries to come.
+title: Another one
+description: New page
 ---
 
 This is what to do if you just want a website. (This page is a bit
