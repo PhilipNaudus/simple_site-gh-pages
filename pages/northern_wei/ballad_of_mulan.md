@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Ballad of Mulan
+title: The <i>Ballad of Mulan</i>
 description: The oldest known version of Mulan&rsquo;s story, which inspired countless retellings for centuries to come.
 image: northern_wei_ballad_of_mulan.jpg
 alt: The Ballad of Mulan written in traditional calligraphy (Public domain).
