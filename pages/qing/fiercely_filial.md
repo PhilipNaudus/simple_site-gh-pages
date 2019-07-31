@@ -5,6 +5,7 @@ description: This novel, which unites many of the previous renditions of Mulan&r
 image: hua_mulan_lu_wanhua_sworn_sisters.jpg
 alt: Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua. Included as an illustrations in an early woodblock printing of Fiercely Filial.
 imageType: big
+num: 4
 ---
 
 Seventeen-year-old Mulan is one of the most beautiful and talented women in Hebei. The fact that she is engaged to marry Wang Qingyun, one of the few young men who managed to exempt himself from the previous drafts, makes her the envy of the entire village. However, when Mulan&rsquo;s father (a retired battalion captain by the name of Hua Hu) is called to serve in the army, her world turns upside-down. Because her siblings are still very young (her Munan nine years old while her brother Yaoer is five), Mulan volunteers to takes her father&rsquo;s place in battle. Dressing as a man, she gives up everything she has ever know to join the army.
