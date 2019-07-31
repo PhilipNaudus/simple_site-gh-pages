@@ -3,7 +3,7 @@ layout: post
 title: The Legend of Mulan During the Tang Dynasty
 description: As the status of women began to rise during the Tang Dynasty, an influx of female protagonists appeared in literature. Mulan was one of the heroines emphasized during this time.
 image: tang_dynasty_article_empress_wu.jpg
-alt: A portrait of Empress Wu Zetian (Wikimedia Commons).
+alt: A portrait of Empress Wu Zetian (<a href="https://commons.m.wikimedia.org/wiki/File%3AA_Tang_Dynasty_Empress_Wu_Zetian.JPG">Wikimedia Commons</a>).
 imageType: float
 num: 1
 ---
