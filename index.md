@@ -6,20 +6,25 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
 {::nomarkdown}
-<h4 class="heading text-left mb-5"><img src="images/thumbs/dynasties/northern_wei.jpg" alt="A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv">Northern Wei (386&ndash;534 AD)</h3>
 
-{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'northern_wei'"%}
-{% for page in folder1 %}
-	<div class="row {% if forloop.last %} last_article {% else %} first_article {% endif %}">
-		<div class="col-md-4 main-1">
-			<a href="{{ page.url }}"><img src="{{ page.image }}" alt="{{ page.alt }}" class="img-fluid"></a>
+<% assign dynastyArr = "northern_wei#tang" | split: '#' %>
+<% assign dynastyNames = "Northern Wei (386&ndash534 AD)#Tang Dynasty (618&ndash;907 AD)" | split: '#' %>
+<% assign dynastyAlts = "A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv#A pagoda built during the Tang Dynasty. Image source: http://bit.ly/2GpfHwP" | split: '#' %>
+
+{% for dynasty in dynastyArr %}
+	<h4 class="heading text-left mb-5"><img src="images/thumbs/dynasties/{{ dynastyNames[forloop.index0] }}.jpg" alt="{{ dynastyAlts[forloop.index0] }}">{{ dynastyNames[forloop.index0] }}</h3>
+	{% assign dynasty = site.pages | where_exp: "item" , "item.path contains dynasty"%}
+	{% for article in dynasty %}
+		<div class="row {% if forloop.last %} last_article {% else %} first_article {% endif %}">
+			<div class="col-md-4 main-1">
+				<a href="{{ article.url }}"><img src="{{ article.image }}" alt="{{ article.alt }}" class="img-fluid"></a>
+			</div>
+			<div class="col-md-8 main-2">
+				<h3 class="mt-2"><a href="{{ article.url }}">{{ article.title }}</a></h3>
+				<p class="mt-3">{{ article.description }}</p>
+			</div>
 		</div>
-		<div class="col-md-8 main-2">
-			<h3 class="mt-2"><a href="{{ page.url }}">{{ page.title }}</a></h3>
-			<p class="mt-3">{{ page.description }}</p>
-		</div>
-	</div>
-     <!--<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>-->
+	{% endfor %}
 {% endfor %}
 {:/}
 
