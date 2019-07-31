@@ -1,14 +1,19 @@
-<div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
-</div>
+	<!-- /banner_bottom -->
+	<div class="banner_bottom" id="article">
+	<div class="clearfix"> </div>
+		<div class="container">
+			<div class="inner_sec_top_aglieits">
+				<div class="banner_bottom_info">
+					<div class="header"><img src="../../images/thumbs/dynasties/northern_wei.jpg" alt="A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv" class="img-responsive"><h1>The Ballad of Mulan</h1></div>
+					<br />
+						<!-- begin text -->
+						<figure>
+						<img class="fillimg" src="/assets/images/articles/{{ page.imgage }}" alt="{{ page.alt }}" />
+						<figcaption style="text-align: center;"><i>{{ page.alt}} </i></figcaption>
+						</figure><br />
 
-<div class="row-fluid post-full">
-  <div class="span12">
-    <div class="date">
-      <span>{{ page.date | date_to_long_string }}</span>
-    </div>
-    <div class="content">
-      {{ content }}
+						{{ content }}
+
     </div>
 
   {% unless page.categories == empty %}
@@ -47,3 +52,6 @@
     {% include JB/comments %}
   </div>
 </div>
+
+<link rel="stylesheet" href="/assets/themes/twitter/css/post.css" type="text/css" media="all" />
+
