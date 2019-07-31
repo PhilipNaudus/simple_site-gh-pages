@@ -8,11 +8,11 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 {::nomarkdown}
 
 {% assign dynastyArr = "northern_wei#tang" | split: '#' %}
-{% assign dynastyNames = "Northern Wei (386&ndash534 AD)#Tang Dynasty (618&ndash;907 AD)" | split: '#' %}
+{% assign dynastyNames = "Northern Wei (386&ndash;534 AD)#Tang Dynasty (618&ndash;907 AD)" | split: '#' %}
 {% assign dynastyAlts = "A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv#A pagoda built during the Tang Dynasty. Image source: http://bit.ly/2GpfHwP" | split: '#' %}
 
 {% for dynasty in dynastyArr %}
-	<h4 class="heading text-left mb-5"><img src="images/thumbs/dynasties/{{ dynastyNames[forloop.index0] }}.jpg" alt="{{ dynastyAlts[forloop.index0] }}">{{ dynastyNames[forloop.index0] }}</h3>
+	<h4 class="heading text-left mb-5"><img src="images/thumbs/dynasties/{{ dynasty }}.jpg" alt="{{ dynastyAlts[forloop.index0] }}">{{ dynastyNames[forloop.index0] }}</h3>
 	{% assign dynasty = site.pages | where_exp: "item" , "item.path contains dynasty"%}
 	{% for article in dynasty %}
 		<div class="row {% if forloop.last %} last_article {% else %} first_article {% endif %}">
