@@ -15,10 +15,10 @@
 	<div class="container">
 		<div class="inner_sec_top_aglieits">
 			<div class="banner_bottom_info">
-				<div class="header"><img src="/assets/images/dynasties/{{ dynasty }}.jpg" alt="{{ dynastyAlt }}" class="img-responsive"><h1>{{ page.title }}</h1></div>
+				<div class="header"><img src="/assets/images/thumbs/dynasties/{{ dynasty }}.jpg" alt="{{ dynastyAlt }}" class="img-responsive"><h1>{{ page.title }}</h1></div>
 				<br />
 				<!-- begin text -->
-				<figure {>
+				<figure {% if page.imageType contains "float" %} style="float left" style="max-width: 450px; " {% endif %}>
 				<img class="fillimg" src="/assets/images/articles/{{ page.image }}" alt="{{ page.alt }}" />
 				<figcaption style="text-align: center;"><i>{{ page.alt}} </i></figcaption>
 				</figure><br />
