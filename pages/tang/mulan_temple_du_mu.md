@@ -5,6 +5,7 @@ description: A short but vivid poem which describes Mulan&rsquo;s inner struggle
 image: du_mu_chinese_poet_author_of_mulan_temple.jpg
 alt: Du Mu, author of Mulan Temple (Public domain).
 imageType: float
+num: 4
 ---
 
 Although this poem is only four lines long, it is filled with vivid imagery which depicts Mulan&rsquo;s inner struggle. Deep down inside, she remains a woman. However, her circumstances force her to act as a man. Will she be true to her inner feminine nature or lose herself and become a hardened warrior?
