@@ -1,20 +1,22 @@
 ---
 layout: post
-title: The Ballad of Mulan (unknown author)
+title: The Legend of Mulan During the Tang Dynasty
 description: The oldest known version of Mulan&rsquo;s story, which inspired countless retellings for centuries to come.
 image: northern_wei_ballad_of_mulan.jpg
 alt: The Ballad of Mulan written in traditional calligraphy (Public domain).
 imageType: big
 ---
 
-Because the *Ballad of Mulan* is an anonymous and undated work, very little can be said about it with certainty. It was most likely composed during the era of Northern Wei and passed down orally for over a century until it was finally preserved in written form during the Tang Dynasty <span class="nowrap">(<span class="tip">source<span class="tiptext">木蘭研究<br /><small><a href="http://bit.ly/2KizXBx">http://bit.ly/2KizXBx</a></small></span></span>).</span>
+{::nomarkdown}
+<figure class="float left" style="max-width:450px;">
+<img class="fillimg" src="../../images/articles/tang_dynasty_article_empress_wu.jpg" alt="A portrait of Empress Wu Zetian" />
+<figcaption style="text-align: center;"><i>A portrait of Empress Wu Zetian (Public domain)</i></figcaption>
+</figure>
+<p>Shortly after the formation of the Tang Dynasty, Empress Wu rose to power. This woman&rsquo;s sovereign reign over all of China, unsurprisingly, had a profound impact on the society&rsquo;s opinion of women. However, because culture is often slow to adapt, it was not until after Empress Wu&rsquo;s death that authors began portraying women in a more positive light.</p>
 
-The version which was finally put into writing begins with Mulan sitting in front of her loom, weeping over the fact that her father has just received his conscription orders. Because Mulan has no elder brother, she is resolved to take her father's place. Upon returning, she is offered a prominent position but turns it down; her only request is that she be sent home to her family.
+<p>As the female protagonist became increasingly acceptable in literature, retellings of Mulan&rsquo;s story abounded. However, the modern perception of Mulan being a stong warrior did not develop until much later. Wei Yuanfu&rsquo;s Song of Mulan, the most progressive of the four Tang Dynasty poems about Mulan, simply mentions that a battle occurred and a victory ensured. Because the culture was not yet prepared to accept a woman warrior, poets could only hint at Mulan&rsquo;s strength and valor.</p>
 
-After Mulan is reunited with her parents and she has resumed her feminine appearance, her comrades were flabbergasted to discover that she is a woman&mdash;for the twelve years that they fought together, none of them had suspected anything. The ballad concludes by commenting, "When a pair of rabbits run side by side, who can distinguish male from female?"
+<p>Early renditions of Mulan&rsquo;s story almost exclusively focused on Mulan&rsquo;s beauty, elegance, and virtue. The most popular retelling, Du Mu&rsquo;s Mulan Temple, depicts Mulan as agonizing over whether it would be appropriate for her to drink together with the other officers. Even while dressed as a man, she struggled to act in a way that was becoming for a lady.</p>
 
-This final line is a direct challenge against the ancient proverb "Men are wolves who fear weakness; women are rats who fear strength" (生男如狼，猶恐其?；生女如鼠，猶恐其虎). The thought that men and women are nearly identical would have been considered outrageously progressive.
-
-Although most historians assume that the *Ballad of Mulan* is a work of fiction, Cao Xi from Qiqihar University argues that it is not only historically accurate, but was authored by Mulan herself (see The Search for the Historical Mulan). Prior to the twentieth century, the story of Mulan was assumed to be a real historical event; it was not until when recent times that the historicity of Mulan began to be questioned. [A memorial dedicated to Mulan during the Yuan Dynasty](../yuan/memorial_filial_general.html) explicitly mentions the *Ballad of Mulan* and cites it as a history.
-
-Nevertheless, the arguments which modern historians make when casting doubt upon the historicity of Mulan's story are weighty. The so-called historical documents which insist that Mulan was a real person are contradictory. Because none of these historical accounts are particularly authoritative, many historians have decided to reject them all and assume that Mulan's story has no true historical basis.
+<p>Although these depictions of Mulan may seem disappointingly anti-feminist to the modern reader, they mark a revolutionary shift in Chinese ideology. Previously, Ban Zhao had insisted that &ldquo;a man&rsquo;s worth lies in his strength while a woman&rsquo;s beauty stems from her inferiority&rdquo; (<a href="https://zh.m.wikisource.org/wiki/%E5%A5%B3%E8%AA%A1">女誡</a>). As the status of women gradually rose, poets challenged the culture with the story of Mulan, yet assured readers that a woman who becomes strong will not lose her beauty or virtue. Mulan, the most filial daughter, was heralded as the perfect woman.</p>
+{:/}
