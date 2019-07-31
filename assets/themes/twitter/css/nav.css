@@ -46,6 +46,10 @@ nav.mnu {
 	color: #000;
     font-weight: 800;
 }
+#logo img {
+    max-width: 200px;
+    width: calc(100vw - 50px);
+}
 nav.mnu{
     margin-top: 2em;
     background: rgba(70, 71, 74, 0.25);
