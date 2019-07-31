@@ -5,6 +5,7 @@ description: The most popular retelling of Mulan&rsquo;s story, which brought th
 image: mulan_bids_farewell_to_her_family_while_two_soldiers_wait_impatiently.jpg
 alt: Mulan bids farewell to her family while two soldiers wait impatiently. Included as an illustration in a late woodblock reprinting of a collection of Xu Wei's plays (Public domain).
 imageType: float
+num: 2
 ---
 
 Xu Wei's classic play had a profound influence on how the legend of Mulan developed. Before the Ming Dynasty, Mulan's story remained brief and vague. Even though Xu Wei's play was not excessive in length (the original manuscript barely exceeded twenty pages), it was the first to provide many of the details that have now become inseparable from the legend.
