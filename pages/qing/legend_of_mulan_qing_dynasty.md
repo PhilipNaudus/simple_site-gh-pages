@@ -3,7 +3,8 @@ layout: post
 title: The Legend of Mulan During the Qing Dynasty
 description: During a time when the Chinese endured significant oppression, the legend of Mulan experienced a surge in poplarity, as the people longed for such a hero.
 image: dorgon_qing_dynasty.jpg
-alt: Dorgon, one of the most powerful regents during the Qing Dynasty.
+alt: Dorgon, one of the most powerful regents during the Qing Dynasty (<a href="
+https://commons.m.wikimedia.org/wiki/File%3ADorgon%2C_the_Prince_Rui_%2817th_century%29.jpg">Wikimedia Commons</a>).
 imageType: float
 num: 1
 ---
