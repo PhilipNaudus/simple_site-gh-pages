@@ -67,6 +67,6 @@ Qingyun investigates the bandits&rsquo; stronghold and concludes that the only w
 
 Mulan returns home and is shocked to realize that Qingyun is still unmarried. For the past twelve years, he has waited faithfully for her. The two of them are married and Mulan gives birth to two children&mdash;a boy and a girl.
 
-<a href="https://zh.wikisource.org/wiki/%E6%9C%A8%E8%98%AD%E5%A5%87%E5%A5%B3%E5%82%B3">Read the original Chinese text of <i>Fiercely Filial.</i></a>
+<a href="https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991011302539704786&context=L&vid=886NTU_INST:886NTU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8C%97%E9%AD%8F%E5%A5%87%E5%8F%B2&offset=0">Read the original Chinese text of <i>Fiercely Filial.</i></a>
 
 <script type="text/javascript" src="/assets/js/float.js"></script>
