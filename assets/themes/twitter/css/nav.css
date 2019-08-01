@@ -329,7 +329,7 @@ li > a:only-child:after {
 
 .main h4 img {
     height: 3em;
-    width: auto;
+    width: 3em;
     /*-webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
