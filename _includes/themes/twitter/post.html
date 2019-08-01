@@ -3,8 +3,10 @@
 {% assign dynastyAlts = "A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv#A pagoda built during the Tang Dynasty. Image source: http://bit.ly/2GpfHwP#A tower built durnig the Yuan Dynasty. Image source: http://bit.ly/2LIJlkX#An arch constructed during the Ming Dynasty. Image source: http://bit.ly/2GveIuU#A gate to the Forbidden City, which was used during the Qing Dynasty. Image source: http://bit.ly/2ybwq23" | split: '#' %}
 
 {% for name in dynastyArr %}
-	{% if page.url contains name %}
+	{% assign folderName = '/' | append: name | append: '/' %}
+	{% if page.url contains folderName %}
 		{% assign dynasty = name %}
+		{% assign dynastyName = dynastyNames[forloop.index0] %}
 		{% assign dynastyAlt = dynastyAlts[forloop.index0] %}
 	{% endif %}
 {% endfor %}
@@ -15,7 +17,8 @@
 	<div class="container">
 		<div class="inner_sec_top_aglieits">
 			<div class="banner_bottom_info">
-				<div class="header"><img src="/assets/images/thumbs/dynasties/{{ dynasty }}.jpg" alt="{{ dynastyAlt }}" class="img-responsive"><h1>{{ page.title }}</h1></div>
+				<h4 class="heading text-left mb-5"><img src="/assets/images/thumbs/dynasties/{{ dynasty }}.jpg" alt="{{ dynastyAlt }}">{{ dynastyName }}</h4>
+				<h1>{{ page.title }}</h1>
 				<br />
 				<!-- begin text -->
 				<figure {% if page.imageType contains "float" %} class="float left" style="max-width: 450px;" {% endif %}>
