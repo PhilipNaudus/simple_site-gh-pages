@@ -196,7 +196,7 @@ label{
     font-family: "Poppins",sans-serif;
     font-weight:bold;
     line-height: 1.5;
-	font-size:2em;
+	font-size:1.5em;
 	letter-spacing:1px;
 }
 .banner_bottom_info h6{
@@ -1375,9 +1375,6 @@ ul.address.two li, ul.address.two li a {
     }
     .banner {
         min-height: 420px;
-    }
-    .banner_bottom_info h4 img {
-        width: 13%;
     }
     .banner_bottom_info h6 {
         font-size: 1.1em;
