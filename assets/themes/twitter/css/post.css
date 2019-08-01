@@ -1475,6 +1475,13 @@ ul.address.two li, ul.address.two li a {
         font-size: 1.3em;
         text-shadow: 1px 1px 0px #024a3f;
     }
+    .header h1 {
+        font-size: 23px;
+    }
+    .header {
+        padding: 5px;
+    }
+
     .links_agile ul li a {
         padding: 6px 8px;
         font-size: 0.8em;
@@ -1521,6 +1528,13 @@ ul.address.two li, ul.address.two li a {
 @media(max-width:320px){
     .title1_agile h3 {
         font-size: 1.2em;
+    }
+
+    .header h1 {
+        font-size: 20px;
+    }
+    .header {
+        padding: 5px;
     }
     
     .links_agile ul li a {
