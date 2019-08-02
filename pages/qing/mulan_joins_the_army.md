@@ -8,17 +8,25 @@ imageType: float
 num: 5
 ---
 
-In this 100-chapter novel, Chu Renhuo's primary aim is to demonstrate that the rise of the Tang dynasty was mandated by heaven. The original readers would have understood that the author subtly contrasts this against the rulers of his day, with the intention of drawing the conclusion that the Qing dynasty did not have the right to rule over China. (See <a href="legend_of_mulan_qing_dynasty">The Legend of Mulan During the Qing Dynasty</a>.)
+<h2>Act 1</h2>
 
-Chu Renhuo concludes Mulan's story with a tragic ending (which was likely inspired by historian <a href="miniscule_book_from_the_yongzhuang_studio.html">Zhu Guozhen's retelling</a>) to comment on the wrongdoing committed by the Manchu under whom he was forced to serve. In this novel, the Chinese are depicted as wonderfully benevolent, while the non-Chinese are evil.
+The play opens with Zhao Jing, a corrupt government official, who seeks to extract bribes from men who are not willing to fulfill their military service. Because he knows that Mu Lan’s father (whose name is not mentioned in the play) is an old man with no son, he makes plans to harass the family, expecting a bribe.
 
-Mulan's story begins in chapter 56 of *Romance of Sui and Tang*. The Tujue khan issues a draft for more men; Mulan's father is among those who are conscripted. Mulan, a biracial (Tujue-Chinese) teenage girl, dresses as a man and volunteers to take her father's place <b>to fight against the Chinese</b>. (There is an overwhelming amount of disinformation about this novel because most people who jump straight to chapter 56 to read Mulan's story assume that she is Chinese.)
+Meanwhile, Mu Lan sits in her home together with her father, mother, and younger sister. Mu Lan’s father has just received his draft notice and bemoans his fate. His only hope for deliverance would be if Mu Lan’s cousin, Mu Shu, volunteered to take his place in battle.
 
-The Tujue army is defeated. Mulan rescues the khan but is captured by Princess Dou Xianninang. The Chinese are such generous and loving captors that Mulan discloses her true identity to the princess and the two become sworn sisters. Feeling that her duty to the khan has been fulfilled, Mulan requests to return home in order to bring her entire family to the Chinese side.
+Mu Shu was orphaned when he was a young boy and has lived together with Mu Lan’s family ever since he lost his parents. Although he shows great potential, he is lazy, undependable, and is constantly in and out of gangs. When Mu Lan’s father realizes that his fate rests with Mu Shu, he is utterly desponded.
 
-Before Mulan departs, the princess entrusts her with a letter to Luo Cheng. During the previous battle, a Chinese soldier had been rescued, who holds an undelivered letter from Luo Cheng. Princess Xianniang is overjoyed to discover that the letter, addressed to a matchmaker, asks for the Xianniang's hand in marriage. However, she quickly realizes that the matchmaker will never be notified until the letter reaches its final destination. Because it would be inappropriate for her to deliver it herself, she writes her own letter asks Mulan to deliver it to Luo Cheng upon her return.
+Suddenly, Mu Shu stumbles into the door. Mu Lan and her father jump to greet Mu Shu and begin begging him to take Mu Lan’s father’s place in battle. Before Mu Shu has a chance to respond, Zhao Zhing roars onto the scene. Mu Lan’s father panics and promises that Mu Shu will take his place. Zhao Jing stomps off, upset that he did not receive a bribe.
 
-Mulan arrives at her hometown but is devastated to find that her father has passed away. When the khan hears that Mulan is a woman, he no longer feels that he owes her his life; rather, he is determined to take her as his concubine. Mulan asks to see her father's grave before submitting to the khan's demands. There, she slits her own throat, declaring that she will be loyal to no man other than her father.
-Prior to her death, Mulan had entrusted Princess Xianniang's letter to her sister, Youlan. Youlan dresses as a man and delivers the letter to Luo Cheng. A joyful, yet somber, wedding ensues.
+After Zhao Jing has left, Mu Shu stubbornly refuses to report for duty. Mu Lan begs her cousin to reconsider, but he is terrified. Mu Lan begins to belittle Mu Shu, insisting that she would join the army if only she were a boy. Deeply offended for being called a coward, he challenges Mu Lan to join the army.
 
-<a href="https://zh.wikisource.org/zh-hant/%E9%9A%8B%E5%94%90%E6%BC%94%E7%BE%A9">Read the original Chinese text of *Romance of Sui and Tang.*</a>
+Mu Lan accepts the challenge. The two of them agree to exchange places. Mu Lan dresses as a man and marches off to join the army while Mu Shu dresses as a woman and tries to walk daintily.
+
+
+<h2>Act 2</h2>
+
+While Commander-in-Chief Huo Qubing is boasting of his intentions to destroy the Xiongniu (the Xiongniu are sometimes colloquially referred to as the Huns), Mu Lan enters and reports for duty. Huo Qubing takes one look at her delicate features and is about to send her away when Mu Lan (calling herself Mu Shu) begins to insist that she is a skilled warrior. Although Huo Qubing is unimpressed, he appoints her vanguard over five hundred men and threatens severe punishment if she does not prove herself to be a successful leader.
+
+Mu Lan orders her men forward to find a battle already raging between Supreme Commander Wei Qing and the khan of the Xiongniu. Mu Lan climbs a mountain in order to understand what is happening and is startled to realize that the Chinese army is in the midst of suffering a terrible defeat. Leaping down, she rescues the supreme commander. Together, they chase the Xiongniu across the an icy sea. While attempting to conceal themselves amongst the icebergs, the entire Xiongniu army drowns. The Chinese army returns to the emperor in triumph.
+
+The supreme commander praises Mu Lan (referring to her as Mu Shu) in front of the emperor, declaring that the victory would not have been possible without her. The emperor offers Mu Lan a prominent position but she declines, only requesting that she be allowed to return to her hometown.
