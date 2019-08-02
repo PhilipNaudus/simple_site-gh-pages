@@ -31,7 +31,7 @@
 				<figure {% if page.imageType contains "float" %} class="float left" style="max-width: 450px;" {% endif %}>
 				{% if page.image contains "#" %}
 				<picture>
-					<source media="(min-width: 830px)" srcset="{{ imageArr[1] }}">
+					<source media="/assets/images/articles/(min-width: 830px)" srcset="{{ imageArr[1] }}">
 				{% endif %}
 					<img class="fillimg" src="/assets/images/articles/{{ defaultImage }}" alt="{{ page.alt | strip_html }}" />
 				{% if page.image contains "#" %}
