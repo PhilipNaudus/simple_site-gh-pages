@@ -35,8 +35,8 @@ The supreme commander praises Mulan (referring to her as Mushu) in front of the 
 
 <div class="note-hidden" id="note" style="display:none;">
 <ol>
-<li>This anonymously authored play has been translated into English by Shiamin Kwa and Wilt Idema. Their translation appears in their book *Mulan: Five Versions of a Classic Chinese Legend*.</li>
-<li>Kwa and Idema choose to translate the title as *Mu Lan Joins the Army* in order to distinguish it from Xu Wei's play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)*. However, because the two plays have identical names in Chinese, I have chosen to give them identical titles in English (even though this makes distinguishing them more difficult).</li>
+<li>This anonymously authored play has been translated into English by Shiamin Kwa and Wilt Idema. Their translation appears in their book <i>Mulan: Five Versions of a Classic Chinese Legend</i> (Hackett Publishing Company, 2010).</li>
+<li>Kwa and Idema choose to translate the title as <i>Mu Lan Joins the Army</i> in order to distinguish it from Xu Wei's play <i><a href=/pages/ming/mulan_joins_the_army_xu_wei"">Mulan Joins the Army</a></i>. However, because the two plays have identical names in Chinese, I have chosen to give them identical titles in English.</li>
 </ol>
 </div>
 
