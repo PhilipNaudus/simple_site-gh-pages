@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <i>Mulan Joins the Army</i> by Anonymous (1903)
-description: When Mulan's cousin, Mushu, refuses to take his adopted father's place in battle, Mulan joins the army in Mushu's stead.
+description: When Mulan&rsquo;s cousin, Mushu, refuses to take his adopted father&rsquo;s place in battle, Mulan joins the army in Mushu&rsquo;s stead to fight against the Huns.
 image: mulan_joins_the_army_by_feng_luoxia.jpg#mulan_joins_the_army_by_feng_luoxia_fullsize.jpg
 alt: Mulan Joins the Army. Feng Luoxia, a Qing Dynasty painter, completed this artwork in 1900 (Public domain).
 imageType: float
