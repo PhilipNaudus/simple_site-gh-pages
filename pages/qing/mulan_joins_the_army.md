@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>Mulan Joins the Army</i> by Anonymous (1903)
+title: <i>Mulan Joins the Army</i> (1903)
 description: When Mulan&rsquo;s cousin, Mushu, refuses to take his adopted father&rsquo;s place in battle, Mulan joins the army in Mushu&rsquo;s stead to fight against the Huns.
 image: mulan_joins_the_army_by_feng_luoxia.jpg#mulan_joins_the_army_by_feng_luoxia_fullsize.jpg
 alt: '&ldquo;Mulan Joins the Army.&rdquo; Feng Luoxia, a Qing Dynasty artist, completed this painting in 1900 (Public domain).'
@@ -30,3 +30,15 @@ While Commander-in-Chief Huo Qubing is boasting of his intentions to destroy the
 Mulan orders her men forward to find a battle already raging between Supreme Commander Wei Qing and the khan of the Xiongnu. Mulan climbs to understand what is happening and is startled to realize that the Chinese army is suffering a terrible defeat. Just before the suprme commander meets his fate, Mulan leaps down to rescue him. Together, they chase the Xiongnu across an icy sea. While attempting to conceal themselves amongst the icebergs, the entire Xiongnu army drowns. The Chinese army returns to the emperor in triumph.
 
 The supreme commander praises Mulan (referring to her as Mushu) in front of the emperor, declaring that the victory would not have been possible without her. The emperor offers Mulan a prominent position, but she declines. Her only request is that she be allowed to return home.
+
+<center><span class="note-visible" id="show_note_button"><a href="javascript:show_note();">Notes <i class="fa fa-angle-down"></i></a></span></center>
+
+<div class="note-hidden" id="note">
+<ol>
+<li>This anonymously authored play has been translated into English Shiamin Kwa and Wilt Idema. Their translation appears in their book *Mulan: Five Versions of a Classic Chinese Legend*.</li>
+<li>Kwa and Idema choose to translate the title as *Mu Lan Joins the Army* in order to distinguish it from Xu Wei's play *Mulan Joins the Army*. The two plays have identical names in Chinese.
+</ol>
+</div>
+
+<link href="/assets/themes/twitter/css/show_note.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="/assets/js/show_note.js"></script>
