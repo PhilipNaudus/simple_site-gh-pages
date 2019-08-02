@@ -1,14 +1,14 @@
-.notes-visible,
-.notes-hidden {
+.note-visible,
+.note-hidden {
   overflow: hidden;
   /* This container should not have padding, borders, etc. */
 }
-.notes-visible {
+.note-visible {
   visibility: visible;
   opacity: 1;
   transition: opacity 0.5s linear;
 }
-.notes-hidden {
+.note-hidden {
   visibility: hidden;
   opacity: 0;
   transition: visibility 0s 0.2s, opacity 0.2s linear;
