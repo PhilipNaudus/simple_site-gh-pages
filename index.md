@@ -18,7 +18,14 @@ description: "In-depth analysis into Mulan's history and legend, including resea
 	{% for article in folder %}
 		<div class="row {% if forloop.last %} last_article {% else %} first_article {% endif %}">
 			<div class="col-md-4 main-1">
-				<a href="{{ article.url }}"><img src="/assets/images/thumbs/articles/{{ article.image }}" alt="{{ article.alt | strip_html }}" class="img-fluid"></a>
+				{% if article.image contains "#" %}
+					{% assign imageArr = article.image | split: '#' %}
+					{% assign defaultImage = imageArr[0]  %}
+				{% else %}
+					{% assign defaultImage = article.image  %}
+				{% endif %}
+
+				<a href="{{ article.url }}"><img src="/assets/images/thumbs/articles/{{ defaultImage }}" alt="{{ article.alt | strip_html }}" class="img-fluid"></a>
 			</div>
 			<div class="col-md-8 main-2">
 				<h3 class="mt-2"><a href="{{ article.url }}">{{ article.title }}</a></h3>

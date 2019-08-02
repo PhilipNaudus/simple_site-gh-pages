@@ -21,8 +21,23 @@
 				<h1>{{ page.title }}</h1>
 				<br />
 				<!-- begin text -->
+				{% if page.image contains "#" %}
+					{% assign imageArr = page.image | split: '#' %}
+					{% assign defaultImage = imageArr[0]  %}
+				{% else %}
+					{% assign defaultImage = page.image  %}
+				{% endif %}
+
 				<figure {% if page.imageType contains "float" %} class="float left" style="max-width: 450px;" {% endif %}>
-				<img class="fillimg" src="/assets/images/articles/{{ page.image }}" alt="{{ page.alt | strip_html }}" />
+				{% if page.image contains "#" %}
+				<picture>
+					<source media="(min-width: 830px)" srcset="{{ imageArr[1] }}">
+				{% endif %}
+					<img class="fillimg" src="/assets/images/articles/{{ defaultImage }}" alt="{{ page.alt | strip_html }}" />
+				{% if page.image contains "#" %}
+				</picture>
+				{% endif %}
+
 				<figcaption style="text-align: center;"><i>{{ page.alt}} </i></figcaption>
 				</figure><br />
 
