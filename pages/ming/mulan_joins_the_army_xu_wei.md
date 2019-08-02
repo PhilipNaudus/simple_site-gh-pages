@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>Mulan Joins the Army</i> by Xu Wei (c. 1550 AD)
+title: <i>Mulan Joins the Army</i> by Xu Wei (c. 1580 AD)
 description: The most popular retelling of Mulan&rsquo;s story, which brought this inspiring tale into the public spotlight.
 image: mulan_bids_farewell_to_her_family_while_two_soldiers_wait_impatiently.jpg
 alt: Mulan bids farewell to her family while two soldiers wait impatiently. Included as an illustration in a late woodblock reprinting of a collection of Xu Wei's plays (Public domain).
