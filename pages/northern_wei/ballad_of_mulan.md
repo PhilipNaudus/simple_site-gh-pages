@@ -2,8 +2,8 @@
 layout: post
 title: The <i>Ballad of Mulan</i>
 description: The oldest known version of Mulan&rsquo;s story, which inspired countless retellings for centuries to come.
-image: northern_wei_ballad_of_mulan.jpg
-alt: The Ballad of Mulan written in traditional calligraphy (Public domain).
+image: ballad_of_mulan_song_dynasty_mu_fu.jpg
+alt: This copy of the <i>Ballad of Mulan</i> was written by the Song Dynasty calligrapher <a href="https://en.wikipedia.org/wiki/Mi_Fu">Mi Fu</a> in 1094 AD (Public domain).
 imageType: big
 num: 1
 ---
