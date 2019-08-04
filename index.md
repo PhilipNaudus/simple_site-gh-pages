@@ -6,9 +6,9 @@ description: "In-depth analysis into Mulan's history and legend, including resea
 
 {::nomarkdown}
 
-{% assign dynastyArr = "northern_wei#tang#yuan#ming#qing" | split: '#' %}
-{% assign dynastyNames = "Northern Wei (386&ndash;534 AD)#Tang Dynasty (618&ndash;907 AD)#Yuan Dynasty (1271&ndash;1368 AD)#Ming Dynasty (1368&ndash;1644 AD)#Qing Dynasty (1644&ndash;1912)" | split: '#' %}
-{% assign dynastyAlts = "A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv#A pagoda built during the Tang Dynasty. Image source: http://bit.ly/2GpfHwP#A tower built durnig the Yuan Dynasty. Image source: http://bit.ly/2LIJlkX#An arch constructed during the Ming Dynasty. Image source: http://bit.ly/2GveIuU#A gate to the Forbidden City, which was used during the Qing Dynasty. Image source: http://bit.ly/2ybwq23" | split: '#' %}
+{% assign dynastyArr = "northern_wei#tang#yuan#ming#qing#post_imperial" | split: '#' %}
+{% assign dynastyNames = "Northern Wei (386&ndash;534 AD)#Tang Dynasty (618&ndash;907 AD)#Yuan Dynasty (1271&ndash;1368 AD)#Ming Dynasty (1368&ndash;1644 AD)#Qing Dynasty (1644&ndash;1912)#Post-Imperial China (1912&ndash;Present)" | split: '#' %}
+{% assign dynastyAlts = "A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv#A pagoda built during the Tang Dynasty. Image source: http://bit.ly/2GpfHwP#A tower built durnig the Yuan Dynasty. Image source: http://bit.ly/2LIJlkX#An arch constructed during the Ming Dynasty. Image source: http://bit.ly/2GveIuU#A gate to the Forbidden City, which was used during the Qing Dynasty. Image source: http://bit.ly/2ybwq23#Post-Imperial China" | split: '#' %}
 
 {% for dynasty in dynastyArr %}
 	<h4 class="heading text-left mb-5"><img src="/assets/images/thumbs/dynasties/{{ dynasty }}.jpg" alt="{{ dynastyAlts[forloop.index0] }}">{{ dynastyNames[forloop.index0] }}</h4>
