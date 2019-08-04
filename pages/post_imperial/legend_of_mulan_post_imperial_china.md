@@ -14,7 +14,7 @@ In the 1920s, the communist party begain gaining traction. The communists, who i
 
 When World War II (known in China as the <i>War of Resistance against Japanese Aggression</i>) broke out, women stepped into the workforce to sustain the Chinese economy while many of the country's men were at war. During this time, Zheng Meiqing assembled a team of talented artists to produce a poster which would inspire all Chinese people, both men and women, to work together in order to defeat the Japanese (shown above). No hero epitomized the artists' sentiments better than Mulan. Although some women did join the military, the vast majority of women throughout China supported the warfront by sewing uniforms and working in manufacturing plants.
 
-<center><a title="Show references" href="#" onclick="toggle_note(); return false;">References <i class="fa fa-angle-down" id="show_note_icon"></i><i class="fa fa-angle-up" id="hide_note_icon"></i></a></center>
+<center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <i class="fa fa-angle-down" id="show_note_icon"></i><i class="fa fa-angle-up" id="hide_note_icon"></i></a></center>
 
 <div id="note">
 <ol>
