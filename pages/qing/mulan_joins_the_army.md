@@ -31,7 +31,7 @@ Mulan orders her men forward to find a battle already raging between Supreme Com
 
 The supreme commander praises Mulan (referring to her as Mushu) in front of the emperor, declaring that the victory would not have been possible without her. The emperor offers Mulan a prominent position, but she declines. Her only request is that she be allowed to return home.
 
-<center><span id="show_note_button"><a href="javascript:toggle_note();">Notes <i class="fa fa-angle-down" id="show_note_arrow"></i><i class="fa fa-angle-down" id="hide_note_arrow"></i></a></span></center>
+<center><a href="javascript:toggle_note();">Notes <i class="fa fa-angle-down" id="show_note_icon"></i><i class="fa fa-angle-up" id="hide_note_icon"></i></a></center>
 
 <div id="note">
 <ol>
