@@ -12,3 +12,4 @@ function toggle_note()
 		document.getElementById("hide_note_icon").style.display = "none";
 	}
 }
+toggle_note();
