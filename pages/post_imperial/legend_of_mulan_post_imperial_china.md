@@ -18,6 +18,7 @@ References
 
 <ol>
 <li>Edwards, Louise P. <i>Men and Women in Qing China: Gender in the Red Chamber Dreams</i> (Brill Publishers, 1994): 89.</li>
+<li><a href="https://rucore.libraries.rutgers.edu/rutgers-lib/47419/">Jia, Bo. <i>Gender, Women’s Liberation, and the Nation-state: A Study of the Chinese Opera the White-haired Girl.</i> (Master's thesis) Rutgers University.</a></li>
 <li>Ma, Yuxin. <i>Women journalists and feminism in China, 1898-1937</i> (Cambria Press, 2010): 232-235.</li>
 <li><a href="https://zh.wikisource.org/wiki/%E6%9C%A8%E8%98%AD%E5%A5%87%E5%A5%B3%E5%82%B3/%E5%BA%8F">&#26408;&#34349;&#22855;&#22899;&#20659;/&#24207;</a></li>
 <li><a href="http://kns.cnki.net/kcms/detail/detail.aspx?filename=SCTZ201606014&dbcode=CJFQ&dbname=CJFD2016&v=">&#32918;&#20255;, &#35770;&#26376;&#20221;&#29260;&#32472;&#30011;&#20043;&#12298;&#26408;&#20848;&#33635;&#24402;&#22270;&#12299;(&#25910;&#34255;&#19982;&#25237;&#36164;, 2016.06): 72-79.</a></li>
