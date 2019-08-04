@@ -3,7 +3,7 @@ layout: post
 title: The Legend of Mulan During Post-Imerial China
 description: During a time when the Chinese endured significant oppression, the legend of Mulan experienced a surge in poplarity, as the people longed for such a hero.
 image: mulan_returns_in_glory.jpg
-alt: '&ldquo;Mulan Returns in Glory.&rdquo; This WWII painting was used to inspire all Chinese people, both men and women, to resist Japanese aggression. Ten talented artists collaborated to produce this painting. (Artists: Zheng Meiqing, Zhou Baihang, Jiao Ying, Li Mubai, Wu Zhiguang, Xie Zhiguang, Jin Meisheng, Ge Xiangyu, Tian Qingquan, and Yang Junsheng)'
+alt: '&ldquo;Mulan Returns in Glory.&rdquo; This WWII painting was used to inspire all Chinese people, both men and women, to resist Japanese aggression. Ten talented artists collaborated to produce this painting. <small>(Artists: Zheng Meiqing, Zhou Baihang, Jiao Ying, Li Mubai, Wu Zhiguang, Xie Zhiguang, Jin Meisheng, Ge Xiangyu, Tian Qingquan, and Yang Junsheng)</small>'
 imageType: float
 num: 1
 ---
