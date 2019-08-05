@@ -21,6 +21,7 @@ During this time, the legend of Mulan experienced a surge in poplarity amongst t
 <li>Kwa, Shiamin and Idema, Wilt L. <i>Mulan: Five Versions of a Classic Chinese Legend with Related Texts</i> (Hackett Publishing, 2010)</li> <!--everything-->
 <li>Edwards, Louise. <i>Transformations of the Woman Warrior Hua Mulan: From Defender of the Family to Servant of the State</i> (&#30007;&#22899;, 2010.12): 175-214.</li>
 <li>Sun, Xiaosu. <i>Mulan on Page and Stage: Stories of Mulan in Late Imperial China.</i> (Master's thesis, 2008) University of Pittsburgh.</li>
+<li><a href="http://www.chinese.ntpu.edu.tw/files/archive/1905_0bea60c6.pdf">&#24373;&#28165;&#30332;, &#22855;&#22899;&#22855;&#21490;&#9472;&#9472;&#26408;&#34349;&#24478;&#36557;&#30340;&#25944;&#20107;&#30332;&#23637;&#33287;&#20856;&#31684;&#24314;&#27083; (&#33274;&#21271;&#22823;&#23416;&#20013;&#25991;&#23416;&#22577;, 2012.11): 117-147.</a></li>
 <li>&#21688;&#29838;&#24681;, &#26408;&#34349;&#25925;&#20107;&#30340;&#35722;&#30064;&#21450;&#20659;&#25215; - &#20197;&#35799;&#27468;&#65380; &#23567;&#35498;&#65380; &#25138;&#26354;&#65380; &#35498;&#21809;&#28858;&#32771;&#23519;&#31684;&#22260; (&#20013;&#22283;&#35486;&#25991;&#23416;&#35468;, 2011.37): 437-454.</li><!--everything-->
 </ol>
 </div>
