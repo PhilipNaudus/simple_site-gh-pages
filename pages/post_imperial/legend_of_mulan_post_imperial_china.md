@@ -25,7 +25,8 @@ When World War II (known in China as the <i>War of Resistance against Japanese A
 <li>Kwa, Shiamin and Idema, Wilt L. <i>Mulan: Five Versions of a Classic Chinese Legend with Related Texts</i> (Hackett Publishing, 2010)</li> <!--everything-->
 <li>Ma, Yuxin. <i>Women journalists and feminism in China, 1898-1937</i> (Cambria Press, 2010): 232-235.</li>
 <li><a href="https://zh.wikisource.org/wiki/%E6%9C%A8%E8%98%AD%E5%A5%87%E5%A5%B3%E5%82%B3/%E5%BA%8F">&#26408;&#34349;&#22855;&#22899;&#20659;/&#24207;</a></li>
-<li><a href="http://kns.cnki.net/kcms/detail/detail.aspx?filename=SCTZ201606014&dbcode=CJFQ&dbname=CJFD2016&v=">&#32918;&#20255;, &#35770;&#26376;&#20221;&#29260;&#32472;&#30011;&#20043;&#12298;&#26408;&#20848;&#33635;&#24402;&#22270;&#12299;(&#25910;&#34255;&#19982;&#25237;&#36164;, 2016.06): 72-79.</a></li>
+<li><a href="http://kns.cnki.net/kcms/detail/detail.aspx?filename=SCTZ201606014&dbcode=CJFQ&dbname=CJFD2016&v=">&#32918;&#20255;, &#35770;&#26376;&#20221;&#29260;&#32472;&#30011;&#20043;&#12298;&#26408;&#20848;&#33635;&#24402;&#22270;&#12299; (&#25910;&#34255;&#19982;&#25237;&#36164;, 2016.06): 72-79.</a> Note that the painting referenced above was included in a picture calendar. However, because the calendar differed greatly from what most English speakers consider to be calendars, I have called it a poster in order to avoid confusion.</li>
+<li>&#21688;&#29838;&#24681;, &#26408;&#34349;&#25925;&#20107;&#30340;&#35722;&#30064;&#21450;&#20659;&#25215; - &#20197;&#35799;&#27468;&#65380; &#23567;&#35498;&#65380; &#25138;&#26354;&#65380; &#35498;&#21809;&#28858;&#32771;&#23519;&#31684;&#22260; (&#20013;&#22283;&#35486;&#25991;&#23416;&#35468;, 2011.37): 437-454.</li><!--everything-->
 </ol>
 </div>
 
