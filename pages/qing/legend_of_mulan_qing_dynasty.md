@@ -19,6 +19,7 @@ During this time, the legend of Mulan experienced a surge in poplarity amongst t
 <li>Edwards, Louise P. <i>Mulan’s legend and legacy in China and the United States</i> (Temple University Press, 2011)</li> <!--everything-->
 <li><a href="https://research.library.mun.ca/12534/">Jing, Zhang. <i>Variable Icons and Images: Mulan and Her Legend in Five Legend-telling Groups in Huangpi, People&rsquo;s Republic of China</i> (Doctoral dissertation, 2017) Memorial University of Newfoundland.</a></li><!--everything-->
 <li>Kwa, Shiamin and Idema, Wilt L. <i>Mulan: Five Versions of a Classic Chinese Legend with Related Texts</i> (Hackett Publishing, 2010)</li> <!--everything-->
+<li>Edwards, Louise. <i>Transformations of the Woman Warrior Hua Mulan: From Defender of the Family to Servant of the State</i> (&#30007;&#22899;, 2010.12): 175-214.</li>
 <li>Sun, Xiaosu. <i>Mulan on Page and Stage: Stories of Mulan in Late Imperial China.</i> (Master's thesis, 2008) University of Pittsburgh.</li>
 <li>&#21688;&#29838;&#24681;, &#26408;&#34349;&#25925;&#20107;&#30340;&#35722;&#30064;&#21450;&#20659;&#25215; - &#20197;&#35799;&#27468;&#65380; &#23567;&#35498;&#65380; &#25138;&#26354;&#65380; &#35498;&#21809;&#28858;&#32771;&#23519;&#31684;&#22260; (&#20013;&#22283;&#35486;&#25991;&#23416;&#35468;, 2011.37): 437-454.</li><!--everything-->
 </ol>
