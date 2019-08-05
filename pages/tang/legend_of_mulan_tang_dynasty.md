@@ -14,7 +14,7 @@ As the female protagonist became increasingly acceptable in literature, retellin
 
 Early renditions of Mulan's story almost exclusively focused on Mulan's beauty, elegance, and virtue. The most popular retelling, Du Mu's Mulan Temple, depicts Mulan as agonizing over whether it would be appropriate for her to drink together with the other officers. Even while dressed as a man, she struggled to act in a way that was becoming for a lady.
 
-Although these depictions of Mulan may seem disappointingly anti-feminist to the modern reader, they mark a revolutionary shift in Chinese ideology. Previously, Ban Zhao had insisted that "a man's worth lies in his strength while a woman's beauty stems from her inferiority." As the status of women gradually rose, poets challenged the culture with the story of Mulan, yet assured readers that a woman who becomes strong will not lose her beauty or virtue. Mulan, the most filial daughter, was heralded as the perfect woman.
+Although these depictions of Mulan may seem disappointingly anti-feminist to the modern reader, they mark a revolutionary shift in Chinese ideology. Previously, Ban Zhao had insisted that "a man's worth lies in his strength while a woman's beauty stems from her inferiority." As the status of women gradually rose, poets challenged the culture with the story of Mulan, yet assured readers that a woman who becomes strong will not lose her beauty or virtue. Mulan, the most filial daughter of all, was heralded as the perfect woman.
 
 <center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <i class="fa fa-angle-down" id="show_note_icon"></i><i class="fa fa-angle-up" id="hide_note_icon"></i></a></center>
 
