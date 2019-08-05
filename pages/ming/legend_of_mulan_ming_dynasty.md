@@ -3,7 +3,7 @@ layout: post
 title: The Legend of Mulan During the Ming Dynasty
 description: As the Ming Dynasty witnessed a decline in intellectualism and a rise in entertainment, Mulan&rsquo;s story ceased being a tale of virtue and, instead, focused on humor.
 image: mulan_joins_the_army_tang_yin_ming_dynasty.jpg#mulan_joins_the_army_tang_yin_ming_dynasty_fullsize.jpg
-alt: '&ldquo;Mulan Joins the Army&rdquo; by the Ming Dynasty artist <a href="https://en.wikipedia.org/wiki/Tang_Yin">Tang Yin</a> (Public domain).'
+alt: '&ldquo;Mulan Joins the Army&rdquo; by Ming Dynasty artist <a href="https://en.wikipedia.org/wiki/Tang_Yin">Tang Yin</a> (Public domain).'
 imageType: float
 num: 1
 ---
