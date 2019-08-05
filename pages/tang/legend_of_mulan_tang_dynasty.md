@@ -25,7 +25,7 @@ Although these depictions of Mulan may seem disappointingly anti-feminist to the
 <li>Hsieh, Daniel. <i>Love and Women in Early Chinese Fiction: Academic Monographs on Chinese Literature</i> (The Chinese University Press, 2008).</li>
 <li><a href="https://research.library.mun.ca/12534/">Jing, Zhang. <i>Variable Icons and Images: Mulan and Her Legend in Five Legend-telling Groups in Huangpi, People&rsquo;s Republic of China</i> (Doctoral dissertation, 2017) Memorial University of Newfoundland.</a></li><!--everything-->
 <li>Kwa, Shiamin and Idema, Wilt L. <i>Mulan: Five Versions of a Classic Chinese Legend with Related Texts</i> (Hackett Publishing, 2010)</li> <!--everything-->
-<li><a href="https://zh.m.wikisource.org/wiki/%E5%A5%B3%E8%AA%A1">&#29677;&#26157;, &#22899;&#35489; (&#24460;&#28450;&#26360;84&#21367;, c. 75 AD)</a>
+<li><a href="https://zh.m.wikisource.org/wiki/%E5%A5%B3%E8%AA%A1">&#29677;&#26157;, &#22899;&#35489; (&#24460;&#28450;&#26360;84&#21367;, c. 75 AD).</a></li>
 <li>&#21688;&#29838;&#24681;, &#26408;&#34349;&#25925;&#20107;&#30340;&#35722;&#30064;&#21450;&#20659;&#25215; - &#20197;&#35799;&#27468;&#65380; &#23567;&#35498;&#65380; &#25138;&#26354;&#65380; &#35498;&#21809;&#28858;&#32771;&#23519;&#31684;&#22260; (&#20013;&#22283;&#35486;&#25991;&#23416;&#35468;, 2011.37): 437-454.</li><!--everything-->
 </ol>
 </div>
