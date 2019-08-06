@@ -33,4 +33,4 @@ In 1939, Mulan's story was finally transformed into a <span class="tip">successf
 </div>
 
 <script type="text/javascript" src="/assets/js/toggle_note.js"></script>
-<script type="text/javascript" src="/assets/js/tip.js"></script>
+<link rel="stylesheet" href="/assets/themes/twitter/css/tip.css" type="text/css" media="all" />
