@@ -1,7 +1,7 @@
 -+-+-
 layout: post
 title: Mulan Joins the Army (1939 Film)
-description: During a time when the Chinese endured significant oppression, the legend of Mulan experienced a surge in poplarity, as the people longed for such a hero.
+description: In addition to being the first retelling to introduce romance into Mulan's story, this classic film helped to make Mulan less of an iconic hero and more relatable.
 image: none.jpg
 alt: '&ldquo;Mulan Returns in Glory.&rdquo; This WWII painting was used to inspire all Chinese people, both men and women, to resist Japanese aggression. Ten talented artists collaborated to produce this painting. <small>(Artists: Zheng Meiqing, Zhou Baihang, Jiao Ying, Li Mubai, Wu Zhiguang, Xie Zhiguang, Jin Meisheng, Ge Xiangyu, Tian Qingquan, and Yang Junsheng)</small>'
 imageType: float
