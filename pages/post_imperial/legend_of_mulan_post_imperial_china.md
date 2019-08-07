@@ -12,7 +12,9 @@ After the devistating conclusion to the Opium Wars, the Chinese people became in
 
 In the 1920s, the communist party begain gaining traction. The communists, who insisted on equality among all individuals, welcomed women to join their ranks. Mulan was hailed as an inspiration among women who sought to liberate themselves from China's patriarchial system and escape family duties such as arranged marriages. Whereas virtually every previous rendition of the legend emphasis that Mulan's joining the army was an incredible act of filial sacrifice, her story was now being used by women who sought personal freedom, recognition, and adventure.
 
-When World War II (known in China as the <i>War of Resistance against Japanese Aggression</i>) broke out, women stepped into the workforce to sustain the Chinese economy while many of the country's men were at war. During this time, Zheng Meiqing assembled a team of talented artists to produce a poster which would inspire all Chinese people, both men and women, to work together in order to defeat the Japanese (shown above). No hero epitomized the artists' sentiments better than Mulan. Although some women did join the military, the vast majority of women throughout China supported the warfront by sewing uniforms and working in manufacturing plants.
+In 1937, the <i>War of Resistance against Japanese Aggression</i> (which eventually escalated into World War II) broke out. Initially, China suffered several devastating defeats, including the loss of Nanjing (the capital city), throwing the country into a state of alarm. Women stepped into the workforce to sustain the Chinese economy while the vast majority of the country's men enlisted to reclaim China. During this time, Zheng Meiqing assembled a team of talented artists to produce a poster which would inspire all Chinese people, both men and women, to work together in order to defeat the Japanese (shown above). No hero epitomized the artists' sentiments better than Mulan.
+
+In 1939, Mulan's story was finally transformed into a <span class="tip">successful<span class="tiptext">Although there were two previous attempts to bring Mulan's story to the screen, they were met with underwhelming success.</span></span> motion picture. The film, which ended with a call to arms, quickly became a sensation. With the warrior princess Hua Mulan leading the way, the Chinese were overcome with a renewed desire to liberate themselves from foreign aggression.
 
 <center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <i class="fa fa-angle-down" id="show_note_icon"></i><i class="fa fa-angle-up" id="hide_note_icon"></i></a></center>
 
@@ -31,3 +33,4 @@ When World War II (known in China as the <i>War of Resistance against Japanese A
 </div>
 
 <script type="text/javascript" src="/assets/js/toggle_note.js"></script>
+<link rel="stylesheet" href="/assets/themes/twitter/css/tip.css" type="text/css" media="all" />
