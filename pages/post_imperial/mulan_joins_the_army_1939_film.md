@@ -12,8 +12,9 @@ From the moment the movie begins, we can quickly gather that tell that Mulan is 
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/01_mulan_and_her_family_being_scolded_by_her_parents.png" alt="Mulan, together with her family. Mulan is being scolded by her parents parents." />
-<figcaption style="text-align: center;"><i>Mulan's father: &ldquo;I can't believe how this girl spends all day outside ruining wild. Just look at yourself!&rdquo; all images are from Mulan Joins the Army &copy; 1939 New China Film Company.</i></figcaption>
+<figcaption style="text-align: center;"><i>Mulan's father: &ldquo;I can't believe how this girl spends all day outside ruining wild. Just look at yourself!&rdquo; All images are from Mulan Joins the Army &copy;1939 New China Film Company.</i></figcaption>
 </figure>
+<br />
 
 That night, Mulan's parents stay up late worrying about what to do. Just when Mulan's father resigns himself to his fate, Mulan enters and volunteers to take his place. Although her mother is strongly opposed to the idea, her father gives Mulan the chance to try on his armor. With some practice, she is able to lower her voice and immitate masculine manerisms. Because the family has no other choice, Mulan's mother finally agrees to allow her to go. The family says a tearful farewell as Mulan departs.
 
@@ -21,6 +22,7 @@ That night, Mulan's parents stay up late worrying about what to do. Just when Mu
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/https://github.com/mathlyml/simple_site-gh-pages/blob/master/assets/images/articles/mulan_joins_the_army_1939/02_mulan_farewell_dinner_with_her_family.png" alt="Mulan, together with her family. Mulan is being scolded by her parents parents." />
 <figcaption style="text-align: center;"><i>Mulan's father: &ldquo;Let us drink to our daughter's success and safety! Mulan, may you return victorious over the barbarians.&rdquo;</i></figcaption>
 </figure>
+<br />
 
 While on her way to Yan'an (where the soldiers will report for duty), Mulan runs into several other soldiers who begin poking fun at her soft complexion. When the teasing starts to get out of hand, a soldier by the name of Liu Yandu steps in to defend Mulan from any further harassment, but Mulan demonstrates her superior martial arts abilities and forces the bullies to back off. That night, Yandu finds Mulan standing next to the Yellow River. The two of them make coversation late into the night.
 
@@ -28,6 +30,7 @@ While on her way to Yan'an (where the soldiers will report for duty), Mulan runs
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/03_mulan_meets_liu_yandu.png" alt="Mulan, together with her family. Mulan is being scolded by her parents parents." />
 <figcaption style="text-align: center;"><i>Yuandu: &ldquo;Even though we just met, I feel as if we are old friends. Who would have thought that I, from Peiliang, and you, from Haozhou, would come together like this. It must have been predestined!&rdquo;</i></figcaption>
 </figure>
+<br />
 
 Three years later, Mulan has earned a prominent position for herself. One day, two enemy generals come forward to surrender but both Mulan and Yuandu are suspicious of their motives. The two of them go before the marshal, who relucantly allows them to investigate further into the situation.
 
@@ -37,6 +40,7 @@ After accepting their orders, Mulan and Yuandu discuss how they should disguise 
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/05_liu_yuandu_hua_mulan_dressed_as_man_and_woman.png" alt="Mulan, together with her family. Mulan is being scolded by her parents parents." />
 <figcaption style="text-align: center;"><i>Yandu: &ldquo; Being that we're dressed this way, what should our characters be?&rdquo;<br />Mulan: &ldquo;Friends.&rdquo;<br />Yuandu: &ldquo;No, we look like more than just friends. We look like...&rdquo;<br />Mulan: &ldquo;Brother and sister.&rdquo;<br />Yuandu: &ldquo;I think most people who see us would assume that we are husband and wife.&rdquo;<br />Mulan: &ldquo;What??&rdquo;<br /></i></figcaption>
 </figure>
+<br />
 
 When Mulan comes across two enemy soldiers, she begins to flirt with them and entices them to boast about the strength of their army. Before they suspect anything, she quickly stabs them. When an enemy messenger happens to ride by, Mulan steals the orders he is carrying and flees back to the Chinese fortress.
 
@@ -48,6 +52,7 @@ The barbarians attack but Mulan has ordered her men to be ready. Sudenly, a fire
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/07_marshall_dies_and_appoints_mulan_his_successor.jpg" alt="Mulan, together with her family. Mulan is being scolded by her parents parents." />
 <figcaption style="text-align: center;"><i>The marshall issuing his final decree: &ldquo;Mulan is the new marshall. He is loyal and brave. He is a mighty leader. You must obey his commands. This is my dying wish.&rdquo;</i></figcaption>
 </figure>
+<br />
 
 Mulan leads the army on a series of successful expiditions and secures the victory over the enemy. The emperor offers Mulan a prominent position in the imperial court and promotes Yuandu to take Mulan's place as marshall. However, Mulan asks that she be allowed to return home. Yuandu, desiring to remain with Mulan, requests a leave of absence.
 
@@ -59,6 +64,7 @@ Countless eligible young men from Mulan's hometown eagerly await her return, but
 <figure>
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/09_mulan_bridal_dress_with_yuandu.jpg" alt="Mulan and Yuandu get married. Mulan is wearing a bridal dress and Yuandu is dressed as the groom." />
 </figure>
+<br />
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XXTiIBSrZhA)
 
