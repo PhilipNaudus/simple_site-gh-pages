@@ -29,7 +29,7 @@ The marshall issuing his final decree: "Mulan is the new marshall. He is loyal a
 
 Mulan leads the army on a series of successful expiditions and secures the victory over the enemy. The emperor offers Mulan a prominent position in the imperial court and promotes Yuandu to take Mulan's place as marshall. However, Mulan asks that she be allowed to return home. Yuandu, desiring to remain with Mulan, requests a leave of absence.
 
-Countless young men from Mulan's hometown greet her and ask that she consider them as suitors, but she declines them all. Mulan resumes her feminine appearance and approaches Yuandu, who is overjoyed. Right before the film ends, we see a short clip of Mulan and Yuandu dressed as bride and groom.
+Countless eligible young men from Mulan's hometown eagerly await her return, but she sends them all away. Mulan resumes her feminine appearance and approaches Yuandu, who is overjoyed. Right before the film ends, we see a short clip of Mulan and Yuandu dressed as bride and groom.
 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XXTiIBSrZhA)
