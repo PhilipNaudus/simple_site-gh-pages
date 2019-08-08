@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mulan Joins the Army (1939 Film)
-description: In addition to being the first retelling to introduce romance into Mulan&rsquo;s story, this classic film helped make Mulan&rsquo;s story more relatable.
+description: In addition to being the first retelling to introduce romance into Mulan&rsquo;s story, this classic film helped make Mulan&rsquo;s character more relatable.
 image: mulan_joins_the_army_1939_triumphant_return.jpg
 alt: Mulan returns in triumph. Images are from Mulan Joins the Army, &copy;1939 China United Productions.
 imageType: big
