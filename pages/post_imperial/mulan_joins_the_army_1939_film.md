@@ -28,7 +28,7 @@ While on her way to Yan'an (where the soldiers will report for duty), Mulan runs
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/03_mulan_meets_liu_yandu.png" alt="Mulan, together with her family. Mulan is being scolded by her parents parents." />
-<figcaption style="text-align: center;"><i>Yuandu: &ldquo;Even though we just met, I feel as if we are old friends. Who would have thought that I, from Peiliang, and you, from Haozhou, would come together like this. It must have been predestined!&rdquo;</i></figcaption>
+<figcaption style="text-align: center;"><i>Yuandu: &ldquo;Even though we just met, I feel as if we are old friends. Who would have thought that I, from Peiliang, and you, from Haozhou, would come together like this? It must have been predestined!&rdquo;</i></figcaption>
 </figure>
 <br />
 
