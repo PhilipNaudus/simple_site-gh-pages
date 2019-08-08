@@ -30,7 +30,7 @@ The marshall issuing his final decree: "Mulan is the new marshall. He is loyal a
 Mulan leads the army on a series of successful expiditions and secures the victory over the enemy. The emperor offers Mulan a prominent position in the imperial court and promotes Yuandu to take Mulan's place as marshall. However, Mulan asks that she be allowed to return home. Yuandu, desiring to remain with Mulan, requests a leave of absence.
 
 [Image]
-While drunk, Yuandu blurts out, "I'm in love with a girl but don't dare approach her. She is so powerful and hot-tempered that if I don't approach her respectfully enough, she will murder me!"
+While drunk, Yuandu blurts out, "I'm in love with a girl but don't dare approach her. She is powerful and hot-tempered. If I don't approach her respectfully enough, she will murder me!"
 
 Countless eligible young men from Mulan's hometown eagerly await her return, but she sends them all away. Mulan resumes her feminine appearance and approaches Yuandu, who is overjoyed. Right before the film ends, we see a short clip of Mulan and Yuandu dressed as bride and groom.
 
