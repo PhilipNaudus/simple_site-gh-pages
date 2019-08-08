@@ -1,12 +1,22 @@
 ---
 layout: post
 title: Mulan Joins the Army (1939 Film)
-description: In addition to being the first retelling to introduce romance into Mulan&rsquo;s story, this classic film helped to make Mulan&rsquo;s story more relatable.
+description: In addition to being the first retelling to introduce romance into Mulan&rsquo;s story, this classic film helped make Mulan&rsquo;s story more relatable.
 image: mulan_joins_the_army_1939_triumphant_return.jpg
 alt: Mulan returns in triumph. Images are from Mulan Joins the Army, &copy;1939 China United Productions.
 imageType: big
 num: 2
 ---
+
+As one of the first film adaptations of Mulan's story, *Mulan Joins the Army* set ushered in a new era in the development of Mulan's legend. This classic film made some important alterations to Mulan's story which soon became common in later retellings.
+
+Most significantly, this film glorifies warfare. Being that it was produced during a time when China needed to inspire men to rise up and defend their country (see [The Legend of Mulan During Post-Imperial China](/pages/post_imperial/legend_of_mulan_post_imperial_china)), it should come as no surprise that the film focused primarily on the fame and recognition soldiers receive when serving in the army. Mulan, a tomboyish girl, is continually scolded for not being more ladylike. However, in the process of serving in the army, she becomes more in touch with who she truly is. Whereas previous retellings focused on Mulan's virtue, describing her as the perfect woman, the producers of *Mulan Joins the Army* sought to entice their viewers to join the army and defend China from foreign aggression. In a sense, the film promises that those who join the army will truly find what has been missing from their lives.
+
+Remaining consistent with their aim to extol the glories of warfare, the directors introduced a romantic subplot into Mulan's story. Mulan, who had previously struggled to fit into society, returned a confident woman who was quickly married to the man of her dreams. Although many previous retellings conclude Mulan's story with a wedding, her marriage was always arranged. Romance was not present in Mulan's story up until this point.
+
+*Mulan Joins the Army* proved to be a major success. The film inspired the Chinese people to enlist and liberate their country from the Japanese occupation. In addition, the elements which this classic motion picture introduced into Mulan's story have now become integral parts of modern retellings of Mulan's story.
+
+<h2>Plot Summary</h2>
 
 Mulan is sharp-witted, a skilled hunter, and a loving daughter. Because her father is ill, Mulan decides to go hunting and returns with an impressive amount of game in hopes of restoring his appetite. When she returns, however, she is scolded by her parents for acting in such an unladylike manner. While the family is in the midst of a heated discussion, an official enters and delivers a conscription notice to Mulan's father.
 
