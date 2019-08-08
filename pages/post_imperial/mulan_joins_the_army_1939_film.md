@@ -60,7 +60,7 @@ When Mulan comes across two enemy soldiers, she begins to flirt with them and en
 <figcaption style="text-align: center;"><i>Right before Mulan kills the two barbarians, she laughs and exclaims, &ldquo;Isn&rsquo;t this so much fun?&rdquo;</i></figcaption>
 </figure>
 
-Upon returning, Mulan reports that the enemy is preparing to attack; the surrendered troops which are residing inside the Chinese fortress will spring to action. Mulan warns the marshall that he must take precautions to avoid being assaulted from both inside and out. Just then, the military commander enters, discredits Mulan, and orders her to leave. Suddenly, she realizes that the commander must be taking bribes from the enemy.
+Upon returning, Mulan reports that the enemy will soon attack; when this happens, the "surrendered" troops which are residing inside the Chinese fortress will spring to action. Mulan warns the marshall that he must take precautions to avoid being assaulted from both inside and out. Just then, the military commander enters, discredits Mulan, and orders her to leave. Suddenly, she realizes that the commander must be taking bribes from the enemy.
 
 The barbarians attack, but Mulan has ordered her men to be ready. Suddenly, a fire breaks out from within the walls&mdash;one of the "surrendered" enemy generals is the culprit. The military commander is revealed to have assisted the enemy and is sentenced to death. Although Mulan manages to defeat the enemy, the marshall is mortally wounded in the battle. The marshall admits that he should have listened to Mulan; his dying wish is that she be his successor.
 
