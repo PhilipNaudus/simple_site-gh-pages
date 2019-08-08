@@ -3,12 +3,12 @@ layout: post
 title: Mulan Joins the Army (1939 Film)
 description: In addition to being the first retelling to introduce romance into Mulan's story, this classic film helped to make Mulan's story more relatable.
 image: mulan_joins_the_army_1939_triumphant_return.jpg
-alt: Mulan returns in triumph. Images are from Mulan Joins the Army &copy;1939 China United Productions.
-imageType: float
-num: 1
+alt: Mulan returns in triumph. Images are from Mulan Joins the Army, &copy;1939 China United Productions.
+imageType: big
+num: 2
 ---
 
-From the moment the movie begins, we can quickly gather that tell that Mulan is sharp-witted, a skilled hunter, and a loving daughter. Because her father is ill, Mulan decides to go hunting and returns with an impressive amount of game in hopes of restoring his apetite. When she returns, however, she is scolded by her parents for acting in such an unladylike manner. While the family is in the midst of a heated discussion, an official enters and delivers a conscription notice to Mulan's father.
+Mulan is sharp-witted, a skilled hunter, and a loving daughter. Because her father is ill, Mulan decides to go hunting and returns with an impressive amount of game in hopes of restoring his apetite. When she returns, however, she is scolded by her parents for acting in such an unladylike manner. While the family is in the midst of a heated discussion, an official enters and delivers a conscription notice to Mulan's father.
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/mulan_and_her_family_being_scolded_by_her_parents.png" alt="Mulan, together with her family. Mulan is being scolded by her parents parents." />
