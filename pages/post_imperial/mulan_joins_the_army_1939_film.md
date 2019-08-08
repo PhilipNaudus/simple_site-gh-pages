@@ -46,7 +46,7 @@ When Mulan comes across two enemy soldiers, she begins to flirt with them and en
 
 Upon returning, Mulan reports that the enemy is preparing to attack; the surrendered troops which are residing inside the Chinese fortress will spring to action. Mulan warns the marshall that he must take precautions to avoid being assaulted from both inside and out. Just then, the military commander enters, discredits Mulan, and orders her to leave. Suddenly, she realizes that the commander must be taking bribes from the enemy.
 
-The barbarians attack but Mulan has ordered her men to be ready. Sudenly, a fire breaks out from within the walls&emdash;one of the "surrendered" enemy generals is revealed to be the culprit. The military commander is revealed to have assisted the enemy and is sentenced to death. Although Mulan manages to defeat the enemy, the marshall is mortally wounded in the battle. The marshall admits that he should have listened to Mulan; his dying wish is that she be his successor.
+The barbarians attack but Mulan has ordered her men to be ready. Sudenly, a fire breaks out from within the walls&mdash;one of the "surrendered" enemy generals is revealed to be the culprit. The military commander is revealed to have assisted the enemy and is sentenced to death. Although Mulan manages to defeat the enemy, the marshall is mortally wounded in the battle. The marshall admits that he should have listened to Mulan; his dying wish is that she be his successor.
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/07_marshall_dies_and_appoints_mulan_his_successor.jpg" alt="Mulan, together with her family. Mulan is being scolded by her parents parents." />
