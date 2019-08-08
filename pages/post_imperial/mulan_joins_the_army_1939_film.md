@@ -72,4 +72,4 @@ Countless eligible young men from Mulan's hometown eagerly await her return, but
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/mulan_bridal_dress_with_yuandu.jpg" alt="Mulan and Yuandu get married. Mulan is wearing a bridal dress and Yuandu is dressed as the groom." />
 </figure>
 
-[View *Mulan Joins the Army* on IMDB](https://www.imdb.com/title/tt0192338/). *Note:* Although the title is best translated *Mulan Joins the Army*, the producers decided to choose *Maiden in Armour* for the English title because Mulan was still virtually unknown to the English-speaking world at the time this film was released.
+[View *Mulan Joins the Army* on IMDB](https://www.imdb.com/title/tt0192338/). <small>*Note:* Although the title is best translated *Mulan Joins the Army*, the producers decided to choose *Maiden in Armour* for the English title because Mulan was still virtually unknown to the English-speaking world at the time this film was released.</small>
