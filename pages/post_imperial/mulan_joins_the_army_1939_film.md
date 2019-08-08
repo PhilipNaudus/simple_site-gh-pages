@@ -38,7 +38,7 @@ After accepting their orders, Mulan and Yuandu discuss how they should disguise 
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/05_liu_yuandu_hua_mulan_dressed_as_man_and_woman.png" alt="Mulan, together with her family. Mulan is being scolded by her parents parents." />
-<figcaption style="text-align: center;"><i>Yandu: &ldquo; Being that we're dressed this way, what should our characters be?&rdquo;<br />Mulan: &ldquo;Friends.&rdquo;<br />Yuandu: &ldquo;No, we look like more than just friends. We look like...&rdquo;<br />Mulan: &ldquo;Brother and sister.&rdquo;<br />Yuandu: &ldquo;I think most people who see us would assume that we are husband and wife.&rdquo;<br />Mulan: &ldquo;What??&rdquo;<br /></i></figcaption>
+<figcaption style="text-align: center;"><i>Yandu: &ldquo; Being that we're dressed this way, what should we pose as?&rdquo;<br />Mulan: &ldquo;Friends.&rdquo;<br />Yuandu: &ldquo;No, we look like more than just friends. We look like...&rdquo;<br />Mulan: &ldquo;Brother and sister.&rdquo;<br />Yuandu: &ldquo;I think most people who see us would assume that we are husband and wife.&rdquo;<br />Mulan: &ldquo;What??&rdquo;<br /></i></figcaption>
 </figure>
 <br />
 
