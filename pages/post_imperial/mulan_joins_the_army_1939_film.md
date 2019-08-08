@@ -19,7 +19,7 @@ From the moment the movie begins, we can quickly gather that tell that Mulan is 
 That night, Mulan's parents stay up late worrying about what to do. Just when Mulan's father resigns himself to his fate, Mulan enters and volunteers to take his place. Although her mother is strongly opposed to the idea, her father gives Mulan the chance to try on his armor. With some practice, she is able to lower her voice and immitate masculine manerisms. Because the family has no other choice, Mulan's mother finally agrees to allow her to go. The family says a tearful farewell as Mulan departs.
 
 <figure>
-<img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/https://github.com/mathlyml/simple_site-gh-pages/blob/master/assets/images/articles/mulan_joins_the_army_1939/02_mulan_farewell_dinner_with_her_family.png" alt="Mulan, together with her family. Mulan is being scolded by her parents parents." />
+<img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/02_mulan_farewell_dinner_with_her_family.png" alt="Mulan, together with her family. Mulan is being scolded by her parents parents." />
 <figcaption style="text-align: center;"><i>Mulan's father: &ldquo;Let us drink to our daughter's success and safety! Mulan, may you return victorious over the barbarians.&rdquo;</i></figcaption>
 </figure>
 <br />
@@ -59,7 +59,7 @@ Mulan leads the army on a series of successful expiditions and secures the victo
 [Image]
 While drunk, Yuandu blurts out, "I'm in love with a girl but don't dare approach her. She is powerful and hot-tempered. If I don't approach her respectfully enough, she will murder me!"
 
-Countless eligible young men from Mulan's hometown eagerly await her return, but she sends them all away. Mulan resumes her feminine appearance and approaches Yuandu, who is overjoyed. Right before the film ends, we see a short clip of Mulan and Yuandu dressed as bride and groom.
+Countless eligible young men from Mulan's hometown eagerly await her return, but she sends them all away. Mulan resumes her feminine appearance and approaches Yuandu, who is overjoyed. Just before the film ends, we see a short clip of Mulan and Yuandu dressed as bride and groom.
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/09_mulan_bridal_dress_with_yuandu.jpg" alt="Mulan and Yuandu get married. Mulan is wearing a bridal dress and Yuandu is dressed as the groom." />
