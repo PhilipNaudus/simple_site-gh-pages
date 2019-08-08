@@ -27,9 +27,9 @@ The barbarians attack but Mulan has ordered her men to be ready. Sudenly, a fire
 [image]
 The marshall issuing his final decree: "Mulan is the new marshall. He is loyal and brave. He is a mighty leader. You must obey his commands. This is my dying wish."
 
-Mulan leads the army on a series of successful expiditions and secures the victory over the enemy. The emperor offers Mulan a prominent position in the imperial court and promotes Yuandu to take Mulan's place as marshall. However, both of them decline these generous offers.
+Mulan leads the army on a series of successful expiditions and secures the victory over the enemy. The emperor offers Mulan a prominent position in the imperial court and promotes Yuandu to take Mulan's place as marshall. However, Mulan only requests that she be allowed to return home. Yuandu, desiring to remain with Mulan, requests a leave of absence.
 
-Mulan returns to her hometown. Once she resumes her feminine appearance, countless young men come to call but she declines them all. Mulan approaches Yuandu and the two of them are married.
+Countless young men from Mulan's hometown greet her and ask that she consider them as suitors, but she declines them all. Mulan resumes her feminine appearance and approaches Yuandu, who is overjoyed. Right before the film ends, we see a short clip of Mulan and Yuandu dressed as bride and groom.
 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XXTiIBSrZhA)
