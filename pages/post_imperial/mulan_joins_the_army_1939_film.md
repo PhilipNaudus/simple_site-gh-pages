@@ -14,7 +14,7 @@ Most significantly, this film glorifies warfare. Being that it was produced duri
 
 Remaining consistent with their aim to extol the glories of warfare, the directors introduced a romantic subplot into Mulan's story. Mulan, who had previously struggled to fit into society, returned a confident woman who was quickly married to the man of her dreams. None of this would have happened if she had not joined the army. Although many previous retellings conclude Mulan's story with a wedding, her marriage was always arranged. Romance was not present in Mulan's story up until this point.
 
-*Mulan Joins the Army* proved to be a major success. The film inspired the Chinese people to enlist and liberate their country from the Japanese occupation. In addition, the elements which this classic motion picture introduced into Mulan's story have now become integral parts of modern retellings of the legend.
+*Mulan Joins the Army* proved to be a major success. The film inspired the Chinese people to enlist and liberate their country from the Japanese occupation. In addition, the elements which this classic motion picture introduced into Mulan's story have now become integral to modern retellings of the legend.
 
 <h2>Plot Summary</h2>
 
