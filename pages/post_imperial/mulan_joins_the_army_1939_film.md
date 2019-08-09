@@ -82,4 +82,15 @@ Countless eligible young men from Mulan's hometown eagerly await her return, but
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/mulan_bridal_dress_with_yuandu.jpg" alt="Mulan and Yuandu get married. Mulan is wearing a bridal dress and Yuandu is dressed as the groom." />
 </figure>
 
-[View *Mulan Joins the Army* on IMDB](https://www.imdb.com/title/tt0192338/). <small>*Note:* Although the title is best translated *Mulan Joins the Army*, the producers chose *Maiden in Armour* for the English title because Mulan was still virtually unknown to the English-speaking world at the time this film was released.</small>
+[View *Mulan Joins the Army* on IMDB](https://www.imdb.com/title/tt0192338/). <small>*Note:* 
+<center><a id="note_link" href="#" onclick="toggle_note(); return false;">Notes <i class="fa fa-angle-down" id="show_note_icon"></i><i class="fa fa-angle-up" id="hide_note_icon"></i></a></center>
+
+<div id="note">
+<ol>
+<li>Information about this film, including legal (paid) streaming options, is <a href="http://m.mtime.cn/#!/movie/37503/">available on Mtime</a> (the Chinese equivalent to IMDB).
+<li>An English translation of the film's transcript appears in Shiamin Kwa and Wilt Idema's <i>Mulan: Five Versions of a Classic Chinese Legend</i> (Hackett Publishing Company, 2010).</li>
+<li>Although the title is best translated *Mulan Joins the Army*, the producers chose *Maiden in Armour* for the English title because Mulan was still virtually unknown to the English-speaking world at the time this film was released.</li>
+</ol>
+</div>
+
+<script type="text/javascript" src="/assets/js/toggle_note.js"></script>
