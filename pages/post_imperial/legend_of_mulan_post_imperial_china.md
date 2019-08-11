@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Legend of Mulan During Post-Imerial China
-description: During a time when the Chinese endured significant oppression, the legend of Mulan experienced a surge in poplarity, as the people longed for such a hero.
+description: After the fall of Imperial China, and especially after Mulan&rsquo;s story traveled to the West, the legend underwent significant alterations as numerous causes from various cultures all began to herald Mulan as their guiding hero.
 image: mulan_returns_in_glory.jpg
 alt: '&ldquo;Mulan Returns in Glory.&rdquo; This WWII painting was used to inspire all Chinese people, both men and women, to resist Japanese aggression. Ten talented artists collaborated to produce this painting. <small>(Artists: Zheng Meiqing, Zhou Baihang, Jiao Ying, Li Mubai, Wu Zhiguang, Xie Zhiguang, Jin Meisheng, Ge Xiangyu, Tian Qingquan, and Yang Junsheng)</small>'
 imageType: float
@@ -14,7 +14,8 @@ In the 1920s, the communist party begain gaining traction. The communists, who i
 
 In 1937, the <i>War of Resistance against Japanese Aggression</i> (which eventually escalated into World War II) broke out. Initially, China suffered several devastating defeats, including the loss of Nanjing (the capital city), throwing the country into a state of alarm. Women stepped into the workforce to sustain the Chinese economy while the vast majority of the country's men enlisted to reclaim China. During this time, Zheng Meiqing assembled a team of talented artists to produce a poster which would inspire all Chinese people, both men and women, to work together in order to defeat the Japanese (shown above). No hero epitomized the artists' sentiments better than Mulan.
 
-In 1939, one of the first successfull films of Mulan's story came to the theater. The movie, which glorified warfare, was received as a call to arms. With the warrior princess Hua Mulan leading the way, the Chinese were overcome with a renewed desire to liberate themselves from foreign aggression.
+In 1939, one of the first successfull films of Mulan's story, [Mulan Joins the Army](/pages/post_imperial/mulan_joins_the_army_1939_film), came to the theater. The movie, which glorified warfare, was received as a call to arms. With the warrior princess Hua Mulan leading the way, the Chinese were overcome with a renewed desire to liberate themselves from foreign aggression. After the war ended, when it quickly became apparent that the Chinese people would never be able to return to the lives they once knew, another flm (Lady General Hua Mulan) issued a plea for the Chinese to unite as a family in order to persevere through the trials which lay ahead.
+
 
 <center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <i class="fa fa-angle-down" id="show_note_icon"></i><i class="fa fa-angle-up" id="hide_note_icon"></i></a></center>
 

@@ -39,7 +39,7 @@ While on her way to Yan'an (where the soldiers will report for duty), Mulan runs
 <figcaption style="text-align: center;"><i>Yuandu: &ldquo;Even though we just met, I feel as if we are old friends. Who would have thought that I, from Peiliang, and you, from Haozhou, would come together like this? It must have been predestined!&rdquo;</i></figcaption>
 </figure>
 
-Three years later, Mulan has earned a prominent position for herself. One day, two enemy generals come forward to surrender, but both Mulan and Yuandu are suspicious of their motives. The two of them go before the marshal, who reluctantly allows them to investigate further into the situation.
+Three years later, Mulan has earned a prominent position for herself. One day, two enemy generals come forward to surrender, but both Mulan and Yuandu are suspicious of their motives. The two of them go before the supreme commander, who reluctantly allows them to investigate further into the situation.
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/mulan_yuandu_discuss_military_plans.png" alt="Mulan and Yuandu discussing military plans in Mulan's office." />
@@ -60,16 +60,16 @@ When Mulan comes across two enemy soldiers, she begins to flirt with them and en
 <figcaption style="text-align: center;"><i>Right before Mulan kills the two barbarians, she laughs and exclaims, &ldquo;Isn&rsquo;t this so much fun?&rdquo;</i></figcaption>
 </figure>
 
-Upon returning, Mulan reports that the enemy will soon attack; when this happens, the "surrendered" troops which are residing inside the Chinese fortress will spring into action. Mulan warns the marshall that he must take precautions to avoid being assaulted from both inside and out. Just then, the military commander enters, discredits Mulan, and orders her to leave. Suddenly, she realizes that the commander must be taking bribes from the enemy.
+Upon returning, Mulan reports that the enemy will soon attack; when this happens, the "surrendered" troops which are residing inside the Chinese fortress will spring into action. Mulan warns the supreme commander that he must take precautions to avoid being assaulted from both inside and out. Just then, the military commander enters, discredits Mulan, and orders her to leave. Suddenly, she realizes that the commander must be taking bribes from the enemy.
 
-The barbarians attack, but Mulan has ordered her men to be ready. Suddenly, a fire breaks out from within the walls&mdash;one of the "surrendered" enemy generals is the culprit. The military commander is revealed to have assisted the enemy and is sentenced to death. Although Mulan manages to defeat the enemy, the marshall is mortally wounded in the battle. The marshall admits that he should have listened to Mulan; his dying wish is that she be his successor.
+The barbarians attack, but Mulan has ordered her men to be ready. Suddenly, a fire breaks out from within the walls&mdash;one of the "surrendered" enemy generals is the culprit. The military commander is revealed to have assisted the enemy and is sentenced to death. Although Mulan manages to defeat the enemy, the supreme commander is mortally wounded in the battle. The supreme commander admits that he should have listened to Mulan; his dying wish is that she be his successor.
 
 <figure>
-<img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/marshall_dies_and_appoints_mulan_his_successor.jpg" alt="The marshall on his deathbed, issuing his final decree: That Mulan take his place." />
-<figcaption style="text-align: center;"><i>The marshall issuing his final decree: &ldquo;Mulan is the new marshall. He is loyal and brave. He is a mighty leader. You must obey his commands. This is my dying wish.&rdquo;</i></figcaption>
+<img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/supreme_commander_dies_and_appoints_mulan_his_successor.jpg" alt="The supreme commander on his deathbed, issuing his final decree: That Mulan take his place." />
+<figcaption style="text-align: center;"><i>The supreme commander issuing his final decree: &ldquo;Mulan is the new supreme commander. He is loyal and brave. He is a mighty leader. You must obey his commands. This is my dying wish.&rdquo;</i></figcaption>
 </figure>
 
-Mulan leads the army on a series of successful expeditions and secures the victory over the enemy. The emperor offers Mulan a prominent position in the imperial court and promotes Yuandu to take Mulan's place as marshall. However, Mulan asks that she be allowed to return home. Yuandu, desiring to remain with Mulan, requests a leave of absence.
+Mulan leads the army on a series of successful expeditions and secures the victory over the enemy. The emperor offers Mulan a prominent position in the imperial court and promotes Yuandu to take Mulan's place as supreme commander. However, Mulan asks that she be allowed to return home. Yuandu, desiring to remain with Mulan, requests a leave of absence.
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/mulan_joins_the_army_1939/yuandu_drunk.png" alt="Yuandu, drunk, standing in front of Mulan. He looks sad." />
