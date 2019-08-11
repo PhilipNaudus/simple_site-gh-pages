@@ -20,6 +20,12 @@ Mulan: "Fine, if you're not willing to become a woman, I will. Let us promise th
 
 <h2>Plot Summary</h2>
 
+The film opens with Mulan returning from a successful hunting trip to find her father, Hua Hu, in shock over having received a conscription notice. Although Hua Hu was once a skilled warrior, he is now old and afraid that going on a military expidition will cost his life. Although Mulan immeditely offers to take her father's place, her parents scorn the idea.
+
+Meanwhile, Mulan's uncle is also drafted into the army. When Mulan finds that her uncle's son, Hua Ping, is going on the expidition in place of his father, Mulan asks Ping to help her change her father's mind. After Ping coaches Mulan on how to speak to her father, Ping approaches Hua Hu and says that he would like to introduce him to a comrade, who is actually Mulan dressed as a man. Hua Hu, who is unable to see through his own daughter's disguise, spars with Mulan and is defeated. After Mulan successfully disarms her father, her hat falls to the ground. Hua Hu is shocked to realize that his daughter is such a skilled fighter. Finally, he admits that a woman can be just as valuable as a man when it comes to defending the country.
+
+~~~~~
+
 Mulan is sharp-witted, a skilled hunter, and a loving daughter. Because her father is ill, Mulan decides to go hunting and returns with an impressive amount of game in hopes of restoring his appetite. When she returns, however, she is scolded by her parents for acting in such an unladylike manner. While the family is in the midst of a heated discussion, an official enters and delivers a conscription notice to Mulan's father.
 
 <figure>
