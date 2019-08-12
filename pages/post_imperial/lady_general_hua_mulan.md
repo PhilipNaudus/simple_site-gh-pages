@@ -28,6 +28,12 @@ Mulan and Ping say tearful farewells to their families. As the two of them trave
 
 Mulan performs well in training exercises and is tasked with guarding the military warehouse. Although she expects to quickly receive further promotions, her military career begins to plateau. She confides her insecurities in General Li Guang, who assures her that all positions are equally important. Under the encouragement of General Li, Mulan begins to study flocking patterns of birds and soon learns how to infer the position of the enemy. In this way, Mulan discovers that the enemy is preparing for a nighttime ambush and alerts the supreme commander, who immediately makes preparations. Thanks to Mulan, the army avoids a major defeat and, instead, captures the enemy.
 
+Mulan returns from the battle with an arrow wound in her shoulder. In an attempt to treat the injury, her comrades begin to rip her shirt apart. Mulan panics and refuses to allow anyone to tend to her shoulder. Ping, who is the only person who understands the true reason behind Mulan's actions, tears a whole in Mulan's shirt which is just wide enough to allow her wound to be treated without revealing her true gender.
+
+After Mulan's shoulder has healed, the supreme commander asks to speak with her privately. He praises her for being a valiant soldier and offers his daughter in marriage. If Mulan was actually a man, she would have been flattered by this magnanimous gesture. Unable to decline the supreme commander's offer without offending him, Mulan pretends that her shoulder has suddenly become painful again to escape the awkward situation.
+
+
+
 ~~~~~
 
 Mulan is sharp-witted, a skilled hunter, and a loving daughter. Because her father is ill, Mulan decides to go hunting and returns with an impressive amount of game in hopes of restoring his appetite. When she returns, however, she is scolded by her parents for acting in such an unladylike manner. While the family is in the midst of a heated discussion, an official enters and delivers a conscription notice to Mulan's father.
