@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lady General Hua Mu-Lan (1964)
-description: This retelling of Mulan's story focuses on unity. Mulan, Ping, and Li Guang all small contributions. Together, they achieved something great.
+description: This retelling of Mulan's story focuses on unity. Although Mulan, Ping, and Li Guang all make small contributions, they achieved something great together.
 image: lady_general_hua_mulan_movie_poster.jpg
 alt: A movie poster for Lady General Hua Mu-Lan. Images are copyright &copy;1964 Shaw Brothers.
 imageType: float
