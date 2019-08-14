@@ -72,7 +72,7 @@ Throughout her time in the army, Mulan has been growing increasingly fond of Gen
 <figcaption style="text-align: center;"><i></i></figcaption> Mulan: &ldquo;I want to be with you.&rdquo;<br />Li Guang: &ldquo;We are brothers. How can we be married?&rdquo;<br />Mulan: &ldquo;If you turned into a woman, I would take you as my wife!&rdquo;<br />Li Guang: &ldquo;How would I become a woman? You speak in mysteries!&rdquo;<br />Mulan: &ldquo;Fine, if you're not willing to become a woman, I will.&rdquo;
 </figure>
 
-The supreme commanders order Mulan's comrades (including General Li) to accompany her home to deliver extravagant gifts in hopes that this will convince Mulan to marry the supreme commander's daughter. As soon as she has finished greeting her family, Mulan resumes her feminine appearance. Her comrades are bewildered. General Li's eyes are finally opened and he agrees to marry Mulan. However, he is under orders to return to the supreme commander.
+The supreme commander orders Mulan's comrades (including General Li) to accompany her home to deliver extravagant gifts in hopes that this will convince Mulan to marry the supreme commander's daughter. As soon as she has finished greeting her family, Mulan resumes her feminine appearance. Her comrades are bewildered. General Li's eyes are finally opened and he agrees to marry Mulan. However, he is under orders to return to the supreme commander.
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/lady_general_hua_mulan/mulan_resumes_feminine_appearance.png" alt="Mulan resumes her feminine appearance and appears before General Li Guang" />
