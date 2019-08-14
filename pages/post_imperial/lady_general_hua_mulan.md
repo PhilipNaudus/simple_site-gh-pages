@@ -58,7 +58,7 @@ Mulan returns from the battle with an arrow wound in her shoulder. In an attempt
 <figcaption style="text-align: center;"><i>Li Guang and Hua Ping work together to stop the bleeding on Mulan's shoulder</i></figcaption>
 </figure>
 
-After Mulan's shoulder has healed, the supreme commander asks to speak with her privately. He praises her for being a valiant soldier and offers to grant her whatever she desires. Mulan's only request is that she be allowed to return home to care for her elderly parents. The supreme commander agrees and then proposes to give his daughter to her in marriage. If Mulan was actually a man, she would have been flattered by this magnanimous gesture. Unable to decline the supreme commander's offer without offending him, Mulan pretends that her shoulder has suddenly become painful again to escape the awkward situation.
+After Mulan's shoulder has healed, the supreme commander asks to speak with her privately. He praises her for being a valiant soldier and offers to grant her whatever she desires. Mulan's only request is that she be allowed to return home to care for her elderly parents. The supreme commander agrees and, in addition, proposes to give his daughter to her in marriage. If Mulan was actually a man, she would have been flattered by this magnanimous gesture. Unable to decline the supreme commander's offer without offending him, Mulan pretends that her shoulder has suddenly become painful again to escape the awkward situation.
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/lady_general_hua_mulan/supreme_commander_with_mulan.png" alt="The supreme commander proposing that Mulan marry his daughter" />
