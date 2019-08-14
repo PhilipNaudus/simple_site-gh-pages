@@ -42,28 +42,28 @@ When the soldiers are expected to sleep together in the same bed, Ping fights fo
 <figure>
 <img class="fillimg" src="/assets/images/articles/lady_general_hua_mulan/mulan_and_ping_prepare_to_retire_for_the_night.png" alt="Mulan and Ping prepare to retire for the night" />
 <figcaption style="text-align: center;"><i>Mulan and Ping prepare to retire for the night</i></figcaption>
-</figure><br />
+</figure>
 
 Mulan performs well in training exercises and is tasked with guarding the military warehouse. Although she expects to quickly receive further promotions, her military career begins to plateau. She confides her insecurities in General Li Guang, who assures her that all positions are equally important. Under the encouragement of General Li, Mulan begins to study flocking patterns of birds and soon learns how to infer the position of the enemy. In this way, Mulan discovers that the enemy is preparing for a nighttime ambush and alerts the supreme commander, who immediately makes preparations. Thanks to Mulan, the army avoids a major defeat and, instead, captures the enemy.
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/lady_general_hua_mulan/mulan_with_general_li_guang_at_night.png" alt="Mulan togeter with General Li Guang at night" />
 <figcaption style="text-align: center;"><i>Mulan showing General Li Guang how she identified the position of the enemy</i></figcaption>
-</figure><br />
+</figure>
 
 Mulan returns from the battle with an arrow wound in her shoulder. In an attempt to treat the injury, her comrades begin to rip her shirt apart. Mulan panics and refuses to allow anyone to tend to her shoulder. Ping, who is the only person who understands the true reason behind Mulan's actions, tears a whole in Mulan's shirt which is just wide enough to allow her wound to be treated without revealing her true gender.
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/lady_general_hua_mulan/mulan_shoulder_bleeding.png" alt="Li Guang and Hua Ping work together to stop the bleeding on Mulan's shoulder" />
 <figcaption style="text-align: center;"><i>Li Guang and Hua Ping work together to stop the bleeding on Mulan's shoulder</i></figcaption>
-</figure><br />
+</figure>
 
 After Mulan's shoulder has healed, the supreme commander asks to speak with her privately. He praises her for being a valiant soldier and offers to grant her whatever she desires. Mulan's only request is that she be allowed to return home to care for her elderly parents. The supreme commander agrees and, in addition, proposes to give his daughter to her in marriage. If Mulan was actually a man, she would have been flattered by this magnanimous gesture. Unable to decline the supreme commander's offer without offending him, Mulan pretends that her shoulder has suddenly become painful again to escape the awkward situation.
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/lady_general_hua_mulan/supreme_commander_with_mulan.png" alt="The supreme commander proposing that Mulan marry his daughter" />
 <figcaption style="text-align: center;"><i>The supreme commander proposing that Mulan marry his daughter</i></figcaption>
-</figure><br />
+</figure>
 
 Throughout her time in the army, Mulan has been growing increasingly fond of General Li. Now that her time remaining with the general is limited, Mulan must reveal her true feelings or risk being forever separated from him. Mulan tries several times to cause Li to realize that she is in love with him. Despite her best efforts, Li ends up entirely confused, as he still sees Mulan as a man.
 
@@ -77,7 +77,7 @@ The supreme commander orders Mulan's comrades (including General Li) to accompan
 <figure>
 <img class="fillimg" src="/assets/images/articles/lady_general_hua_mulan/mulan_resumes_feminine_appearance.png" alt="Mulan resumes her feminine appearance and appears before General Li Guang" />
 <figcaption style="text-align: center;"><i>Mulan resumes her feminine appearance and appears before General Li Guang</i></figcaption>
-</figure><br />
+</figure>
 
 Mulan and General Li exchange gifts as tokens of their betrothal. As the final scene draws to a close, Mulan holds Li Guang's sword close to her chest and then raises it toward the sky.
 
