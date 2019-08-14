@@ -10,7 +10,9 @@ num: 3
 
 The 1960s was a turbulent time for Hong Kong. After World War II ended and Britain reclaimed Hong Kong from the Japanese, the residents were left confused about whether they would identify with China, which as now under communist rule, or with Britain. Because the British were ill equipped to provide Hong Kong with the infrastructure needed to sustain a growing society, there was much concern about unrest during this time.
 
-In this midst of this uncertainty, the film *Lady General Hua Mu-Lan* was released. The directors used the iconic hero Mulan to urge the Chinese residents of Hong Kong that although these political concerns were important, they were all secondary to being united with their brethren. In this film, none of the characters achieve greatness. Rather, each member makes a small contribution to a greater cause.
+In this midst of this uncertainty, the film *Lady General Hua Mu-Lan* was released. The directors used the iconic hero Mulan to urge the Chinese residents of Hong Kong that although these political concerns were important, they were all secondary to being united with their brethren.
+
+In this film, none of the characters achieve greatness. Rather, each member makes a small contribution to a greater cause.
 
 <h2>Plot Summary</h2>
 
@@ -18,7 +20,7 @@ The film opens with Mulan returning from a successful hunting trip to find her f
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/lady_general_hua_mulan/mulan_sees_her_father_sick.png" alt="Mulan returns home to find that her ill father has just received his draft notice. Mulan is wearing a hunting uniform and her father is in bed." />
-<figcaption style="text-align: center;"><i>Mulan returns home to find that her ill father has just received his draft notice. Left: Mulan. Right: Father and mother.</i></figcaption>
+<figcaption style="text-align: center;"><i>Mulan returns home to find that her ill father has just received his draft notice.<br />Left: Mulan. Right: Father and mother.</i></figcaption>
 </figure>
 
 Meanwhile, Mulan's uncle is also drafted into the army. When Mulan finds that her uncle's son, Hua Ping, is going on the expidition in place of his father, Mulan asks Ping for help. After Ping coaches Mulan on how to speak to her father, Ping approaches Hua Hu and introduces him to a "comrade" (who is actually Mulan dressed as a man). Hua Hu, who is unable to see through his own daughter's disguise, spars with Mulan and is defeated. Just as Mulan disarms her father, her hat falls to the ground. Shocked to realize that his daughter is such a skilled fighter, Hua Hu finally admits that a woman can be just as valuable as a man when it comes to defending the country.
