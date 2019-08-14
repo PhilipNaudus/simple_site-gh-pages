@@ -23,7 +23,7 @@ The film opens with Mulan returning from a successful hunting trip to find her f
 <figcaption style="text-align: center;"><i>Mulan returns home to find that her ill father has just received his draft notice.<br />Left: Mulan. Right: Father and mother.</i></figcaption>
 </figure>
 
-Meanwhile, Mulan's uncle is also drafted into the army. When Mulan finds that her uncle's son, Hua Ping, is going on the expidition in place of his father, Mulan asks Ping for help. After Ping coaches Mulan on how to speak to her father, Ping approaches Hua Hu and introduces him to a "comrade" (who is actually Mulan dressed as a man). Hua Hu, who is unable to see through his own daughter's disguise, spars with Mulan and is defeated. Just as Mulan disarms her father, her hat falls to the ground. Shocked to realize that his daughter is such a skilled fighter, Hua Hu finally admits that a woman can be just as valuable as a man when it comes to defending the country.
+Meanwhile, Mulan's uncle is also drafted into the army. When Mulan finds that her uncle's son, Hua Ping, is going in place of his father, Mulan asks Ping for help. After Ping coaches Mulan on how to speak to her father, Ping approaches Hua Hu and introduces him to a "comrade" (who is actually Mulan dressed as a man). Hua Hu, who is unable to see through his own daughter's disguise, spars with Mulan and is defeated. Just as Mulan disarms her father, her hat falls to the ground. Shocked to realize that his daughter is such a skilled fighter, Hua Hu finally admits that a woman can be just as valuable as a man when it comes to defending the country.
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/lady_general_hua_mulan/mulan_spars_with_her_father.png" alt="Mulan sparring with her father" />
