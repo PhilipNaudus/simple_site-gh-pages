@@ -21,21 +21,21 @@ The film opens with Mulan returning from a successful hunting trip to find her f
 <figure>
 <img class="fillimg" src="/assets/images/articles/lady_general_hua_mulan/mulan_sees_her_father_sick.png" alt="Mulan returns home to find that her ill father has just received his draft notice. Mulan is wearing a hunting uniform and her father is in bed." />
 <figcaption style="text-align: center;"><i>Mulan returns home to find that her ill father has just received his draft notice.</i></figcaption>
-</figure><br />
+</figure>
 
 Meanwhile, Mulan's uncle is also drafted into the army. When Mulan finds that her uncle's son, Hua Ping, is going in place of his father, Mulan asks Ping for help. After Ping coaches Mulan on how to speak to her father, Ping approaches Hua Hu and introduces him to a "comrade" (who is actually Mulan dressed as a man). Hua Hu, who is unable to see through his own daughter's disguise, spars with Mulan and is defeated. Just as Mulan disarms her father, her hat falls to the ground. Shocked to realize that his daughter is such a skilled fighter, Hua Hu finally admits that a woman can be just as valuable as a man when it comes to defending the country.
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/lady_general_hua_mulan/mulan_spars_with_her_father.png" alt="Mulan sparring with her father" />
 <figcaption style="text-align: center;"><i>Mulan sparring with her father</i></figcaption>
-</figure><br />
+</figure>
 
 Mulan and Ping say tearful farewells to their families. As the two of them travel together, Mulan repeatedly finds that a woman in a man's world will find herself in many awkward situations. Each time, Ping finds a way to assist her while protecting her secret.
 
 <figure>
 <img class="fillimg" src="/assets/images/articles/lady_general_hua_mulan/mulan_bids_farewell_to_her_family.png" alt="Mulan bidding farewell to her family" />
 <figcaption style="text-align: center;"><i>Mulan bidding farewell to her family. From left to right: Father, older sister, mother, younger brother, Mulan.</i></figcaption>
-</figure><br />
+</figure>
 
 When the soldiers are expected to sleep together in the same bed, Ping fights for a separate bed and then gives it to Mulan. When the soldiers drink together, Ping insists that she refrain. Mulan naively thinks that drinking a few glasses of alcohol will establish her manliness, but the result is the men pressuring her to drink in excess. When the drunken Mulan begins to change clothes in front of the other soldiers, Ping patiently restrains her and waits for her to become sober again.
 
