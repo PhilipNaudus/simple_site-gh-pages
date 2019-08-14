@@ -82,7 +82,7 @@ The supreme commander orders Mulan's comrades (including General Li) to accompan
 Mulan and General Li exchange gifts as tokens of their betrothal. As the final scene draws to a close, Mulan holds Li Guang's sword close to her chest and then raises it toward the sky.
 
 <figure>
-<img class="fillimg" src="/assets/images/articles/mulan_holding_li_guangs_sword.png" alt="Mulan holding Li Guang's sword" />
+<img class="fillimg" src="/assets/images/articles/lady_general_hua_mulan/mulan_holding_li_guangs_sword.png" alt="Mulan holding Li Guang's sword" />
 </figure>
 
 <a href="https://www.imdb.com/title/tt0064452/">View Lady General Hua Mu-Lan on IMDB</a>
