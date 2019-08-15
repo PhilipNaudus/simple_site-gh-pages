@@ -143,6 +143,21 @@ nav ul li:hover>ul {
   margin-top: 70px;
 }
 
+@media screen and (max-width:991px) {
+  .clearfix {
+    margin-top: 120px;
+  }
+
+  figure {
+    width: 70vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -35vw;
+    margin-right: -35vw;
+  }
+}
+
 @media all and (max-width:768px) {
   .menu,  .toggle+a {
     display: none;
@@ -173,11 +188,14 @@ nav ul li:hover>ul {
     width: 100%;
     padding: 5px 0;
   }
-}
 
-@media screen and (max-width:991px) {
-  .clearfix {
-    margin-top: 120px;
+  figure {
+    width: 90vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -45vw;
+    margin-right: -45vw;
   }
 }
 
