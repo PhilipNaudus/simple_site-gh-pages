@@ -83,7 +83,7 @@ Countless eligible young men from Mulan's hometown eagerly await her return, but
 </figure>
 
 {::nomarkdown}
-<center><a id="note_link" href="#" onclick="toggle_note(); return false;">Notes <i class="fa fa-angle-down" id="show_note_icon"></i><i class="fa fa-angle-up" id="hide_note_icon"></i></a></center>
+<center><a id="note_link" href="#" onclick="toggle_note(); return false;">Notes <span id="show_note_icon"></span></a></center>
 
 <div id="note">
 <ol>
