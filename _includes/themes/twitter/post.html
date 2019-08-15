@@ -28,7 +28,7 @@
 					{% assign defaultImage = page.image  %}
 				{% endif %}
 
-				<figure {% if page.imageType contains "float" %} class="float left" style="max-width: 450px;" {% endif %}>
+				<figure {% if page.imageType contains "float" %} class="float left" style="max-width: 450px;" {% else %} class="big" {% endif %}>
 				{% if page.image contains "#" %}
 				<picture>
 					<source media="(min-width: 830px)" srcset="/assets/images/articles/{{ imageArr[1] }}">
