@@ -11,14 +11,18 @@
 	<!-- css files -->
 	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/{{ page.layout }}.css" type="text/css" media="none" onload="if(media!='all')media='all'" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1802158-3"></script>
+<script defer src="https://www.googletagmanager.com/gtag/js?id=UA-1802158-3"></script>
 <script>
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 
 gtag('config', 'UA-1802158-3');
+    window.lazyLoadOptions = {	
+        elements_selector: ".lazy",		
+    };
 </script>
+<script defer src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js"></script>	
 </head>
 <body>
 <header>
