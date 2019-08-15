@@ -14,7 +14,7 @@ Amid this culture which had ceased prizing the cultivation of virtue through car
 
 Sadly, this rendition of Mulan&rsquo;s tale is also the most popular. While Xu Wei did Mulan (and women in general) an incredible disservice, he did succeed in bringing the story of Mulan into the public spotlight. Before the Ming Dynasty, Mulan was only mentioned by a handful of poets; after Xu Wei released <i>Mulan Joins the Army</i>, authors and even historians began taking an increasing interest in Mulan&rsquo;s story.
 
-<center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <i class="fa fa-angle-down" id="show_note_icon"></i><i class="fa fa-angle-up" id="hide_note_icon"></i></a></center>
+<center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <span id="show_note_icon"></span></a></center>
 
 <div id="note">
 <ol>
