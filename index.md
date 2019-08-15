@@ -25,7 +25,7 @@ description: "In-depth analysis into Mulan's history and legend, including resea
 					{% assign defaultImage = article.image  %}
 				{% endif %}
 
-				<a href="{{ article.url }}"><img src="/assets/images/thumbs/articles/placeholder.jpg" data-src="/assets/images/thumbs/articles/{{ defaultImage }}" alt="{{ article.alt | strip_html }}" class="img-fluid"></a>
+				<a href="{{ article.url }}"><img src="/assets/images/thumbs/articles/placeholder.jpg" data-src="/assets/images/thumbs/articles/{{ defaultImage }}" alt="{{ article.alt | strip_html }}" class="lazy img-fluid"></a>
 			</div>
 			<div class="col-md-8 main-2">
 				<h3 class="mt-2"><a href="{{ article.url }}">{{ article.title }}</a></h3>
