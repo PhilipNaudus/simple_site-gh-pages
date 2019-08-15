@@ -1615,6 +1615,8 @@ ul.address.two li, ul.address.two li a {
   margin-right: auto;
  }
 
+#show_note_icon{position:relative;bottom:-0.2em;}
+
 .indent {
 margin-left: 3em;
 }
