@@ -148,7 +148,7 @@ nav ul li:hover>ul {
     margin-top: 120px;
   }
 
-  figure {
+  figure.big {
     width: 70vw;
     position: relative;
     left: 50%;
@@ -189,7 +189,7 @@ nav ul li:hover>ul {
     padding: 5px 0;
   }
 
-  figure {
+  figure.big {
     width: 90vw;
     position: relative;
     left: 50%;
