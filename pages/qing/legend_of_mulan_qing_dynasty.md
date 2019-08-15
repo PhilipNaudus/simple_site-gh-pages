@@ -12,7 +12,7 @@ After the collapse of the Ming dynasty, the Chinese people found themselves unde
 
 During this time, the legend of Mulan experienced a surge in poplarity amongst the Chinese people, who longed to see such a hero rise up amongst them. Her story, which was set during the era of Northern Wei (when China was ruled by the barbaric Xianbei), showed how a woman demonstrated incredible virtue during one of the darkest moments in Chinese history. Her example encouraged the Han Chinese to continue living virtuously, even when doing so would have significant consequences.
 
-<center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <i class="fa fa-angle-down" id="show_note_icon"></i><i class="fa fa-angle-up" id="hide_note_icon"></i></a></center>
+<center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <span id="show_note_icon"></span></a></center>
 
 <div id="note">
 <ol>
