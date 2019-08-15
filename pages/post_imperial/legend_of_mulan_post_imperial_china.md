@@ -17,7 +17,7 @@ In 1937, the <i>War of Resistance against Japanese Aggression</i> (which eventua
 In 1939, one of the first successfull films of Mulan's story, [Mulan Joins the Army](/pages/post_imperial/mulan_joins_the_army_1939_film), came to the theater. The movie, which glorified warfare, was received as a call to arms. With the warrior princess Hua Mulan leading the way, the Chinese were overcome with a renewed desire to liberate themselves from foreign aggression. After the war ended, when it quickly became apparent that the Chinese people would never be able to return to the lives they once knew, another flm ([Lady General Hua Mulan](/pages/post_imperial/lady_general_hua_mulan)) issued a plea for the Chinese to unite as a family in order to persevere through the trials which lay ahead.
 
 
-<center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <i class="fa fa-angle-down" id="show_note_icon"></i><i class="fa fa-angle-up" id="hide_note_icon"></i></a></center>
+<center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <span id="show_note_icon"></span></a></center>
 
 <div id="note">
 <ol>
