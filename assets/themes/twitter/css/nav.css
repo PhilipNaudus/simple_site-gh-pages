@@ -8,39 +8,11 @@ header {
   display: none;
 }
 
-nav {
-  margin: 0;
-  padding: 0;
-  white-space: nowrap;
-}
-
-nav.mnu {
-  margin-top: 1em;
-  padding: 1em 1em;
-}
-
 #logo a {
   float: left;
   display: initial;
   margin: 0;
   color: #000;
-}
-
-#logo h1 a {
-  font-size: 24px;
-  text-transform: uppercase;
-  display: initial;
-  margin: 0;
-  letter-spacing: .04em;
-  line-height: 1.3em;
-  color: #000;
-  font-weight: 800;
-}
-
-#logo img {
-  max-width: 200px;
-  width: calc(100vw - 120px);
-  height: auto;
 }
 
 nav.mnu {
@@ -90,39 +62,8 @@ ul.menu li a:hover {
   color: #e44c65!important;
 }
 
-nav ul ul {
-  display: none;
-  position: absolute;
-  top: 30px;
-  background: #fff;
-  padding: 10px;
-}
-
 nav ul li:hover>ul {
   display: inherit;
-}
-
-nav ul ul li {
-  width: 170px;
-  float: none;
-  display: list-item;
-  position: relative;
-}
-
-nav ul ul li a {
-  color: #333;
-  padding: 5px 10px;
-  display: block;
-}
-
-nav ul ul ul li {
-  position: relative;
-  top: -60px;
-  left: 170px;
-}
-
-li>a:only-child:after {
-  content: '';
 }
 
 .clearfix {
@@ -130,18 +71,6 @@ li>a:only-child:after {
 }
 
 @media all and (max-width:768px) {
-  #logo {
-    display: block;
-    padding: 0;
-    width: 100%;
-    text-align: center;
-    float: none;
-  }
-
-  nav {
-    margin: 0;
-  }
-
   .menu,  .toggle+a {
     display: none;
   }
@@ -158,22 +87,6 @@ li>a:only-child:after {
     cursor: pointer;
   }
 
-  .menu .toggle {
-    float: none;
-    text-align: center;
-    margin: auto;
-    width: 80%;
-    padding: 5px;
-    font-weight: 400;
-    font-size: 16px;
-    letter-spacing: 1px;
-  }
-
-  .toggle:hover {
-    color: #333;
-    background-color: #fff;
-  }
-
   [id^=drop]:checked+ul {
     display: block;
     background: rgba(16,16,16,.85);
@@ -186,60 +99,6 @@ li>a:only-child:after {
     display: block;
     width: 100%;
     padding: 5px 0;
-  }
-
-  nav ul ul .toggle,  nav ul ul a {
-    padding: 0 40px;
-  }
-
-  nav ul ul ul a {
-    padding: 0 80px;
-  }
-
-  nav a:hover,  nav ul ul ul a {
-    background-color: transparent;
-  }
-
-  nav ul li ul li .toggle,  nav ul ul a,  nav ul ul ul a {
-    padding: 14px 20px;
-    color: #fff;
-    font-size: 17px;
-  }
-
-  nav ul li ul li .toggle,  nav ul ul a {
-    background-color: #212121;
-  }
-
-  nav ul ul {
-    float: none;
-    position: static;
-    color: #fff;
-  }
-
-  nav ul li:hover>ul,  nav ul ul li:hover>ul {
-    display: none;
-  }
-
-  nav ul ul li {
-    display: block;
-    width: 100%;
-    padding: 0;
-  }
-
-  nav ul ul ul li {
-    position: static;
-  }
-
-  nav ul ul li a {
-    color: #000;
-    font-size: .85em;
-  }
-}
-
-@media all and (max-width:330px) {
-  nav ul li {
-    display: block;
-    width: 94%;
   }
 }
 
@@ -282,4 +141,99 @@ li>a:only-child:after {
   border: 3px solid rgba(64,66,65,.04);
   box-shadow: 0 1px 1px rgba(0,0,0,.5);
   margin-right: .7em;
+}
+
+*,::after,::before {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width:576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width:768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width:992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width:1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col-lg-8,.col-md-4,.col-md-8,.col-md-9 {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media (min-width:768px) {
+  .col-md-4 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+
+  .col-md-8 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+}
+
+@media (min-width:992px) {
+  .col-lg-8 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+}
+
+.mt-3 {
+  margin-top: 1rem!important;
+}
+
+.mb-5 {
+  margin-bottom: 3rem!important;
+}
+
+.py-5 {
+  padding-top: 3rem!important;
 }
