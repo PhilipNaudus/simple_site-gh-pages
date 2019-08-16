@@ -86,3 +86,5 @@ Mulan and General Li exchange gifts as tokens of their betrothal. As Mulan watch
 </figure>
 
 <a href="https://www.imdb.com/title/tt0064452/">View <i>Lady General Hua Mu-Lan on IMDB</i></a>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js" onload="var lazyLoadInstance=new LazyLoad({elements_selector:'.lazy'});"></script>
