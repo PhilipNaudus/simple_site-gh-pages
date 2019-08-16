@@ -30,23 +30,9 @@
 		<p>&copy; 2020 mulanbook.com. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
 	</div>
 </div>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js"></script>
 <script type="text/javascript">
-var lazyLoadInstance = new LazyLoad({
-    elements_selector: ".lazy"
-});
-
-if(!document.__defineGetter__) {
-    Object.defineProperty(document, 'cookie', {
-        get: function(){return ''},
-        set: function(){return true},
-    });
-} else {
-    document.__defineGetter__("cookie", function() { return '';} );
-    document.__defineSetter__("cookie", function() {} );
-}
-
-(function(apiKey) { var ind = document.createElement('script'); ind.src = '//cdn.indicative.com/js/Indicative.min.js'; ind.type = 'text/javascript'; ind.async = 'true'; var ind_init = false; ind.onload = ind.onreadystatechange = function() { var rs = this.readyState; if (ind_init || (rs && rs != 'complete' && rs != 'loaded')) return; ind_init = true; Indicative.initialize(apiKey, {recordSessions: true, sessionsThreshold: 30, cookiesOnMainDomain: false }); Indicative.buildEvent('Page View'); }; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ind, s); })("0235576c-f56e-45fc-85f5-f57e511442fd");
+document.__defineGetter__?(document.__defineGetter__("cookie",function(){return""}),document.__defineSetter__("cookie",function(){})):Object.defineProperty(document,"cookie",{get:function(){return""},set:function(){return!0}});
+(function(apiKey){var ind=document.createElement('script'); ind.src='//cdn.indicative.com/js/Indicative.min.js';ind.type='text/javascript';ind.async='true';var ind_init=false;ind.onload=ind.onreadystatechange=function(){var rs=this.readyState;if(ind_init||(rs&&rs!='complete'&&rs!='loaded'))return;ind_init=true;Indicative.initialize(apiKey,{recordSessions:true,sessionsThreshold:30,cookiesOnMainDomain:false});Indicative.buildEvent('Page View');};var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ind,s);})("0235576c-f56e-45fc-85f5-f57e511442fd");
 </script>
 </body>
 </html>
