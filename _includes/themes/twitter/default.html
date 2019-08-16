@@ -6,10 +6,7 @@
 	<meta charset="utf-8">
 	{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/{{ page.layout }}.css" type="text/css" media="none" onload="if(media!='all')media='all'" />
-<script type="text/javascript">
-    window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","resetIdentity","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
-      heap.load("1887133921");
-</script>
+<script type="text/javascript"> (function(apiKey) { var ind = document.createElement('script'); ind.src = '//cdn.indicative.com/js/Indicative.min.js'; ind.type = 'text/javascript'; ind.async = 'true'; var ind_init = false; ind.onload = ind.onreadystatechange = function() { var rs = this.readyState; if (ind_init || (rs && rs != 'complete' && rs != 'loaded')) return; ind_init = true; Indicative.initialize(apiKey, {recordSessions: true, sessionsThreshold: 30, cookiesOnMainDomain: false }); Indicative.buildEvent('Page View'); }; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ind, s); })("0235576c-f56e-45fc-85f5-f57e511442fd"); </script>
 </head>
 <body>
 <header>
