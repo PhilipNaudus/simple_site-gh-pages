@@ -33,4 +33,5 @@ description: "In-depth analysis into Mulan's history and legend, including resea
 		</div>
 	{% endfor %}
 {% endfor %}
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js" onload="var lazyLoadInstance=new LazyLoad({elements_selector:'.lazy'});"></script>
 {:/}
