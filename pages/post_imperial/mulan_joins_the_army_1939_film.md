@@ -95,4 +95,5 @@ Countless eligible young men from Mulan's hometown eagerly await her return, but
 </div>
 
 <script type="text/javascript" src="/assets/js/toggle_note.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js" onload="var lazyLoadInstance=new LazyLoad({elements_selector:'.lazy'});"></script>
 {:/}
