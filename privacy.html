@@ -6,13 +6,30 @@
 
 <p>We will not collect any personal data about you or track you <b>unless you explicitly request us to do so</b>.</p>
 
-<p>If you would like us to track you, please <a href="#" onclick="(function(apiKey){var ind=document.createElement('script'); ind.src='//cdn.indicative.com/js/Indicative.min.js';ind.type='text/javascript';ind.async='true';var ind_init=false;ind.onload=ind.onreadystatechange=function(){var rs=this.readyState;if(ind_init||(rs&&rs!='complete'&&rs!='loaded'))return;ind_init=true;Indicative.initialize(apiKey,{recordSessions:true,sessionsThreshold:30,cookiesOnMainDomain:false});Indicative.buildEvent('Page View');};var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ind,s);})('0235576c-f56e-45fc-85f5-f57e511442fd');document.getElementById('track').innerHTML='You are now being tracked. Thank you for volunteering.';">click here</a>.</p>
+<p>If you would like us to track you, please <a href="#" id="tracklink">click here</a>.</p>
 
 <p id="track"></p>
 
 <h2>Why would I want to volunteer to be tracked?</h2>
 
 <p>Tracking visitors helps us better understand which pages are the most popular. Without tracking visitors, it's hard to discern the difference between 100 people viewing a page and a single person hitting refresh 100 times. But as tempting as it is for us to track visitors to be able to know this information, <b>we're not going to track you without your explicit request.</b> It's totally up to you. If you request for us to track you, we'd be very grateful. But if you don't click the above link, that's ok too!</p>
+
+<script type="text/javascript">
+
+var myLink = document.getElementById('tracklink');
+
+myLink.onclick = function(){
+
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "Public/Scripts/filename.js."; 
+    document.getElementsByTagName("head")[0].appendChild(script);
+    return false;
+
+}
+
+
+</script>
 
 </body></html>
 
