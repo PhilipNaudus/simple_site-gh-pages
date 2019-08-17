@@ -19,11 +19,12 @@
 var myLink = document.getElementById('tracklink');
 
 myLink.onclick = function(){
-
+alert ("click");
     var script = document.createElement("script");
     script.type = "text/javascript";
     script.src = "/track.js."; 
     document.getElementsByTagName("head")[0].appendChild(script);
+alert ("done click");
     return false;
 
 }
