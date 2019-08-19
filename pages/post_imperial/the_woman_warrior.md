@@ -18,7 +18,7 @@ Mulan's story appears in chapter two of *The Woman Warrior*. Writing in the firs
 
 After a group of bandits attack Mulan's village, a bird leads Mulan to a mountain where an old couple live. Mulan remains with the couple for several years while they teach her martial arts for the purpose of avenging her clan. Although Mulan misses her family, she is able to see them by looking into a magical gourd. (Her family, however, cannot see her.)
 
-One day, when Mulan is looking into the gourd, she sees a messenger announce that the evil baron has promised that one man from each of the families in this district will join the army. When Mulan's father is conscripted, Mulan announces that she must travel down the mountain to take her father's place. However, the old couple insist that her training is not yet complete. Mulan stares helplessly into the gourd and watches her brother and husband both volunteer. Her father has been spared for now.
+One day, when Mulan is looking into the gourd, she sees a messenger announce that the evil baron has promised that one man from each of the families in this district will join the army. When Mulan's father is conscripted, she announces that she must travel down the mountain to take her father's place. However, the old couple insist that her training is not yet complete. Mulan stares helplessly into the gourd and watches her brother and husband both volunteer. Her father has been spared for now.
 
 Over the next several years, Mulan applies herself wholeheartedly to becoming a master of warfare. When she sees through the gourd that her father is conscripted a second time, Mulan finally knows with certainty that her time has come. Dressing as a man, she hurries down the mountain to rescue her father from his fate.
 
