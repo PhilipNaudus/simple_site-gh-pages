@@ -2,9 +2,8 @@
 layout: post
 title: The Woman Warrior (1976)
 description: This novel included the first rendition of Mulan&rsquo;s story which achieved widespread attention in the English-speaking world.
-
 image: the_woman_warrior_cover.jpg
-alt: The cover of the original 1976 printing of The Woman Warrior. Copyright &copy;1976.
+alt: The cover of the original 1976 printing of The Woman Warrior. Copyright &copy;1976 Alfred A. Knopf, Inc.
 imageType: float
 num: 4
 -+-+-
@@ -15,7 +14,7 @@ Up until this point, each rendition of Mulan's story introduced a new element wh
 
 <h2>Plot Summary</h2>
 
-Mulan's story appears in chapter two of *The Woman Warrior*. Writing from the first person, the narrator drifts in and out of a dream and begins to live out Mulan's legendary decision to take her father's place in battle.
+Mulan's story appears in chapter two of *The Woman Warrior*. Writing in the first person, the narrator drifts in and out of a dream and begins to live out Mulan's legendary decision to take her father's place in battle.
 
 After a group of bandits attack Mulan's village, a bird leads Mulan to a mountain where an old couple live. Mulan remains with the elderly man and woman for several years while they teach Mulan martial arts for the purpose of avenging her clan. Although Mulan misses her family, she is able to see them by looking into a magical gourd.
 
