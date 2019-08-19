@@ -23,9 +23,9 @@ One day, when Mulan is looking into the gourd, she sees a messenger approach and
 
 Over the next several years, Mulan applies herself wholeheartedly to becoming a master of warfare. When she sees through the gourd that her father is conscripted with no one to take his place, Mulan finally knows with certainty that her time has come. Dressing as a man, she hurries down the mountain to rescue her father from his fate.
 
-Mulan's parents agree to allow her to join the army, but only for the purpose of avenging their family and village. The two parents carve a long list of grievances into Mulan's back so that the scars will spell out their desire for revenge. As she sets out, an army of boys who had been evading the conscription follow Mulan as their general. Mulan leads her army on a series of inspiring victories.
+Mulan's parents agree to allow her to join the army, but only for the purpose of avenging their family and village. The two parents carve a long list of grievances into Mulan's back so that the scars will spell out their desire for revenge. As she sets out, an army of boys who had been evading the conscription follow Mulan as their general. After Mulan leads her army on a series of inspiring victories they become emboldened to challenge the corrupt government which has oppressed them for so long.
 
-One day, Mulan's husband comes to visit her in her tent. Mulan conceives a child and hides her pregnant belly under a large suit of armor. After the child is born, she modifies her armor so that the child can fit inconspicuously in a hidden sling. When the baby is a month old, Mulan sends her husband away with the baby so that she can can concentrate her efforts on winning the war.
+One day, Mulan's husband comes to visit her in her tent. Mulan conceives a child and hides her pregnant belly under a large suit of armor. After the child is born, she modifies her armor so that the child can fit inconspicuously in a hidden sling. When the baby is a month old, Mulan sends her husband away with the baby so that she can can concentrate her efforts on fighting for justice.
 
 At last, Mulan comes face-to-face with the corrupt emperor, beheads him, and crowns a peasant to reign in his place.
 
