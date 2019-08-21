@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <i>Biography of Extraordinary Mulan</i> (c. 1800)
-description: This novel begins with Mulan's grandfather, an ambitious scholar who never achieves his dream of a prominent position. Eventually, he passes down his wisdom to his granddaughter, Mulan.
+description: This tells the story of how Mulan&rsquo;s grandfather was an ambitious scholar. Eventually, Mulan received much training and instruction from her grandfather.
 image: mulan_training_martial_arts_grandfather_biography_of_extraordinary_mulan.png
 alt: Mulan receives instruction in martial arts from her grandfather as her grandmother looks on. Included as an illustration in a late woodblock reprinting of Biography of Extraordinary Mulan (Public domain).
 imageType: float
