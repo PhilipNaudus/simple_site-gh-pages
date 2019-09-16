@@ -1,4 +1,4 @@
--+-+-
+---
 layout: post
 title: The Woman Warrior (1976)
 description: This novel included the first rendition of Mulan&rsquo;s story which achieved widespread attention in the English-speaking world.
@@ -6,7 +6,7 @@ image: the_woman_warrior_cover.jpg
 alt: The cover of the original 1976 printing of The Woman Warrior. Copyright &copy;1976 Alfred A. Knopf, Inc.
 imageType: float
 num: 4
--+-+-
+---
 
 This classic novel is often credited with bringing Mulan's story to the West. As the daughter of Chinese immigrants, Maxine Hong Kingston often felt out of place in California's Chinatown but found solace in legends she heard from her mother. One of these was Mulan (or as Kingston calls her, Fa Mu Lan).
 
