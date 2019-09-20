@@ -14,7 +14,7 @@ function repositionFloats()
 	{
 		for(var i=0; i<floats.length; i++)
 		{
-			floatParent.insertBefore(document.getElementById("floatP"+i), floats[i]);
+			floatParent.insertBefore(floats[i], document.getElementById("floatP"+i));
 
 			var cssFloat = floats[i].classList[1];
 			var margin = -floats[i].offsetWidth/2;
@@ -36,7 +36,7 @@ function repositionFloats()
 	{
 		for(var i=0; i<floats.length; i++)
 		{
-			floatParent.insertBefore(floats[i], document.getElementById("floatP"+i));
+			floatParent.insertBefore(document.getElementById("floatP"+i), floats[i]);
 
 			floats[i].style.cssFloat = "none";
 			floats[i].style.marginLeft = "auto";
