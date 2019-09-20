@@ -3,7 +3,7 @@ layout: post
 title: Disney&rsquo;s <i>Mulan</i> (1998)
 description: This novel included the first rendition of Mulan&rsquo;s story which achieved widespread attention in the English-speaking world.
 image: disneys_mulan_movie_poster.jpg
-alt: Images are from <i>Mulan</i>, &copy;1998 Disney.
+alt: A movie poster for Mulan. Images copyright &copy;1998 Disney.
 imageType: float
 num: 5
 ---
