@@ -2,7 +2,7 @@
 layout: post
 title: Disney&rsquo;s <i>Mulan</i> (1998)
 description: This novel included the first rendition of Mulan&rsquo;s story which achieved widespread attention in the English-speaking world.
-image: the_woman_warrior_cover.jpg
+image: disneys_mulan_movie_poster.jpg
 alt: Images are from <i>Mulan</i>, &copy;1998 Disney.
 imageType: float
 num: 5
@@ -22,7 +22,7 @@ Despite these similarities between this film and previous versions of the legend
 
 The original legend of Mulan, at its core, is the story of a woman who is willing to sacrifice herself for the sake of her family. The ancient Chinese repeatedly referred to her as the perfect woman who epitomized true femininity. Her decision to take her father's place in battle was the ultimate act of submission; this was in no way done out of defiance of gender stereotypes. Disney's *Mulan*, however, replaced Mulan's virue with American feminism. Despite this fact, it should be empahsized that the creators of this film were familiar with the original legend. Thus, alterations were introduced deliberately and not out of ignorance.
 
-While this film was not completely faithful to the original legend, it is primarily responsible for making the story of Mulan reach legendary status in the English speaking world. As a result, Disney's *Mulan* sparked a renewed interest in this classic legend which has continued to this day.
+While this film was not completely faithful to the original legend, it is primarily responsible for making the story of Mulan reach legendary status in the English-speaking world. As a result, Disney's *Mulan* sparked a renewed interest in this classic legend which has continued to this day.
 
 <h2>Plot Summary</h2>
 
@@ -30,28 +30,28 @@ Mulan's father, Fa Zhou, is a retired soldier whose health has been steadily dec
 
 Knowing that her parents would not approve of her decision, Mulan secretly takes her father's armor and disguises herself as a man. When the family learns of Mulan's departure, they pray to their ancestors. Through a series of unfortunate events, a dragon by the name of Mushu is sent to assist Mulan in her journey.
 
-<figure class="float">
-<img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/mulan_training.jpg" alt="Mulan struggles to climb a pole during a training exercise." />
-<figcaption style="text-align: center;"><i>Mulan struggles to climb a pole during a training exercise.</i></figcaption>
+<figure class="float left" style="max-width: 450px;">
+<img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/mulan_training.jpg" alt="The turning point in Mulan's training occurs when she succeeds in climbing a pole to reach an arrow." />
+<figcaption style="text-align: center;"><i>The turning point in Mulan's training occurs when she succeeds in climbing a pole to reach an arrow.</i></figcaption>
 </figure>
 
 When Mulan reports for duty, she is discouraged to find that she is unable to perform well during initial training exercises. Captain Li Shang works hard with the new recruits and Mulan is soon able to prove that she is ready to face the Huns in battle. When Mulan and her fellow soldiers are finally ready for war, they set out to join the main army. However, they soon find the remains of a Chinese army and discover that the Huns have massacred the majority of the Chinese troops. Among the casualties was Li Shang's own father.
 
-<figure class="float">
+<figure class="float right" style="max-width: 450px;">
 <img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/mulan_avalanche.jpg" alt="Mulan fires a rocket, causing an avalanche." />
 <figcaption style="text-align: center;"><i>Mulan fires a rocket, causing an avalanche.</i></figcaption>
 </figure>
 
 Li Shang and his soldiers are downcast. However, they have little time to grieve because they soon find themselves surrounded by Hun soldiers. Mulan quickly causes an avalance and rescues her comrades, but is injured in the ensuing battle. While the doctor is bandaging her wounds, Mulan's true identiy is discovered. Li Shang and her men depart for the imperial city to report their victory while Mulan, who has been explled from the army, remains behind. When Mulan realzes that several enemy soldiers have survived the avalanche, she rushes forward to report that the victory has not yet been sealed.
 
-<figure class="float">
+<figure class="float left" style="max-width: 450px;">
 <img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/mulan_final_battle.jpg" alt="Mulan confronts the leader of the Hun army for the final time." />
 <figcaption style="text-align: center;"><i>Mulan confronts the leader of the Hun army for the final time.</i></figcaption>
 </figure>
 
 Despite Mulan's best efforts, she is unable to convince Li Shang that the Huns are advancing. As a result, the Huns capture the emperor with ease. However, Mulan refuses to accept defeat. With the help of her former comrades, Mulan climbs onto the roof of the palace, challenges the leader of the Hun army, and rescues the emperor.
 
-<figure class="float">
+<figure class="float right" style="max-width: 450px;">
 <img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/final_scene_mulan_li_shang.jpg" alt="Mulan and Li Shang exchanging a glance under a magnolia truee." />
 </figure>
 
