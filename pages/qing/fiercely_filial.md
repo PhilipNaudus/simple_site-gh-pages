@@ -23,7 +23,7 @@ Because no further victories are won, Xin Ping comes to investigate why the army
 
 Earth Master comes to rescue Heaven Catcher and is about to kill Niu He, but Mulan dashes onto the scene. Earth Master is badly defeated and the bandits retreat. Out of fear, they retreat into an impenerable fortress. Xin Ping and his men spend the next six years laying siege to the bandit&rsquo;s stronghold.
 
-The emperor grows impatient and orders the army to advance at any cost, threatening to execute the officers if they continue being idle. During an emergency meeting, Niu He steps forward and suggests sending Muan forward with a letter offering amnesty if the bandits surrender. He does not expect this plan to work; rather, he simply wants to eliminate Mulan out of jealousy. Because nobody has any better ideas, Mulan agrees to go on this suicide mission.
+The emperor grows impatient and orders the army to advance at any cost, threatening to execute the officers if they continue being idle. During an emergency meeting, Niu He steps forward and suggests sending Muan with a letter offering amnesty if the bandits surrender. He does not expect this plan to work; rather, he simply wants to eliminate Mulan out of jealousy. Because nobody has any better ideas, Mulan agrees to go on this suicide mission.
 
 <figure class="float right" style="max-width:450px;">
 <img class="fillimg" src="/assets/images/articles/fiercely_filial/emperor_tuoba_gui_hua_mulan.png" alt="Emperor Tuoba Gui. Included as an illustration in an early woodblock printing of Fiercely Filial." />
