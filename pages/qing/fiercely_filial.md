@@ -3,7 +3,7 @@ layout: post
 title: <i>Fiercely Filial</i> by Zhang Shaoxian (1850)
 description: This novel, which unites many of the previous renditions of Mulan&rsquo;s story into a single volume, emphasizes that Mulan&rsquo;s brilliance and courage stemmed from her virtue
 image: hua_mulan_lu_wanhua_sworn_sisters.jpg
-alt: Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua. Included as an illustrations in an early woodblock printing of Fiercely Filial.
+alt: Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua. Illustrations are from an early woodblock printing of Fiercely Filial (public domain).
 imageType: big
 num: 4
 ---
@@ -45,7 +45,7 @@ In order to escape, Mulan dresses as a woman. However, the bandits have anticipa
 
 Mulan gets lost on the way back and ends up on the wrong side of the mountain. Right before nightfall, she suddenly realizes that she is hopelessly lost. Suddenly, Li Jing (mentor to  Mulan&rsquo;s grandfather in <a href="biography_of_extraordinary_mulan">Biography of Extraordinary Mulan</a>) appears and gives her a magical bow and arrow. Then, Li Jing transports Mulan back to her camp through the use of magic.
 
-Meanwhile, Princess Wanhua convinces the bandits to feign surrender. The bandits invite Supreme Commander Xin Ping and his army into their stronghold, hoping to capture them. Not willing to take any chances when combatting Mulan, whom they believe to be a wizard, three thousand bandits are ordered to fight only against Mulan. Mulan is seriously injured and is about to die, but Princes Wanhua drags her to safety. During the chaotic battle, Princess Wanhua sneaks behind the bandit leaders kills them and then flees to "assist" Leopard Skin, the mighty bandit king.
+Meanwhile, Princess Wanhua convinces the bandits to feign surrender. They invite Supreme Commander Xin Ping and his army into their stronghold, hoping to capture them. Although Xin Ping knows this is a trap, he recalls the emperor's orders to advance at any cost. Meanwhile, the bandits are prepared. Three thousand bandits are ordered to fight only against Mulan, whom they believe to be a wizard. During the battle, Mulan is seriously injured and is about to die, but Princes Wanhua drags her to safety. During the chaos, Princess Wanhua sneaks behind the bandit leaders kills them and then flees to "assist" Leopard Skin, the mighty bandit king.
 
 <figure class="float right" style="max-width:450px;">
 <img class="fillimg" src="/assets/images/articles/fiercely_filial/sorceress_huang_fengshan_hua_mulan.png" alt="Sorceress Huang Fengshan. Included as an illustration in an early woodblock printing of Fiercely Filial." />
