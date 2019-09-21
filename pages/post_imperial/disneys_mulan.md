@@ -28,7 +28,7 @@ Mulan's father, Fa Zhou, is a retired soldier whose health has been steadily dec
 
 Knowing that her parents would not approve of her decision, Mulan secretly takes her father's armor and disguises herself as a man. When the family learns of Mulan's departure, they pray to their ancestors. Through a series of unfortunate events, a dragon by the name of Mushu is sent to assist Mulan in her journey.
 
-<figure class="float left" style="max-width: 450px;">
+<figure class="float right" style="max-width: 450px;">
 <img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/mulan_mushu.jpg" alt="Mulan, together with her sidekick Mushu. Mulan is holding Mushu." />
 <figcaption style="text-align: center;"><i>Mulan, together with her sidekick Mushu.</i></figcaption>
 </figure>
