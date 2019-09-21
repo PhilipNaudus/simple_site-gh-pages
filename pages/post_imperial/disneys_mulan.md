@@ -28,6 +28,11 @@ Mulan's father, Fa Zhou, is a retired soldier whose health has been steadily dec
 
 Knowing that her parents would not approve of her decision, Mulan secretly takes her father's armor and disguises herself as a man. When the family learns of Mulan's departure, they pray to their ancestors. Through a series of unfortunate events, a dragon by the name of Mushu is sent to assist Mulan in her journey.
 
+<figure class="float left" style="max-width: 450px;">
+<img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/mulan_mushu.jpg" alt="Mulan, together with her sidekick, Mushu. Mulan is holding Mushu." />
+<figcaption style="text-align: center;"><i>Mulan, together with her sidekick, Mushu.</i></figcaption>
+</figure>
+
 When Mulan reports for duty, she is discouraged to find that she is unable to perform well during initial training exercises. Captain Li Shang works hard with the new recruits and Mulan is soon able to prove that she is ready to face the Huns in battle. When Mulan and her fellow soldiers are finally ready for war, they set out to join the main army. However, they soon find the remains of a Chinese army and discover that the Huns have massacred the majority of the Chinese troops. Among the casualties was Li Shang's own father.
 
 <figure class="float left" style="max-width: 450px;">
