@@ -14,6 +14,14 @@
   [headers.values]
     Cache-Control = "public, max-age=86400"
 [[headers]]
-  for = "*.css" # css files too
+  for = "*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+[[headers]]
+  for = "*.jpg"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+[[headers]]
+  for = "*.png"
   [headers.values]
     Cache-Control = "public, max-age=86400"
