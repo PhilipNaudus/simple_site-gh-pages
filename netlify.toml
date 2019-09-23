@@ -1,9 +1,9 @@
-[[redirects]]
-  from = "https://mulanbook.netlify.com/*"
-  to = "https://www.mulanbook.com/:splat"
-  status = 301
-  force = true
-  headers = {X-From = "Netlify"}
+#[[redirects]]
+#  from = "https://mulanbook.netlify.com/*"
+#  to = "https://www.mulanbook.com/:splat"
+#  status = 301
+#  force = true
+#  headers = {X-From = "Netlify"}
 [[redirects]]
   from = "https://mulanbook.com/*"
   to = "https://www.mulanbook.com/:splat"
