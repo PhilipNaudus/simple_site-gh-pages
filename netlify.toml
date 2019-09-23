@@ -1,0 +1,15 @@
+[[redirects]]
+  from = "https://mulanbook.netlify.com/*"
+  from = "https://mulanbook.com/*"
+  to = "https://www.mulanbook.com/:splat"
+  status = 301
+  force = true
+  headers = {X-From = "Netlify"}
+[[headers]]
+  for = "*.js" # js files should be set this way
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+[[headers]]
+  for = "*.css" # css files too
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
