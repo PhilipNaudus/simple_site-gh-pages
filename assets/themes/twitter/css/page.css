@@ -47,7 +47,8 @@ section.main a img {
 
 //section.main a img:not([src]):not([srcset]) {
 img {
-  width: 100%;
+  width: 1000px;
+  height: 655px;
   padding-top: 65.57%;
 }
 
