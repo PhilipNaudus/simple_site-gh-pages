@@ -45,7 +45,8 @@ section.main a img {
   -o-border-radius: 5px;
 }
 
-/*section.main a img:not([src]):not([srcset]) {
+/*
+section.main a img:not([src]):not([srcset]) {
 */
 img.lazy {
   width: 100%;
