@@ -3,6 +3,7 @@ layout: post
 title: The <i>Ballad of Mulan</i>
 description: The oldest known version of Mulan&rsquo;s story, which inspired countless retellings for centuries to come.
 image: ballad_of_mulan_song_dynasty_mu_fu.jpg
+imageBase64: PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAxMyI+PGZpbHRlciBpZD0iYiI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMTIiIC8+PC9maWx0ZXI+PHBhdGggZmlsbD0iIzg5NmE0OSIgZD0iTTAgMGgyMHYxM0gweiIvPjxnIGZpbHRlcj0idXJsKCNiKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLjUgLjUpIiBmaWxsLW9wYWNpdHk9Ii41Ij48ZWxsaXBzZSBmaWxsPSIjYzliNjlkIiBjeD0iMTgiIGN5PSI2IiByeD0iMTkiIHJ5PSIxIi8+PHBhdGggZmlsbD0iIzdlNjAzZCIgZD0iTTEgN2gxOXY0SDF6Ii8+PHBhdGggZmlsbD0iIzdhNWYzYyIgZD0iTTEwIDNsMjUtMTRWM3oiLz48cGF0aCBmaWxsPSIjYTU3ODQ5IiBkPSJNMTMgMTFsMTIgMTAgNC02eiIvPjwvZz48L3N2Zz4=
 alt: This copy of the <i>Ballad of Mulan</i> was written by Song Dynasty calligrapher <a href="https://en.wikipedia.org/wiki/Mi_Fu">Mi Fu</a> in 1094 AD (Public domain).
 imageType: big
 num: 1
