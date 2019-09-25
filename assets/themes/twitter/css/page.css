@@ -46,7 +46,7 @@ section.main a img {
 }
 
 //section.main a img:not([src]):not([srcset]) {
-section.main a img {
+img.lazy {
   width: 100%;
   padding-top: 65.57%;
 }
