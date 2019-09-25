@@ -45,6 +45,11 @@ section.main a img {
   -o-border-radius: 5px;
 }
 
+section.main a img:not([src]):not([srcset]) {
+  width: 100%;
+  padding-top: 65.57%
+}
+
 section.main p {
   font-size: 16px;
   line-height: 1.8em;
