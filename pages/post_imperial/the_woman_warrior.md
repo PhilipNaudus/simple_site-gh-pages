@@ -3,7 +3,7 @@ layout: post
 title: <i>The Woman Warrior</i> by Maxine Hong Kingston (1976)
 description: This novel included the first rendition of Mulan&rsquo;s story which achieved widespread attention in the English-speaking world.
 image: the_woman_warrior_cover.jpg
-bg: 817d70
+bg: 6b1c31
 alt: The cover of the original 1976 printing of The Woman Warrior. Copyright &copy;1976 Alfred A. Knopf, Inc.
 imageType: float
 num: 4
