@@ -37,17 +37,12 @@ section.main h3 a {
   color: #404248;
 }
 
-section.main a img, span.thumb {
+section.main a img, section.main a span {
   border-radius: 5px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   -o-border-radius: 5px;
-}
-
-span.thumb {
-  width: 100%;
-  padding-top: 50%;
 }
 
 section.main p {
