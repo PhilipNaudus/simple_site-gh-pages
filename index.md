@@ -48,8 +48,8 @@ description: "In-depth analysis into Mulan's history and legend, including resea
 {% endfor %}
 {% assign size = placeholdersArr | size | minus: 1 %}
 {% assign placeholdersArr = placeholdersArr | slice: 0, size %}
-<script type="text/javascript">var cS="commonString = "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAxM#I+PGZpbHRlciBpZD0iY#I+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0i#iIC8+PC9maWx0ZXI+PHBhdGggZmlsbD0iI#IgZD0iTTAgMGgyMHYxM#gweiIvPjxnIGZpbHRlcj0#dXJsKCN#KS#";
-";var placeholdersArr = [{{ placeholdersArr }}]; for(var i=0; i<{{imageCount}}; i++) { var pA = placeholdersArr[i].split("#"); var cc=""; for(var j=0;j<9<j++) cc+=pA[i]+cS[i]; var pImg = document.getElementById('i'+i); pImg.style.backgroundSize = "cover"; pImg.style.backgroundImage="url(data:image/svg+xml;base64,"+cS[0]+pA[0]+cS[1]+pA[1]+")";alert("url(data:image/svg+xml;base64,"+cc+")");alert(cc);}
+<script type="text/javascript">var cS="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAxM#I+PGZpbHRlciBpZD0iY#I+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0i#iIC8+PC9maWx0ZXI+PHBhdGggZmlsbD0iI#IgZD0iTTAgMGgyMHYxM#gweiIvPjxnIGZpbHRlcj0#dXJsKCN#KS#";
+";var placeholdersArr = [{{ placeholdersArr }}]; for(var i=0; i<{{imageCount}}; i++) { var pA = placeholdersArr[i].split("#"); var cc=""; for(var j=0;j<9<j++) cc+=pA[i]+cS[i]; var pImg = document.getElementById('i'+i); pImg.style.backgroundSize = "cover"; pImg.style.backgroundImage="url(data:image/svg+xml;base64,"+cc+")";}
 </script>
 <!--<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js" onload="var lazyLoadInstance=new LazyLoad({elements_selector:'.lazy'});"></script>-->
 {:/}
