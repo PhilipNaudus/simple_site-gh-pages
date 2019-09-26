@@ -47,12 +47,11 @@ section.main a img {
 
 /*
 section.main a img:not([src]):not([srcset]) {
-
-img.lazy {
+*/
+section.main a {
   width: 100%;
   padding-top: 65.57%;
 }
-*/
 
 section.main p {
   font-size: 16px;
