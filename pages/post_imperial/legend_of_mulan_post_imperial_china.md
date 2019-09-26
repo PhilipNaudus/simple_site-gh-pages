@@ -3,7 +3,7 @@ layout: post
 title: The Legend of Mulan During Post-Imerial China
 description: After the fall of Imperial China, and especially after Mulan&rsquo;s story traveled to the West, the legend underwent significant alterations as numerous causes from various cultures all began to herald Mulan as their guiding hero.
 image: mulan_returns_in_glory.jpg
-base64: zczNWU0OS#ZmlsbC1vcGFjaXR5PScuNSc+PHBhdGggZmlsbD0iI2I4OTc3MCIgZmlsbC1vcGFjaXR5PSIuNSIgZD0iTTkuOSA2LjdsMS0uMkwxMyAxOC4zbC0xIC4yeiIvPjxwYXRoIGZpbGw9IiNjZjk4NjYiIGZpbGwtb3BhY2l0eT0iLjUiIGQ9Ik0xOS41IDEuNWw4LTE3LTIxIDEweiIvPjxwYXRoIGZpbGw9IiM0MzM1MzEiIGZpbGwtb3BhY2l0eT0iLjUiIGQ9Ik0xNi42IDEyLjVsLTItMy41IDcuOC00LjUgMiAzLjV6Ii8+PHBhdGggZmlsbD0iIzk0ODc2ZCIgZmlsbC1vcGFjaXR5PSIuNSIgZD0iTTkuOC02LjhsLTE1LjMgMjEtMy4zLTIuNCAxNS4zLTIxeiIvPjwvZz48L3N2Zz4=
+base64: y#y#NTU#zczNWU0OS#0#n#j#cgZmlsbC1vcGFjaXR5PScuNSc+PHBhdGggZmlsbD0iI2I4OTc3MCIgZmlsbC1vcGFjaXR5PSIuNSIgZD0iTTkuOSA2LjdsMS0uMkwxMyAxOC4zbC0xIC4yeiIvPjxwYXRoIGZpbGw9IiNjZjk4NjYiIGZpbGwtb3BhY2l0eT0iLjUiIGQ9Ik0xOS41IDEuNWw4LTE3LTIxIDEweiIvPjxwYXRoIGZpbGw9IiM0MzM1MzEiIGZpbGwtb3BhY2l0eT0iLjUiIGQ9Ik0xNi42IDEyLjVsLTItMy41IDcuOC00LjUgMiAzLjV6Ii8+PHBhdGggZmlsbD0iIzk0ODc2ZCIgZmlsbC1vcGFjaXR5PSIuNSIgZD0iTTkuOC02LjhsLTE1LjMgMjEtMy4zLTIuNCAxNS4zLTIxeiIvPjwvZz48L3N2Zz4=
 alt: '&ldquo;Mulan Returns in Glory.&rdquo; This WWII painting was used to inspire all Chinese people, both men and women, to resist Japanese aggression. Ten talented artists collaborated to produce this painting. <small>(Artists: Zheng Meiqing, Zhou Baihang, Jiao Ying, Li Mubai, Wu Zhiguang, Xie Zhiguang, Jin Meisheng, Ge Xiangyu, Tian Qingquan, and Yang Junsheng)</small>'
 imageType: float
 num: 1

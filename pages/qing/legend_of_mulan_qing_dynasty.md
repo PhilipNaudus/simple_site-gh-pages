@@ -3,7 +3,7 @@ layout: post
 title: The Legend of Mulan During the Qing Dynasty
 description: During a time when the Chinese endured significant oppression, the legend of Mulan experienced a surge in poplarity, as the people longed for such a hero.
 image: mulan_joins_the_army_wang_qi_qing_dynasty.jpg#mulan_joins_the_army_wang_qi_qing_dynasty_fullsize.jpg
-base64: 2JmYWQ5Yy#ZmlsbC1vcGFjaXR5PSIuNSI+PHBhdGggZmlsbD0iIzk3NWQ1YSIgZD0iTTE1LjUgMTYuNWwtNC0yMi00IDE0eiIvPjxwYXRoIGZpbGw9IiNlYmU3ZDAiIGQ9Ik0tMTUuNSAxMy41bDIwIDMgNi0yNXoiLz48cGF0aCBmaWxsPSIjZjlmNmQ5IiBkPSJNMTUuNSA3LjVoNXYyaC01eiIvPjxwYXRoIGZpbGw9IiM1MDdhNjQiIGQ9Ik0xMy41IDguNWwzIDEyIDcgMnoiLz48L2c+PC9zdmc+
+base64: y#i#MTI#2JmYWQ5Yy#0#i#i#IgZmlsbC1vcGFjaXR5PSIuNSI+PHBhdGggZmlsbD0iIzk3NWQ1YSIgZD0iTTE1LjUgMTYuNWwtNC0yMi00IDE0eiIvPjxwYXRoIGZpbGw9IiNlYmU3ZDAiIGQ9Ik0tMTUuNSAxMy41bDIwIDMgNi0yNXoiLz48cGF0aCBmaWxsPSIjZjlmNmQ5IiBkPSJNMTUuNSA3LjVoNXYyaC01eiIvPjxwYXRoIGZpbGw9IiM1MDdhNjQiIGQ9Ik0xMy41IDguNWwzIDEyIDcgMnoiLz48L2c+PC9zdmc+
 alt: '&ldquo;Mulan Joins the Army&rdquo; by Qing Dynasty artist <a href="https://baike.baidu.com/item/%E6%B1%AA%E5%9C%BB">Wang Qi</a> (Public domain).'
 imageType: float
 num: 1

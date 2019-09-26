@@ -3,7 +3,7 @@ layout: post
 title: The Legend of Mulan During the Ming Dynasty
 description: As the Ming Dynasty witnessed a decline in intellectualism and a rise in entertainment, Mulan&rsquo;s story ceased being a tale of virtue and, instead, focused on humor.
 image: mulan_joins_the_army_tang_yin_ming_dynasty.jpg#mulan_joins_the_army_tang_yin_ming_dynasty_fullsize.jpg
-base64: zhiNmY1NC#ZmlsbC1vcGFjaXR5PScuNSc+PHBhdGggZmlsbD0iI2YzZThkMSIgZmlsbC1vcGFjaXR5PSIuNSIgZD0iTTEyIDcuN2wtMS00IDItLjQgMSA0eiIvPjxwYXRoIGZpbGw9IiM2ODUwM2IiIGZpbGwtb3BhY2l0eT0iLjUiIGQ9Ik0xNS41IDMuNWwxOS0xMC0xMiAzNXoiLz48cGF0aCBmaWxsPSIjYjM5YzgzIiBmaWxsLW9wYWNpdHk9Ii41IiBkPSJNNi41IDcuNWw1IDE1LTI3IDZ6Ii8+PHBhdGggZmlsbD0iIzQ0MzQyOCIgZmlsbC1vcGFjaXR5PSIuNSIgZD0iTTIuNSA4LjdMMTAgMy41bC42LjhMMyA5LjV6Ii8+PC9nPjwvc3ZnPg==
+base64: y#y#NTU#zhiNmY1NC#0#n#j#cgZmlsbC1vcGFjaXR5PScuNSc+PHBhdGggZmlsbD0iI2YzZThkMSIgZmlsbC1vcGFjaXR5PSIuNSIgZD0iTTEyIDcuN2wtMS00IDItLjQgMSA0eiIvPjxwYXRoIGZpbGw9IiM2ODUwM2IiIGZpbGwtb3BhY2l0eT0iLjUiIGQ9Ik0xNS41IDMuNWwxOS0xMC0xMiAzNXoiLz48cGF0aCBmaWxsPSIjYjM5YzgzIiBmaWxsLW9wYWNpdHk9Ii41IiBkPSJNNi41IDcuNWw1IDE1LTI3IDZ6Ii8+PHBhdGggZmlsbD0iIzQ0MzQyOCIgZmlsbC1vcGFjaXR5PSIuNSIgZD0iTTIuNSA4LjdMMTAgMy41bC42LjhMMyA5LjV6Ii8+PC9nPjwvc3ZnPg==
 alt: '&ldquo;Mulan Joins the Army&rdquo; by Ming Dynasty artist <a href="https://en.wikipedia.org/wiki/Tang_Yin">Tang Yin</a> (Public domain).'
 imageType: float
 num: 1
