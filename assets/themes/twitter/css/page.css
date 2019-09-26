@@ -45,7 +45,7 @@ section.main a img {
   -o-border-radius: 5px;
 }
 
-img.thumb:not([src]):not([srcset]) {
+span.thumb {
   width: 100%;
   padding-top: 65.57%;
 }
