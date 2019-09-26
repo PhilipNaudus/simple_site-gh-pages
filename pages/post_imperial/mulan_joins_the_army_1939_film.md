@@ -3,7 +3,7 @@ layout: post
 title: <i>Mulan Joins the Army</i> (1939)
 description: In addition to being the first retelling to introduce romance into Mulan&rsquo;s story, this classic film helped make the story more relatable.
 image: mulan_joins_the_army_1939_triumphant_return.jpg
-base64: i#y#NTU#zM2MzUzNi#k#n#j#cgZmlsbC1vcGFjaXR5PScuNSc+PHBhdGggZmlsbD0iIzg5ODk4YiIgZmlsbC1vcGFjaXR5PSIuNSIgZD0iTTEyLjMgMjcuNWwtMS0xMi41IDYuNiAxLjUtMTItMjZ6Ii8+PGVsbGlwc2UgZmlsbD0iIzAzMDQwMyIgZmlsbC1vcGFjaXR5PSIuNSIgcng9IjEiIHJ5PSIxIiB0cmFuc2Zvcm09Im1hdHJpeCgtNi40MDYxMyAtMTUuMzM4NzMgNS42MzE0IC0yLjM1MTkyIDEuOSAxMCkiLz48cGF0aCBmaWxsLW9wYWNpdHk9Ii41IiBkPSJNMTYuNSAzLjVoNHY5aC00eiIvPjxwYXRoIGZpbGw9IiM5Nzk4OTYiIGZpbGwtb3BhY2l0eT0iLjUiIGQ9Ik0xMy4zIDIuNGgzbDEwLjQtMTcuOUw4LjEgMS40eiIvPjwvZz48L3N2Zz4=
+bg: 4a494a
 alt: Mulan returns in triumph. Images are from Mulan Joins the Army, &copy;1939 China United Productions.
 imageType: float
 num: 2

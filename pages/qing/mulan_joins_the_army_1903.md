@@ -3,7 +3,7 @@ layout: post
 title: <i>Mulan Joins the Army</i> (1903)
 description: When Mulan&rsquo;s cousin, Mushu, refuses to take his adopted father&rsquo;s place in battle, Mulan joins the army in Mushu&rsquo;s stead to fight against the Huns.
 image: mulan_joins_the_army_by_feng_luoxia.jpg#mulan_joins_the_army_by_feng_luoxia_fullsize.jpg
-base64: y#y#NTU#2EzOWE4ZS#0#n#j#cgZmlsbC1vcGFjaXR5PScuNSc+PHBhdGggZmlsbD0iIzEwMTYyNSIgZmlsbC1vcGFjaXR5PSIuNSIgZD0iTTEwLjUtMTUuNWwtMjYgMjMgMTgtNXoiLz48cGF0aCBmaWxsPSIjY2FiZGFmIiBmaWxsLW9wYWNpdHk9Ii41IiBkPSJNMTMtMTUuNWwtMjMuMSA0NEw1LjEgMi45bDMwLjIgNC4zeiIvPjxwYXRoIGZpbGw9IiM4MDdiNzUiIGZpbGwtb3BhY2l0eT0iLjUiIGQ9Ik0xNS45IDkuMmwtMzEuNCA2LjkgMzEuNCA4LjctOS4zLTQwLjN6Ii8+PHBhdGggZmlsbD0iI2NmYmJhMCIgZmlsbC1vcGFjaXR5PSIuNSIgZD0iTTEuMyA1LjRsMTcuNSA3LjQtMS4xIDIuOEwuMiA4LjJ6Ii8+PC9nPjwvc3ZnPg==
+bg: a49b8c
 alt: '&ldquo;Mulan Joins the Army.&rdquo; Feng Luoxia, a Qing Dynasty artist, completed this painting in 1900 (Public domain).'
 imageType: float
 num: 5

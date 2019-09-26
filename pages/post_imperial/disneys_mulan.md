@@ -3,7 +3,7 @@ layout: post
 title: Disney&rsquo;s <i>Mulan</i> (1998)
 description: This film is largely responsible for making the story of Mulan reach legendary status in the West.
 image: disneys_mulan_movie_poster.jpg
-base64: y#y#NTU#zVkMDcwYS#0#n#j#cgZmlsbC1vcGFjaXR5PScuNSc+PHBhdGggZmlsbD0iI2ZlMGMxMyIgZmlsbC1vcGFjaXR5PSIuNSIgZD0iTTIuNS0xLjV2MjhsMTItNDJ6Ii8+PHBhdGggZmlsbD0iIzA0MDYwNSIgZmlsbC1vcGFjaXR5PSIuNSIgZD0iTTcgMS42bDEwLjIgMjYuOSAxMC00NEwxNi45IDcuMnoiLz48cGF0aCBmaWxsPSIjZmYwMzE1IiBmaWxsLW9wYWNpdHk9Ii41IiBkPSJNOC4yLTIuNGwuNi0uOSAxMCA2LjctLjYuOXoiLz48cGF0aCBmaWxsLW9wYWNpdHk9Ii41IiBkPSJNLTEuMiAyMWwuNC0yM2gzbC0uNCAyM3oiLz48L2c+PC9zdmc+
+bg: db0110
 alt: A movie poster for Mulan. Images copyright &copy;1998 Disney.
 imageType: float
 num: 5

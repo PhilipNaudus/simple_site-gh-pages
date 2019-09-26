@@ -3,7 +3,7 @@ layout: post
 title: <i>Romance of Sui and Tang</i> by Chu Renhuo (1695)
 description: This famous historical fiction novel contains a subplot in which Mulan makes an unlikely friend when she is captured by a benevolent princess.
 image: hua_mulan_romance_of_sui_and_tang.jpg
-base64: y#i#MTI#2U1ZTVlNS#0#i#i#IgZmlsbC1vcGFjaXR5PSIuNSI+PHBhdGggZmlsbD0iIzI3MjcyNyIgZD0iTTEwLjUgNS41bC03IDE4IDE0IDJ6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyLjUtMTUuNWwtMjggMjIgMTggMjB6Ii8+PHBhdGggZmlsbD0iIzY0NjQ2NCIgZD0iTTkuNSAyLjVoMnYxMGgtMnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTUuNCA2LjNsOS0yMS44TDEuMSAxOS40bC0xNi43LTI2eiIvPjwvZz48L3N2Zz4=
+bg: eeeeee
 alt: Hua Mulan. Included in a late woodblock reprinting of Romance of Sui and Tang (Public domain).
 imageType: float
 num: 2
