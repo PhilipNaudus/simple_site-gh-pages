@@ -45,6 +45,10 @@ section.main a img, section.main a span {
   -o-border-radius: 5px;
 }
 
+section.main a span {
+  padding: 0px;
+}
+
 section.main p {
   font-size: 16px;
   line-height: 1.8em;
