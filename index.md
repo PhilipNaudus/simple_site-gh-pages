@@ -43,12 +43,12 @@ description: "In-depth analysis into Mulan's history and legend, including resea
 	{% assign folder = site.pages | where_exp: "item" , "item.path contains folderName" | sort: "num" %}
 
 	{% for article in folder %}
-		{% assign placeholdersArr = placeholdersArr | append: "'" | append: article.imageBase64 | append: "'," %}
+		{% assign placeholdersArr = placeholdersArr | append: "'" | append: article.base64 | append: "'," %}
 	{% endfor %}
 {% endfor %}
 {% assign size = placeholdersArr | size | minus: 1 %}
 {% assign placeholdersArr = placeholdersArr | slice: 0, size %}
 <script type="text/javascript">var placeholdersArr = [{{ placeholdersArr }}]; for(var i=0; i<{{imageCount}}; i++) { var pImg = document.getElementById('i'+i); pImg.style.backgroundSize = "cover"; pImg.style.backgroundImage="url(data:image/svg+xml;base64,"+placeholdersArr[i]+")";}
 </script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js" onload="var lazyLoadInstance=new LazyLoad({elements_selector:'.lazy'});"></script>
+<!--<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js" onload="var lazyLoadInstance=new LazyLoad({elements_selector:'.lazy'});"></script>-->
 {:/}

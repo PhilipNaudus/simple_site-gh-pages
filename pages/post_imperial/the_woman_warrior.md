@@ -3,6 +3,7 @@ layout: post
 title: <i>The Woman Warrior</i> by Maxine Hong Kingston (1976)
 description: This novel included the first rendition of Mulan&rsquo;s story which achieved widespread attention in the English-speaking world.
 image: the_woman_warrior_cover.jpg
+base64: PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAxMyI+PGZpbHRlciBpZD0iYiI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMTIiIC8+PC9maWx0ZXI+PHBhdGggZmlsbD0iIzgyNDU0NSIgZD0iTTAgMGgyMHYxM0gweiIvPjxnIGZpbHRlcj0idXJsKCNiKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLjUgLjUpIiBmaWxsLW9wYWNpdHk9Ii41Ij48ZWxsaXBzZSBmaWxsPSIjZmZlNTM2IiBjeD0iMTMiIGN5PSIxMiIgcng9IjMiIHJ5PSIyIi8+PGVsbGlwc2UgZmlsbD0iI2NiYjJiYyIgY3g9IjciIGN5PSIzIiByeD0iMTEiIHJ5PSIxIi8+PHBhdGggZmlsbD0iIzQ3MDAxZCIgZD0iTTQgOGwtMTkgMjAgMi00NHoiLz48cGF0aCBmaWxsPSIjNjEwNjMwIiBkPSJNOS44IDcuMkwzNSA1LjEgMTQuNy00bDE0LjUgMjIuNXoiLz48L2c+PC9zdmc+
 alt: The cover of the original 1976 printing of The Woman Warrior. Copyright &copy;1976 Alfred A. Knopf, Inc.
 imageType: float
 num: 4

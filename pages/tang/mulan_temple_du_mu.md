@@ -3,6 +3,7 @@ layout: post
 title: <i>Mulan Temple</i> by Du Mu (c. 830 AD)
 description: A short but vivid poem which describes Mulan&rsquo;s inner struggle. Will she be true to her inner feminine nature or lose herself and become a hardened warrior?
 image: du_mu_chinese_poet_author_of_mulan_temple.jpg
+base64: PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAxMyI+PGZpbHRlciBpZD0iYiI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMTIiIC8+PC9maWx0ZXI+PHBhdGggZmlsbD0iI2Q4YWU4YiIgZD0iTTAgMGgyMHYxM0gweiIvPjxnIGZpbHRlcj0idXJsKCNiKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLjUgLjUpIiBmaWxsLW9wYWNpdHk9Ii41Ij48ZWxsaXBzZSBmaWxsPSIjM2ExZjNlIiBjeD0iNyIgcng9IjQiIHJ5PSI0Ii8+PGVsbGlwc2UgZmlsbD0iI2ZmZjJhZCIgcng9IjEiIHJ5PSIxIiB0cmFuc2Zvcm09InJvdGF0ZSgtOTcuNSAxMS4zIC01LjMpIHNjYWxlKDE5IDQuNTA1NzIpIi8+PHBhdGggZmlsbD0iI2E5NmY2ZCIgZD0iTTUuOCAyMC45bDEuNy0xNi05IDE2LjdMMTIuNyA2eiIvPjxwYXRoIGZpbGw9IiMxMTAwMTMiIGQ9Ik0xMC41IDEzbC0xLjkuOC0xLTIuOCAxLjgtLjh6Ii8+PC9nPjwvc3ZnPg==
 alt: Du Mu, author of Mulan Temple (Public domain).
 imageType: float
 num: 4

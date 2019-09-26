@@ -3,6 +3,7 @@ layout: post
 title: <i>Mulan Joins the Army</i> by Xu Wei (c. 1580 AD)
 description: The most popular retelling of Mulan&rsquo;s story, which brought this inspiring tale into the public spotlight.
 image: mulan_bids_farewell_to_her_family_while_two_soldiers_wait_impatiently.jpg
+base64: PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAxMyI+PGZpbHRlciBpZD0iYiI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMTIiIC8+PC9maWx0ZXI+PHBhdGggZmlsbD0iI2I0OTg2NSIgZD0iTTAgMGgyMHYxM0gweiIvPjxnIGZpbHRlcj0idXJsKCNiKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLjUgLjUpIiBmaWxsLW9wYWNpdHk9Ii41Ij48ZWxsaXBzZSBmaWxsPSIjY2JiMjdmIiBjeD0iMTMiIGN5PSI2IiByeD0iNSIgcnk9IjUiLz48cGF0aCBmaWxsPSIjYTk4ODUzIiBkPSJNMTMgMTIuN2wtOC43IDIuOEwtLjktLjdsOC42LTIuOHoiLz48cGF0aCBmaWxsPSIjOGY4NTYzIiBkPSJNMjYgNS41TDEwLjEtLjkgMTItNS41IDI3LjguOXoiLz48cGF0aCBmaWxsPSIjYzNhYTc3IiBkPSJNMjMuOCAxMEw5LjYtMSA2LjggMjhsNC0yMi44eiIvPjwvZz48L3N2Zz4=
 alt: Mulan bids farewell to her family while two soldiers wait impatiently. Included as an illustration in a late woodblock reprinting of a collection of Xu Wei's plays (Public domain).
 imageType: float
 num: 2
