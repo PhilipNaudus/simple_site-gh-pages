@@ -37,7 +37,7 @@ section.main h3 a {
   color: #404248;
 }
 
-section.main a img {
+section.main a img, span.thumb {
   border-radius: 5px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
