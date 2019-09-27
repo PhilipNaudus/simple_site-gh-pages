@@ -26,7 +26,7 @@ description: "In-depth analysis into Mulan's history and legend, including resea
 					{% assign defaultImage = article.image  %}
 				{% endif %}
 
-				<a href="{{ article.url }}"><div class="thumb" style="background-color: #{{ article.bg }}"><img data-src="/assets/images/thumbs/articles/{{ defaultImage }}" class="lazy img-fluid" /></div></a>
+				<a href="{{ article.url }}"><div class="thumb" style="background-color: #{{ article.bg }}"><img src="/assets/images/thumbs/articles/placeholder.png" data-src="/assets/images/thumbs/articles/{{ defaultImage }}" class="lazy img-fluid" /></div></a>
 				{% assign imageCount = imageCount | plus:1 %}
 			</div>
 			<div class="col-md-8 main-2">
@@ -37,5 +37,5 @@ description: "In-depth analysis into Mulan's history and legend, including resea
 	{% endfor %}
 {% endfor %}
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js" onload="var lazyLoadInstance=new LazyLoad({elements_selector:'.lazy'});"></script>
+<!--<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js" onload="var lazyLoadInstance=new LazyLoad({elements_selector:'.lazy'});"></script>-->
 {:/}
