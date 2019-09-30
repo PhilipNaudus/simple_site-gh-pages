@@ -1,14 +1,14 @@
-#[[redirects]]
-#  from = "https://mulanbook.netlify.com/*"
-#  to = "https://www.mulanbook.com/:splat"
-#  status = 301
-#  force = true
-#  headers = {X-From = "Netlify"}
-#[[redirects]]
-#  from = "https://mulanbook.com/*"
-#  to = "https://www.mulanbook.com/:splat"
-#  status = 301
-#  force = true
+[[redirects]]
+  from = "https://master--sleepy-wozniak-62f72d.netlify.com/*"
+  to = "https://mulanbook.com/:splat"
+  status = 301
+  force = true
+  headers = {X-From = "Netlify"}
+[[redirects]]
+  from = "https://master--mulanbook.netlify.com/*"
+  to = "https://mulanbook.com/:splat"
+  status = 301
+  force = true
 [[headers]]
   for = "*.js" # js files should be set this way
   [headers.values]
