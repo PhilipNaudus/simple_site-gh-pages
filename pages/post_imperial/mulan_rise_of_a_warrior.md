@@ -76,7 +76,7 @@ Although Mulan and her men are able to flee to a safe location, they are trapped
 <figcaption style="text-align: center;"><i>Wentai holds a jade pendant to prove that he is a prince of Wei.</i></figcaption>
 </figure>
 
-Mendu agrees to the plan, confident that he will be able to receive a large ransom from the emperor. When Mulan and her men discover Wentai's dissapearance, the men propose a rescue mission, but Mulan insists that she must go alone. Sending her men home, Mulan disguises herself as a Rouran woman and sneaks into the Rouran camp. She enters the tent of the Rouran princess and discovers that the princess has a strong desire to see the war come to an end. Mulan, the princess, and a loyal servant work together to assasinate Mendu.
+Mendu, confident that he will be able to extract a large ransom from the emperor, agrees to the plan. When Mulan and her men discover Wentai's dissapearance, the men propose a rescue mission, but Mulan insists that she must go alone. Sending her men home, Mulan disguises herself as a Rouran woman and sneaks into the Rouran camp. She enters the tent of the Rouran princess and discovers that the princess has a strong desire to see the war come to an end. Mulan, the princess, and a loyal servant work together to assasinate Mendu.
 
 <figure class="big">
 <img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/mulan_meets_the_rouran_princess.jpg" alt="Mulan meets with the Rouran princess." />
