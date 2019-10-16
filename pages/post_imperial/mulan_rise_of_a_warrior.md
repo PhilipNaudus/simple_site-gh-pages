@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>Mulan: Rise of a Warrior</i> (2009)
+title: "<i>Mulan: Rise of a Warrior</i> (2009)"
 description: After Disney&rsquo;s <i>Mulan</i> began receiving significant attention, the Chinese people desired to see this legend retold from a modern Chinese perspective.
 image: mulan_rise_of_a_warrior_movie_poster.jpg
 bg: db0110
