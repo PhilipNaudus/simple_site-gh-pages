@@ -3,6 +3,7 @@ layout: post
 title: <i>Mulan: Rise of a Warrior</i> (2009)
 description: Due to the significant attention Disney's <i>Mulan</i> received, the Chinese people began desiring to see this legend retold from a modern Chinese perspective.
 image: mulan_rise_of_a_warrior_movie_poster.jpg
+bg: db0110
 alt: A movie poster for Mulan: Rise of a Warrior. Images copyright &copy;2009 Starlight International Media, Inc.
 imageType: float
 num: 6
