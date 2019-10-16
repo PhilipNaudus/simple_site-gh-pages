@@ -1,11 +1,11 @@
 ---
 layout: post
 title: <i>Mulan: Rise of a Warrior</i> (2009)
-description: This film is largely responsible for making the story of Mulan reach legendary status in the West.
+description: Due to the significant attention Disney's <i>Mulan</i> received, the Chinese people began desiring to see this legend retold from a modern Chinese perspective.
 image: mulan_rise_of_a_warrior_movie_poster.jpg
-alt: A movie poster for Mulan. Images copyright &copy;1998 Disney.
+alt: A movie poster for Mulan: Rise of a Warrior. Images copyright &copy;2009 Starlight International Media, Inc.
 imageType: float
-num: 5
+num: 6
 ---
 
 After the release of [Disney's *Mulan*](/pages/post_imperial/disneys_mulan), the legend of Mulan began receiving such widespread attention that the Chinese people began taking renewed interest in this legend, as well. However, because the Chinese people did not appreciate an American rendition of one of their most beloved legends, there was a growing desire to see this legend retold from a modern Chinese perspective.
