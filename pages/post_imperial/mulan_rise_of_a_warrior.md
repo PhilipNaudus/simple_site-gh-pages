@@ -16,8 +16,8 @@ After the release of [Disney's *Mulan*](/pages/post_imperial/disneys_mulan), the
 In 450 AD, the emperor commands that men be drafted to resist the Rouran invasion. When Mulan's father, Hua Hu, receives his conscription notice, Mulan is distraught at the thought of seeing her ill father go to his certain death. Despite her pleas, her father is determined to fulfill his duty.
 
 <figure class="big">
-<img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/hua_hu_next_to_mulan.jpg" alt="Mulan, next to her father, Hua Hu, begging him not to fulfill his conscription orders." />
-<figcaption style="text-align: center;"><i>Mulan, next to her father, Hua Hu, begging him not to fulfill his conscription orders.</i></figcaption>
+<img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/hua_hu_next_to_mulan.jpg" alt="Mulan stands next to her father, Hua Hu, as he receives his conscription orders." />
+<figcaption style="text-align: center;"><i>Mulan stands next to her father, Hua Hu, as he receives his conscription orders.</i></figcaption>
 </figure>
 
 When Mulan realizes that her father cannot be dissuaded, Mulan remains determined to rescue him from his fate. Stealing away in the middle of the night, Mulan disguises herself as a man. Wearing her father's armor, she slips out with the family horse and reports for duty.
