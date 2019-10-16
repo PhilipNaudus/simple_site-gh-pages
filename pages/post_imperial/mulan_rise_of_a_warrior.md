@@ -90,7 +90,7 @@ Mulan rescues Wentai and returns to the emperor to announce that the war has end
 <figcaption style="text-align: center;"><i>Mulan is reunited with her father.</i></figcaption>
 </figure>
 
-After Mulan has been reunited with her family, Wentai comes to visit. He confesses that he has strong feelings for her and begs Mulan to run away with him. However, Mulan knows that peace can only be guaranteed if Wentai agrees to marry the princess. Even though she also cares deeply for Wentai, she must put the good of her country ahead of her own emotions. After the two of them share a long embrace, Wentai departs and never sees Mulan again.
+After Mulan has been reunited with her family, Wentai comes to visit. He confesses that he has strong feelings for her and begs Mulan to run away with him. However, Mulan knows that peace can only be guaranteed if Wentai agrees to marry the princess. Even though she also cares deeply for Wentai, the two of them must put the good of China ahead of ther own emotions. After the two of them share a long embrace, Wentai departs and never sees Mulan again.
 
 <figure class="big">
 <img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/wentai_walks_away_from_mulan.jpg" alt="After their embrace, Wentai walks away." />
