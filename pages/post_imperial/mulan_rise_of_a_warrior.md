@@ -20,7 +20,7 @@ In 450 AD, the emperor commands that men be drafted to resist the Rouran invasio
 <figcaption style="text-align: center;"><i>Mulan stands next to her father, Hua Hu, as he receives his conscription orders.</i></figcaption>
 </figure>
 
-When Mulan realizes that her father cannot be dissuaded, Mulan remains determined to rescue him from his fate. Stealing away in the middle of the night, Mulan disguises herself as a man. Wearing her father's armor, she slips out with the family horse and reports for duty.
+When Mulan realizes that her father cannot be dissuaded, she remains determined to rescue him from his fate. Stealing away in the middle of the night, Mulan disguises herself as a man. Wearing her father's armor, she slips out with the family horse and reports for duty.
 
 <figure class="big">
 <img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/mulan_next_to_her_father_at_night.jpg" alt="Mulan speaks with her father one last time before her departure." />
