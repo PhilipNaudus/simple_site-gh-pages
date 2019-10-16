@@ -3,7 +3,7 @@ layout: post
 title: "<i>Mulan: Rise of a Warrior</i> (2009)"
 description: After Disney&rsquo;s <i>Mulan</i> began receiving significant attention, the Chinese people desired to see this legend retold from a modern Chinese perspective.
 image: mulan_rise_of_a_warrior_movie_poster.jpg
-bg: db0110
+bg: 4d5941
 alt: "A movie poster for Mulan: Rise of a Warrior. Images copyright &copy;2009 Starlight International Media, Inc."
 imageType: float
 num: 6
@@ -27,21 +27,21 @@ When Mulan realizes that her father cannot be dissuaded, Mulan remains determine
 <figcaption style="text-align: center;"><i>Mulan speaks with her father one last time before her departure.</i></figcaption>
 </figure>
 
-When she arrives at the army barracks, Mulan she introduces herself as Hua Hu's son. A family friend, "Little Tiger," immediately recognizes Mulan and is appaled to see her joining the army. When Mulan begs him to keep her secret safe, Little Tiger finally agrees to help Mulan learn how to blend into the army.
+When she arrives at the army barracks, Mulan she introduces herself as Hua Hu's son. A family friend by the name of "Little Tiger" immediately recognizes Mulan and is appaled to see her joining the army. When Mulan begs him to keep her secret safe, Little Tiger finally agrees to help Mulan learn how to blend into the army.
 
 <figure class="big">
 <img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/mulan_next_to_little_tiger.jpg" alt="Mulan taking a stroll with her friend, Little Tiger." />
 <figcaption style="text-align: center;"><i>Mulan taking a stroll with her friend, Little Tiger.</i></figcaption>
 </figure>
 
-During training exercizes, Mulan quickly demonstrates herself to be highly skilled in martial arts and earns the respect of many including Wentai, the assistant commander. However, when the army commander orders a strip-search after a valuable jade pendant has dissapeared, Mulan refuses to undress. Unable to explain why she must remain clothed, she finally admits to being the theif in a desperate attempt to bring the search to an end.
+During training exercizes, Mulan quickly demonstrates herself to be highly skilled in martial arts and earns the respect of many men, including Wentai, the assistant commander. However, when the army commander orders a strip-search after a valuable jade pendant has dissapeared, Mulan refuses to undress. Unable to explain why she must remain clothed, she finally admits to being the theif in a desperate attempt to bring the search to an end.
 
 <figure class="big">
 <img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/mulan_escapes.jpg" alt="Mulan escapes from prison with the assistance of Wentai." />
 <figcaption style="text-align: center;"><i>Mulan escapes from prison with the assistance of Wentai.</i></figcaption>
 </figure>
 
-Mulan is bound and sentenced to death. Wentai, certain that Mulan is not a theif, comes to visit her in the prison. Mulan reveals her true identity and begs Wentai to burn her body in order to prevent her femininity from being revealed after her execution. Wentai agrees but when the Rouran army lauches a suprise attack, Wentai releases Mulan and tells her to escape. Upon seeing that her comrades are struggling to resist the assault, Mulan rushes forward to challenge the enemy commander and secures the victory. As a reward for her service, Mulan is pardoned and promoted to serve as assistant commander alongside Wentai.
+Mulan is bound and sentenced to death. Wentai, certain that Mulan is not a theif, comes to visit her in the prison. Mulan reveals her true identity and begs Wentai to burn her body in order to prevent her femininity from being revealed after her execution and Wentai agrees. However, when the Rouran army lauches a suprise attack, Wentai releases Mulan and tells her to escape. Upon seeing that her comrades are struggling to resist the assault, Mulan rushes forward to challenge the enemy commander and secures the victory. As a reward for her service, Mulan is pardoned and promoted to serve as assistant commander alongside Wentai.
 
 <figure class="big">
 <img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/mulan_slays_the_enemy_commander.jpg" alt="Mulan delivers a fatal blow to the enemy commander." />
@@ -55,14 +55,14 @@ As the war progresses, both Mulan and Wentai are promoted to become generals. Du
 <figcaption style="text-align: center;"><i>Mulan kneels amid the bodies of her fallen comrades and weeps with the knowledge that their deaths have been caused by her negligence.</i></figcaption>
 </figure>
 
-Mulan wrestles through her emotions but finally concludes that she is more of a liability than an asset to the army. As a result, she chooses to remain behind the next time the men engage the enemy. Wentai, who was badly wounded, fakes his death in hopes that this will teach Mulan how to emotionally distance herself from the battlefield. When Little Tiger returns to report that Wentai was killed in action, Mulan is devastated and takes to drinking. Because there is no general to command the men, the army remains idle for weeks until Little Tiger threatens to destroy the only token Mulan has from Wentai, accusing her of caring more for the dead than the living. Mulan finally realizes that if she does not press on and become a hardened warrior, Wentai's death was in vain. After Mulan musters all her strength, she leads her men to a series of decisive victories.
+Mulan wrestles through her emotions but finally concludes that she is more of a liability than an asset to the army. As a result, she chooses to remain behind the next time the men engage the enemy. Wentai, who is badly wounded in the next battle, decides to fake his death in hopes that this will teach Mulan how to emotionally distance herself from the battlefield. When Little Tiger returns to report that Wentai was killed in action, Mulan is devastated and takes to drinking. Because there is no general to command the men, the army remains idle for weeks until Little Tiger threatens to destroy the only token Mulan has from Wentai, accusing her of caring more for the dead than the living. Mulan finally realizes that if she does not press on and become a hardened warrior, Wentai's death was in vain. After Mulan musters all her strength, she leads her men to a series of decisive victories.
 
 <figure class="big">
-<img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/mulan_touching_speech.jpg" alt="After Mulan finally manages to conquer her emotions, she delivers a touching speech which inspires the men to fight." />
-<figcaption style="text-align: center;"><i>After Mulan finally manages to conquer her emotions, she delivers a touching speech which inspires the men to fight.</i></figcaption>
+<img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/mulan_touching_speech.jpg" alt="After Mulan finally manages to conquer her emotions, she delivers a touching speech and inspires the men to fight." />
+<figcaption style="text-align: center;"><i>After Mulan finally manages to conquer her emotions, she delivers a touching speech and inspires the men to fight.</i></figcaption>
 </figure>
 
-Meanwhile, the Rouran chief suffers such devastating defeats that he is about to recall his troops. However, his son Mendu, is so bloodthirsty that he murders his own father in order to ensure that the war will continue. While the Rourans are launching a massive attack against the Chinese, Mulan and many other soldiers are injured. Before they are able to retreat, a massive dust storm arises and engulfs both sides. When Mulan regains consciousness, she is reunited with Wentai. Although she is overjoyed to discover that he is still alive, there is no time for celebration. A massive army of fresh Rouran reinforcements surge onto the scene, forcing Mulan to retreat. In their haste, the Chinese are forced to leave their wounded behind because it is better to sacrifice a few wounded than to compromize the safety of the entire army. When Mulan discovers that Little Tiger is among those being abandoned, Mulan forbids her men from rescuing him. She has finally succeeded in becoming an unemotional warrior who places the welfare of the entire army above the needs of a few men.
+Meanwhile, the Rouran chief suffers such devastating defeats that he is about to recall his troops. However, his son Mendu is so bloodthirsty that he murders his own father in order to ensure that the war will continue. While the Rourans are launching a massive attack against the Chinese, Mulan and many other soldiers are injured. Before they are able to retreat, a massive dust storm arises and engulfs both sides. When Mulan regains consciousness, she is reunited with Wentai. Although she is overjoyed to discover that he is still alive, there is no time for celebration. A massive army of fresh Rouran reinforcements surge onto the scene, forcing Mulan to retreat. In their haste, the Chinese are left with no choice but to leave their wounded behind because it is better to sacrifice a few wounded men than to compromize the safety of the entire army. When Mulan discovers that Little Tiger is among those being abandoned, Mulan forbids her men from rescuing him. She has finally succeeded in becoming an unemotional warrior who places the welfare of the entire army above the needs of a few men.
 
 <figure class="big">
 <img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/wentai_breaks_the_arrow_in_mulans_chest.jpg" alt="Wentai breaks the arrow in Mulan's chest." />
