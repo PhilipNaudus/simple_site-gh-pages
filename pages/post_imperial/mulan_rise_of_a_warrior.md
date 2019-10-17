@@ -11,6 +11,8 @@ num: 6
 
 After the release of [Disney's *Mulan*](/pages/post_imperial/disneys_mulan), the legend of Mulan began receiving such widespread attention that the Chinese people began taking renewed interest in this legend, as well. However, because the Chinese people did not appreciate an American rendition of one of their most beloved legends, there was a growing desire to see this legend retold from a modern Chinese perspective.
 
+Throughout this film, Mulan struggles to put the needs of the masses ahead of particular people to whom she feels emotionally attached. Within this plot lays a subtle communist message that individual citizens must lay down their own personal interests for the good of society as a whole. This retelling of Mulan's story differs from many previous versions of the legend in that it does not end happily. Although Mulan meets a man for whom she cares deeply during her time spend serving China, she chooses to place the needs of her country ahead of her personal desire to enjoy a romantic relationship.
+
 <h2>Plot Summary</h2>
 
 In 450 AD, the emperor commands that men be drafted to resist the Rouran invasion. When Mulan's father, Hua Hu, receives his conscription notice, Mulan is distraught at the thought of seeing her ill father go to his certain death. Despite her pleas, her father is determined to fulfill his duty.
