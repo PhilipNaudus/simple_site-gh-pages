@@ -97,3 +97,5 @@ After Mulan has been reunited with her family, Wentai comes to visit. He confess
 <figure class="big">
 <img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/wentai_walks_away_from_mulan.jpg" alt="After their embrace, Wentai walks away." />
 </figure>
+
+[View *Mulan: Rise of a Warrior* on IMDB](https://www.imdb.com/title/tt1308138/)

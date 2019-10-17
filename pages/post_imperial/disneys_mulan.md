@@ -58,7 +58,9 @@ Despite Mulan's best efforts, she is unable to convince Li Shang that the Huns a
 The emperor, who now owes his life to Mulan, asks her to become his adviser. However, Mulan declines and only requests that she be allowed to return home. After Mulan has been reunited with her family, Li Shang visits and is welcomed by Mulan's parents and grandmother.
 
 <figure class="float right" style="max-width: 450px;">
-<img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/final_scene_mulan_li_shang.jpg" alt="Mulan and Li Shang exchanging a glance under a magnolia truee." />
+<img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/final_scene_mulan_li_shang.jpg" alt="Mulan and Li Shang exchanging a glance under a magnolia tree." />
 </figure>
+
+[View *Mulan* on IMDB](https://www.imdb.com/title/tt0120762/)
 
 <link rel="stylesheet" href="/assets/themes/twitter/css/tip.css" type="text/css" media="all" />

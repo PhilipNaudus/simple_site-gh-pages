@@ -13,7 +13,7 @@ Almost immediately after the release of *[Mulan: Rise of a Warrior](/pages/post_
 
 If Disney's efforts are successful and this American adaptation is successfully re-imported into the culture which gave birth to Mulan's story, this will likely spark a renewed interest in the legend of Mulan throughout cultures around the world.
 
-[View Mulan on IMDB](https://www.imdb.com/title/tt4566758/)
+[View *Mulan* on IMDB](https://www.imdb.com/title/tt4566758/)
 
 <br />
 <br />
