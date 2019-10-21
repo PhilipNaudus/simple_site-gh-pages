@@ -9,7 +9,7 @@ imageType: float
 num: 3
 ---
 
-If Mulan was a real person, one of the best sources to use to argue for her existence would be historian <a href="https://en.wikipedia.org/wiki/Zhu_Guozhen_(Ming_dynasty)">Zhu Guozhen's</a> writings. Zhu Guozhen was remarkably thorough in the way he preserved historical details; his scholarship has enabled modern-day scholars to gain a greater understanding of events from imperial China (<span class="tip">source<span class="tiptext">&#26417;&#22269;&#31087;&#12298;&#28044;&#24162;&#23567;&#21697;&#12299;&#30740;&#31350;<br /><small><a href="http://bit.ly/30W6MdY">http://bit.ly/30W6MdY</a></small></span></span>).
+If Mulan was a real person, one of the best sources to use to argue for her existence would be historian <a href="https://en.wikipedia.org/wiki/Zhu_Guozhen_(Ming_dynasty)">Zhu Guozhen's</a> writings. Zhu Guozhen was remarkably thorough in the way he preserved historical details; his scholarship has enabled modern-day scholars to gain a greater understanding of events from imperial China.
 
 During the Ming Dynasty (c. 1625), Zhu Guozhen collected reports on various civil and political topics which he had witnessed, compiling them into a work which he titled *A Minuscule Book from the Yongzhuang Studio*. When addressing the subject of woman soldiers, he wrote:
 
