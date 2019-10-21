@@ -9,7 +9,7 @@ imageType: float
 num: 3
 ---
 
-If Mulan was a real person, one of the best sources to use to argue for her existence would be historian <a href="https://en.wikipedia.org/wiki/Zhu_Guozhen_(Ming_dynasty)">Zhu Guozhen's</a> writings. Zhu Guozhen was remarkably thorough in the way he preserved historical details; his scholarship has enabled modern-day scholars to gain a greater understanding of events from imperial China (<span class="tip">source<span class="tiptext">b&#26417;&#22269;&#31087;&#12298;&#28044;&#24162;&#23567;&#21697;&#12299;&#30740;&#31350;<br /><small><a href="http://bit.ly/30W6MdY">http://bit.ly/30W6MdY</a></small></span></span>).
+If Mulan was a real person, one of the best sources to use to argue for her existence would be historian <a href="https://en.wikipedia.org/wiki/Zhu_Guozhen_(Ming_dynasty)">Zhu Guozhen's</a> writings. Zhu Guozhen was remarkably thorough in the way he preserved historical details; his scholarship has enabled modern-day scholars to gain a greater understanding of events from imperial China (<span class="tip">source<span class="tiptext">&#26417;&#22269;&#31087;&#12298;&#28044;&#24162;&#23567;&#21697;&#12299;&#30740;&#31350;<br /><small><a href="http://bit.ly/30W6MdY">http://bit.ly/30W6MdY</a></small></span></span>).
 
 During the Ming Dynasty (c. 1625), Zhu Guozhen collected reports on various civil and political topics which he had witnessed, compiling them into a work which he titled *A Minuscule Book from the Yongzhuang Studio*. When addressing the subject of woman soldiers, he wrote:
 
@@ -29,10 +29,14 @@ This excerpt comes from a text which has been <a href="http://cdmd.cnki.com.cn/A
 
 Although this retelling of Mulan's story has a tragic ending, it is one of the most logically consistent versions. An emperor who was willing to conscript elderly and feeble men into his army, thus forcing Mulan to take her father's place, would have seen himself above needing to adhere to moral principles; this same emperor would have wanted to take a woman such as Mulan for himself. Emperor Yang was, in fact, shameless in his immorality. Toward the end of his life, he lived such a lavish and wasteful lifestyle that he single-handedly placed China under a great burden. He conscripted countless men into his army and sent them to fight in frivolous expeditions, commissioned numerous lavish construction projects, and forced thousands of women into his royal harem against their wills. His abandonment of Confucian principles makes him an ideal candidate for the emperor under whom Mulan served.
 
-Even though *A Minuscule Book from the Yongzhuang Studio* has been accepted by numerous scholars as a credible historical text, Zhu Guozhen's treatment of Mulan has been called into question. While Zhu Guozhen repeatedly demonstrated his ability to meticulously record the history of his time, some scholars doubt that he had the resources to thoroughly research events which had occurred centuries prior. Additionally, many earlier references to Mulan insist that she lived much earlier than the Sui Dynasty. Thus, this particular excerpt is considered by many scholars to be a fictional anecdote inside a historical text.
+Even though *A Minuscule Book from the Yongzhuang Studio* has been accepted by numerous scholars as a credible historical text, Zhu Guozhen's treatment of Mulan has been called into question. While Zhu Guozhen repeatedly demonstrated his ability to meticulously record the history of his time, some scholars doubt that he had the resources to thoroughly research events which had occurred centuries prior. Additionally, many earlier references to Mulan insist that she lived much earlier than the Sui Dynasty. Thus, this particular excerpt is considered by many modern scholars to be a fictional anecdote inside a historical text.
 
-I, personally, feel that this does not give the text a fair treatment, as it is certainly possible that Zhu Guozhen had access to historical records which have now been lost. After all, Zhu Guozhen does not refer to Mulan as a myth, but asserts that she was a real person. While I must admit that this defense of Zuo Guozhen is rather speculative, historians who assert that he did not have the resources to research Mulan's story are, themselves, making speculations.
+<center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <span id="show_note_icon"></span></a></center>
 
-Although this argument does not prove that Mulan really lived, it at least forces us to take a step away from doubting her existence.
+<div id="note">
+<ol>
+<li><a href="http://cdmd.cnki.com.cn/Article/CDMD-10476-1012420931.htm">&#19969;&#23500;&#20449;, &#26417;&#22269;&#31087;&#12298;&#28044;&#24162;&#23567;&#21697;&#12299;&#30740;&#31350; (&#27827;&#21335;&#24072;&#33539;&#22823;&#23398;, 2012.6).</a></li>
+</ol>
+</div>
 
-<link rel="stylesheet" href="/assets/themes/twitter/css/tip.css" type="text/css" media="all" />
+<script type="text/javascript" src="/assets/js/toggle_note.js"></script>

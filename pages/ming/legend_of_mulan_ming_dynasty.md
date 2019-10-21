@@ -15,6 +15,10 @@ Amid this culture which had ceased prizing the cultivation of virtue through car
 
 Sadly, this rendition of Mulan&rsquo;s tale is also the most popular. While Xu Wei did Mulan (and women in general) an incredible disservice, he did succeed in bringing the story of Mulan into the public spotlight. Before the Ming Dynasty, Mulan was only mentioned by a handful of poets; after Xu Wei released <i>Mulan Joins the Army</i>, authors and even historians began taking an increasing interest in Mulan&rsquo;s story.
 
+Zhu Guozhen was one of the first historians to compile what he believed to be a true account of Mulan's life, recording his findings in [*A Minuscule Book from the Yongzhuang Studio*](https://mulanbook.com/pages/ming/minuscule_book_from_the_yongzhuang_studio). Soon afterward, *Biographies of Woman Warriors* (&#22899;&#20448;&#20659; by &#37138;&#20043;&#40607;) and *Illultrated Accounts of Famous Women throughout the ages* (&#27511;&#20195;&#21517;&#23195;&#22294;&#35498;) both produced reprintings of the [*Ballad of Mulan*](https://mulanbook.com/pages/northern_wei/ballad_of_mulan), crediting Mulan herself as the original author.
+
+Although modern historians have begun to question the scholarship of these Ming dynasty historians, the renewed interest in Mulan's story which emerged during the Ming dynasty helped to propel the legend forward.
+
 <center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <span id="show_note_icon"></span></a></center>
 
 <div id="note">
@@ -26,6 +30,7 @@ Sadly, this rendition of Mulan&rsquo;s tale is also the most popular. While Xu W
 <li><a href="https://doi.org/10.1080/25723618.2018.1482681">Yang, Qing. <i>Mulan in China and America: From Premodern to Modern</i> (Comparative Literature: East & West, 2018.2): 45-59.</a></li>
 <li><a href="https://ctext.org/wiki.pl?if=gb&chapter=279842">&#26446;&#36100;, &#31461;&#24515;&#35498; (c. 1570).</a></li>
 <li>&#21688;&#29838;&#24681;, &#26408;&#34349;&#25925;&#20107;&#30340;&#35722;&#30064;&#21450;&#20659;&#25215; - &#20197;&#35799;&#27468;&#65380; &#23567;&#35498;&#65380; &#25138;&#26354;&#65380; &#35498;&#21809;&#28858;&#32771;&#23519;&#31684;&#22260; (&#20013;&#22283;&#35486;&#25991;&#23416;&#35468;, 2011.37): 437-454.</li><!--everything-->
+<li><a href="http://tkuir.lib.tku.edu.tw:8080/dspace/bitstream/987654321/40477/1/%E4%B8%AD%E5%9C%8B%E5%8F%A4%E5%85%B8%E5%B0%8F%E8%AA%AA%E4%B8%AD%E7%9A%84%E3%80%8C%E5%A5%B3%E4%BF%A0%E3%80%8D%E5%BD%A2%E8%B1%A1.pdf">&#26519;&#20445;&#28147;, &#20013;&#22283;&#21476;&#20856;&#23567;&#35498;&#20013;&#30340;&#12300;&#22899;&#20448;&#12301;&#24418;&#35937; (&#20013;&#22283;&#25991;&#21746;&#30740;&#31350;&#38598;, 1997.9): 43-88.</a></li>
 </ol>
 </div>
 
