@@ -1,10 +1,10 @@
 ---
 layout: post
 title: <i>Song of Mulan</i> by Wei Yuanfu (c. 750 AD)
-description: A short but vivid poem which describes Mulan&rsquo;s inner struggle. Will she be true to her inner feminine nature or lose herself and become a hardened warrior?
+description: As one of the first retellings of Mulan's story, this song introduces some key elements which became intrinsic to the legend's development.
 image: song_of_mulan.jpg
 bg: e1d0b4
-alt: As one of the first retellings of Mulan's story, this song introduces some key elements which became intrinsic to the legend's development.
+alt: The text of the Song of Mulan, as it appears in the Music Bureau Collection (Public domain).
 imageType: float
 num: 2
 ---
@@ -72,8 +72,4 @@ If the officials of this world<br />
 Their loyalty and filial piety would not be lost.<br />
 <div class="indent"> Their fame would last throughout the ages.</div><br />
 
-
-
-
 [Original Chinese Text](https://ctext.org/library.pl?if=gb&file=79316&page=132)
-Baidu: https://baike.baidu.com/item/%E6%9C%A8%E5%85%B0%E6%AD%8C
