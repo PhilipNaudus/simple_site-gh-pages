@@ -48,4 +48,29 @@
 	</div>
 </div>
 
+{% assign current = false %}
+{% for dynasty in dynastyArr %}
+	{% assign folderName = '/' | append: dynasty | append: '/' %}
+	{% assign folder = site.pages | where_exp: "item" , "item.path contains folderName" | sort: "num" %}
+
+	{% for article in folder %}
+		{% if page.url == article.url %}
+			{% assign current = true %}
+		{% elsif current == true %}
+			{% assign nextTitle = article.title %}
+			{% assign nextUrl = article.url %}
+			{% break %}
+		{% else %}
+			{% assign prevTitle = article.title %}
+			{% assign prevUrl = article.url %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+<div>
+<p style="float:left;">Previous: <a href="{{ prevUrl }}">{{ prevTitle }}</a></p>
+<p style="float:right;">Next: <a href="{{ nextUrl }}">{{ nextTitle }}</a></p>
+</div>
+<div style="clear:both;"></div>
+
 {% if page.imageType contains "float" %} <script type="text/javascript" src="/assets/js/float.js"></script> {% endif %}
