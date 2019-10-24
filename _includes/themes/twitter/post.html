@@ -55,10 +55,6 @@
 
 	{% for article in folder %}
 		{% if page.url == article.url %}
-			{% assign nextTitle = article.title %}
-			{% assign nextUrl = article.url %}
-			{% break %}
-
 			{% assign current = true %}
 		{% elsif current == true %}
 			{% assign nextTitle = article.title %}
