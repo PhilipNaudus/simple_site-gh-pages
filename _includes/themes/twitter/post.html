@@ -76,8 +76,10 @@
 {% if prevUrl %}
 <p style="float:left;">Previous: <a href="{{ prevUrl }}">{{ prevTitle }}</a></p>
 {% endif %}
-{% if nextUrl %}
+{% if nextUrl != page.url %}
 <p style="float:right;">Next: <a href="{{ nextUrl }}">{{ nextTitle }}</a></p>
+{% else %}
+<p style="float:right;">Next: <a href="/pages/northern_wei/ballad_of_mulan">The <i>Ballad of Mulan</i></a></p>
 {% endif %}
 </div>
 <div style="clear:both;"></div>
