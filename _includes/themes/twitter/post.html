@@ -50,18 +50,19 @@
 
 {% assign i = 0 %}
 {% assign num = 0 %}
+{% assign current = false %}
 {% for dynasty in dynastyArr %}
 	{% assign folderName = '/' | append: dynasty | append: '/' %}
 	{% assign folder = site.pages | where_exp: "item" , "item.path contains folderName" | sort: "num" %}
 
 	{% for article in folder %}
-		{% if page.url == article.url %}
+		{% if page.url != article.url %}
 			{% assign current = true %}
 		{% elsif i <= num %}
 			{% assign nextTitle = article.title %}
 			{% assign nextUrl = article.url %}
-			{% break %}
-		{% else %}
+		{% endif %}
+		{% if current == false %}
 			{% assign prevTitle = article.title %}
 			{% assign prevUrl = article.url %}
 			{% assign num = num | plus: 1 %}
