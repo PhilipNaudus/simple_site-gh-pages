@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <i>A Minuscule Book from the Yongzhuang Studio</i> by Zhu Guozhen (c. 1625 AD)
-description: While addressing the topic of women warriors, an early histoian reconstructed what he believed to be Mulan's true story..
+description: While addressing the topic of women warriors, an early historian reconstructed what he believed to be Mulan's true story.
 image: minuscule_book_from_the_yongzhuang_studio.jpg
 bg: e8d9c4
 alt: A modern reprinting of A Minuscule Book from the Yongzhuang Studio. &copy; Culture and Art Publishing House.
