@@ -13,7 +13,7 @@ Although this poem is only four lines long, it is filled with vivid imagery whic
 
 As the poem concludes, Du Mu compares Mulan to [Wang Zhaojun](https://www.theepochtimes.com/wang-zhaojun-beauty-of-peace_1069045.html), one of the four most beautiful women who ever lived in ancient China. Like Mulan, Wang Zhaojun&rsquo;s virtue forced her to make incredible sacrifices and endure many years of isolation.
 
-Because this poem employs beautiful rhetoric which is extremely difficult to express in another language, a literal translation is nearly impossible. A paraphrase appears below:
+Because this poem employs beautiful rhetoric, which is extremely difficult to express in another language, a literal translation is nearly impossible. A paraphrase appears below:
 
 <blockquote style="text-align: left;">
 The warrior boldly enters battle and draws her bow.<br />
@@ -26,4 +26,4 @@ Deep in the heart of inner Mongolia, they all raise their glasses to the beautif
 <small><a href="https://fanti.dugushici.com/ancient_proses/27451">Original Chinese text</a></small><br /><br />
 </blockquote>
 
-The fact that this poem is titled <i>Mulan Temple</i> seems suprising. After all, the poem itself has nothing to do with a temple. [A memorial which was erected during the Yuan Dynasy](../yuan/memorial_filial_general) reveals that this poem was used as a sacred text by a Taoist sect which revered Mulan as a goddess. These Taoists were probably the ones who chose the title for this poem.
+The title of this poem was most likely chosen by the followers of a Taoist sect who began to use this poem as one of their sacred texts (see [A Memorial to the Filial General]). 

@@ -21,14 +21,14 @@ Suddenly, Mushu stumbles into the door. Mulan and her father jump to greet Mushu
 
 After Zhao Jing has left, Mushu stubbornly refuses to report for duty. Mulan begs her cousin to reconsider, but he is terrified. Mulan begins to belittle Mushu, insisting that she would join the army if only she were a boy. Deeply offended for being called a coward, he challenges Mulan to join the army.
 
-Mulan accepts the challenge. The two of them agree to exchange places. Mulan dresses as a man and marches off to join the army while Mushu dresses as a woman and tries to learn how to walk daintily.
+Mulan accepts the challenge and the two of them agree to exchange places. Mulan dresses as a man and marches off to join the army while Mushu dresses as a woman and tries to learn how to walk daintily.
 
 
 <h2>Act 2</h2>
 
-While Commander-in-Chief Huo Qubing is boasting of his intentions to destroy the Xiongnu (the Xiongnu are sometimes colloquially referred to as the Huns), Mulan enters and reports for duty. Huo Qubing takes one look at her delicate features and is about to send her away when Mulan (calling herself Mushu) begins to insist that she is a skilled warrior. Although Huo Qubing is unimpressed, he appoints her vanguard over five hundred men and threatens severe punishment if she does not prove herself to be a successful leader.
+While Commander-in-Chief Huo Qubing is boasting of his intentions to destroy the Xiongnu, Mulan enters and reports for duty. Huo Qubing takes one look at her delicate features and is about to send her away when Mulan (calling herself Mushu) begins to insist that she is a skilled warrior. Although Huo Qubing is unimpressed, he appoints her vanguard over five hundred men and threatens severe punishment if she does not prove herself to be a successful leader.
 
-Mulan orders her men forward to find a battle already raging between Supreme Commander Wei Qing and the khan of the Xiongnu. Mulan climbs to understand what is happening and is startled to realize that the Chinese army is suffering a terrible defeat. Just before the suprme commander meets his fate, Mulan leaps down to rescue him. Together, they chase the Xiongnu across an icy sea. While attempting to conceal themselves amongst the icebergs, the entire Xiongnu army drowns. The Chinese army returns to the emperor in triumph.
+Mulan orders her men forward and finds that a battle is already raging between Supreme Commander Wei Qing and the khan of the Xiongnu. In an attempt to better assess the situation, Mulan climbs a mountain, and is startled to realize that the Chinese army is suffering a terrible defeat. Just before the supreme commander meets his fate, Mulan leaps down to rescue him. Together, they chase the Xiongnu across an icy sea. While attempting to conceal themselves amongst the icebergs, the entire Xiongnu army drowns. The Chinese army returns to the emperor in triumph.
 
 The supreme commander praises Mulan (referring to her as Mushu) in front of the emperor, declaring that the victory would not have been possible without her. The emperor offers Mulan a prominent position, but she declines. Her only request is that she be allowed to return home.
 
