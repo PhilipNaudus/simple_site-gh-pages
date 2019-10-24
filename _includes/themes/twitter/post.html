@@ -49,14 +49,18 @@
 </div>
 
 {% assign current = false %}
+{% assign next = false %}
 {% for dynasty in dynastyArr %}
 	{% assign folderName = '/' | append: dynasty | append: '/' %}
 	{% assign folder = site.pages | where_exp: "item" , "item.path contains folderName" | sort: "num" %}
 
 	{% for article in folder %}
-		{% if current == false %}
+		{% if next == false %}
 			{% assign nextTitle = article.title %}
 			{% assign nextUrl = article.url %}
+		{% endif %}
+		{% if current == true %}
+			{% assign next = true %}
 		{% endif %}
 		{% if page.url == article.url %}
 			{% assign current = true %}
