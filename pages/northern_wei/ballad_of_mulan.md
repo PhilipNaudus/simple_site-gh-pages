@@ -32,4 +32,6 @@ Nevertheless, the arguments which modern historians make when casting doubt upon
 </ol>
 </div>
 
+<div><p style="float:right;"><a href="https://mulanbook.com/pages/tang/legend_of_mulan_tang_dynasty">The Legend of Mulan During the Tang Dynasty</a></p></div>
+
 <script type="text/javascript" src="/assets/js/toggle_note.js"></script>
