@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Disney's live-action <i>Mulan</i> (2020)
-description: This film, which is yet to be released, will be an American adaptation of Mulan's story which draws much inspiration from previous Chinese retellings of the legend.
+description: This film, which is yet to be released, will be an American adaptation of Mulan's story that draws much inspiration from previous Chinese retellings of the legend.
 image: disneys_live_action_mulan_movie_poster.jpg
 bg: cc0605
 alt: A movie poster for Mulan. Copyright &copy;2019 Disney.
