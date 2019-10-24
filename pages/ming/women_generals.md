@@ -1,7 +1,7 @@
 ---
 layout: post
-title: <i>A Minuscule Book from the Yongzhuang Studio</i> by Zhu Guozhen (c. 1625 AD)
-description: While addressing the topic of women warriors, an early historian reconstructed what he believed to be Mulan's true story.
+title: <i>Women Generals</i> by Zhu Guozhen (c. 1625 AD)
+description: While addressing the topic of female soldiers, an early historian reconstructed what he believed to be Mulan's true story.
 image: minuscule_book_from_the_yongzhuang_studio.jpg
 bg: e8d9c4
 alt: A modern reprinting of A Minuscule Book from the Yongzhuang Studio. &copy; Culture and Art Publishing House.
@@ -11,7 +11,7 @@ num: 3
 
 If Mulan was a real person, one of the best sources to use to argue for her existence would be historian <a href="https://en.wikipedia.org/wiki/Zhu_Guozhen_(Ming_dynasty)">Zhu Guozhen's</a> writings. Zhu Guozhen was remarkably thorough in the way he preserved historical details; his scholarship has enabled modern-day scholars to gain a greater understanding of events from imperial China.
 
-During the Ming Dynasty (c. 1625), Zhu Guozhen collected reports on various civil and political topics which he had witnessed, compiling them into a work which he titled *A Minuscule Book from the Yongzhuang Studio*. When addressing the subject of woman soldiers, he wrote:
+During the Ming Dynasty (c. 1625), Zhu Guozhen collected reports on various civil and political topics which he had witnessed, compiling them into a work which he titled *A Minuscule Book from the Yongzhuang Studio*. In a section titled *Women Generals*, Zhu Guozhen addressed the subject of female soldiers. He wrote:
 
 <blockquote>
 Employing women soldiers provides many tactical advantages... Wei Mulan, <i>The Filial General</i>, was a virgin from Qiao in <a href="https://en.wikipedia.org/wiki/Bozhou">Bozhou</a> who served during the reign of <a href="https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui">Emperor Yang of Sui</a>. She was greatly distressed by her father’s declining health during the time when soldiers were being recruited for an expedition east of the <a href="https://en.wikipedia.org/wiki/Liao_River">Liao River</a>. Because her brother and sister were both young and immature, she resolved to take her father’s place. After gathering supplies and donning a suit of armor, she rode off on a horse. She fought in eighteen battles over twelve years, but her comrades never discovered her true identity.<br /><br />
