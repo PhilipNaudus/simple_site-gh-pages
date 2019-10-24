@@ -31,4 +31,9 @@ Although these depictions of Mulan may seem disappointingly anti-feminist to the
 </ol>
 </div>
 
+<div>
+<p style="float:left;"><a href="https://mulanbook.com/pages/northern_wei/ballad_of_mulan">The <i>Ballad of Mulan</i></a></p>
+<p style="float:right;"><a href=https://mulanbook.com/pages/tang/song_of_mulan">The <i>Song of Mulan</i> by Wei Yuanfu (c. 750 AD)</a></p>
+</div>
+
 <script type="text/javascript" src="/assets/js/toggle_note.js"></script>
