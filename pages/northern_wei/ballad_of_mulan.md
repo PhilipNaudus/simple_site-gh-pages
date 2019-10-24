@@ -31,7 +31,5 @@ Nevertheless, the arguments which modern historians make when casting doubt upon
 <li><a href="https://zh.wikisource.org/zh-hant/%E5%A5%B3%E8%AA%A1">&#29677;&#26157;, &#22899;&#35489; (&#24460;&#28450;&#26360;84&#21367;, c. 75 AD).</a></li>
 </ol>
 </div>
-<br />
-<div><p style="float:right;">Next: <a href="https://mulanbook.com/pages/tang/legend_of_mulan_tang_dynasty">The Legend of Mulan During the Tang Dynasty</a></p></div>
 
 <script type="text/javascript" src="/assets/js/toggle_note.js"></script>
