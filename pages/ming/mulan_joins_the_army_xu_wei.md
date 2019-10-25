@@ -17,7 +17,7 @@ The main focus of this short play is Mulan's life as a woman. Although she spend
 
 When writing this play, Xu Wei's primary concern was pleasing audiences, not historical accuracy. Because bound feet were highly eroticized features of feminine beauty during the Ming Dynasty, Xu Wei chose to capitalize upon this by devoting lengthy scenes within this short play to Mulan slowly unbinding her feet, which would have titillated audiences. Even though the earliest records of foot binding do not occur until centuries after the period in which Mulan was purported to live, Xu Wei chose to ignore this fact because the depiction of Mulan's bound feet had such a great potential to please male viewers.
 
-Despite this play's shortcomings, Xu Wei's most significant accomplishment was bringing the legend of Mulan into the public spotlight. Even though there are no records of this play being performed, artifacts from this play that made it into future retellings indicate that Mulan Joins the Army. Centuries after Xu Wei's death, this play was discovered and began to serve as a great inspiration for what would eventually become one of the greatest Chinese legends.
+Despite this play's shortcomings, Xu Wei's most significant accomplishment was bringing the legend of Mulan into the public spotlight. Even though there are no records of this play being performed, artifacts from this play have been integrated into numerous future retellings. Centuries after Xu Wei's death, this play was discovered and began to serve as a great inspiration for what would eventually become one of the greatest Chinese legends.
 
 <br />
 <figure>
