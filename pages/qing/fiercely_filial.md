@@ -66,7 +66,7 @@ Meanwhile, the emperor has lost his patience with the expedition against the ban
 
 Qingyun investigates the bandits’ stronghold and concludes that the only way to force them out is to create an avalanche. He sends a memorial to the emperor, requesting that ten barbarian cannons be constructed and sent up the mountain. After the cannons arrive, Qingyun uses them to induce an artificial landslide. Mulan captures Leopard Skin, and Princess Wanhua forces the bandits to surrender.
 
-Mulan returns home and is shocked to realize that Qingyun is still unmarried. For the past twelve years, he has waited faithfully for her. Qingyun takes both Mulan and Wanhua as his wives and the wedding is celebrated. On the night of their wedding, Mulan conceives a son who eventually becomes the next prime minister of China.
+Mulan returns home and is shocked to realize that Qingyun is still unmarried. For the past twelve years, he has waited faithfully for her. Qingyun takes both Mulan and Wanhua as his wives and the wedding is celebrated. That night, Mulan conceives a son who eventually becomes the next prime minister of China.
 
 <a href="https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991011302539704786&context=L&vid=886NTU_INST:886NTU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8C%97%E9%AD%8F%E5%A5%87%E5%8F%B2&offset=0">Read the original Chinese text of <i>Fiercely Filial.</i></a>
 

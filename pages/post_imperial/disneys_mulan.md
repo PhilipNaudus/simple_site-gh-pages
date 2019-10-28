@@ -21,7 +21,7 @@ Despite these similarities between this film and previous versions of the legend
 
 The original legend of Mulan is, at its core, the story of a woman who is willing to sacrifice herself for her family. The ancient Chinese viewed her as the perfect woman who epitomized true femininity. Her decision to take her father's place in battle was the ultimate act of submission; this was in no way done out of defiance of gender stereotypes. Disney's *Mulan*, however, replaced Mulan's virtue with American feminism. Despite this fact, it should be emphasized that the creators of this film were familiar with the original legend. Thus, alterations were introduced deliberately and not out of ignorance.
 
-While this film was not completely faithful to the original legend, it is primarily responsible for making the story of Mulan reach legendary status in the English-speaking world. As a result, Disney's *Mulan* sparked a renewed interest in this classic legend which has continued to this day.
+While this film was not faithful to the original legend, it is primarily responsible for making the story of Mulan reach legendary status in the English-speaking world. As a result, Disney's *Mulan* sparked a renewed interest in this classic legend which has continued to this day.
 
 <h2>Plot Summary</h2>
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <i>Mulan Joins the Army</i> by Xu Wei (c. 1580 AD)
-description: The most popular retelling of Mulan&rsquo;s story, which brought this inspiring tale into the public spotlight.
+description: This famous play is often credited with bringing the legend of Mulan into the public spotlight.
 image: mulan_bids_farewell_to_her_family_while_two_soldiers_wait_impatiently.jpg
 bg: b39562
 alt: Mulan bids farewell to her family while two soldiers wait impatiently. Included as an illustration in a late woodblock reprinting of a collection of Xu Wei’s plays (Public domain).
@@ -13,11 +13,11 @@ Xu Wei's classic play had a profound influence on how the legend of Mulan develo
 
 The most noteworthy detail Xu Wei introduced was Muan's surname, Hua. Because Hua means "flower" and Mulan means "magnolia," the vast majority of future renditions of this story likewise adopted this poetic choice for Mulan's full name. Additionally, the names which Xu Wei chose for the primary villain (Leopard Skin) and the supreme commander (Xin Ping) continued into several future renditions of Mulan's story. The names of Mulan's father (Hua Hu), mother (Jia), sister (Munan), and brother (Yaoer) have also become commonly accepted parts of the legend.
 
-The main focus of this short play is Mulan's life as a woman. Although she spends twelve years away at war, the only battle in the entire play is almost completely overlooked. There is more attention drawn to Mulan's feet (the epitome female body) than her military prowess. Because Mulan was traditionally viewed as the ideal woman, this play does not portray Mulan as having any desire to go to war outside of wanting to protect her father. Upon returning home, she resumes her femininity in both appearance and disposition. She returns to the quiet and timid girl she once was almost immediately.
+The main focus of this short play is Mulan's life as a woman. Although she spends twelve years away at war, the only battle in the entire play is almost completely overlooked. There is more attention drawn to Mulan's feet (the epitome of female beauty at the time) than her military prowess. Because Mulan was traditionally viewed as the ideal woman, this play does not portray Mulan as having any desire to go to war outside of wanting to protect her father. Upon returning home, she resumes her femininity in both appearance and disposition. She returns to the quiet and timid girl she once was almost immediately.
 
 When writing this play, Xu Wei's primary concern was pleasing audiences, not historical accuracy. Because bound feet were highly eroticized features of feminine beauty during the Ming Dynasty, Xu Wei chose to capitalize upon this by devoting lengthy scenes within this short play to Mulan slowly unbinding her feet, which would have titillated audiences. Even though the earliest records of foot binding do not occur until centuries after the period in which Mulan was purported to live, Xu Wei chose to ignore this fact because the depiction of Mulan's bound feet had such a great potential to please male viewers.
 
-Despite this play's shortcomings, Xu Wei's most significant accomplishment was bringing the legend of Mulan into the public spotlight. Even though there are no records of this play being performed, artifacts from this play that made it into future retellings indicate that Mulan Joins the Army. Centuries after Xu Wei's death, this play was discovered and began to serve as a great inspiration for what would eventually become one of the greatest Chinese legends.
+Despite this play's shortcomings, Xu Wei's most significant accomplishment was bringing the legend of Mulan into the public spotlight. Even though there are no records of this play being performed, artifacts from this play have been integrated into numerous future retellings. Centuries after Xu Wei's death, this play was discovered and began to serve as a great inspiration for what would eventually become one of the greatest Chinese legends.
 
 <br />
 <figure>
