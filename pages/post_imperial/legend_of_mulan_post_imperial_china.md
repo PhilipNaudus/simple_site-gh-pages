@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Legend of Mulan During Post-Imerial China
+title: The Legend of Mulan During Post-Imperial China
 description: After the fall of Imperial China, and especially after Mulan&rsquo;s story traveled to the West, the legend underwent significant alterations as numerous causes from various cultures all began to herald Mulan as their guiding hero.
 image: mulan_returns_in_glory.jpg
 bg: a49b8c
@@ -15,7 +15,7 @@ In the 1920s, the communist party began gaining traction. The communists, who in
 
 In 1937, the <i>War of Resistance against Japanese Aggression</i> (which eventually escalated into World War II) broke out. Initially, China suffered several devastating defeats, including the loss of Nanjing (the capital city), throwing the country into a state of alarm. Women stepped into the workforce to sustain the Chinese economy, while the vast majority of the country's men enlisted to reclaim China. During this time, Zheng Meiqing assembled a team of talented artists to produce a poster that would inspire all Chinese people, both men and women, to work together to defeat the Japanese (shown above). No hero epitomized the artists' sentiments better than Mulan.
 
-In 1939, one of the first successful films of Mulan's story, [*Mulan Joins the Army*](/pages/post_imperial/mulan_joins_the_army_1939_film), came to the theater. The movie, which glorified warfare, was received as a call to arms. With the warrior princess Hua Mulan leading the way, the Chinese were overcome with a renewed desire to liberate themselves from foreign aggression. After the war ended, it quickly became apparent that the Chinese people would never be able to return to the lives they once knew. Another film ([*Lady General Hua Mulan*](/pages/post_imperial/lady_general_hua_mulan)) issued a plea for the Chinese to unite as a family in order to persevere through the trials which lay ahead.
+In 1939, one of the first successful films of Mulan's story, [*Mulan Joins the Army*](/pages/post_imperial/mulan_joins_the_army_1939_film), came to the theater. The movie, which glorified warfare, was received as a call to arms. With the warrior princess Hua Mulan leading the way, the Chinese were overcome with a renewed desire to liberate themselves from foreign aggression. After the war ended, it quickly became apparent that the Chinese people would never be able to return to the lives they once knew. Another film ([*Lady General Hua Mulan*](/pages/post_imperial/lady_general_hua_mulan)) issued a plea for the Chinese to unite as a family to persevere through the trials which lay ahead.
 
 As the twentieth century drew to a close, English translations of Mulan's story began making appearances in the West. Of all the English adaptations, none exceeded Disney's [*Mulan*](/pages/post_imperial/disneys_mulan) in popularity. This film was so successful that it began inspiring a renewed interest in Mulan's legend in China; the resulting movement eventually culminated in the release of the Chinese film [*Mulan: Rise of a Warrior*](/pages/post_imperial/mulan_rise_of_a_warrior). In 2010, Disney announced plans to release a [live-action remake](/pages/post_imperial/disneys_live_action_mulan) of Mulan. This film, which draws inspiration from both Chinese and American cultures, is expected to appeal to audiences from around the globe.
 

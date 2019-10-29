@@ -27,7 +27,7 @@ Before her death, Mulan had entrusted Princess Xianniang's letter to her sister,
 
 One day, Luo Cheng overhears some of the female servants gossiping and discovers that Youlan is, in fact, a woman. He approaches Youlan and asks her to "prove" her masculinity by sleeping with him in the same bed. When Youlan hesitates, Luo Cheng insists that it is entirely appropriate for two men to share a bed.
 
-Several months later, Princess Xianniang discovers that Luo Cheng and Youlan have been sleeping together. She summons Youlan and shows her a magical jade pendant, which can verify whether a young girl is still a virgin. When Youlan passes the test, Xianniang is touched to discover that Luo Cheng was not intimate with Youlan; she concludes that this is only because Luo Cheng still has strong feelings for the princess.
+Several months later, Princess Xianniang discovers that Luo Cheng and Youlan have been sleeping together. She summons Youlan and shows her a magical jade pendant, which can verify whether a young girl is still a virgin. When Youlan passes the test, Xianniang is touched to discover that Luo Cheng was not intimate with Youlan; she concludes that Luo Cheng must still has strong feelings for the princess.
 
 Luo Cheng takes both Xianniang and Youlan to be his brides, and a joyful wedding is celebrated.
 
