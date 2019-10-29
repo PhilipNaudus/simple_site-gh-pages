@@ -11,7 +11,7 @@ num: 4
 
 This classic novel is often credited with bringing Mulan's story to the West. As the daughter of Chinese immigrants, Maxine Hong Kingston often felt out of place in California's Chinatown but found solace in legends she heard from her mother. One of these was Mulan (or as Kingston calls her, Fa Mu Lan).
 
-Up until this point, each rendition of Mulan's story introduced a new element that was included in response to a unique situation the Chinese people faced. While Kingston's retelling of Mulan also includes alterations to the legend, this story is mostly inspired by her personal experiences as a child living between two cultures. By combining the 1936 film [Mulan Joins the Army](/pages/post_imperial/mulan_joins_the_army_1936) with several other legends, Kingston produced a hero with whom she could identify.
+Up until this point, each rendition of Mulan's story introduced a new element that was included in response to a unique situation the Chinese people faced. While Kingston's retelling of Mulan also includes alterations to the legend, this story is mostly inspired by her personal experiences as a child living between two cultures. By combining the 1939 film [Mulan Joins the Army](/pages/post_imperial/mulan_joins_the_army_1939_film) with several other legends, Kingston produced a hero with whom she could identify.
 
 <h2>Plot Summary</h2>
 
