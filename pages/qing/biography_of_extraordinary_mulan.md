@@ -9,6 +9,14 @@ imageType: float
 num: 3
 ---
 
+*Biography of Extraordinary Mulan* was written primarily in response to the oppresive Manchu rulers under whom the Chinese people were forced to serve. The anonymous author, who refers to himself as the "Old Master of Ocean Garden," advocates withdrawing from evil through monasticism. This is perhaps the most unique retelling of Mulan's story because it advocates passivism and, as a result, contains very few scenes depicting warfare. While there are some instances where the characters are forced to fight, they seek to avoid conflict whenever possible.
+
+The main protagonist of this novel is Mulan's grandfather, Zhu Ruoxu. During the first half of the novel, Ruoxu learns the secrets of dark magic from his mentor, Li Jing. However, because Ruoxu has incredible self-restraint, he refuses to exercise his power but seeks to promote change indirectly. Halfway through the book, the focus shifts to Mulan, who finally learns how to apply her grandfather's magical arts to defeat the forces of evil. However, the emperor begins to suspect Mulan of seeking to usurp his throne and sentences her to death.
+
+The message of this book is that evil cannot always be resisted. In a sense, the author was trying to encourage the original readers that even though they had the power to fight the oppression they endured, seeking social transformation is not always the right course of action.
+
+<h2>Plot Summary</h2>
+
 This novel begins by following Mulan's grandfather, Zhu Ruoxu. Ruoxu is a gifted scholar who is determined to earn an official position for himself. However, due to political corruption, he finds that he is not given a fair chance at the prefectural examinations. In the process of fighting for his rights to be given the opportunity which he feels that he deserves, Ruoxu meets Li Jing, who becomes his mentor, and Yuchi Gong, a struggling calligrapher. When Ruoxu rescues Yuchi Gong from financial ruin, the two men become sworn brothers.
 
 Li Jing teaches Ruoxu the art of dark magic, but emphasizes that magic must be used responsibly. Thus, Ruoxu goes his entire life without ever exercising his powers. Instead, he seeks to promote social transformation indirectly. When Ruoxu recommends that Yuchi Gong seek a career change, Yuchi Gong rapidly excels and quickly becomes adviser to the great general Li Shimin. Eventually, Li Shimin rises to become the first emperor of the Tang Dynasty and Yuchi Gong becomes his his supreme commander.

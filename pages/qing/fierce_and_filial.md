@@ -1,13 +1,19 @@
 ---
 layout: post
-title: <i>Fiercely Filial</i> by Zhang Shaoxian (1850)
-description: This novel, which unites many of the previous renditions of Mulan’s story into a single volume, emphasizes that Mulan’s brilliance and courage stemmed from her virtue
+title: <i>Fierce and Filial</i> by Zhang Shaoxian (1850)
+description: This novel, which unites many of the previous renditions of Mulan’s story into a single volume, emphasizes that Mulan’s brilliance and courage stemmed from her virtue.
 image: hua_mulan_lu_wanhua_sworn_sisters.jpg
 bg: e9e9e9
 alt: Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua. Illustrations are from an early woodblock printing of Fiercely Filial (public domain).
 imageType: big
 num: 4
 ---
+
+As the title suggests, *Fierce and Filial* (also known as *The Extraordinary History of Northern Wei: The Story of a Fierce and Filial Girl*) describes Mulan as a powerful warrior who lives an exceptionally virtuous life. Although Mulan proves herself to be so militarily adept that the enemy becomes convinced that she posesses magical powers, she remains a tender woman. Although she is capable of slaughtering the enemy with ease, she weeps to see the corpses of the men she has killed. When the men are forced to endure a harsh winter, she finds persisting to be particulary difficult. During one of her final battles against the enemy, Mulan overexerts herself to the point that she vomits blood.
+
+As the story opens, Mulan is engaged to be married to one of the most brilliant scholars in all of China. Because tradition tradition demanded that she be primarily devoted to her fianc&eacute;'s family, her choice to take her father's place in battle showed that she placed her father above her future husband&emdash;a choice which she knew may put her at risk of never being married. However, because she is unwavering in her virtue, she is willing to suffer whatever consequences may result from her momentous decision.
+
+<h2>Fiercely Filial</h2>
 
 Seventeen-year-old Mulan is one of the most beautiful and talented women in Hebei. The fact that she is engaged to marry Wang Qingyun, one of the few young men who managed to exempt himself from the previous drafts, makes her the envy of the entire village. However, when Mulan’s father (a retired battalion captain by the name of Hua Hu) is called to serve in the army, her world turns upside-down. Because her siblings are still very young (her Munan nine years old while her brother Yaoer is five), Mulan volunteers to take her father’s place in battle. Dressing as a man, she gives up everything she has ever know to join the army.
 

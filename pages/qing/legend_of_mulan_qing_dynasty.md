@@ -9,15 +9,24 @@ imageType: float
 num: 1
 ---
 
-After the collapse of the Ming dynasty, the Chinese people found themselves under barbarian rule. The Manchu did not understand the culture of the people they governed, neither did they care. The Han Chinese found themselves oppressed and forced to adapt to the Manchu way of life. While it was customary for Manchu men to shave their foreheads, the Han Chinese equated haircutting with discarding one's flesh; Confucious taught that this was a severe offense to one's ancestors. During the reign of Dorgon, the Manchu not only forced Chinese men to wear the hairstyle known as the queue, but ordered them to demonstrate their loyalty by slaughtering any of their brethren who insisted upon adhering to Confucian teachings.
+After the collapse of the Ming dynasty, the Chinese people found themselves under barbarian rule. The Manchu did not understand the culture of the people they governed, neither did they care. The Han Chinese found themselves oppressed and forced to adapt to the Manchu way of life. While it was customary for Manchu men to shave their foreheads, the Han Chinese equated haircutting with discarding one's flesh. Because Confucious taught that haircutting was a severe offense to one's ancestors, many Chinese men refused to assimilate into Manchu culture. During the reign of Dorgon, however, the Manchu not only forced Chinese men to wear the hairstyle known as the *queue*, but ordered them to demonstrate their loyalty to the Qing state by slaughtering any of their brethren who insisted upon adhering to Confucian teachings.
 
 During this time, the legend of Mulan experienced a surge in popularity amongst the Chinese people, who longed to see such a hero rise up amongst them. Her story, which was set during the era of Northern Wei (when China was ruled by the barbaric Xianbei), showed how a woman demonstrated incredible virtue during one of the darkest moments in Chinese history. Her example encouraged the Han Chinese to continue living virtuously, even when doing so may have significant consequences.
+
+During the late seventeenth century, Chu Renhuo released [*Romance of Sui and Tang*](/pages/qing/romance_of_sui_and_tang), a novel which deliberately includes Mulan's story in order to incite feelings of animosity against the barbaric Manchu leaders of the day. Even though Mulan is initially loyal to the barbarian khan and begins fighting *against* a Chinese enemy, the Chinese are such benevolent foes that this subplot concludes with Mulan vehemently refusing to serve the barbaric Tujue Khan.
+
+While *Romance of Sui and Tang* sought to incite animosity against the oppresive Manchu, [*Biography of Extraordinary Mulan*](/pages/qing/biography_of_extraordinary_mulan) encouraged its readers to rise above evil and live exceptionally virtuous lives. Mulan is depicted as an extraordinarily virtuous woman who remained loyal to the emeror under whom she served. Even when she is unjustly sentenced to death, she continues to conduct herself in a morally upright manner.
+
+As the oppresive Qing state began to crumble, Zhang Shaoxian united many of the previous Mulan retellings into the novel [*Fierce and Filial*](/pages/qing/fierce_and_filial). Although there are traces of anti-barbaric themes throughout this novel, Mulan's virtue and excellence is emphasized above all else. Here, this valliant warrior maiden is depicted as a being so brilliant that the enemy believes that she has magical powers. Although she is an exceptionally skilled fighter, she does not lose touch with her feminine nature.
+
+In each of these retellings of Mulan's story, this iconic woman is repeatedly described as both strong and virtuous. Even when she is thrust into difficult circumstances, her story is used to inspire readers that one can resist evil with great force without resorting to objectionable means.
+
 
 <center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <span id="show_note_icon"></span></a></center>
 
 <div id="note">
 <ol>
-<li><a href="http://www.academia.edu/download/30251500/Hua_Mulan_Nannu.pdf">Edwards, Louise. <i>Transformations of the Woman Warrior Hua Mulan: From Defender of the Family to Servant of the State</i> (&#30007;&#22899;, 2010.12): 175-214.</a></li>
+<li>Edwards, Louise. <i>Transformations of the Woman Warrior Hua Mulan: From Defender of the Family to Servant of the State</i> (&#30007;&#22899;, 2010.12): 175-214.</li>
 <li>Edwards, Louise. <i>Mulan’s legend and legacy in China and the United States</i> (Temple University Press, 2011)</li> <!--everything-->
 <li><a href="https://research.library.mun.ca/12534/">Jing, Zhang. <i>Variable Icons and Images: Mulan and Her Legend in Five Legend-telling Groups in Huangpi, People&rsquo;s Republic of China</i> (Doctoral dissertation, 2017) Memorial University of Newfoundland.</a></li><!--everything-->
 <li>Kwa, Shiamin and Idema, Wilt L. <i>Mulan: Five Versions of a Classic Chinese Legend with Related Texts</i> (Hackett Publishing, 2010)</li> <!--everything-->

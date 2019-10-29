@@ -9,13 +9,15 @@ imageType: float
 num: 2
 ---
 
-In this 100-chapter novel, Chu Renhuo's primary aim is to demonstrate that the rise of the Tang dynasty was mandated by heaven. The original readers would have understood that the author subtly contrasts this against the rulers of his day, drawing the conclusion that the Qing dynasty did not have the right to rule over China. (See <a href="legend_of_mulan_qing_dynasty">The Legend of Mulan During the Qing Dynasty</a>.)
+In this 100-chapter novel, Chu Renhuo's primary aim is to demonstrate that the rise of the Tang dynasty was mandated by heaven. The original readers would have understood that the author subtly contrasts this against the rulers of his day, drawing the conclusion that the Qing dynasty did not have the right to rule over China.
 
-Chu Renhuo concludes Mulan's story with a tragic ending (which was likely inspired by historian <a href="miniscule_book_from_the_yongzhuang_studio.html">Zhu Guozhen's retelling</a>) to comment on the wrongdoing committed by the Manchu under whom he was forced to serve. In this novel, the Chinese are depicted as wonderfully benevolent, while the non-Chinese are evil.
+The author includes Mulan's story as a subplot of a novel which condemns imperialism. Mulan is heralded as a hero who fiercely resists a cruel tyrant. Chu Renhuo concludes Mulan's story with a tragic ending to comment on the wrongdoing committed by the Manchu under whom he was forced to serve. In this novel, the Chinese are depicted as wonderfully benevolent, while the non-Chinese are evil.
+
+<h2>Plot Summary</h2>
 
 Mulan's story begins in chapter 56 of *Romance of Sui and Tang*. The Tujue khan issues a draft for more men; Mulan's father is among those who are conscripted. Mulan, a biracial (Tujue-Chinese) teenage girl, dresses as a man and volunteers to take her father's place to fight on behalf of the Tujue-Chinese alliance.
 
-The Tujue army is defeated. Mulan rescues the khan but is captured by Dou Xianninang, Princess of Xia. The princess is such a generous and loving captor that Mulan discloses her true identity to the princess, and the two become sworn sisters. Soon, Princess Xianniang's father, Dou Jiande, is captured by the Chinese and is about to be executed. Both the princess and Mulan go before the Chinese Emperor Taizong with knives in their mouths, expressing their desire to risk their own lives to beg that Xianniang's father be allowed to live. The emperor is so impressed that Dou Jiande is released.
+The Tujue army is defeated. Mulan rescues the khan but is captured by Dou Xianninang, Princess of Xia. The princess, who is Han Chinese, is such a generous and loving captor that Mulan discloses her true identity to the princess, and the two become sworn sisters. Soon, Princess Xianniang's father, Dou Jiande, is captured by the Chinese and is about to be executed. Both the princess and Mulan go before the Chinese Emperor Taizong with knives in their mouths, expressing their desire to risk their own lives to beg that Xianniang's father be allowed to live. The emperor is so impressed that Dou Jiande is released.
 
 During a previous battle, a Chinese soldier had been rescued, who holds an undelivered letter from the Chinese warlord Luo Cheng. Princess Xianniang is overjoyed to discover that the letter, addressed to a matchmaker, asks for the Xianniang's hand in marriage. Even though Luo Cheng and Princess Xianniang are secret lovers, they are fighting on opposite sides. When the princess' father is captured by the Chinese, she becomes certain that the wedding will never take place.
 
