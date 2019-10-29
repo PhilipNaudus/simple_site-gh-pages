@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Legend of Mulan During the Ming Dynasty
-description: As the Ming Dynasty witnessed a decline in intellectualism and a rise in entertainment, Mulan&rsquo;s story ceased being a tale of virtue and, instead, focused on humor.
+description: As the Ming Dynasty witnessed a decline in intellectualism and a rise in entertainment, Mulan’s story ceased being a tale of virtue and, instead, focused on humor.
 image: mulan_joins_the_army_tang_yin_ming_dynasty.jpg#mulan_joins_the_army_tang_yin_ming_dynasty_fullsize.jpg
 bg: 8b7058
 alt: '&ldquo;Mulan Joins the Army&rdquo; by Ming Dynasty artist <a href="https://en.wikipedia.org/wiki/Tang_Yin">Tang Yin</a> (Public domain).'
@@ -17,7 +17,7 @@ Sadly, this rendition of Mulan&rsquo;s tale is also the most popular. While Xu W
 
 Zhu Guozhen was one of the first historians to compile what he believed to be an accurate account of Mulan's life, recording his findings in [*Woman Generals*](https://mulanbook.com/pages/ming/women_generals). Soon afterward, *Biographies of Woman Warriors* (&#22899;&#20448;&#20659; by &#37138;&#20043;&#40607;) and *Illustrated Accounts of Famous Women throughout the ages* (&#27511;&#20195;&#21517;&#23195;&#22294;&#35498;) both produced reprintings of the [*Ballad of Mulan*](https://mulanbook.com/pages/northern_wei/ballad_of_mulan), crediting Mulan herself as the original author.
 
-Although modern historians have begun to question the scholarship of these Ming dynasty historians, the renewed interest in Mulan's story which emerged during the Ming dynasty helped to propel this legend forward.
+Although modern historians have begun to question the scholarship of these Ming Dynasty historians, the renewed interest in Mulan's story that emerged during the Ming Dynasty helped to propel this legend forward.
 
 <center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <span id="show_note_icon"></span></a></center>
 

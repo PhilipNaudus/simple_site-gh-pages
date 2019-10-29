@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "<i>Mulan: Rise of a Warrior</i> (2009)"
-description: After Disney&rsquo;s <i>Mulan</i> began receiving significant attention, the Chinese people desired to see this legend retold from a modern Chinese perspective.
+description: After Disney’s <i>Mulan</i> began receiving significant attention, the Chinese people desired to see this legend retold from a modern Chinese perspective.
 image: mulan_rise_of_a_warrior_movie_poster.jpg
 bg: 4d5941
 alt: "A movie poster for Mulan: Rise of a Warrior. Images copyright &copy;2009 Starlight International Media, Inc."
@@ -64,14 +64,14 @@ Mulan wrestles through her emotions but finally concludes that she is more of a 
 <figcaption style="text-align: center;"><i>After Mulan finally manages to conquer her emotions, she delivers a touching speech and inspires the men to fight.</i></figcaption>
 </figure>
 
-Meanwhile, the Rouran chief suffers such devastating defeats that he is about to recall his troops. However, his son Mendu is so bloodthirsty that he murders his own father to ensure that the war will continue. While the Rourans are launching a massive attack against the Chinese, Mulan and many other soldiers are injured. Before they can retreat, an enormous  dust storm arises and engulfs both sides. When Mulan regains consciousness, she is reunited with Wentai. Although she is overjoyed to discover that he is still alive, there is no time for celebration. A massive army of fresh Rouran reinforcements surges onto the scene, forcing Mulan to retreat. In their haste, the Chinese are left with no choice but to leave their wounded behind because it is better to sacrifice a few wounded men than to compromize the safety of the entire army. When Mulan discovers that Little Tiger is among those being abandoned, Mulan forbids her men from rescuing him. She has finally succeeded in becoming an unemotional warrior who places the welfare of the entire army above the needs of a few men.
+Meanwhile, the Rouran chief suffers such devastating defeats that he is about to recall his troops. However, his son Mendu is so bloodthirsty that he murders his own father to ensure that the war will continue. While the Rourans are launching a massive attack against the Chinese, Mulan and many other soldiers are injured. Before they can retreat, an enormous  dust storm arises and engulfs both sides. When Mulan regains consciousness, she is reunited with Wentai. Although she is overjoyed to discover that he is still alive, there is no time for celebration. A massive army of fresh Rouran reinforcements surges onto the scene, forcing Mulan to retreat. In their haste, the Chinese are left with no choice but to leave their wounded behind because it is better to sacrifice a few wounded men than to compromise the safety of the entire army. When Mulan discovers that Little Tiger is among those being abandoned, Mulan forbids her men from rescuing him. She has finally succeeded in becoming an unemotional warrior who places the welfare of the entire army above the needs of a few men.
 
 <figure class="big">
 <img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/wentai_breaks_the_arrow_in_mulans_chest.jpg" alt="Wentai breaks the arrow in Mulan's chest." />
-<figcaption style="text-align: center;"><i>Wentai comes to Mulan's aid when she is hit in the chest by an arrow.</i></figcaption>
+<figcaption style="text-align: center;"><i>Wentai comes to Mulan’s aid when she is hit in the chest by an arrow.</i></figcaption>
 </figure>
 
-Although Mulan and her men flee to a safe location, they are trapped with no provisions. The water supply quickly runs out. Wentai approaches the Rouran army unarmed and asks to speak personally with Mendu. He produces a jade pendant as proof that he is the seventh prince of Wei. If the Rouran army promises to retreat Wentai will become the Rouran's prisoner.
+Although Mulan and her men flee to a safe location, they are trapped with no provisions. The water supply quickly runs out. Wentai approaches the Rouran army unarmed and asks to speak personally with Mendu. He produces a jade pendant as proof that he is the seventh prince of Wei. If the Rouran army promises to retreat, Wentai will become the Rouran's prisoner.
 
 <figure class="big">
 <img class="fillimg lazy" src="/assets/images/articles/mulan_rise_of_a_warrior/wentai_surrenders.jpg" alt="Wentai holds a jade pendant to prove that he is a prince of Wei." />

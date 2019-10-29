@@ -21,7 +21,7 @@ Despite this play's shortcomings, Xu Wei's most significant accomplishment was b
 
 <br />
 <figure>
-<img class="fillimg" src="/assets/images/articles/mulan_returns_home.jpg" alt="Mulan returns home. Included as an illustration in an early woodblock printing of a collection of Xu Wei's plays" />
+<img class="fillimg" src="/assets/images/articles/mulan_returns_home.jpg" alt="Mulan returns home. Included as an illustration in an early woodblock printing of a collection of Xu Wei’s plays" />
 <figcaption style="text-align: center;"><i>Mulan returns home. Included as an illustration in an early printing of a collection of Xu Wei's plays.</i></figcaption></figure>
 <br />
 
@@ -34,11 +34,11 @@ Yesterday, Hua Hu had just received word of his conscription notice. The king ha
 
 Mulan calls to Xiaohuan, the family servant, who assists her in making the necessary preparations to go into battle. She will need armor, weapons, and a horse. When Mulan realizes that her small feet are sure to reveal her true identity, she slowly begins to unbind her feet.
 
-Mulan pauses and realizes that if she unbinds and enlarges her feet, thus destroying the most beautiful feature of her body, she will lose the most glorious feature of her body and, as a result, be unsuitable for marriage. However, after a moment's pause, she reassures the audience that she is not making a permanent change to her body because her family has a magic potion which will shrink her feet back to the size of golden lotuses when she returns from war. She claims that, in the end, her feet will be smaller than ever before.
+Mulan pauses and realizes that if she unbinds and enlarges her feet, thus destroying the most beautiful feature of her body, she will lose the most glorious feature of her body and, as a result, be unsuitable for marriage. However, after a moment's pause, she reassures the audience that she is not making a permanent change to her body because her family has a magic potion that will shrink her feet back to the size of golden lotuses when she returns from war. She claims that, in the end, her feet will be smaller than ever before.
 
 After Mulan stands up, she finds that walking is now cumbersome. However, after taking some time to practice, she begins to grow accustomed to walking with such massive feet. After she has changed clothes, she now looks exactly like a man.
 
-Mulan then spends some time practicing with a spear, learning how to ride a horse, and then goes inside to announce her departure to her parents. When her mother hears of Mulan's plan, she weeps and refuses to allow her to go. To spend years eating, sleeping, and fighting alongside men would be inappropriate and dangerous. However, when it is revealed that Mulan's father has been plunged into depression ever since receiving his conscription notice, even going so far as to attempt to take his own life, Mulan's mother finally acquiesces, and the family drinks a toast and tearfully wishes Mulan the best in her journey. Their emotional parting is interrupted with two soldiers who burst onto the scene and begin aggressively shouting to hurry Mulan to set out with them. Mulan says a hurried goodbye to her family while being urged out of the house.
+Mulan then spends some time practicing with a spear, learning how to ride a horse, and then goes inside to announce her departure to her parents. When her mother hears of Mulan's plan, she weeps and refuses to allow her to go. To spend years eating, sleeping, and fighting alongside men would be inappropriate and dangerous. However, when it is revealed that Mulan's father has been plunged into depression ever since receiving his conscription notice, even going so far as to attempt to take his own life, Mulan's mother finally acquiesces, and the family drinks a toast and tearfully wishes Mulan the best in her journey. Their emotional parting is interrupted by two soldiers who burst onto the scene and begin aggressively shouting to hurry Mulan to set out with them. Mulan says a hurried goodbye to her family while being urged out of the house.
 
 Once on the road, they travel for a while before stopping to rest by the yellow river. Mulan sits and reminisces, realizing that she is already homesick. The soldiers travel together to the capital, where they will receive further instructions.
 
@@ -48,7 +48,7 @@ The soldiers talk to one another about the hardships which lay ahead, wondering 
 <h3>Act 2</h3>
 Supreme Commander Xin Ping stands before the newly enlisted men and instructs them. Because he has realized that Mulan is highly talented, he turns to her and promises a great reward if she should come to the front of the army and capture the bandit leader.
 
-The troops advance and engage the enemy. Leopard Skin charges forward but Mulan captures him. (The only battle in this play is glossed over.)
+The troops advance and engage the enemy. Leopard Skin charges forward, but Mulan captures him. (The only battle in this play is glossed over.)
 
 The supreme commander returns to the king and reports that Leopard Skin has been captured due to Hua Hu's military prowess. Mulan is offered a prominent position as a reward for her meritorious service, although she may return home for three months before returning and taking up her official duties. Mulan declines the promotion and requests that she be allowed to return home and care for her aged and feeble parents indefinitely. She promises to serve in an official capacity at a later time.
 
@@ -58,6 +58,6 @@ Back in Hebei, Mulan's parents discuss how the son of Wang Sixun, a prominent sc
 
 When Mulan returns home, she is reunited with her family and resumes her feminine appearance, and applies the potion to shrink her feet back down to the size that is fitting for a woman. Two soldiers rush onto the stage, looking for Hua Hu, but are stunned to see a woman standing before them.
 
-The wedding is celebrated. Mulan and her bridegroom stand in front of each other and the guests eagerly anticipate seeing the couple bowing to one another, but Mulan stands erect and blushes. Her mother chides, "You fearlessly commanded an army of men for twelve years! How can you suddenly become bashful?"
+During the wedding celebration, the guests eagerly anticipate seeing the couple bowing to one another. However, Mulan stands erect and blushes. Her mother chides, "You fearlessly commanded an army of men for twelve years! How can you suddenly become bashful?"
 
 <small><a href="https://archive.org/details/02111248.cn/page/n64">Original Chinese text</a></small>

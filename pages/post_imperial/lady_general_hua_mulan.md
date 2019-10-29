@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <i>Lady General Hua Mu-Lan</i> (1964)
-description: This retelling of Mulan&rsquo;s story focuses on unity. By themselves, Mulan, Ping, and Li Guang each make small contributions. Together, they achieve something great.
+description: This retelling of Mulan’s story focuses on unity. By themselves, Mulan, Ping, and Li Guang each make small contributions. Together, they achieve something great.
 image: lady_general_hua_mulan_movie_poster.jpg
 bg: 74222b
 alt: A movie poster for Lady General Hua Mu-Lan. Images are copyright &copy;1964 Shaw Brothers.
@@ -55,7 +55,7 @@ Mulan performs well in training exercises and is tasked with guarding the milita
 Mulan returns from the battle with an arrow wound in her shoulder. In an attempt to treat the injury, her comrades begin to rip her shirt apart. Mulan panics and refuses to allow anyone to tend to her shoulder. Ping, who is the only person who understands the true reason behind Mulan's actions, tears a whole in Mulan's shirt, which is just wide enough to allow her wound to be treated without revealing her true gender.
 
 <figure class="big">
-<img class="fillimg lazy" src="/assets/images/articles/lady_general_hua_mulan/placeholder.jpg" data-src="/assets/images/articles/lady_general_hua_mulan/1920/mulan_shoulder_bleeding.jpg" data-srcset="/assets/images/articles/lady_general_hua_mulan/320/mulan_shoulder_bleeding.jpg 320w, /assets/images/articles/lady_general_hua_mulan/640/mulan_shoulder_bleeding.jpg 640w, /assets/images/articles/lady_general_hua_mulan/960/mulan_shoulder_bleeding.jpg 960w, /assets/images/articles/lady_general_hua_mulan/1440/mulan_shoulder_bleeding.jpg 1440w, /assets/images/articles/lady_general_hua_mulan/1920/mulan_shoulder_bleeding.jpg 1920w" alt="Li Guang and Hua Ping work together to stop the bleeding on Mulan's shoulder" />
+<img class="fillimg lazy" src="/assets/images/articles/lady_general_hua_mulan/placeholder.jpg" data-src="/assets/images/articles/lady_general_hua_mulan/1920/mulan_shoulder_bleeding.jpg" data-srcset="/assets/images/articles/lady_general_hua_mulan/320/mulan_shoulder_bleeding.jpg 320w, /assets/images/articles/lady_general_hua_mulan/640/mulan_shoulder_bleeding.jpg 640w, /assets/images/articles/lady_general_hua_mulan/960/mulan_shoulder_bleeding.jpg 960w, /assets/images/articles/lady_general_hua_mulan/1440/mulan_shoulder_bleeding.jpg 1440w, /assets/images/articles/lady_general_hua_mulan/1920/mulan_shoulder_bleeding.jpg 1920w" alt="Li Guang and Hua Ping work together to stop the bleeding on Mulan’s shoulder" />
 <figcaption style="text-align: center;"><i>Li Guang and Hua Ping work together to stop the bleeding on Mulan's shoulder</i></figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ Throughout her time in the army, Mulan has been growing increasingly fond of Gen
 
 <figure class="big">
 <img class="fillimg lazy" src="/assets/images/articles/lady_general_hua_mulan/placeholder.jpg" data-src="/assets/images/articles/lady_general_hua_mulan/1920/mulan_frustrated_with_li_guang.jpg" data-srcset="/assets/images/articles/lady_general_hua_mulan/320/mulan_frustrated_with_li_guang.jpg 320w, /assets/images/articles/lady_general_hua_mulan/640/mulan_frustrated_with_li_guang.jpg 640w, /assets/images/articles/lady_general_hua_mulan/960/mulan_frustrated_with_li_guang.jpg 960w, /assets/images/articles/lady_general_hua_mulan/1440/mulan_frustrated_with_li_guang.jpg 1440w, /assets/images/articles/lady_general_hua_mulan/1920/mulan_frustrated_with_li_guang.jpg 1920w" alt="Mulan speaking with General Li Guang. Li Guang is confused and Mulan is frustrated." />
-<figcaption style="text-align: center;"><i>Mulan: &ldquo;I want to be with you.&rdquo;<br />Li Guang: &ldquo;We are brothers. How can we be married?&rdquo;<br />Mulan: &ldquo;If you turned into a woman, I would take you as my wife!&rdquo;<br />Li Guang: &ldquo;How would I become a woman? You speak in mysteries!&rdquo;<br />Mulan: &ldquo;Fine, if you're not willing to become a woman, I will.&rdquo;</i></figcaption>
+<figcaption style="text-align: center;"><i>Mulan: &ldquo;I want to be with you.&rdquo;<br />Li Guang: &ldquo;We are brothers. How can we be married?&rdquo;<br />Mulan: &ldquo;If you turned into a woman, I would take you as my wife!&rdquo;<br />Li Guang: &ldquo;How would I become a woman? You speak in mysteries!&rdquo;<br />Mulan: &ldquo;Fine! If you’re not willing to become a woman, I will!&rdquo;</i></figcaption>
 </figure>
 
 The supreme commander orders Mulan's comrades (including General Li) to accompany her home to deliver extravagant gifts in hopes that this will convince Mulan to marry the supreme commander's daughter. As soon as she has finished greeting her family, Mulan resumes her feminine appearance. Her comrades are bewildered. General Li's eyes are finally opened, and he agrees to marry Mulan. However, he is still under orders to return to the supreme commander.

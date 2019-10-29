@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Disney&rsquo;s <i>Mulan</i> (1998)
-description: This film is largely responsible for making the story of Mulan reach legendary status in the West.
+description: This film is primarily responsible for making the story of Mulan reach legendary status in the West.
 image: disneys_mulan_movie_poster.jpg
 bg: db0110
 alt: A movie poster for Mulan. Images copyright &copy;1998 Disney.
@@ -21,7 +21,7 @@ Despite these similarities between this film and previous versions of the legend
 
 The original legend of Mulan is, at its core, the story of a woman who is willing to sacrifice herself for her family. The ancient Chinese viewed her as the perfect woman who epitomized true femininity. Her decision to take her father's place in battle was the ultimate act of submission; this was in no way done out of defiance of gender stereotypes. Disney's *Mulan*, however, replaced Mulan's virtue with American feminism. Despite this fact, it should be emphasized that the creators of this film were familiar with the original legend. Thus, alterations were introduced deliberately and not out of ignorance.
 
-While this film was not faithful to the original legend, it is primarily responsible for making the story of Mulan reach legendary status in the English-speaking world. As a result, Disney's *Mulan* sparked a renewed interest in this classic legend which has continued to this day.
+While this film was not faithful to the original legend, it is primarily responsible for making the story of Mulan reach legendary status in the English-speaking world. As a result, Disney's *Mulan* sparked a renewed interest in this classic legend that has continued to this day.
 
 <h2>Plot Summary</h2>
 
@@ -37,11 +37,11 @@ Knowing that her parents would not approve of her decision, Mulan secretly takes
 When Mulan reports for duty, she is discouraged to find that she is unable to perform well during initial training exercises. Captain Li Shang works hard with the new recruits, and Mulan is soon able to prove that she is ready to face the Huns in battle. When Mulan and her fellow soldiers are finally prepared for war, they set out to join the main army. However, they soon find the remains of a Chinese army and discover that the Huns have massacred the majority of the Chinese troops. Among the casualties was Li Shang's own father.
 
 <figure class="float left" style="max-width: 450px;">
-<img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/mulan_training.jpg" alt="The turning point in Mulan's training occurs when she succeeds in climbing a pole to reach an arrow." />
+<img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/mulan_training.jpg" alt="The turning point in Mulan’s training occurs when she succeeds in climbing a pole to reach an arrow." />
 <figcaption style="text-align: center;"><i>The turning point in Mulan's training occurs when she succeeds in climbing a pole to reach an arrow.</i></figcaption>
 </figure>
 
-Li Shang and his soldiers are downcast. However, they have little time to grieve because they soon find themselves surrounded by Hun soldiers. Mulan quickly causes an avalanche and rescues her comrades, but is injured in the ensuing battle. While the doctor is bandaging her wounds, Mulan's true identity is discovered. Li Shang and her men depart for the imperial city to report their victory while Mulan, who has been expelled from the army, remains behind. When Mulan realizes that several enemy soldiers have survived the avalanche, she rushes forward to report that the victory has not yet been sealed.
+Li Shang and his soldiers are downcast. However, they have little time to grieve because they soon find themselves surrounded by Hun soldiers. Mulan quickly causes an avalanche and rescues her comrades, but is injured in the ensuing battle. While the doctor is bandaging her wounds, Mulan's true identity is discovered. Li Shang and his men depart for the imperial city to report their victory while Mulan, who has been expelled from the army, remains behind. When Mulan realizes that several enemy soldiers have survived the avalanche, she rushes forward to report that the victory has not yet been sealed.
 
 <figure class="float right" style="max-width: 450px;">
 <img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/mulan_avalanche.jpg" alt="Mulan wins a decisive victory by firing a rocket, which causes an avalanche." />

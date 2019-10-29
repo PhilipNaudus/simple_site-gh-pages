@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <i>Song of Mulan</i> by Wei Yuanfu (c. 750 AD)
-description: As one of the first retellings of Mulan's story, the Song introduces some key elements which became intrinsic to the legend's development.
+description: As one of the first retellings of Mulan’s story, the Song introduces some key elements which became intrinsic to the legend’s development.
 image: song_of_mulan.jpg
 bg: e1d0b4
 alt: The text of the Song of Mulan, as it appears in the Music Bureau Collection (Public domain).
@@ -13,7 +13,7 @@ The *Song of Mulan*, composed by Wei Yuanfu, is strikingly similar to the *Balla
 
 Because the *Ballad* failed to explain why Mulan found it necessary to take her father's place, Wei Yuanfu decided to mention that her father was old, in poor health, and his condition had been steadily deteriorating.
 
-When Mulan returns home, she has strips herself of her manly garments and resumes her appearance as a petite woman. After she has returning to her proper place in the family, she sings a song which insists that a daughter is just as valuable as a son.
+When Mulan returns home, she has strips herself of her manly garments and resumes her appearance as a petite woman. After she has returned to her proper place in the family, she sings a song that insists that a daughter is just as valuable as a son.
 
 The *Song* concludes that all the officials of this world should learn from Mulan's example. Any man who would be as devoted and as virtuous as Mulan would undoubtedly become a famous historical figure who would be revered throughout the ages.
 

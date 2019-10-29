@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <i>Mulan Joins the Army</i> (1939)
-description: In addition to being the first retelling to introduce romance into Mulan&rsquo;s story, this classic film helped make the story more relatable.
+description: In addition to being the first retelling to introduce romance into Mulan’s story, this classic film helped make the story more relatable.
 image: mulan_joins_the_army_1939_triumphant_return.jpg
 bg: 4a494a
 alt: Mulan returns in triumph. Images are from Mulan Joins the Army, &copy;1939 China United Productions.
@@ -9,7 +9,7 @@ imageType: float
 num: 2
 ---
 
-As one of the first film adaptations of Mulan's story, *Mulan Joins the Army* sparked a new era in the development of Mulan's legend. This classic film made some significant alterations to Mulan's story which soon became standard in later retellings.
+As one of the first film adaptations of Mulan's story, *Mulan Joins the Army* sparked a new era in the development of Mulan's legend. This classic film made some significant alterations to Mulan's story that soon became standard in later retellings.
 
 Most significantly, this film glorifies warfare. Being that it was produced during a time when China needed to inspire men to rise up and defend their country (see [The Legend of Mulan During Post-Imperial China](/pages/post_imperial/legend_of_mulan_post_imperial_china)), the film focused primarily on the fame and recognition soldiers receive when serving in the army. Mulan, a tomboyish girl, is continually scolded for not being more ladylike. However, in the process of serving in the army, she becomes more in touch with who she truly is. Whereas previous retellings focused on Mulan's virtue, describing her as the perfect woman, the producers of *Mulan Joins the Army* sought to entice their viewers to join the army and defend China from foreign aggression. In a sense, the film promises that those who enlist will finally discover what has been missing from their lives.
 
