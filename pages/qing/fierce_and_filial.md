@@ -15,7 +15,7 @@ As the story opens, Mulan is engaged to be married to one of the most brilliant 
 
 *I am translating this novel into English and am posting the chapters one at a time to [this Facebook group](https://www.facebook.com/groups/2465189123803489/) (anyone can join).*
 
-<h2>Fiercely Filial</h2>
+<h2>Plot Summary</h2>
 
 Seventeen-year-old Mulan is one of the most beautiful and talented women in Hebei. The fact that she is engaged to marry Wang Qingyun, one of the few young men who managed to exempt himself from the previous drafts, makes her the envy of the entire village. However, when Mulan’s father (a retired battalion captain by the name of Hua Hu) is called to serve in the army, her world turns upside-down. Because her siblings are still very young (her Munan nine years old while her brother Yaoer is five), Mulan volunteers to take her father’s place in battle. Dressing as a man, she gives up everything she has ever know to join the army.
 
