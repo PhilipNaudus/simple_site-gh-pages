@@ -13,6 +13,8 @@ As the title suggests, *Fierce and Filial* (also known as *The Extraordinary His
 
 As the story opens, Mulan is engaged to be married to one of the most brilliant scholars in all of China. Because tradition demanded that she be primarily devoted to her fianc&eacute;'s family, her choice to take her father's place in battle showed that she placed her father above her future husband. Because she is unwavering in her virtue, she is willing to risk offending her fianc&eacute;, even if it means she may never marry.
 
+*I am translating this novel into English and am posting the chapters one at a time to [this Facebook group](https://www.facebook.com/groups/2465189123803489/) (anyone can join).*
+
 <h2>Fiercely Filial</h2>
 
 Seventeen-year-old Mulan is one of the most beautiful and talented women in Hebei. The fact that she is engaged to marry Wang Qingyun, one of the few young men who managed to exempt himself from the previous drafts, makes her the envy of the entire village. However, when Mulan’s father (a retired battalion captain by the name of Hua Hu) is called to serve in the army, her world turns upside-down. Because her siblings are still very young (her Munan nine years old while her brother Yaoer is five), Mulan volunteers to take her father’s place in battle. Dressing as a man, she gives up everything she has ever know to join the army.
@@ -73,6 +75,8 @@ Meanwhile, the emperor has lost his patience with the expedition against the ban
 Qingyun investigates the bandits’ stronghold and concludes that the only way to force them out is to create an avalanche. He sends a memorial to the emperor, requesting that ten barbarian cannons be constructed and sent up the mountain. After the cannons arrive, Qingyun uses them to induce an artificial landslide. Mulan captures Leopard Skin, and Princess Wanhua forces the bandits to surrender.
 
 Mulan returns home and is shocked to realize that Qingyun is still unmarried. For the past twelve years, he has waited faithfully for her. Qingyun takes both Mulan and Wanhua as his wives and the wedding is celebrated. That night, Mulan conceives a son who eventually becomes the next prime minister of China.
+
+*I am translating this novel into English and am posting the chapters one at a time to [this Facebook group](https://www.facebook.com/groups/2465189123803489/) (anyone can join).*
 
 <a href="https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991011302539704786&context=L&vid=886NTU_INST:886NTU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8C%97%E9%AD%8F%E5%A5%87%E5%8F%B2&offset=0">Read the original Chinese text of <i>Fiercely Filial.</i></a>
 
