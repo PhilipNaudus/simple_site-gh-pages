@@ -13,7 +13,7 @@ As the title suggests, *Fierce and Filial* (also known as *The Extraordinary His
 
 As the story opens, Mulan is engaged to be married to one of the most brilliant scholars in all of China. Because tradition demanded that she be primarily devoted to her fianc&eacute;'s family, her choice to take her father's place in battle showed that she placed her father above her future husband. Because she is unwavering in her virtue, she is willing to risk offending her fianc&eacute;, even if it means she may never marry.
 
-***I am translating this novel into English and am posting the chapters one at a time to [this Facebook group](https://www.facebook.com/groups/2465189123803489/) (anyone can join).***
+***I am translating this novel into English and am making the chapters available as I complete them. [Sign up to receive them for free](http://eepurl.com/gIKMMP).***
 
 <h2>Plot Summary</h2>
 
@@ -76,7 +76,7 @@ Qingyun investigates the bandits’ stronghold and concludes that the only way t
 
 Mulan returns home and is shocked to realize that Qingyun is still unmarried. For the past twelve years, he has waited faithfully for her. The night of their wedding, Mulan conceives a son who eventually becomes the next prime minister of China.
 
-***I am translating this novel into English and am posting the chapters one at a time to [this Facebook group](https://www.facebook.com/groups/2465189123803489/) (anyone can join).***
+***I am translating this novel into English and am making the chapters available as I complete them. [Sign up to receive them for free](http://eepurl.com/gIKMMP).***
 
 <a href="https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991011302539704786&context=L&vid=886NTU_INST:886NTU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8C%97%E9%AD%8F%E5%A5%87%E5%8F%B2&offset=0">Read the original Chinese text of <i>Fiercely Filial.</i></a>
 
