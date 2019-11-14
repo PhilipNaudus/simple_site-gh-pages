@@ -68,7 +68,7 @@ figure img {
   display: block;
   max-width: 85vw;
   max-height: 30vw;
-  height: auto;
+  width: auto;
   margin-left: auto;
   margin-right: auto;
 }
