@@ -67,14 +67,14 @@
 					{% endfor %}
 				{% endfor %}
 
-				<br /><div>
+				<br /><div width="100%">
 				{% if prevUrl %}
-				<p>Previous: <a href="{{ prevUrl }}">{{ prevTitle }}</a></p>
+				<p style="text-align:left;">Previous: <a href="{{ prevUrl }}">{{ prevTitle }}</a></p>
 				{% endif %}
 				{% if nextUrl != page.url %}
-				<p style="float:right;">Next: <a href="{{ nextUrl }}">{{ nextTitle }}</a></p>
+				<p style="text-align:right;">Next: <a href="{{ nextUrl }}">{{ nextTitle }}</a></p>
 				{% else %}
-				<p style="float:right;">Next: <a href="/pages/northern_wei/ballad_of_mulan">The <i>Ballad of Mulan</i></a></p>
+				<p style="text-align:right;">Next: <a href="/pages/northern_wei/ballad_of_mulan">The <i>Ballad of Mulan</i></a></p>
 				{% endif %}
 				</div>
 				<div style="clear:both;"></div>
