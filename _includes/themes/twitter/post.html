@@ -33,7 +33,7 @@
 				<picture>
 					<source media="(min-width: 830px)" srcset="/assets/images/articles/{{ imageArr[1] }}">
 				{% endif %}
-					<img class="fillimg" src="/assets/images/articles/{{ defaultImage }}" alt="{{ page.alt | strip_html }}" />
+					<img {% if page.imageType contains "float" %} class="fillimg" {% endif %} src="/assets/images/articles/{{ defaultImage }}" alt="{{ page.alt | strip_html }}" />
 				{% if page.image contains "#" %}
 				</picture>
 				{% endif %}

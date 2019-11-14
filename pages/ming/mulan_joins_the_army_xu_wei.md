@@ -5,7 +5,7 @@ description: This famous play is often credited with bringing the legend of Mula
 image: mulan_bids_farewell_to_her_family_while_two_soldiers_wait_impatiently.jpg
 bg: b39562
 alt: Mulan bids farewell to her family while two soldiers wait impatiently. Included as an illustration in a late woodblock reprinting of a collection of Xu Wei’s plays (Public domain).
-imageType: float
+imageType: big
 num: 2
 ---
 
