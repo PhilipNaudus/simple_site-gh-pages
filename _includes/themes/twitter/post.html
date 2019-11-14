@@ -43,45 +43,46 @@
 
 				{{ content }}
 
+				{% assign current = false %}
+				{% assign next = false %}
+				{% for dynasty in dynastyArr %}
+					{% assign folderName = '/' | append: dynasty | append: '/' %}
+					{% assign folder = site.pages | where_exp: "item" , "item.path contains folderName" | sort: "num" %}
+
+					{% for article in folder %}
+						{% if next == false %}
+							{% assign nextTitle = article.title %}
+							{% assign nextUrl = article.url %}
+						{% endif %}
+						{% if current == true %}
+							{% assign next = true %}
+						{% endif %}
+						{% if page.url == article.url %}
+							{% assign current = true %}
+						{% endif %}
+						{% if current == false %}
+							{% assign prevTitle = article.title %}
+							{% assign prevUrl = article.url %}
+						{% endif %}
+					{% endfor %}
+				{% endfor %}
+
+				<div>
+				{% if prevUrl %}
+				<p style="float:left;">Previous: <a href="{{ prevUrl }}">{{ prevTitle }}</a></p>
+				{% endif %}
+				{% if nextUrl != page.url %}
+				<p style="float:right;">Next: <a href="{{ nextUrl }}">{{ nextTitle }}</a></p>
+				{% else %}
+				<p style="float:right;">Next: <a href="/pages/northern_wei/ballad_of_mulan">The <i>Ballad of Mulan</i></a></p>
+				{% endif %}
+				</div>
+				<div style="clear:both;"></div>
+
+				<a class="readnovel" href="/pages/qing/fierce_and_filial_english_translation">Mulan: The Qing dynasty novel<br /><small>Read the English translation</small></a>
 			</div>
 		</div>
 	</div>
 </div>
-
-{% assign current = false %}
-{% assign next = false %}
-{% for dynasty in dynastyArr %}
-	{% assign folderName = '/' | append: dynasty | append: '/' %}
-	{% assign folder = site.pages | where_exp: "item" , "item.path contains folderName" | sort: "num" %}
-
-	{% for article in folder %}
-		{% if next == false %}
-			{% assign nextTitle = article.title %}
-			{% assign nextUrl = article.url %}
-		{% endif %}
-		{% if current == true %}
-			{% assign next = true %}
-		{% endif %}
-		{% if page.url == article.url %}
-			{% assign current = true %}
-		{% endif %}
-		{% if current == false %}
-			{% assign prevTitle = article.title %}
-			{% assign prevUrl = article.url %}
-		{% endif %}
-	{% endfor %}
-{% endfor %}
-
-<div>
-{% if prevUrl %}
-<p style="float:left;">Previous: <a href="{{ prevUrl }}">{{ prevTitle }}</a></p>
-{% endif %}
-{% if nextUrl != page.url %}
-<p style="float:right;">Next: <a href="{{ nextUrl }}">{{ nextTitle }}</a></p>
-{% else %}
-<p style="float:right;">Next: <a href="/pages/northern_wei/ballad_of_mulan">The <i>Ballad of Mulan</i></a></p>
-{% endif %}
-</div>
-<div style="clear:both;"></div>
 
 {% if page.imageType contains "float" %} <script type="text/javascript" src="/assets/js/float.js"></script> {% endif %}
