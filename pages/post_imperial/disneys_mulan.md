@@ -30,35 +30,35 @@ Mulan's father, Fa Zhou, is a retired soldier whose health has been steadily dec
 Knowing that her parents would not approve of her decision, Mulan secretly takes her father's armor and disguises herself as a man. When the family learns of Mulan's departure, they pray to their ancestors. Through a series of unfortunate events, a dragon by the name of Mushu is sent to assist Mulan in her journey.
 
 <figure class="float right" style="max-width: 450px;">
-<img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/mulan_mushu.jpg" alt="Mulan, together with her sidekick Mushu. Mulan is holding Mushu." />
+<img class="lazy" src="/assets/images/articles/disneys_mulan/mulan_mushu.jpg" alt="Mulan, together with her sidekick Mushu. Mulan is holding Mushu." />
 <figcaption style="text-align: center;"><i>Mulan, together with her sidekick Mushu.</i></figcaption>
 </figure>
 
 When Mulan reports for duty, she is discouraged to find that she is unable to perform well during initial training exercises. Captain Li Shang works hard with the new recruits, and Mulan is soon able to prove that she is ready to face the Huns in battle. When Mulan and her fellow soldiers are finally prepared for war, they set out to join the main army. However, they soon find the remains of a Chinese army and discover that the Huns have massacred the majority of the Chinese troops. Among the casualties was Li Shang's own father.
 
 <figure class="float left" style="max-width: 450px;">
-<img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/mulan_training.jpg" alt="The turning point in Mulan’s training occurs when she succeeds in climbing a pole to reach an arrow." />
+<img class="lazy" src="/assets/images/articles/disneys_mulan/mulan_training.jpg" alt="The turning point in Mulan’s training occurs when she succeeds in climbing a pole to reach an arrow." />
 <figcaption style="text-align: center;"><i>The turning point in Mulan's training occurs when she succeeds in climbing a pole to reach an arrow.</i></figcaption>
 </figure>
 
 Li Shang and his soldiers are downcast. However, they have little time to grieve because they soon find themselves surrounded by Hun soldiers. Mulan quickly causes an avalanche and rescues her comrades, but is injured in the ensuing battle. While the doctor is bandaging her wounds, Mulan's true identity is discovered. Li Shang and his men depart for the imperial city to report their victory while Mulan, who has been expelled from the army, remains behind. When Mulan realizes that several enemy soldiers have survived the avalanche, she rushes forward to report that the victory has not yet been sealed.
 
 <figure class="float right" style="max-width: 450px;">
-<img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/mulan_avalanche.jpg" alt="Mulan wins a decisive victory by firing a rocket, which causes an avalanche." />
+<img class="lazy" src="/assets/images/articles/disneys_mulan/mulan_avalanche.jpg" alt="Mulan wins a decisive victory by firing a rocket, which causes an avalanche." />
 <figcaption style="text-align: center;"><i>Mulan wins a decisive victory by firing a rocket, which causes an avalanche.</i></figcaption>
 </figure>
 
 Despite Mulan's best efforts, she is unable to convince Li Shang that the Huns are advancing. As a result, the Huns capture the emperor with ease. However, Mulan refuses to accept defeat. With the help of her former comrades, Mulan climbs onto the roof of the palace, challenges the leader of the Hun army, and rescues the emperor.
 
 <figure class="float left" style="max-width: 450px;">
-<img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/mulan_final_battle.jpg" alt="Mulan confronts the leader of the Hun army for the final time." />
+<img class="lazy" src="/assets/images/articles/disneys_mulan/mulan_final_battle.jpg" alt="Mulan confronts the leader of the Hun army for the final time." />
 <figcaption style="text-align: center;"><i>Mulan confronts the leader of the Hun army for the final time.</i></figcaption>
 </figure>
 
 The emperor, who now owes his life to Mulan, asks her to become his adviser. However, Mulan declines and only requests that she be allowed to return home. After Mulan has been reunited with her family, Li Shang visits and is welcomed by Mulan's parents and grandmother.
 
 <figure class="float right" style="max-width: 450px;">
-<img class="fillimg lazy" src="/assets/images/articles/disneys_mulan/final_scene_mulan_li_shang.jpg" alt="Mulan and Li Shang exchanging a glance under a magnolia tree." />
+<img class="lazy" src="/assets/images/articles/disneys_mulan/final_scene_mulan_li_shang.jpg" alt="Mulan and Li Shang exchanging a glance under a magnolia tree." />
 </figure>
 
 [View *Mulan* on IMDB](https://www.imdb.com/title/tt0120762/)
