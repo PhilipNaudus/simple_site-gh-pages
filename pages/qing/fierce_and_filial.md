@@ -13,7 +13,7 @@ As the title suggests, *Fierce and Filial* (also known as *The Extraordinary His
 
 As the story opens, Mulan is engaged to be married to one of the most brilliant scholars in all of China. Because tradition demanded that she be primarily devoted to her fianc&eacute;'s family, her choice to take her father's place in battle showed that she placed her father above her future husband. Because she is unwavering in her virtue, she is willing to risk offending her fianc&eacute;, even if it means she may never marry.
 
-***I am translating this novel into English and am making the chapters available as I complete them. [Sign up to receive them for free](http://eepurl.com/gIKMMP).***
+***I am translating this novel into English and am making the chapters available as I complete them. [Read the chapters for free](/pages/qing/fierce_and_filial_english_translation).***
 
 <h2>Plot Summary</h2>
 
@@ -63,7 +63,7 @@ Meanwhile, Princess Wanhua convinces the bandits to feign surrender. They invite
 
 The army advances to confront their final opponent, Leopard Skin. Mulan, who has several broken ribs, is forced to remain behind. For the next three months, Mulan is in critical condition and fades in and out of consciousness. When she finally recovers, she is surprised to find that the doctor shows no signs of having discovered her identity as a woman while restoring her ribs. This remains a mystery that will be not be solved until much later.
 
-When Mulan is finally strong enough to fight, she rejoins the army and finds that they have been locked in a battle against a sorceress, Huang Fengshan, for the past three months. The sorceress has killed many of the army’s mighty men, including Vanguard Niu He. Mulan boldly marches onto the battlefield to confront the sorceress and defeats her with the magical bow and arrow which she had received from Li Jing. Upon seeing that their hero has been defeated, Leopard Skin and the bandits flee back to their heavily fortified stronghold and refuse to come out. Xin Ping and his men spend the next year laying siege to the bandit’s fortress.
+	When Mulan is finally strong enough to fight, she rejoins the army and finds that they have been locked in a battle against a sorceress, Huang Fengshan, for the past three months. The sorceress has killed many of the army’s mighty men, including Vanguard Niu He. Mulan boldly marches onto the battlefield to confront the sorceress and defeats her with the magical bow and arrow which she had received from Li Jing. Upon seeing that their hero has been defeated, Leopard Skin and the bandits flee back to their heavily fortified stronghold and refuse to come out. Xin Ping and his men spend the next year laying siege to the bandit’s fortress.
 
 Meanwhile, the emperor has lost his patience with the expedition against the bandits. This operation, which was initially supposed to be short, has lasted for over seven years. In an attempt to ensure that the expedition is finally drawn to a close, the emperor orders that an examination be conducted to find the most brilliant man in all of China. Wang Qingyun, Mulan’s fianc&eacute;, is chosen and is sent to supervise the army. When Mulan hears that Qingyun is coming, she becomes bashful and refuses to allow him to see her dressed as a man because she wants him to remember her only as a beautiful woman.
 
@@ -75,8 +75,6 @@ Meanwhile, the emperor has lost his patience with the expedition against the ban
 Qingyun investigates the bandits’ stronghold and concludes that the only way to force them out is to create an avalanche. He sends a memorial to the emperor, requesting that ten barbarian cannons be constructed and sent up the mountain. After the cannons arrive, Qingyun uses them to induce an artificial landslide. Mulan captures Leopard Skin, and Princess Wanhua forces the bandits to surrender.
 
 Mulan returns home and is shocked to realize that Qingyun is still unmarried. For the past twelve years, he has waited faithfully for her. The night of their wedding, Mulan conceives a son who eventually becomes the next prime minister of China.
-
-***I am translating this novel into English and am making the chapters available as I complete them. [Sign up to receive them for free](http://eepurl.com/gIKMMP).***
 
 <a href="https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991011302539704786&context=L&vid=886NTU_INST:886NTU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8C%97%E9%AD%8F%E5%A5%87%E5%8F%B2&offset=0">Read the original Chinese text of <i>Fiercely Filial.</i></a>
 
