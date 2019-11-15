@@ -366,7 +366,7 @@ a {
     background: -moz-linear-gradient(top, #4949aa, #4949aa);
     background: linear-gradient(to bottom, #4949aa, #4949aa);
 }
-.readnovel:before{
+.readnovel.book:before{
     content:  "\0000a0";
     display: inline-block;
     height: 24px;
