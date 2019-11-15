@@ -69,16 +69,14 @@
 
 				<br />
 				<div width="100%">
-				<p>
 				{% if prevUrl %}
-				<div style="text-align:left;">Previous: <a href="{{ prevUrl }}">{{ prevTitle }}</a></div>
+				<p style="text-align:left;">Previous: <a href="{{ prevUrl }}">{{ prevTitle }}</a></p>
 				{% endif %}
 				{% if nextUrl != page.url %}
-				<div style="text-align:right;">Next: <a href="{{ nextUrl }}">{{ nextTitle }}</a></div>
+				<p style="text-align:right;">Next: <a href="{{ nextUrl }}">{{ nextTitle }}</a></p>
 				{% else %}
-				<div style="text-align:right;">Next: <a href="/pages/northern_wei/ballad_of_mulan">The <i>Ballad of Mulan</i></a></div>
+				<p style="text-align:right;">Next: <a href="/pages/northern_wei/ballad_of_mulan">The <i>Ballad of Mulan</i></a></p>
 				{% endif %}
-				</p>
 				</div>
 
 				<p style="text-align:center;"><a class="readnovel book" href="/pages/qing/fierce_and_filial_english_translation">Mulan: The Qing dynasty novel<br /><small>Read the English translation of <i>Fierce and Filial</i></small></a></p>
