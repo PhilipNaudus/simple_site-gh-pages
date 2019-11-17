@@ -13,7 +13,9 @@ As the title suggests, *Fierce and Filial* (also known as *The Extraordinary His
 
 As the story opens, Mulan is engaged to be married to one of the most brilliant scholars in all of China. Because tradition demanded that she be primarily devoted to her fianc&eacute;'s family, her choice to take her father's place in battle showed that she placed her father above her future husband. Because she is unwavering in her virtue, she is willing to risk offending her fianc&eacute;, even if it means she may never marry.
 
+---
 ***I am translating this novel into English and am making the chapters available as I complete them. [Read the chapters for free](/pages/qing/fierce_and_filial_english_translation).***
+---
 
 <h2>Plot Summary</h2>
 
