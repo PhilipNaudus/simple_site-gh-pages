@@ -21,7 +21,106 @@ Although most modern historians assume that the *Ballad of Mulan* is a work of f
 
 Nevertheless, the arguments which modern historians make when casting doubt upon the historicity of Mulan's story are weighty. The historical documents which insist that Mulan was a real person propose contradictory accounts of her life. Each historian offers a different set of details about her family, the time in which she lived, and the enemy against whom she fought. Because no one historical account has emerged as the authoritative record of her life, the majority of modern historians have decided to reject all of these so-called historical documents and conclude that the authenticity of Mulan's story cannot be verified.
 
-[English translation of The *Ballad of Mulan*](https://en.wikisource.org/wiki/Translation:Ballad_of_Mulan)
+<h2>English Translation</h2>
+
+A sigh. Another sigh.<br />
+Mulan sits in the doorway in front of her loom.
+
+But the loom is silent<br />
+Instead, we can only hear the sound of her sighs.
+
+Girl, who are you thinking about?<br />
+Girl… who do you long for?
+
+(Mulan replies)<br />
+"There is only one man I think about<br />
+There is only one man I long for
+
+Last night I saw the conscription notice, <br />
+The Khan is issuing a great draft –
+
+A dozen volumes of battle rolls, <br />
+Each one with my father's name.
+
+My father has no son old enough to take his place, <br />
+I, Mulan, have no elder brother.
+
+I'm willing to buy a horse and saddle, <br />
+I will take my father’s place in battle."
+
+She buys a fine steed at the east market; <br />
+A saddle and blanket at the west market;
+
+A bridle at the south market; <br />
+And a long whip at the north market.
+
+At dawn, she leaves her parents’ home<br />
+and camps beside the Yellow River before dusk.
+
+From far away, she cannot hear the sounds of her parents calling for her<br />
+Only the rushing waters of the Yellow River.
+
+She leaves the Yellow River at dawn, <br />
+And reaches reach Black Mountain before dusk.
+
+From far away, she cannot hear the sounds of her parents calling for her<br />
+Only the cries of the enemy cavalry in the Yàn hills.
+
+She traveled ten thousand *li*, <br />
+She flew over mountains and through mountain passes
+
+The sound of a war gong pierces the air, <br />
+The winter sun shines brightly on her coat of steel.
+
+The general dead after a hundred battles, <br />
+The warriors return after ten years.
+
+They return to see the Son of Heaven, <br />
+Sitting in the royal court
+
+He unrolls the scroll of merit a dozen times<br />
+Giving rewards to hundreds and thousands of men
+
+The Khan asks Mulan what she desires
+
+(Mulan replies)<br />
+I have no need to be promoted to a prominent position
+
+I only ask for a camel that can travel a thousand *li*<br />
+That can take me back to my hometown
+
+Her parents hear that their daughter has returned, <br />
+They welcome her at the entrance to the town.
+
+When Elder Sister hears of Mulan’s return,<br />
+she stands in the doorway wearing a beautiful dress
+
+When Little Brother hears that his sister has returned, <br />
+He sharpens his knife to slaughter a pig and a lamb.
+
+(Mulan speaks)<br />
+"I open the door to my eastern chamber, <br />
+And sit on the bed of my western chamber.
+
+I take off my military robes<br />
+And put on my old clothes.
+
+I sit in front of the window as I comb my long flowing hair<br />
+And look into the mirror as I apply makeup
+
+I go outside to see my comrades<br />
+They are all shocked and astounded.
+
+“We traveled together for twelve years,” (they say),<br />
+“But we never suspected that Mulan was a woman!”
+
+Most people tell the gender of a rabbit by its movement:<br />
+The male runs quickly, while the female often keeps her eyes shut.
+
+But when the two rabbits run side by side, <br />
+Can you really discern whether I am a *he* or a *she*?
+
+<small>[Original Chinese text](https://fanti.dugushici.com/ancient_proses/70521)</small>
 
 <center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <span id="show_note_icon"></span></a></center>
 
