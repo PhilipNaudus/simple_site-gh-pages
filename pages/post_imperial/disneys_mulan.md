@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Disney&rsquo;s <i>Mulan</i> (1998)
-description: This film is primarily responsible for making the story of Mulan reach legendary status in the West.
+description: Disney’s Mulan was a film that became primarily responsible for making the story of Mulan reach legendary status in the West.
 image: disneys_mulan_movie_poster.jpg
 bg: db0110
 alt: A movie poster for Mulan. Images copyright &copy;1998 Disney.
