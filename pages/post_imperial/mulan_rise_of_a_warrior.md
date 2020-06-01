@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "<i>Mulan: Rise of a Warrior</i> (2009)"
-description: After Disney’s <i>Mulan</i> began receiving significant attention, the Chinese people desired to see this legend retold from a modern Chinese perspective.
+description: Rise of a Warrior is a historical fiction film that retells the legend of Mulan from a Modern Chinese perspective.
 image: mulan_rise_of_a_warrior_movie_poster.jpg
 bg: 4d5941
 alt: "A movie poster for Mulan: Rise of a Warrior. Images copyright &copy;2009 Starlight International Media, Inc."
