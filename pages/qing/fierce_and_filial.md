@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <i>Fierce and Filial</i> by Zhang Shaoxian (1850)
-description: Fierce and Filial is a novel that unites many of the previous renditions of Mulan’s story into a single volume, emphasizing that Mulan’s brilliance and courage stemmed from her virtue.
+description: <i>Fierce and Filial</i> is a novel that unites many of the previous renditions of Mulan’s story into a single volume, emphasizing that Mulan’s brilliance and courage stemmed from her virtue.
 image: hua_mulan_lu_wanhua_sworn_sisters.jpg
 bg: e9e9e9
 alt: Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua. Illustrations are from an early woodblock printing of Fierce and Filial (public domain).

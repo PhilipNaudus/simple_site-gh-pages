@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <i>Song of Mulan</i> by Wei Yuanfu (c. 750 AD)
-description: As one of the first retellings of Mulan’s story, the Song of Mulan introduces some key elements which became intrinsic to the legend’s development.
+description: As one of the first retellings of Mulan’s story, the <i>Song of Mulan</i> introduces some key elements which became intrinsic to the legend’s development.
 image: song_of_mulan.jpg
 bg: e1d0b4
 alt: The text of the Song of Mulan, as it appears in the Music Bureau Collection (Public domain).

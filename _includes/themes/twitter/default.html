@@ -4,7 +4,7 @@
 <title>{{ page.title | strip_html }} {% if page.layout contains "post" %}- Mulanbook: The history and legend of Hua Mulan {% endif %}</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-	{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+	{% if page.description %}<meta name="description" content="{{ page.description | strip_html }}">{% endif %}
 	<link rel="stylesheet" href="{{ ASSET_PATH }}/css/{{ page.layout }}.css" type="text/css" media="none" onload="if(media!='all')media='all'" />
 </head>
 <body>

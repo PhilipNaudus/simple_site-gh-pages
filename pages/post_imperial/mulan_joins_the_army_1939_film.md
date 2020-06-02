@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <i>Mulan Joins the Army</i> (1939)
-description: Mulan Joins the Army became a classic film adaptation of Mulan’s story, and is the first retelling to introduce romance into the legend.
+description: <i>Mulan Joins the Army</i> became a classic film adaptation of Mulan’s story, and is the first retelling to introduce romance into the legend.
 image: mulan_joins_the_army_1939_triumphant_return.jpg
 bg: 4a494a
 alt: Mulan returns in triumph. Images are from Mulan Joins the Army, &copy;1939 China United Productions.

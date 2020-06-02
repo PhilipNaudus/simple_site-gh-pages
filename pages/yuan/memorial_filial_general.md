@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Memorial to the Filial General (1332 AD)
-description: A memorial to Mulan, which was discovered next to the remains of a temple on Mulan Mountain, claims to tell Mulan&rsquo;s true story.
+description: A memorial to Mulan, which was discovered next to the remains of a temple on Mulan Mountain, claims to tell Mulan’s true story.
 image: mulan_mountain.jpg
 bg: 86a6a5
 alt: "Mulan Mountain (Image credit: hubei.gov.cn)"
