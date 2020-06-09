@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The legend of Mulan: 1,500 years of history
+title: "The legend of Mulan: 1,500 years of history"
 description: The <i>Ballad of Mulan</i> is the oldest known version of Mulan’s story. This one poem ended up inspiring countless retellings for centuries to come.
 image: ballad_of_mulan_song_dynasty_mu_fu.jpg
 bg: 8c6f4e
