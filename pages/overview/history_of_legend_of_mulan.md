@@ -9,7 +9,7 @@ imageType: big
 num: 1
 ---
 
-Around 400 AD, a poem began circulating imperial China. It told of a young girl (most likely in her early teens) who made the momentous decision to take her father’s place in battle. Although modern historians now believe this poem to be ficticious, early historians (most notably, [Zhu Guozhen](/pages/ming/women_generals)) insisted that the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* was an autobiography. Regardless of the authenticity of the original tale, this amazing story went on to inspire one of the greatest legends ever told.
+Around 400 AD, a poem began circulating imperial China. It told of a young girl (most likely in her early teens) who made the momentous decision to take her father’s place in battle. Although modern historians now believe this poem to be fictitious, early historians (most notably, [Zhu Guozhen](/pages/ming/women_generals)) insisted that the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* was an autobiography. Regardless of the authenticity of the original tale, this amazing story went on to inspire one of the greatest legends ever told.
 
 <figure  class="float left" style="max-width: 450px;" >
 	<img class="fillimg" style="max-width: 450px;" src="/assets/images/articles/ballad_of_mulan_song_dynasty_mu_fu.jpg" alt="This copy of The Ballad of Mulan was written by Song dynasty calligrapher Mi Fu in 1094 AD (Public domain)." />
@@ -20,7 +20,7 @@ For over a hundred years, the *Ballad of Mulan* was passed down via oral traditi
 
 These narratives are all very short. They provide enough information to verify that Mulan took her father’s place in battle, served for twelve or thirteen years without her femininity ever being discovered, and was rewarded by the emperor for her accomplishments. Due to the brevity of these accounts, later authors became fascinated with Mulan’s story and began embellishing it. After all, Mulan’s story has such a fantastic premise that it begs to be told in a more elaborate form.
 
-For the next several hundred years, very little was written about Mulan. While a [memorial](/pages/yuan/memorial_filial_general) erected during the Song dynasty sugggests that this maiden warrior continued to captivate the hearts of a Taoist sect, it wasn’t until the Ming dynasty that Mulan’s story came into the public spotlight.
+For the next several hundred years, very little was written about Mulan. While a [memorial](/pages/yuan/memorial_filial_general) erected during the Song dynasty suggests that this maiden warrior continued to captivate the hearts of a Taoist sect, it wasn’t until the Ming dynasty that Mulan’s story came into the public spotlight.
 
 Around 1500 AD, Xu Wei wrote the play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)*. Although this play was short (the unannotated manuscript is twelve pages), Xu Wei inserted reimagined the story in a way that would capture the imaginations of the common people.
 
@@ -33,7 +33,7 @@ Xu Wei took a lot of liberties with this play and wasn’t overly concerned with
 
 The play primarily focuses on Mulan's life as a woman. After she spends a long time preparing to go to war, the narrator blitzes through a decade of military service to show the audience Mulan resuming her life as a woman. ([Plot summary of *Mulan Joins the Army*](/pages/ming/mulan_joins_the_army_xu_wei))
 
-Although no records exist of Xu Wei’s play ever being performed, the printed manuscript circulated widely throughout China. Thus, in its written form, this play began to inspire a renewed interest in the legend.
+Although no records exist of Xu Wei’s play ever being performed, the printed manuscript circulated widely throughout China. Thus, in its written form, this play inspired a renewed interest in the legend.
 
 After the Ming dynasty fell, the Chinese people found themselves under barbarian rule. The Manchu (who founded the Qing dynasty) oppressed the Chinese people and forced them to adapt to the Manchu way of life under penalty of death. During this time, the Chinese people took solace in Mulan’s story, as they desired for such a hero to rise up amongst them. (More information: [The Legend of Mulan During the Qing Dynasty](/pages/qing/legend_of_mulan_qing_dynasty))
 
@@ -87,9 +87,7 @@ In 2010, Disney announced plans to release a [live-action remake of *Mulan*](/pa
 	<figcaption style="text-align: center;"><i>A movie poster for Mulan. Copyright &copy;2019 Disney. </i></figcaption>
 </figure>
 
-Mulan’s story has traversed the globe several times and has touched the hearts and minds of countless generations since the story was first conceived over a millennium ago. While I believe that Mulan was a real person, we may never know the details of her true story.
-
-Despite this, Mulan continues to be an inspiration to live virtuously when faced with crisis. Throughout the ages, the legend has continued to tell the story of a woman who is prepared to sacrifice everything out of filial devotion to her father.
+Mulan’s story has traversed the globe several times and has touched the hearts and minds of countless generations since the story was first conceived over a millennium ago. While we may never know the details of her true story (if she really did exist), Mulan continues to be an inspiration to live virtuously when faced with crisis. Throughout the ages, the legend has continued to tell the story of a woman who is prepared to sacrifice everything out of filial devotion to her father.
 
 The legend always has been, and always will be, a touching story of honor, virtue, and sacrifice.
 
