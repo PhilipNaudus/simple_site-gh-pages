@@ -46,7 +46,7 @@ The most famous retelling of Mulan’s story to be written during this time was 
 
 *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)* was a very different novel, in that it encouraged its readers to withdraw from society and rise above evil by living virtuous lives. The author, who seems to be a pacifist, uses the novel to glorify monasticism. The novel begins by focusing on Mulan's grandfather, an ambitious young scholar. As he pursues enlightenment, however, he learns the virtue of inaction. After his granddaughter Mulan is born, he teaches her the art of magic but warns that responsible use of magic is so difficult that he has never found an occasion where the use of magic would be proper. Although Mulan eventually learns how to use her power for good, evil still triumphs in the end.
 
-<figure  class="float left" style="max-width: 450px;" >
+<figure  class="float right" style="max-width: 450px;" >
 	<img  src="/assets/images/articles/mulan_training_martial_arts_grandfather_biography_of_extraordinary_mulan.png" alt="Mulan receives instruction in martial arts from her grandfather as her grandmother looks on. Included as an illustration in a late woodblock reprinting of Biography of Extraordinary Mulan (Public domain)." />
 	<figcaption style="text-align: center;"><i>Mulan receives instruction in martial arts from her grandfather as her grandmother looks on. Included as an illustration in a late woodblock reprinting of Biography of Extraordinary Mulan (Public domain).</i></figcaption>
 </figure>
@@ -66,8 +66,7 @@ After Word War II ended, China was now under communist rule. The people of Hong 
 
 Mulan's superior officer, Li Guang, takes a special interest in Mulan and becomes her mentor. Mulan, who has strong feelings for Li Guang, tries to drop hints about her true gender, but he responds by professing his brotherly love. The film concludes with Mulan appearing before Li Guang dressed in feminine attire, much to his delight.
 
-
-<figure  class="float left" style="max-width: 450px;" >
+<figure  class="float right" style="max-width: 450px;" >
 	<img  src="/assets/images/articles/lady_general_hua_mulan_movie_poster.jpg" alt="A movie poster for Lady General Hua Mu-Lan. Images are copyright &copy;1964 Shaw Brothers." />
 	<figcaption style="text-align: center;"><i>&copy;1964 Shaw Brothers.</i></figcaption>
 </figure>
@@ -83,7 +82,7 @@ Throughout the film, Mulan struggles to put the needs of the masses above her ow
 
 In 2010, Disney announced plans to release a [live-action remake of *Mulan*](/pages/post_imperial/disneys_live_action_mulan). This film, which is purported to draw inspiration from both Chinese and American cultures, is expected to appeal to audiences from around the globe. Because this movie is yet to be released, very little is known about it, except that the film will be strikingly different from the 1998 animated film.
 
-<figure  class="float left" style="max-width: 450px;" >
+<figure  class="float right" style="max-width: 450px;" >
 	<img  src="/assets/images/articles/disneys_live_action_mulan_movie_poster.jpg" alt="A movie poster for Mulan. Copyright &copy;2019 Disney." />
 	<figcaption style="text-align: center;"><i>A movie poster for Mulan. Copyright &copy;2019 Disney. </i></figcaption>
 </figure>
