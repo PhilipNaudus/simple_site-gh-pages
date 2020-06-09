@@ -4,7 +4,7 @@ title: "The legend of Mulan: 1,500 years of history"
 description: A survey of the development of the legend of Mulan, including a history of the various retellings that have been written over the past 1,500 years.
 image: mulan_history.jpg
 bg: 8c6f4e
-alt: "Two modernized renditions of Mulan stand in opposition to the cover of the Qing dynasty novel <a href='/pages/qing/fierce_and_filial'>Fierce and Filial</a>. Image credit: Stella Su."
+alt: "Two modern depictions of Mulan stand in opposition to the title page of the Qing dynasty novel <a href='/pages/qing/fierce_and_filial'>Fierce and Filial</a>. Artwork by Stella Su."
 imageType: big
 num: 1
 ---
