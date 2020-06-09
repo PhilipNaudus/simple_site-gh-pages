@@ -19,6 +19,9 @@ Zhu Guozhen was one of the first historians to compile what he believed to be an
 
 Although modern historians have begun to question the scholarship of these Ming Dynasty historians, the renewed interest in Mulan's story that emerged during the Ming Dynasty helped to propel this legend forward.
 
+**Related Article:** [The legend of Mulan: 1,500 years of history](/pages/overview/history_of_legend_of_mulan)
+
+
 <center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <span id="show_note_icon"></span></a></center>
 
 <div id="note">
