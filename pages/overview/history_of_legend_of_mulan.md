@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The <i>Ballad of Mulan</i>
+title: The legend of Mulan: 1,500 years of history
 description: The <i>Ballad of Mulan</i> is the oldest known version of Mulan’s story. This one poem ended up inspiring countless retellings for centuries to come.
 image: ballad_of_mulan_song_dynasty_mu_fu.jpg
 bg: 8c6f4e
@@ -9,126 +9,89 @@ imageType: big
 num: 1
 ---
 
-Because the *Ballad of Mulan* is an anonymous and undated work, very little can be said about it with certainty. It was most likely composed during the era of Northern Wei and passed down orally for over a century until it was finally preserved in written form during the Tang Dynasty.
+Around 400 AD, a poem began circulating imperial China. It told of a young girl (most likely in her early teens) who made the momentous decision to take her father’s place in battle. Although modern historians now believe this poem to be ficticious, early historians (most notably, [Zhu Guozhen](/pages/ming/women_generals)) insisted that the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* was an autobiography. Regardless of the authenticity of the original tale, this amazing story went on to inspire one of the greatest legends ever told.
 
-The version which was finally put into writing begins with Mulan sitting in front of her loom, weeping over the fact that her father has just received his conscription orders. Because Mulan has no elder brother, she is resolved to take her father's place. Upon returning, she is offered a prominent position but turns it down; her only request is that she be sent home to her family.
+<figure class="big">
+	<img class="fillimg" src="/assets/images/articles/ballad_of_mulan_song_dynasty_mu_fu.jpg" alt="This copy of The Ballad of Mulan was written by Song dynasty calligrapher Mi Fu in 1094 AD (Public domain)." />
+	<figcaption style="text-align: center;"><i>This copy of The Ballad of Mulan was written by Song dynasty calligrapher Mi Fu in 1094 AD (Public domain).</i></figcaption>
+</figure>
 
-After Mulan is reunited with her parents and she has resumed her feminine appearance, her comrades are shocked to discover that she is a woman&mdash;for the twelve years that they fought together, none of them had suspected anything. The ballad concludes by commenting, "When a pair of rabbits run side by side, who can distinguish male from female?"
+For over a hundred years, the *Ballad of Mulan* was passed down via oral tradition, until it was finally written down during the Tang dynasty. Around this same time, several authors ([Wei Yuanfu](/pages/tang/song_of_mulan), Bai Juyi, [Du Mu](/pages/tang/mulan_temple), and Li Rong) also wrote accounts verifying Mulan’s story.
 
-This final line is a direct challenge against the ancient proverb "Men are wolves who fear weakness; women are rats who fear strength" (&#29983;&#30007;&#22914;&#29436;&#65292;&#29494;&#24656;&#20854;?&#65307;&#29983;&#22899;&#22914;&#40736;&#65292;&#29494;&#24656;&#20854;&#34382;). The thought that men and women are nearly identical would have been considered outrageously progressive.
+These narratives are all very short. They provide enough information to verify that Mulan took her father’s place in battle, served for twelve or thirteen years without her femininity ever being discovered, and was rewarded by the emperor for her accomplishments. Due to the brevity of these accounts, later authors became fascinated with Mulan’s story and began embellishing it. After all, Mulan’s story has such a fantastic premise that it begs to be told in a more elaborate form.
 
-Although most modern historians assume that the *Ballad of Mulan* is a work of fiction, it was not until recent times that the historicity of Mulan began to be questioned. Before the twentieth century, the story of Mulan was assumed to be a real historical event. [A memorial dedicated to Mulan during the Yuan Dynasty](/pages/yuan/memorial_filial_general) explicitly mentions the *Ballad of Mulan* and cites it as a historical document. During the Ming Dynasty, a number of historians became increasingly interested in Mulan's story (see [The Legend of Mulan During the Ming Dynasty](/pages/ming/legend_of_mulan_ming_dynasty).
+For the next several hundred years, very little was written about Mulan. While a [memorial](/pages/yuan/memorial_filial_general) erected during the Song dynasty sugggests that this maiden warrior continued to captivate the hearts of a Taoist sect, it wasn’t until the Ming dynasty that Mulan’s story came into the public spotlight.
 
-Nevertheless, the arguments which modern historians make when casting doubt upon the historicity of Mulan's story are weighty. The historical documents which insist that Mulan was a real person propose contradictory accounts of her life. Each historian offers a different set of details about her family, the time in which she lived, and the enemy against whom she fought. Because no one historical account has emerged as the authoritative record of her life, the majority of modern historians have decided to reject all of these so-called historical documents and conclude that the authenticity of Mulan's story cannot be verified.
+Around 1500 AD, Xu Wei wrote the play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)*. Although this play was short (the unannotated manuscript is twelve pages), Xu Wei inserted reimagined the story in a way that would capture the imaginations of the common people.
 
-<h2>English Translation</h2>
+<figure  class="big" >
+	<img  class="fillimg"  src="/assets/images/articles/mulan_bids_farewell_to_her_family_while_two_soldiers_wait_impatiently.jpg" alt="Mulan bids farewell to her family while two soldiers wait impatiently. Included as an illustration in a late woodblock reprinting of a collection of Xu Wei’s plays (Public domain)." />
+	<figcaption style="text-align: center;"><i>Mulan bids farewell to her family while two soldiers wait impatiently. Included as an illustration in a late woodblock reprinting of a collection of Xu Wei’s plays (Public domain).</i></figcaption>
+</figure>
 
-A sigh. Another sigh.<br />
-Mulan sits in the doorway in front of her loom.
+Xu Wei took a lot of liberties with this play and wasn’t overly concerned with historical accuracy. For example, the play included Mulan with bound feet… which is the ancient equivalent of having a woman soldier wearing sexy armor. One version of the manuscript even explicitly instructs the actress playing Mulan to change clothes in full view of the audience.
 
-But the loom is silent<br />
-Instead, we can only hear the sound of her sighs.
+The play primarily focuses on Mulan's life as a woman. After she spends a long time preparing to go to war, the narrator blitzes through a decade of military service to show the audience Mulan resuming her life as a woman. ([Plot summary of *Mulan Joins the Army*](/pages/ming/mulan_joins_the_army_xu_wei))
 
-Girl, who are you thinking about?<br />
-Girl… who do you long for?
+Although no records exist of Xu Wei’s play ever being performed, the printed manuscript circulated widely throughout China. Thus, in its written form, this play began to inspire a renewed interest in the legend.
 
-(Mulan replies)<br />
-"There is only one man I think about<br />
-There is only one man I long for
+After the Ming dynasty fell, the Chinese people found themselves under barbarian rule. The Manchu (who founded the Qing dynasty) oppressed the Chinese people and forced them to adapt to the Manchu way of life under penalty of death. During this time, the Chinese people took solace in Mulan’s story, as they desired for such a hero to rise up amongst them. (More information: [The Legend of Mulan During the Qing Dynasty](/pages/qing/legend_of_mulan_qing_dynasty))
 
-Last night I saw the conscription notice, <br />
-The Khan is issuing a great draft –
+The most famous retelling of Mulan’s story to be written during this time was *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)* by Chu Renhuo, which was written to incite feelings of animosity against those who oppressed the Chinese. In the novel, Mulan is a biracial teen who is initially loyal to the barbarian khan. Although she begins fighting against a Chinese enemy, she is captured by a Chinese princess, who turns out to be such a benevolent captor that Mulan eventually desires to return home to bring her family to dwell together with the princess. However, the khan intercepts Mulan and tries to take her as his concubine by force. When Mulan realizes that the khan will not allow her to refuse, she commits suicide on her father’s grave. ([Plot summary of *Romance of Sui and Tang*](https://mulanbook.com/pages/qing/romance_of_sui_and_tang))
 
-A dozen volumes of battle rolls, <br />
-Each one with my father's name.
+<figure  class="float left" style="max-width: 450px;" >
+	<img  src="/assets/images/articles/hua_mulan_romance_of_sui_and_tang.jpg" alt="Hua Mulan. Included in a late woodblock reprinting of Romance of Sui and Tang (Public domain)." />
+	<figcaption style="text-align: center;"><i>Hua Mulan. Included in a late woodblock reprinting of Romance of Sui and Tang (Public domain).</i></figcaption>
+</figure>
 
-My father has no son old enough to take his place, <br />
-I, Mulan, have no elder brother.
+*[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)* was a very different novel, in that it encouraged its readers to withdraw from society and rise above evil by living virtuous lives. The author, who seems to be a pacifist, uses the novel to glorify monasticism. The novel begins by focusing on Mulan's grandfather, an ambitious young scholar. As he pursues enlightenment, however, he learns the virtue of inaction. After his granddaughter Mulan is born, he teaches her the art of magic but warns that responsible use of magic is so difficult that he has never found an occasion where the use of magic would be proper. Although Mulan eventually learns how to use her power for good, evil still triumphs in the end.
 
-I'm willing to buy a horse and saddle, <br />
-I will take my father’s place in battle."
+<figure  class="float left" style="max-width: 450px;" >
+	<img  src="/assets/images/articles/mulan_training_martial_arts_grandfather_biography_of_extraordinary_mulan.png" alt="Mulan receives instruction in martial arts from her grandfather as her grandmother looks on. Included as an illustration in a late woodblock reprinting of Biography of Extraordinary Mulan (Public domain)." />
+	<figcaption style="text-align: center;"><i>Mulan receives instruction in martial arts from her grandfather as her grandmother looks on. Included as an illustration in a late woodblock reprinting of Biography of Extraordinary Mulan (Public domain).</i></figcaption>
+</figure>
 
-She buys a fine steed at the east market; <br />
-A saddle and blanket at the west market;
+In 1850, author Zhang Shaoxian conducted a thorough investigation of the legend. He reviewed numerous retellings and united them into a coherent story. The resulting novel, *[Fierce and Filial](/pages/qing/fierce_and_filial)*, tells of how Mulan’s brilliance and military prowess stem from he virtue. The most unique feature of this novel is the narrator's analysis of Mulan's inner struggle during her military service. Mulan is repeatedly traumatized by the cruelty of warfare, but refuses to suppress her tender side and become a hardened warrior. In the end, she manages to befriend the enemy princess, and the two women swear to help one another bring the war to an end.
 
-A bridle at the south market; <br />
-And a long whip at the north market.
+In 1903, the play [Mulan Joins the Army](/qing/mulan_joins_the_army_1903) turned Mulan’s story into a raucous comedy about how Mulan took her father’s place when her adopted brother Mushu refused his filial duty. Although the play was hardly successful, it helped pave the way for a new era in the legend’s development.
 
-At dawn, she leaves her parents’ home<br />
-and camps beside the Yellow River before dusk.
+One of the most famous early film adaptations of Mulan’s story was the 1939 motion picture *[Mulan Joins the Army](/pages/post_imperial/mulan_joins_the_army_1939_film)*. Because this coincided with the early stages of Word War II, after the Japanese had already captured Nanjing (China’s capital city at the time), the filmmakers desired to make it into a call to arms. This film glorifies warfare and is the first adaptation of the legend to introduce romance into Mulan’s story.
 
-From far away, she cannot hear the sounds of her parents calling for her<br />
-Only the rushing waters of the Yellow River.
+<figure  class="float left" style="max-width: 450px;" >
+<img  src="/assets/images/articles/mulan_joins_the_army_1939_triumphant_return.jpg" alt="Mulan returns in triumph. Images are from Mulan Joins the Army, &copy;1939 China United Productions." />
+<figcaption style="text-align: center;"><i>&copy;1939 China United Productions.</i></figcaption>
+</figure>
 
-She leaves the Yellow River at dawn, <br />
-And reaches reach Black Mountain before dusk.
+After Word War II ended, China was now under communist rule. The people of Hong Kong, who were under British rule, began to wonder if they had anything left in common with the mainland. Partially in response to political tensions, the film [Lady General Hua Mu-Lan](/pages/post_imperial/lady_general_hua_mulan) was released. The primary emphasis of this film is family unity. When Mulan hears that her cousin, Hua Ping, has decided to take his father’s place in battle, Mulan is inspired to do the same. Ping serves as Mulan's protector throughout their years of service together.
 
-From far away, she cannot hear the sounds of her parents calling for her<br />
-Only the cries of the enemy cavalry in the Yàn hills.
+Mulan's superior officer, Li Guang, takes a special interest in Mulan and becomes her mentor. Mulan, who has strong feelings for Li Guang, tries to drop hints about her true gender, but he responds by professing his brotherly love. The film concludes with Mulan appearing before Li Guang dressed in feminine attire, much to his delight.
 
-She traveled ten thousand *li*, <br />
-She flew over mountains and through mountain passes
 
-The sound of a war gong pierces the air, <br />
-The winter sun shines brightly on her coat of steel.
+<figure  class="float left" style="max-width: 450px;" >
+	<img  src="/assets/images/articles/lady_general_hua_mulan_movie_poster.jpg" alt="A movie poster for Lady General Hua Mu-Lan. Images are copyright &copy;1964 Shaw Brothers." />
+	<figcaption style="text-align: center;"><i>&copy;1964 Shaw Brothers.</i></figcaption>
+</figure>
 
-The general dead after a hundred battles, <br />
-The warriors return after ten years.
+In 1998, the first English-language film adaptation of Mulan's story was released. Although Disney’s *[Mulan](/pages/post_imperial/disneys_mulan)* was a success in America (it was the second highest grossing movie in 1998), it was poorly received in China. Almost immediately after the release of the Disney film, Starlight International Media announced plans to produce *[Mulan: Rise of a Warrior](/pages/post_imperial/mulan_rise_of_a_warrior)*.
 
-They return to see the Son of Heaven, <br />
-Sitting in the royal court
+Throughout the film, Mulan struggles to put the needs of the masses above her own emotions. Being that she cares for certain comrades more than others, she repeatedly makes decisions that put her men at risk in attempt to rescue her closet friends. When her dear friend Wentai fakes his own death, Mulan is thrown into depression until she finally learns to detach herself from the battlefield.
 
-He unrolls the scroll of merit a dozen times<br />
-Giving rewards to hundreds and thousands of men
+<figure  class="float left" style="max-width: 450px;" >
+	<img  src="/assets/images/articles/mulan_rise_of_a_warrior_movie_poster.jpg" alt="A movie poster for Mulan: Rise of a Warrior. Images copyright &copy;2009 Starlight International Media, Inc." />
+	<figcaption style="text-align: center;"><i>A movie poster for Mulan: Rise of a Warrior. Images copyright &copy;2009 Starlight International Media, Inc.</i></figcaption>
+</figure><br />
 
-The Khan asks Mulan what she desires
+In 2010, Disney announced plans to release a [live-action remake of *Mulan*](/pages/post_imperial/disneys_live_action_mulan). This film, which is purported to draw inspiration from both Chinese and American cultures, is expected to appeal to audiences from around the globe. Because this movie is yet to be released, very little is known about it, except that the film will be strikingly different from the 1998 animated film.
 
-(Mulan replies)<br />
-I have no need to be promoted to a prominent position
+<figure  class="float left" style="max-width: 450px;" >
+	<img  src="/assets/images/articles/disneys_live_action_mulan_movie_poster.jpg" alt="A movie poster for Mulan. Copyright &copy;2019 Disney." />
+	<figcaption style="text-align: center;"><i>A movie poster for Mulan. Copyright &copy;2019 Disney. </i></figcaption>
+</figure>
 
-I only ask for a camel that can travel a thousand *li*<br />
-That can take me back to my hometown
+Mulan’s story has traversed the globe several times and has touched the hearts and minds of countless generations since the story was first conceived over a millennium ago. While I believe that Mulan was a real person, we may never know the details of her true story.
 
-Her parents hear that their daughter has returned, <br />
-They welcome her at the entrance to the town.
+Despite this, Mulan continues to be an inspiration to live virtuously when faced with crisis. Throughout the ages, the legend has continued to tell the story of a woman who is prepared to sacrifice everything out of filial devotion to her father.
 
-When Elder Sister hears of Mulan’s return,<br />
-she stands in the doorway wearing a beautiful dress
+The legend always has been, and always will be, a touching story of honor, virtue, and sacrifice.
 
-When Little Brother hears that his sister has returned, <br />
-He sharpens his knife to slaughter a pig and a lamb.
-
-(Mulan speaks)<br />
-"I open the door to my eastern chamber, <br />
-And sit on the bed of my western chamber.
-
-I take off my military robes<br />
-And put on my old clothes.
-
-I sit in front of the window as I comb my long flowing hair<br />
-And look into the mirror as I apply makeup
-
-I go outside to see my comrades<br />
-They are all shocked and astounded.
-
-“We traveled together for twelve years,” (they say),<br />
-“But we never suspected that Mulan was a woman!”
-
-Most people tell the gender of a rabbit by its movement:<br />
-The male runs quickly, while the female often keeps her eyes shut.
-
-But when the two rabbits run side by side, <br />
-Can you really discern whether I am a *he* or a *she*?
-
-<small>[Original Chinese text](https://fanti.dugushici.com/ancient_proses/70521)</small>
-
-<center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <span id="show_note_icon"></span></a></center>
-
-<div id="note">
-<ol>
-<li><a href="https://books.google.com.tw/books?id=5VZyDwAAQBAJ&pg=PA163#v=onepage&q&f=false">&#24373;&#35258;&#26126;, &#26408;&#34349;&#30740;&#31350; (&#33268;&#30693;&#23416;&#34899;&#20986;&#29256;, 2016): 163.</a></li>
-<li><a href="https://zh.wikisource.org/zh-hant/%E5%A5%B3%E8%AA%A1">&#29677;&#26157;, &#22899;&#35489; (&#24460;&#28450;&#26360;84&#21367;, c. 75 AD).</a></li>
-</ol>
-</div>
-
-<script type="text/javascript" src="/assets/js/toggle_note.js"></script>
+<script type="text/javascript" src="/assets/js/float.js"></script>
