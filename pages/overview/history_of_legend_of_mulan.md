@@ -2,9 +2,9 @@
 layout: post
 title: "The legend of Mulan: 1,500 years of history"
 description: The <i>Ballad of Mulan</i> is the oldest known version of Mulan’s story. This one poem ended up inspiring countless retellings for centuries to come.
-image: ballad_of_mulan_song_dynasty_mu_fu.jpg
+image: mulan_history.jpg
 bg: 8c6f4e
-alt: This copy of the Ballad was written by Song Dynasty calligrapher <a href="https://en.wikipedia.org/wiki/Mi_Fu">Mi Fu</a> in 1094 AD (Public domain).
+alt: "Two modernized renditions of Mulan stand in opposition to the cover of the Qing dynasty novel <a href='/pages/qing/fierce_and_filial'>Fierce and Filial</a>. Image credit: Stella Su."
 imageType: big
 num: 1
 ---
