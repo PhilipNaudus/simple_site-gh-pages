@@ -16,7 +16,7 @@ Around 400 <small>AD</small>, a poem began circulating imperial China. It told o
 	<figcaption style="text-align: center;"><i>This copy of The Ballad of Mulan was written by Song dynasty calligrapher Mi Fu in 1094 <small>AD</small> (Public domain).</i></figcaption>
 </figure>
 
-For over a hundred years, the *Ballad of Mulan* was passed down via oral tradition, until it was finally written down during the Tang dynasty. Around this same time, several authors ([Wei Yuanfu](/pages/tang/song_of_mulan), Bai Juyi, [Du Mu](/pages/tang/mulan_temple), and Li Rong) also wrote accounts verifying Mulan’s story.
+For over a hundred years, the *Ballad of Mulan* was passed down via oral tradition, until it was finally written down during the Tang dynasty. Around this same time, several authors ([Wei Yuanfu](/pages/tang/song_of_mulan), Bai Juyi, [Du Mu](/pages/tang/mulan_temple_du_mu), and Li Rong) also wrote accounts verifying Mulan’s story.
 
 These narratives are all very short. They provide enough information to verify that Mulan took her father’s place in battle, served for twelve or thirteen years without her femininity ever being discovered, and was rewarded by the emperor for her accomplishments. Due to the brevity of these accounts, later authors became fascinated with Mulan’s story and began embellishing it. After all, Mulan’s story has such a fantastic premise that it begs to be told in a more elaborate form.
 
@@ -53,7 +53,7 @@ The most famous retelling of Mulan’s story to be written during this time was 
 
 In 1850, author Zhang Shaoxian conducted a thorough investigation of the legend. He reviewed numerous retellings and united them into a coherent story. The resulting novel, *[Fierce and Filial](/pages/qing/fierce_and_filial)*, tells of how Mulan’s brilliance and military prowess stem from he virtue. The most unique feature of this novel is the narrator's analysis of Mulan's inner struggle during her military service. Mulan is repeatedly traumatized by the cruelty of warfare, but refuses to suppress her tender side and become a hardened warrior. In the end, she manages to befriend the enemy princess, and the two women swear to help one another bring the war to an end.
 
-In 1903, the play [Mulan Joins the Army](/qing/mulan_joins_the_army_1903) turned Mulan’s story into a raucous comedy about how Mulan took her father’s place when her adopted brother Mushu refused his filial duty. Although the play was hardly successful, it helped pave the way for a new era in the legend’s development.
+In 1903, the play [Mulan Joins the Army](/pages/qing/mulan_joins_the_army_1903) turned Mulan’s story into a raucous comedy about how Mulan took her father’s place when her adopted brother Mushu refused his filial duty. Although the play was hardly successful, it helped pave the way for a new era in the legend’s development.
 
 One of the most famous early film adaptations of Mulan’s story was the 1939 motion picture *[Mulan Joins the Army](/pages/post_imperial/mulan_joins_the_army_1939_film)*. Because this coincided with the early stages of Word War II, after the Japanese had already captured Nanjing (China’s capital city at the time), the filmmakers desired to make it into a call to arms. This film glorifies warfare and is the first adaptation of the legend to introduce romance into Mulan’s story.
 
