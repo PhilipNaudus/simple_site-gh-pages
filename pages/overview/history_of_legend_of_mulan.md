@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The legend of Mulan: 1,500 years of history"
-description: A survey the how the legend of Mulan developed, including the history behind the various retellings, from 400AD to the present.
+description: A survey the how the legend of Mulan developed, including the history behind the various retellings, from 400 <small>AD</small> to the present.
 image: mulan_history.jpg
 bg: 8c6f4e
 alt: "Two modern depictions of Mulan stand in opposition to the title page of the Qing dynasty novel <a href='/pages/qing/fierce_and_filial'>Fierce and Filial</a>. Artwork by Stella Su."
@@ -9,11 +9,11 @@ imageType: big
 num: 1
 ---
 
-Around 400AD, a poem began circulating imperial China. It told of a young girl (most likely in her early teens) who made the momentous decision to take her father’s place in battle. Although modern historians now believe this poem to be fictitious, early historians (most notably, [Zhu Guozhen](/pages/ming/women_generals)) insisted that the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* was an autobiography. Regardless of the authenticity of the original tale, this amazing story went on to inspire one of the greatest legends ever told.
+Around 400 AD, a poem began circulating imperial China. It told of a young girl (most likely in her early teens) who made the momentous decision to take her father’s place in battle. Although modern historians now believe this poem to be fictitious, early historians (most notably, [Zhu Guozhen](/pages/ming/women_generals)) insisted that the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* was an autobiography. Regardless of the authenticity of the original tale, this amazing story went on to inspire one of the greatest legends ever told.
 
 <figure  class="float left" style="max-width: 450px;" >
-	<img class="fillimg" style="max-width: 450px;" src="/assets/images/articles/ballad_of_mulan_song_dynasty_mu_fu.jpg" alt="This copy of The Ballad of Mulan was written by Song dynasty calligrapher Mi Fu in 1094AD (Public domain)." />
-	<figcaption style="text-align: center;"><i>This copy of The Ballad of Mulan was written by Song dynasty calligrapher Mi Fu in 1094AD (Public domain).</i></figcaption>
+	<img class="fillimg" style="max-width: 450px;" src="/assets/images/articles/ballad_of_mulan_song_dynasty_mu_fu.jpg" alt="This copy of The Ballad of Mulan was written by Song dynasty calligrapher Mi Fu in 1094 AD (Public domain)." />
+	<figcaption style="text-align: center;"><i>This copy of The Ballad of Mulan was written by Song dynasty calligrapher Mi Fu in 1094 AD (Public domain).</i></figcaption>
 </figure>
 
 For over a hundred years, the *Ballad of Mulan* was passed down via oral tradition, until it was finally written down during the Tang dynasty. Around this same time, several authors ([Wei Yuanfu](/pages/tang/song_of_mulan), Bai Juyi, [Du Mu](/pages/tang/mulan_temple), and Li Rong) also wrote accounts verifying Mulan’s story.
@@ -22,7 +22,7 @@ These narratives are all very short. They provide enough information to verify t
 
 For the next several hundred years, very little was written about Mulan. While a [memorial](/pages/yuan/memorial_filial_general) erected during the Song dynasty suggests that this maiden warrior continued to captivate the hearts of a Taoist sect, it wasn’t until the Ming dynasty that Mulan’s story came into the public spotlight.
 
-Around 1500AD, Xu Wei wrote the play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)*. Although this play was short (the unannotated manuscript is twelve pages), Xu Wei inserted reimagined the story in a way that would capture the imaginations of the common people.
+Around 1500 AD, Xu Wei wrote the play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)*. Although this play was short (the unannotated manuscript is twelve pages), Xu Wei inserted reimagined the story in a way that would capture the imaginations of the common people.
 
 <figure  class="float right" style="max-width: 350px;" >
 	<img  class="fillimg" style="max-width: 350px;" src="/assets/images/articles/mulan_bids_farewell_to_her_family_while_two_soldiers_wait_impatiently.jpg" alt="Mulan bids farewell to her family while two soldiers wait impatiently. Included as an illustration in a late woodblock reprinting of a collection of Xu Wei’s plays (Public domain)." />
