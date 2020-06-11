@@ -24,7 +24,7 @@ Most modern historians use the disagreement among imperial historians to argue t
 
 Conflicting historical records indicate that Mulan may have lived during the Han, Northern Wei, or Sui dynasties.
 
-An inscription in a [memorial](/pages/yuan/memorial_filial_general) erected during the Yuan dynasty states that Mulan served under [Emperor Wen of Han](https://en.wikipedia.org/wiki/Emperor_Wen_of_Han), who was a benevolent and virtuous ruler. The memorial describes how Mulan fought against the Xiongnu, which was a war that occurred around 150 BC.
+An inscription in a [memorial](/pages/yuan/memorial_filial_general) erected during the Yuan dynasty states that Mulan served under [Emperor Wen of Han](https://en.wikipedia.org/wiki/Emperor_Wen_of_Han), who was a benevolent and virtuous ruler. The memorial describes how Mulan fought against the Xiongnu, which may have occurred around 150 BC.
 
 Ming dynasty historian Zhu Guozhen [wrote](/pages/ming/women_generals) that Mulan served under [Emperor Yang of Sui](https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui), who ruled from 569 to 618 AD. Emperor Yang was incredibly corrupt, and is believed to have raped thousands of virgin girls during his reign. After he died, his tomb was (according to legend) relocated several times due to consecutive lightning strikes. Zhu Guozhen describes how Emperor Yang sought to take Mulan as a concubine, but she took her own life to preserve her honor.
 
