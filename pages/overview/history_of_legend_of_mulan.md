@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The legend of Mulan: 1,500 years of history"
-description: Ancient texts from the past 1,500 years reveal the real history behind the legend of Mulan and how it developed into what we see today.
+description: Ancient texts from the past 1,500 years reveal the real history behind the legend of Mulan and how it developed into what we have today.
 image: mulan_history.jpg
 bg: 8c6f4e
 alt: "Two modern depictions of Mulan stand in opposition to the title page of the Qing dynasty novel <a href='/pages/qing/fierce_and_filial'>Fierce and Filial</a>. Artwork by Stella Su."
