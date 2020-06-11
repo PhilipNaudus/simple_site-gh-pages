@@ -22,16 +22,16 @@ Most modern historians use the disagreement among imperial historians to argue t
 
 <h2>Under which emperor did Mulan serve?</h2>
 
-An inscription in a [memorial](/pages/yuan/memorial_filial_general) erected during the Yuan dynasty states that Mulan served under [Emperor Wen of Han](https://en.wikipedia.org/wiki/Emperor_Wen_of_Han), who was a benevolent and virtuous ruler. The memorial describes how Mulan fought against the Xiongnu. If she served under Emperor Wen, she would have gone to war around 150 BC.
+An inscription in a [memorial](/pages/yuan/memorial_filial_general) erected during the Yuan dynasty states that Mulan served under [Emperor Wen of Han](https://en.wikipedia.org/wiki/Emperor_Wen_of_Han), who was a benevolent and virtuous ruler. The memorial describes how Mulan fought against the Xiongnu, which was a war that occurred around around 150 BC.
 
-Ming dynasty historian Zhu Guozhen [wrote](/pages/ming/women_generals) that Mulan served under [Emperor Yang of Sui](https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui) who ruled from 569–618 AD. Emperor Yang was incredibly corrupt, and gave no thought to have raped thousands of virgin girls during his reign. After he died, his tomb was (according to legend) relocated several times due to consecutive lightning strikes. According to Zhu Guozhen’s account, Emerpror Yang sought to take Mulan as a concubine, but she took her own life to preserve her honor.
+Ming dynasty historian Zhu Guozhen [wrote](/pages/ming/women_generals) that Mulan served under [Emperor Yang of Sui](https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui), who ruled from 569–618 AD. Emperor Yang was incredibly corrupt, and is believed to have raped thousands of virgin girls during his reign. After he died, his tomb was (according to legend) relocated several times due to consecutive lightning strikes. According to Zhu Guozhen’s account, Emerpror Yang sought to take Mulan as a concubine, but she took her own life to preserve her honor.
 
 <figure  class="float left" style="max-width: 450px;" >
 	<img  class="fillimg" style="max-width: 350px;" src="/assets/images/articles/faq/emperor_yang_of_sui.jpg" alt="Emperor Yang of Sui." />
 	<figcaption style="text-align: center;"><i>Emperor Yang of Sui.</i></figcaption>
 </figure>
 
-Most modern historians believe that Mulan’s story is fictitious, but insist that it takes place during the era of Northern Wei, most likely serving under [Emperor Taiwu](https://en.wikipedia.org/wiki/Emperor_Taiwu_of_Northern_Wei) because Taiwu engaged in a twelve-year war between 429–441 AD (the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* states that Mulan returned home twelve years after being drafted). Because it was not beneath Emperor Taiwu to compel elderly men to join his army (he won battles through attrition), it is possible that a young girl would have been forced to take her father’s place to save his life during the reign of this corrupt warlord.
+Most modern historians believe that Mulan’s story is fictitious, but insist that it takes place during the era of Northern Wei, most likely under the reign of [Emperor Taiwu](https://en.wikipedia.org/wiki/Emperor_Taiwu_of_Northern_Wei) because Taiwu engaged in a twelve-year war between 429–441 AD (the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* states that Mulan returned home twelve years after being drafted). Because it was not beneath Emperor Taiwu to compel elderly men to join his army (he won battles through attrition), it is possible that a young girl would have been forced to take her father’s place to save his life during the reign of this corrupt warlord.
 
 <h2>How did Mulan die?</h2>
 
@@ -57,7 +57,7 @@ Most retellings indicate that Mulan was a teenager. Only *[Fierce and Filial](/p
 
 According to the legend, Mulan was exceedingly beautiful and talented. In fact, the Tang dynasty poem [Mulan Temple](/pages/tang/mulan_temple_du_mu) compares Mulan to [Wang Zhaojun](https://www.theepochtimes.com/wang-zhaojun-beauty-of-peace_1069045.html), one of the most beautiful women who ever lived in ancient China.
 
-According to the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)*, Mulan was arranged to marry the son of Wang Sixun after she returned to war. The Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* gave Wang Sixun’s son a name: Wang Qingyun, and made them already engaged at the beginning of the story. In fact, according to the novel, Mulan broke off her engagement to join the army.
+According to the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)*, Mulan was arranged to marry the son of Wang Sixun after she returned to war. The Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* gave Wang Sixun’s son a name: Wang Qingyun, and made them already engaged at the beginning of the story. According to the novel, Mulan broke off her engagement to join the army.
 
 <figure class="float right" style="max-width:450px;">
 <img class="fillimg" src="/assets/images/articles/fiercely_filial/wang_qingyun_hua_mulans_fiance.png" alt="Wang Qingyun, Mulan's fiance. Included as an illustration in an early woodblock printing of Fierce and Filial." />
