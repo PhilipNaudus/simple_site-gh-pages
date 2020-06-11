@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Questions about Mulan’s Legend and History
-description: Where was Mulan born? Under what emperor did she serve? How did she die? Did she have a brother or a sister?
+description: Where was Mulan born? Under what emperor did she serve? How did she die? Did she have a brother or a sister? How old was she when she joined the army?
 image: mulan_ming_portrait.png
 bg: ffffff
 alt: "Mulan (far right) stands next to two other mythical women in a Ming dynasty portrait (Public domain)."
@@ -47,7 +47,11 @@ Emperor Yang was greatly moved by how fiercely loyal she was to defending her fa
 
 The *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* states that Mulan had a younger brother.
 
-Additionally, the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* and the Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* state that Mulan had a nine-year-old sister by the name of Munan and a five-year-old brother by the name Hua Fang (who was nicknamed Yaoer).
+Additionally, the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* and the Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* both state that Mulan had a nine-year-old sister by the name of Munan and a five-year-old brother by the name Hua Fang (who was nicknamed Yaoer).
+
+<h2>How old was Mulan when she joined the army? How long did she serve?</h2>
+
+Most retellings indicate that Mulan was a teenager. Only *[Fierce and Filial](/pages/qing/fierce_and_filial)* mentions her exact age—seventeen years old. Because she served for twelve years, she would have returned at the age of twenty-nine.
 
 <h2>Did Mulan have a problem finding a husband before she joined the army?</h2>
 
@@ -59,10 +63,6 @@ According to the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joi
 <img class="fillimg" src="/assets/images/articles/fiercely_filial/wang_qingyun_hua_mulans_fiance.png" alt="Wang Qingyun, Mulan's fiance. Included as an illustration in an early woodblock printing of Fierce and Filial." />
 <figcaption style="text-align: center;"><i>Wang Qingyun, Mulan’s fianc&eacute;.</i></figcaption>
 </figure>
-
-<h2>How old was Mulan when she joined the army? How long did she serve?</h2>
-
-Most retellings indicate that Mulan was a teenager. Only *[Fierce and Filial](/pages/qing/fierce_and_filial)* mentions her exact age—seventeen years old. Because she served for twelve years, she would have returned at the age of twenty-nine.
 
 <h2>Who was the enemy Mulan fought against?</h2>
 
