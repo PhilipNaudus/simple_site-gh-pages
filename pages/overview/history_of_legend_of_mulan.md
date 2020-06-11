@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The legend of Mulan: 1,500 years of history"
-description: A survey the how the legend of Mulan developed, including the history behind the various retellings, from 400 <small>AD</small> to the present.
+description: A survey of the how the legend of Mulan developed, including the history behind the various retellings, from 400 <small>AD</small> to the present.
 image: mulan_history.jpg
 bg: 8c6f4e
 alt: "Two modern depictions of Mulan stand in opposition to the title page of the Qing dynasty novel <a href='/pages/qing/fierce_and_filial'>Fierce and Filial</a>. Artwork by Stella Su."
