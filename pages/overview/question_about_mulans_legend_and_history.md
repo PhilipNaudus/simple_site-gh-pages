@@ -68,6 +68,6 @@ Most retellings indicate that Mulan was a teenager. Only *[Fierce and Filial](/p
 
 The only historical text to explicitly mention Mulan’s enemy is a [memorial](/pages/yuan/memorial_filial_general) erected during the Song dynasty. According to the inscription, Mulan fought against the Xiongnu.
 
-The Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* was the first to give the villain a name: Leopard Skin. The Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* described Leopard Skin as the leader of the [Black Mountain bandits](https://en.wikipedia.org/wiki/Black_Mountain_Bandits).
+The Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* was the first to give the villain a name: Leopard Skin. The Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* described Leopard Skin as the leader of the [Black Mountain bandits](https://en.wikipedia.org/wiki/Heishan_Bandits).
 
 <script type="text/javascript" src="/assets/js/float.js"></script>
