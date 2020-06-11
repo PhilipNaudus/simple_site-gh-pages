@@ -27,7 +27,7 @@ An inscription in a [memorial](/pages/yuan/memorial_filial_general) erected duri
 Ming dynasty historian Zhu Guozhen [wrote](/pages/ming/women_generals) that Mulan served under [Emperor Yang of Sui](https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui), who ruled from 569–618 AD. Emperor Yang was incredibly corrupt, and is believed to have raped thousands of virgin girls during his reign. After he died, his tomb was (according to legend) relocated several times due to consecutive lightning strikes. Zhu Guozhen describes how Emerpror Yang sought to take Mulan as a concubine, but she took her own life to preserve her honor.
 
 <figure  class="float left" style="max-width: 450px;" >
-	<img  class="fillimg" style="max-width: 350px;" src="/assets/images/articles/faq/emperor_yang_of_sui.jpg" alt="Emperor Yang of Sui." />
+	<img  class="fillimg" src="/assets/images/articles/faq/emperor_yang_of_sui.jpg" alt="Emperor Yang of Sui." />
 	<figcaption style="text-align: center;"><i>Emperor Yang of Sui.</i></figcaption>
 </figure>
 
