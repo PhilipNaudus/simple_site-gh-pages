@@ -3,7 +3,7 @@ layout: post
 title: Questions about Mulan’s Legend and History
 description: Where was Mulan born? Under what emperor did she serve? How did she die? Did she have a brother or a sister?
 image: mulan_ming_portrait.png
-bg: 8c6f4e
+bg: ffffff
 alt: "Mulan (far right) stands next to two other mytical women in a Ming dynasty portrait (Public domain)."
 imageType: float
 num: 2
@@ -26,7 +26,7 @@ An inscription in a [memorial](/pages/yuan/memorial_filial_general) erected duri
 
 Ming dynasty historian Zhu Guozhen [wrote](/pages/ming/women_generals) that Mulan served under [Emperor Yang of Sui](https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui) who ruled from 569–618 AD. Emperor Yang was incredibly corrupt, and gave no thought to have raped thousands of virgin girls during his reign. After he died, it has been said to have been relocated several times due to consecutive ligning strikes. According to Zhu Guozhen’s account, Emerpror Yang sought to take Mulan as a concubine, but she took her own life to preserve her honor.
 
-<figure  class="float left" style="max-width: 350px;" >
+<figure  class="float left" style="max-width: 450px;" >
 	<img  class="fillimg" style="max-width: 350px;" src="/assets/images/articles/faq/emperor_yang_of_sui.jpg" alt="Emperor Yang of Sui." />
 	<figcaption style="text-align: center;"><i>Emperor Yang of Sui.</i></figcaption>
 </figure>
@@ -48,6 +48,17 @@ Emperor Yang was greatly moved by how fiercely loyal she was to defending her fa
 The *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* states that Mulan had a younger brother.
 
 Additionally, the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* and the Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* state that Mulan had a nine-year-old sister by the name of Munan and a five-year-old brother by the name Hua Fang (who was nicknamed Yaoer).
+
+<h2>Did Mulan have a problem finding a husband before she joined the army?</h2>
+
+According to the legend, Mulan was exceedingly beautiful and talented. In fact, the Tang dynasty poem [Mulan Temple](/pages/tang/mulan_temple_du_mu) compares Mulan to [Wang Zhaojun](https://www.theepochtimes.com/wang-zhaojun-beauty-of-peace_1069045.html), one of the most beautiful women who ever lived in ancient China.
+
+According to the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)*, Mulan was arranged to marry the son of Wang Sixun after she returned to war. The Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* gave Wang Sixun’s son a name: Wang Qingyun, and made them already engaged at the beginning of the story. In fact, according to the novel, Mulan broke off her engagement to join the army.
+
+<figure class="float right" style="max-width:450px;">
+<img class="fillimg" src="/assets/images/articles/fiercely_filial/wang_qingyun_hua_mulans_fiance.png" alt="Wang Qingyun, Mulan's fiance. Included as an illustration in an early woodblock printing of Fierce and Filial." />
+<figcaption style="text-align: center;"><i>Wang Qingyun, Mulan’s fianc&eacute;.</i></figcaption>
+</figure>
 
 <h2>How old was Mulan when she joined the army? How long did she serve?</h2>
 
