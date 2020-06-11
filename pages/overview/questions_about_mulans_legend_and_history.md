@@ -75,7 +75,7 @@ According to the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joi
 
 In *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* and *[Fierce and Filial](/pages/qing/fierce_and_filial)*, Mulan’s betrothal and marriage was arranged. (Although Mulan is recorded to have feelings for her fiancé in Fierce and Filial, there is a lack of romance in the modern sense).
 
-The first version to introduce romance into the legend was the 1939 film [Mulan Joins the Army](/pages/post_imperial/mulan_joins_the_army_1939_film). Mulan’s subordinate, Yuandu, begins to develop feelings for her after Mulan goes undercover as a woman.
+The first version to introduce romance into the legend was the 1939 film *[Mulan Joins the Army](/pages/post_imperial/mulan_joins_the_army_1939_film)*. Mulan’s subordinate, Yuandu, begins to develop feelings for her after Mulan goes undercover as a woman.
 
 <figure class="float left" style="max-width: 450px;">
 <img src="/assets/images/articles/mulan_joins_the_army_1939/960/mulan_yuandu_discuss_military_plans.jpg" alt="Mulan and Yuandu discussing military plans in the 1939 film Mulan Joins the Army. ©1939 China United Productions." />
