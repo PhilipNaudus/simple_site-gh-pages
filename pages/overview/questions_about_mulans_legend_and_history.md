@@ -31,7 +31,7 @@ Ming dynasty historian Zhu Guozhen [wrote](/pages/ming/women_generals) that Mula
 	<figcaption style="text-align: center;"><i>Emperor Yang of Sui.</i></figcaption>
 </figure>
 
-Most modern historians believe that Mulan’s story is fictitious, but insist that it takes place during the era of Northern Wei, most likely under the reign of [Emperor Taiwu](https://en.wikipedia.org/wiki/Emperor_Taiwu_of_Northern_Wei) because Taiwu engaged in a twelve-year war between 429–441 AD (the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* states that Mulan served for twelve years). Because it was not beneath Emperor Taiwu to compel elderly men to join his army (he won battles through attrition), it is possible that a young girl might have been forced to take her father’s place to save his life during the reign of this corrupt warlord.
+Most modern historians believe that Mulan’s story is fictitious, but insist that it is set during the era of Northern Wei, most likely under the reign of [Emperor Taiwu](https://en.wikipedia.org/wiki/Emperor_Taiwu_of_Northern_Wei) because Taiwu engaged in a twelve-year war between 429–441 AD (the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* states that Mulan served for twelve years). Because it was not beneath Emperor Taiwu to compel elderly men to join his army (he won battles through attrition), it is possible that a young girl might have been forced to take her father’s place to save his life during the reign of this corrupt warlord.
 
 <h2>How did Mulan die?</h2>
 
