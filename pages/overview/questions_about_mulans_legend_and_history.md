@@ -22,16 +22,16 @@ Most modern historians use the disagreement among imperial historians to argue t
 
 <h2>Under which emperor did Mulan serve?</h2>
 
-An inscription in a [memorial](/pages/yuan/memorial_filial_general) erected during the Yuan dynasty states that Mulan served under [Emperor Wen of Han](https://en.wikipedia.org/wiki/Emperor_Wen_of_Han), who was a benevolent and virtuous ruler. The memorial describes how Mulan fought against the Xiongnu, which was a war that occurred around around 150 BC.
+An inscription in a [memorial](/pages/yuan/memorial_filial_general) erected during the Yuan dynasty states that Mulan served under [Emperor Wen of Han](https://en.wikipedia.org/wiki/Emperor_Wen_of_Han), who was a benevolent and virtuous ruler. The memorial describes how Mulan fought against the Xiongnu, which was a war that occurred around 150 BC.
 
-Ming dynasty historian Zhu Guozhen [wrote](/pages/ming/women_generals) that Mulan served under [Emperor Yang of Sui](https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui), who ruled from 569–618 AD. Emperor Yang was incredibly corrupt, and is believed to have raped thousands of virgin girls during his reign. After he died, his tomb was (according to legend) relocated several times due to consecutive lightning strikes. Zhu Guozhen describes how Emperor Yang sought to take Mulan as a concubine, but she took her own life to preserve her honor.
+Ming dynasty historian Zhu Guozhen [wrote](/pages/ming/women_generals) that Mulan served under [Emperor Yang of Sui](https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui), who ruled from 569 to 618 AD. Emperor Yang was incredibly corrupt, and is believed to have raped thousands of virgin girls during his reign. After he died, his tomb was (according to legend) relocated several times due to consecutive lightning strikes. Zhu Guozhen describes how Emperor Yang sought to take Mulan as a concubine, but she took her own life to preserve her honor.
 
 <figure  class="float left" style="max-width: 450px;" >
 	<img  class="fillimg" src="/assets/images/articles/faq/emperor_yang_of_sui.jpg" alt="Emperor Yang of Sui. (Public domain)" />
 	<figcaption style="text-align: center;"><i>Emperor Yang of Sui. (Public domain)</i></figcaption>
 </figure>
 
-Most modern historians believe that Mulan’s story is fictitious, but insist that it is set during the era of Northern Wei, most likely under the reign of [Emperor Taiwu](https://en.wikipedia.org/wiki/Emperor_Taiwu_of_Northern_Wei) because Taiwu engaged in a twelve-year war between 429–441 AD (the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* states that Mulan served for twelve years). Because it was not beneath Emperor Taiwu to compel elderly men to join his army (he won battles through attrition), it is possible that a young girl might have been forced to take her father’s place to save his life during the reign of this corrupt warlord.
+Most modern historians believe that Mulan’s story is fictitious, but insist that it is set during the era of Northern Wei, most likely under the reign of [Emperor Taiwu](https://en.wikipedia.org/wiki/Emperor_Taiwu_of_Northern_Wei) because Taiwu engaged in a twelve-year war between 429 and 441 AD (the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* states that Mulan served for twelve years). Because it was not beneath Emperor Taiwu to compel elderly men to join his army (he won battles through attrition), it is possible that a young girl might have been forced to take her father’s place to save his life during the reign of this corrupt warlord.
 
 <h2>How did Mulan die?</h2>
 
@@ -89,7 +89,7 @@ Since 1939, every retelling of Mulan’s story has included a romantic interest.
 
 In *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)*, Mulan assists a princess. In *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)*, Mulan is assisted by a camel that is indwelt with the spirit of a snake. Additionally, *[Fierce and Filial](/pages/qing/fierce_and_filial)* includes two sidekicks (both men from her hometown).
 
-In the 1903 play *[Mulan Joins the Army](/pages/qing/mulan_joins_the_army_1903)*, Mulan’s cousin Mushu dresses as a woman to avoid the draft. For the majority of the play, Mulan uses the name “Mushu” as her male pseudonym.
+In the 1903 play *[Mulan Joins the Army](/pages/qing/mulan_joins_the_army_1903)*, Mulan’s cousin Mushu dresses as a woman to avoid the draft. For most of the play, Mulan uses the name “Mushu” as her male pseudonym.
 
 None of the retellings include a dragon.
 
