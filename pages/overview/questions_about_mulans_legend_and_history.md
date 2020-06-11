@@ -43,7 +43,7 @@ When the royal court finally heard about Mulan’s true nature, Emperor Yang off
 Emperor Yang was greatly moved by how fiercely loyal she was to defending her family and her chastity. Thus, he posthumously promoted her to general and added “filial” to her title. This is why she is now known as The Filial General.
 </blockquote>
 
-Although *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)* and *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan) incorporate similar tragic endings into Mulan’s story, most other retellings make no mention of Mulan’s death. Most versions conclude with Mulan marrying a brilliant scholar and living happily ever after.
+Although *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)* and *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)* incorporate similar tragic endings into Mulan’s story, most other retellings make no mention of Mulan’s death. Most versions conclude with Mulan marrying a brilliant scholar and living happily ever after.
 
 
 <h2>Did Mulan have a brother or a sister?</h2>
