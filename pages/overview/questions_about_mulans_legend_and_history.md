@@ -77,8 +77,8 @@ In *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* and *[Fierc
 
 The first version to introduce romance into the legend was the 1939 film [Mulan Joins the Army](/pages/post_imperial/mulan_joins_the_army_1939_film). Mulan’s subordinate, Yuandu, begins to develop feelings for her after Mulan goes undercover as a woman.
 
-<figure class="float right" style="max-width: 450px;">
-<img class="lazy" src="/assets/images/articles/mulan_joins_the_army_1939/placeholder.jpg" data-src="/assets/images/articles/mulan_joins_the_army_1939/1303/mulan_yuandu_discuss_military_plans.jpg" data-srcset="/assets/images/articles/mulan_joins_the_army_1939/320/mulan_yuandu_discuss_military_plans.jpg 320w, /assets/images/articles/mulan_joins_the_army_1939/640/mulan_yuandu_discuss_military_plans.jpg 640w, /assets/images/articles/mulan_joins_the_army_1939/960/mulan_yuandu_discuss_military_plans.jpg 960w, /assets/images/articles/mulan_joins_the_army_1939/1303/mulan_yuandu_discuss_military_plans.jpg 1303w" alt="Mulan and Yuandu discussing military plans in the 1939 film Mulan Joins the Army. ©1939 China United Productions." />
+<figure class="float left" style="max-width: 450px;">
+<img src="/assets/images/articles/mulan_joins_the_army_1939/960/mulan_yuandu_discuss_military_plans.jpg" alt="Mulan and Yuandu discussing military plans in the 1939 film Mulan Joins the Army. ©1939 China United Productions." />
 <figcaption style="text-align: center;"><i>Mulan and Yuandu discussing military plans in the 1939 film Mulan Joins the Army. ©1939 China United Productions.</i></figcaption>
 </figure>
 
