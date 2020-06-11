@@ -87,9 +87,9 @@ Since 1939, every retelling of Mulan’s story has included a romantic interest.
 
 <h2>Who was Mulan’s sidekick?</h2>
 
-In *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)*, Mulan assists a princess. In *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)*, Mulan is assisted by a camel that is indwelt with the spirit of a snake. Finally, *[Fierce and Filial](/pages/qing/fierce_and_filial)* includes two sidekicks: Mo Qianzhu and He Rugu.
+In *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)*, Mulan assists a princess. In *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)*, Mulan is assisted by a camel that is indwelt with the spirit of a snake. Additionally, *[Fierce and Filial](/pages/qing/fierce_and_filial)* includes two sidekicks (both men from her hometown).
 
-In the 1903 play [Mulan Joins the Army](/pages/qing/mulan_joins_the_army_1903), Mulan’s cousin Mushu dresses as a woman to avoid the draft. For the majority of the play, Mulan uses the name “Mushu” as her male pseudonum.
+In the 1903 play *[Mulan Joins the Army](/pages/qing/mulan_joins_the_army_1903)*, Mulan’s cousin Mushu dresses as a woman to avoid the draft. For the majority of the play, Mulan uses the name “Mushu” as her male pseudonum.
 
 None of the retellings include a dragon.
 
