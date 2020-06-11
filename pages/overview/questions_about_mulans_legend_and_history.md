@@ -75,7 +75,7 @@ According to the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joi
 
 <h2>Who was Mulan’s romantic love interest?</h2>
 
-In *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* and *[Fierce and Filial](/pages/qing/fierce_and_filial)*, Mulan’s betrothal and marriage was arranged. (Although Mulan is recorded to have feelings for her fiancé in *Fierce and Filial*, there is a lack of romance in the modern sense.)
+In *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* and *[Fierce and Filial](/pages/qing/fierce_and_filial)*, Mulan’s betrothal and marriage were arranged. (Although Mulan is recorded to have feelings for her fiancé in *Fierce and Filial*, there is a lack of romance in the modern sense.)
 
 The first version to introduce romance into the legend was the 1939 film *[Mulan Joins the Army](/pages/post_imperial/mulan_joins_the_army_1939_film)*. Mulan’s subordinate, Yuandu, begins to develop feelings for her after Mulan goes undercover as a woman.
 
