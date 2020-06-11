@@ -11,7 +11,7 @@ num: 1
 
 <h2>Where was Mulan born?</h2>
 
-An inscription in a [memorial dedicated to Mulan](/pages/yuan/memorial_filial_general) located in Hubei claims to be in Mulan’s hometown. However, Ming dynasty historian Zhu Guozhen [recorded](/pages/ming/women_generals) that Mulan was born in Bozhou. In addition, other ancient historians claim that Shanxi, Henan, and Hebei were Mulan’s birthplaces.
+An inscription on a [memorial dedicated to Mulan](/pages/yuan/memorial_filial_general) located in Hubei claims to be in Mulan’s hometown. However, Ming dynasty historian Zhu Guozhen [recorded](/pages/ming/women_generals) that Mulan was born in Bozhou. In addition, other ancient historians claim that Shanxi, Henan, and Hebei were Mulan’s birthplaces.
 
 <figure  class="float right" style="max-width: 350px;" >
 	<img  class="fillimg" style="max-width: 350px;" src="/assets/images/articles/faq/mulan_birthplaces.png" alt="Mulan’s potential birthplaces." />
