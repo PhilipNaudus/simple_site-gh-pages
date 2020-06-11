@@ -43,13 +43,16 @@ When the royal court finally heard about Mulan’s true nature, Emperor Yang off
 Emperor Yang was greatly moved by how fiercely loyal she was to defending her family and her chastity. Thus, he posthumously promoted her to general and added “filial” to her title. This is why she is now known as The Filial General.
 </blockquote>
 
+Although *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)* and *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan) incorporate similar tragic endings into Mulan’s story, most other retellings make no mention of Mulan’s death. Most versions conclude with Mulan marrying a brilliant scholar and living happily ever after.
+
+
 <h2>Did Mulan have a brother or a sister?</h2>
 
 The *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* mentions that Mulan had a younger brother.
 
 Additionally, the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* and the Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* both state that Mulan had a nine-year-old sister by the name of Munan and a five-year-old brother by the name Hua Fang (who was nicknamed Yaoer).
 
-According to [Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan), Mulan was an only child, but her mother gave birth after Mulan joined the army. After her parents pass away, Mulan acts as a mother to her siblings.
+According to *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)*, Mulan was an only child, but her mother gave birth after Mulan joined the army. After her parents pass away, Mulan acts as a mother to her siblings.
 
 <h2>How old was Mulan when she joined the army? How long did she serve?</h2>
 
