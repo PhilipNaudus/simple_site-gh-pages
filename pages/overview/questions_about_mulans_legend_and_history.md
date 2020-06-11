@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Questions about Mulan’s Legend and History
+title: Questions about Mulan’s Legend and History, Answered
 description: Where was Mulan born? Under which emperor did she serve? How did she die? Did she have a brother or a sister? How old was she when she joined the army?
 image: mulan_ming_portrait.png
 bg: ffffff
