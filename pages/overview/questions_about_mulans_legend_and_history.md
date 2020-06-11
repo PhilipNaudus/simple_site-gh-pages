@@ -43,7 +43,7 @@ When the royal court finally heard about Mulan’s true nature, Emperor Yang off
 Emperor Yang was greatly moved by how fiercely loyal she was to defending her family and her chastity. Thus, he posthumously promoted her to general and added “filial” to her title. This is why she is now known as The Filial General.
 </blockquote>
 
-Although *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)* and *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)* incorporate similar tragic endings into Mulan’s story, most other retellings make no mention of her death. Most versions conclude with Mulan marrying a brilliant scholar and living happily ever after.
+Although *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)* and *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)* incorporate similar tragic endings into Mulan’s story, the remaining versions of the story make no mention of her death. Most retellings conclude with Mulan either being reunited with her family or marrying a brilliant scholar and living happily ever after.
 
 
 <h2>Did Mulan have a brother or a sister?</h2>
@@ -53,6 +53,8 @@ The *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* mentions that Mulan
 Additionally, the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* and the Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* both state that Mulan had a nine-year-old sister by the name of Munan and a five-year-old brother by the name Hua Fang (who was nicknamed Yaoer).
 
 According to *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)*, Mulan was an only child, but her mother gave birth after Mulan joined the army. After her parents pass away, Mulan acts as a mother to her siblings.
+
+Finally, *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)* includes a subplot where Mulan’s sister (who was only slightly younder than Mulan) dresses as a man to deliver a letter after Mulan’s death.
 
 <h2>How old was Mulan when she joined the army? How long did she serve?</h2>
 
@@ -66,8 +68,31 @@ According to the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joi
 
 <figure class="float right" style="max-width:450px;">
 <img class="fillimg" src="/assets/images/articles/fiercely_filial/wang_qingyun_hua_mulans_fiance.png" alt="Wang Qingyun, Mulan's fiance. Included as an illustration in an early woodblock printing of Fierce and Filial." />
-<figcaption style="text-align: center;"><i>Wang Qingyun, Mulan’s fianc&eacute;.</i></figcaption>
+<figcaption style="text-align: center;"><i>Wang Qingyun, Mulan’s fianc&eacute;. Included as an illustration in an early woodblock printing of Fierce and Filial. (Public domain)</i></figcaption>
 </figure>
+
+<h2>Who was Mulan’s romantic love interest?</h2>
+
+In *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* and *[Fierce and Filial](/pages/qing/fierce_and_filial)*, Mulan’s betrothal and marriage was arranged. (Although Mulan is recorded to have feelings for her fiancé in Fierce and Filial, there is a lack of romance in the modern sense).
+
+The first version to introduce romance into the legend was the 1939 film [Mulan Joins the Army](/pages/post_imperial/mulan_joins_the_army_1939_film). Mulan’s subordinate, Yuandu, begins to develop feelings for her after Mulan goes undercover as a woman.
+
+<figure class="float right" style="max-width: 450px;">
+<img class="lazy" src="/assets/images/articles/mulan_joins_the_army_1939/placeholder.jpg" data-src="/assets/images/articles/mulan_joins_the_army_1939/1303/mulan_yuandu_discuss_military_plans.jpg" data-srcset="/assets/images/articles/mulan_joins_the_army_1939/320/mulan_yuandu_discuss_military_plans.jpg 320w, /assets/images/articles/mulan_joins_the_army_1939/640/mulan_yuandu_discuss_military_plans.jpg 640w, /assets/images/articles/mulan_joins_the_army_1939/960/mulan_yuandu_discuss_military_plans.jpg 960w, /assets/images/articles/mulan_joins_the_army_1939/1303/mulan_yuandu_discuss_military_plans.jpg 1303w" alt="Mulan and Yuandu discussing military plans in the 1939 film Mulan Joins the Army. ©1939 China United Productions." />
+<figcaption style="text-align: center;"><i>Mulan and Yuandu discussing military plans in the 1939 film Mulan Joins the Army. ©1939 China United Productions.</i></figcaption>
+</figure>
+
+Since 1939, every retelling of Mulan’s story has included a romantic interest.
+
+
+<h2>Who was Mulan’s sidekick?</h2>
+
+In *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)*, Mulan assists a princess. In *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)*, Mulan is assisted by a camel that is indwelt with the spirit of a snake. Finally, *[Fierce and Filial](/pages/qing/fierce_and_filial)* includes two sidekicks: Mo Qianzhu and He Rugu.
+
+In the 1903 play [Mulan Joins the Army](/pages/qing/mulan_joins_the_army_1903), Mulan’s cousin Mushu dresses as a woman to avoid the draft. For the majority of the play, Mulan uses the name “Mushu” as her male pseudonum.
+
+None of the retellings include a dragon.
+
 
 <h2>Who was the enemy Mulan fought against?</h2>
 
