@@ -38,7 +38,7 @@ Most modern historians believe that Mulan’s story is fictitious, but insist th
 According to Ming dynasty historian Zhu Guozhen’s [account](/pages/ming/women_generals) of Mulan’s life:
 
 <blockquote>
-When the royal court finally heard about Mulan’s true nature, Emperor Yang offered her a position in the royal harem. Again, Mulan declined, saying, “Your humble servant is unworthy of this honor.” When the emperor tried to take her by force, and she realized that she could not resist his demands, she ended her own life.
+When the royal court finally heard about Mulan’s true nature, Emperor Yang offered her a position in the royal harem. Again, Mulan declined, saying, “Your humble servant is unworthy of this honor.” When the emperor tried to take her by force, and she realized that she could not resist his demands, she ended her own life.<br /><br />
 
 Emperor Yang was greatly moved by how fiercely loyal she was to defending her family and her chastity. Thus, he posthumously promoted her to general and added “filial” to her title. This is why she is now known as The Filial General.
 </blockquote>

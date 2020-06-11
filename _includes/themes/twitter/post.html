@@ -21,7 +21,7 @@
 					<h4 class="heading text-left mb-5"><img src="/assets/images/thumbs/dynasties/{{ dynasty }}.jpg" alt="{{ dynastyAlt }}" />{{ dynastyName }}</h4>
 				{% endif %}
 				<h1>{{ page.title }}</h1>
-				{% unless page.title != "Questions about Mulan’s Legend and History" %}
+				{% if page.title != "Questions about Mulan’s Legend and History" %}
 					<p>{{ page.description }}</p>
 				{% endif %}
 				<!-- begin text -->
