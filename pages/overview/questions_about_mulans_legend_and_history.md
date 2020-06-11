@@ -62,7 +62,7 @@ Finally, *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)* includ
 
 Most retellings indicate that Mulan was a teenager. Only *[Fierce and Filial](/pages/qing/fierce_and_filial)* mentions her exact age—seventeen years old. Because she served for twelve years, she would have returned at the age of twenty-nine.
 
-<h2>Did Mulan have a problem finding a husband before she joined the army?</h2>
+<h2>Did Mulan have difficulty finding a husband before she joined the army?</h2>
 
 According to the legend, Mulan was exceedingly beautiful and talented. In fact, the Tang dynasty poem *[Mulan Temple](/pages/tang/mulan_temple_du_mu)* compares Mulan to [Wang Zhaojun](https://www.theepochtimes.com/wang-zhaojun-beauty-of-peace_1069045.html), one of the most beautiful women who ever lived in ancient China.
 
