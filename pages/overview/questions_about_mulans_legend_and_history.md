@@ -54,7 +54,7 @@ Additionally, the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_jo
 
 According to *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)*, Mulan was an only child, but her mother gave birth after Mulan joined the army. After her parents pass away, Mulan acts as a mother to her siblings.
 
-Finally, *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)* includes a subplot where Mulan’s sister (who was only slightly younder than Mulan) dresses as a man to deliver a letter after Mulan’s death.
+Finally, *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)* includes a subplot where Mulan’s sister Youlan (who was only slightly younger than Mulan) dresses as a man to deliver a letter after Mulan’s death.
 
 <h2>How old was Mulan when she joined the army? How long did she serve?</h2>
 
