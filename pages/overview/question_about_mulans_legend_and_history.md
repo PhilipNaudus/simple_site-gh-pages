@@ -2,7 +2,7 @@
 layout: post
 title: Questions about Mulan’s Legend and History
 description: Where was Mulan born? Under what emperor did she serve? How did she die? Did she have a brother or a sister?
-image: mulan_ming_portrait.jpg
+image: mulan_ming_portrait.png
 bg: 8c6f4e
 alt: "Mulan (far right) stands next to two other mytical women in a Ming dynasty portrait (Public domain)."
 imageType: float
