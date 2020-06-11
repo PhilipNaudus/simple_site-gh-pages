@@ -64,7 +64,7 @@ Most retellings indicate that Mulan was a teenager. Only *[Fierce and Filial](/p
 
 <h2>Did Mulan have a problem finding a husband before she joined the army?</h2>
 
-According to the legend, Mulan was exceedingly beautiful and talented. In fact, the Tang dynasty poem [Mulan Temple](/pages/tang/mulan_temple_du_mu) compares Mulan to [Wang Zhaojun](https://www.theepochtimes.com/wang-zhaojun-beauty-of-peace_1069045.html), one of the most beautiful women who ever lived in ancient China.
+According to the legend, Mulan was exceedingly beautiful and talented. In fact, the Tang dynasty poem *[Mulan Temple](/pages/tang/mulan_temple_du_mu)* compares Mulan to [Wang Zhaojun](https://www.theepochtimes.com/wang-zhaojun-beauty-of-peace_1069045.html), one of the most beautiful women who ever lived in ancient China.
 
 According to the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)*, Mulan was arranged to marry the son of Wang Sixun after she returned to war. The Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* gave Wang Sixun’s son a name: Wang Qingyun, and made them already engaged at the beginning of the story. According to the novel, Mulan broke off her engagement to join the army.
 
