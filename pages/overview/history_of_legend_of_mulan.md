@@ -6,7 +6,7 @@ image: mulan_history.jpg
 bg: 8c6f4e
 alt: "Two modern depictions of Mulan stand in opposition to the title page of the Qing dynasty novel <a href='/pages/qing/fierce_and_filial'>Fierce and Filial</a>. Artwork by Stella Su."
 imageType: big
-num: 1
+num: 2
 ---
 
 Around 400 <small>AD</small>, a poem began circulating imperial China. It told of a young girl (most likely in her early teens) who made the momentous decision to take her father’s place in battle. Although modern historians now believe this poem to be fictitious, early historians (most notably, [Zhu Guozhen](/pages/ming/women_generals)) insisted that the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* was an autobiography. Regardless of the authenticity of the original tale, this amazing story went on to inspire one of the greatest legends ever told.
