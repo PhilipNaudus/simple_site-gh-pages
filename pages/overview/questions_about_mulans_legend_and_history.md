@@ -72,7 +72,7 @@ The only historical text to explicitly mention Mulan’s enemy is a [memorial](/
 
 The Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* was the first to give the villain a name: Leopard Skin. The Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* described Leopard Skin as the leader of the [Black Mountain bandits](https://en.wikipedia.org/wiki/Heishan_Bandits).
 
-According to the novel *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)*, Mulan is a biracial teen (half Chinese and half Tujue) who fights against a Chinese sect known as the Xia.
+According to the novel *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)*, Mulan is a biracial teen (half Chinese and half Tujue) who initially fights against a Chinese sect known as the Xia.
 
 <h2>More questions?</h2>
 
