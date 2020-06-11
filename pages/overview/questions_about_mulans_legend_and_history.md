@@ -20,7 +20,9 @@ An inscription on a [memorial dedicated to Mulan](/pages/yuan/memorial_filial_ge
 
 Most modern historians use the disagreement among imperial historians to argue that the Chinese people merely *wanted* to believe that Mulan’s story was true. However, there is little evidence to support her historicity.
 
-<h2>Under which emperor did Mulan serve?</h2>
+<h2>Under which emperor did Mulan serve? During which dynasty did she live?</h2>
+
+Conflicting historical records indicate that Mulan may have lived during the Han, Northern Wei, or Sui dynasties.
 
 An inscription in a [memorial](/pages/yuan/memorial_filial_general) erected during the Yuan dynasty states that Mulan served under [Emperor Wen of Han](https://en.wikipedia.org/wiki/Emperor_Wen_of_Han), who was a benevolent and virtuous ruler. The memorial describes how Mulan fought against the Xiongnu, which was a war that occurred around 150 BC.
 
