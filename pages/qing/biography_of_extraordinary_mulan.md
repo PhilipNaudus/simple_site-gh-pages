@@ -35,7 +35,7 @@ Meanwhile, the emperor wages war against the Tujue. Yuchi Gong, who is now supre
 
 Li Jing, who is now the army supervisor, immediately recognizes Mulan and agrees to become her mentor and assist in keeping her identity secret. Soon afterward, the army departs and camps beside Wutai Mountain. While men rest, Mulan climbs the mountain to deliver a letter from Sangwu to a monk who lives there. The monk grants Mulan a magical camel who is indwelt with the spirit of a snake.
 
-Upon rejoining the army, Mulan is emboldened by her camel, and she captures the enemy's supreme commander. However, because Yuchi Gong insists upon ineffective strategies, no future victories are won for the next ten years. After Yuchi Gong is demoted, the fox whom Mulan defeated in her bedroom transforms into a man and leads the Chinese army to victory. Knowing that the fox has ulterior motives, Mulan defeats it with the magic she learned from her grandfather and confronts the King of Tujue herself, forcing him to surrender.
+Upon rejoining the army, Mulan is emboldened by her camel, and she captures the enemy's supreme commander. However, because Yuchi Gong insists upon ineffective strategies, no future victories are won for the next ten years. After Yuchi Gong is demoted, the fox whom Mulan previously defeated in her bedroom transforms into a man and leads the Chinese army to victory. Knowing that the fox has ulterior motives, Mulan defeats it with the magic she learned from her grandfather and confronts the King of Tujue herself, forcing him to surrender.
 
 Mulan returns in triumph. When the emperor offers her a prominent position, she reveals that she is a woman and requests to return home. The emperor grants her request, changing her title to Princess Wu Zhao.
 
