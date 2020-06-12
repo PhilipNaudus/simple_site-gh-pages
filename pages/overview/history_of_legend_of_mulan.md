@@ -48,7 +48,7 @@ The most famous retelling of Mulan’s story to be written during this time was 
 
 <figure  class="float right">
 <img  src="/assets/images/articles/mulan_training_martial_arts_grandfather_biography_of_extraordinary_mulan.png" alt="Mulan receives instruction in martial arts from her grandfather as her grandmother looks on. Included in a late woodblock reprinting of Biography of Extraordinary Mulan (Public domain)." />
-<figcaption style="text-align: center;"><i>Mulan receives instruction in martial arts from her grandfather as her grandmother looks on. Included in a late woodblock reprinting of Biography of Extraordinary Mulan (Public domain).</i></figcaption>
+<figcaption style="text-align: center;"><i><small>Mulan receives instruction in martial arts from her grandfather as her grandmother looks on. Included in a late woodblock reprinting of Biography of Extraordinary Mulan (Public domain).</small></i></figcaption>
 </figure>
 
 In 1850, author Zhang Shaoxian conducted a thorough investigation of the legend. He reviewed numerous retellings and united them into a coherent story. The resulting novel, *[Fierce and Filial](/pages/qing/fierce_and_filial)*, tells of how Mulan’s brilliance and military prowess stem from he virtue. The most unique feature of this novel is the narrator's analysis of Mulan's inner struggle during her military service. Mulan is repeatedly traumatized by the cruelty of warfare, but refuses to suppress her tender side and become a hardened warrior. In the end, she manages to befriend the enemy princess, and the two women swear to help one another bring the war to an end.

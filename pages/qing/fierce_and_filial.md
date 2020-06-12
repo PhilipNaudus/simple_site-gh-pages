@@ -22,7 +22,7 @@ Seventeen-year-old Mulan is one of the most beautiful and talented women in Hebe
 The men are sent to Black Mountain to eradicate bandits who have taken control over mountain passes which are critical to trade routes. Due to racial tensions, Supreme Commander Xin Ping decides to divide the newly formed army into two companies. As he reads through the credentials of the men who have been conscripted, he notices that almost all of the seasoned warriors are Xianbei; the only man among the Chinese soldiers who has fighting experience is Hua Hu. When Xin Ping calls Hua Hu’s name, Mulan steps forward. After she demonstrates her military prowess, Mulan is promoted to captain over the Chinse men.
 
 <figure class="float left" style="max-width:450px;">
-<img class="fillimg" src="/assets/images/articles/fiercely_filial/supreme_commander_xin_ping_hua_mulan.jpg" alt="Supreme Commander Xin Ping. Included as an illustration in an early woodblock printing of Fierce and Filial." />
+<img src="/assets/images/articles/fiercely_filial/supreme_commander_xin_ping_hua_mulan.jpg" alt="Supreme Commander Xin Ping. Included as an illustration in an early woodblock printing of Fierce and Filial." />
 <figcaption style="text-align: center;"><i>Supreme Commander Xin Ping.</i></figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Earth Master comes to rescue Heaven Catcher and is about to kill Niu He, but Mul
 The emperor grows impatient and orders the army to advance at any cost, threatening to execute the officers if they continue being idle. During an emergency meeting, Niu He steps forward and suggests sending Muan with a letter offering amnesty if the bandits surrender. He does not expect this plan to work; instead, he simply wants to eliminate Mulan out of jealousy. Because nobody has any better ideas, Mulan agrees to go on this suicide mission.
 
 <figure class="float right" style="max-width:450px;">
-<img class="fillimg" src="/assets/images/articles/fiercely_filial/emperor_tuoba_gui_hua_mulan.png" alt="Emperor Tuoba Gui. Included as an illustration in an early woodblock printing of Fierce and Filial." />
+<img src="/assets/images/articles/fiercely_filial/emperor_tuoba_gui_hua_mulan.png" alt="Emperor Tuoba Gui. Included as an illustration in an early woodblock printing of Fierce and Filial." />
 <figcaption style="text-align: center;"><i>Emperor Tuoba Gui.</i></figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ When Mulan refuses to consummate the wedding, Princess Wanhua grows suspicious a
 Before she departs, Mulan confides her insecurities in Princess Wanhua. When she first left, she had not intended to be away for this long. Being that almost all young men have been drafted, her fianc&eacute; Qingyun has been living in a town of women for nearly seven years. Mulan has little doubt that Qingyun has already married, and is uncertain whether these years that she has spent living among men have lowered her value beyond even hoping to become his second wife. Finally, Princess Wanhua comes up with a solution which both of them feel will convince Qingyun to marry Mulan: If he takes Mulan in marriage, Wanhua will agree to serve as his mistress. Mulan feels relieved and is deeply grateful to the princess.
 
 <figure class="float left" style="max-width:450px;">
-<img class="fillimg" src="/assets/images/articles/fiercely_filial/earth_master_hua_mulan.jpg" alt="Earth Master. (Although his name is Zhao Rang, he goes by Earth Master for much of the book.) Included as an illustration in an early woodblock printing of Fierce and Filial." />
+<img src="/assets/images/articles/fiercely_filial/earth_master_hua_mulan.jpg" alt="Earth Master. (Although his name is Zhao Rang, he goes by Earth Master for much of the book.) Included as an illustration in an early woodblock printing of Fierce and Filial." />
 <figcaption style="text-align: center;"><i>Earth Master. (Although his name is Zhao Rang, he goes by Earth Master for much of the book.)</i></figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ Mulan gets lost on the way back and ends up on the wrong side of the mountain. R
 Meanwhile, Princess Wanhua convinces the bandits to feign surrender. They invite Supreme Commander Xin Ping and his army into their stronghold, hoping to capture them. Although Xin Ping knows this is a trap, he recalls the emperor's orders to advance at any cost. Meanwhile, the bandits are prepared. Three thousand bandits are ordered to fight only against Mulan, whom they believe to be a wizard. During the battle, Mulan is seriously injured and is about to die, but Princes Wanhua drags her to safety. During the chaos, Princess Wanhua sneaks behind the bandit leaders, kills them, and then flees to "assist" Leopard Skin, the mighty bandit king.
 
 <figure class="float right" style="max-width:450px;">
-<img class="fillimg" src="/assets/images/articles/fiercely_filial/sorceress_huang_fengshan_hua_mulan.png" alt="Sorceress Huang Fengshan. Included as an illustration in an early woodblock printing of Fierce and Filial." />
+<img src="/assets/images/articles/fiercely_filial/sorceress_huang_fengshan_hua_mulan.png" alt="Sorceress Huang Fengshan. Included as an illustration in an early woodblock printing of Fierce and Filial." />
 <figcaption style="text-align: center;"><i>Sorceress Huang Fengshan.</i></figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ When Mulan is finally strong enough to fight, she rejoins the army and finds tha
 Meanwhile, the emperor has lost his patience with the expedition against the bandits. This operation, which was initially supposed to be short, has lasted for over seven years. In an attempt to ensure that the expedition is finally drawn to a close, the emperor orders that an examination be conducted to find the most brilliant man in all of China. Wang Qingyun, Mulan’s fianc&eacute;, is chosen and is sent to supervise the army. When Mulan hears that Qingyun is coming, she becomes bashful and refuses to allow him to see her dressed as a man because she wants him to remember her only as a beautiful woman.
 
 <figure class="float left" style="max-width:450px;">
-<img class="fillimg" src="/assets/images/articles/fiercely_filial/wang_qingyun_hua_mulans_fiance.png" alt="Wang Qingyun, Mulan's fiance. Included as an illustration in an early woodblock printing of Fierce and Filial." />
+<img src="/assets/images/articles/fiercely_filial/wang_qingyun_hua_mulans_fiance.png" alt="Wang Qingyun, Mulan's fiance. Included as an illustration in an early woodblock printing of Fierce and Filial." />
 <figcaption style="text-align: center;"><i>Wang Qingyun, Mulan’s fianc&eacute;.</i></figcaption>
 </figure>
 
