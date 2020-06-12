@@ -12,26 +12,31 @@ function repositionFloats()
 
 	if(browserWidth>830)
 	{
-		for(var i=0; i<floats.length; i++)
+		tooMuchRight = 0;
+		do
 		{
-			floatParent.insertBefore(floats[i], document.getElementById("floatP"+i));
+			for(var i=0; i<floats.length; i++)
+			{
+				floatParent.insertBefore(floats[i], document.getElementById("floatP"+i));
 
-			var cssFloat = floats[i].classList[1];
-			var margin = -floats[i].offsetWidth/2;
-			floats[i].style.cssFloat = cssFloat;
-			floats[i].style.padding = "20px";
+				var cssFloat = floats[i].classList[1];
+				var margin = -floats[i].offsetWidth/2;
+				floats[i].style.cssFloat = cssFloat;
+				floats[i].style.padding = "20px";
 
-			if(cssFloat=="left") floats[i].style.marginLeft = margin+"px";
-			else if(cssFloat=="right") floats[i].style.marginRight = margin+"px";
+				if(cssFloat=="left") floats[i].style.marginLeft = margin+"px";
+				else if(cssFloat=="right") floats[i].style.marginRight = margin+"px";
 
-			// Make sure that the elemengt doesn't get cut off to the left
-			var left = floats[i].getBoundingClientRect().left;
-			if(left<0) floats[i].style.marginLeft = (margin-left)+"px";
+				// Make sure that the element doesn't get cut off to the left
+				var left = floats[i].getBoundingClientRect().left;
+				if(left<0) floats[i].style.marginLeft = (margin-left)+"px";
 
-			// Make sure that the element doesn't get cut off to the right
-			var right = browserWidth - floats[i].getBoundingClientRect().right - 10;
-			if(right<0) floats[i].style.marginRight = (margin-right)+"px";
-		}
+				// Make sure that the element doesn't get cut off to the right
+				var right = browserWidth - floats[i].getBoundingClientRect().right - tooMuchRight;
+				if(right<0) floats[i].style.marginRight = (margin-right)+"px";
+			}
+			tooMuchRight += 10;
+		} while(Math.max(body.scrollHeight,body.offsetHeight,html.clientHeight,html.scrollHeight,html.offsetHeight) > browserWidth && tooMuchRight < 50);
 	} else
 	{
 		for(var i=0; i<floats.length; i++)
