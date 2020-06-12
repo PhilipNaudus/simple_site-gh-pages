@@ -75,7 +75,11 @@ figure img {
 
 .float, .float img {
   max-width: 450px;
-  max-height: 85vh;
+  max-height: 75vh;
+}
+
+.float img {
+  max-height: calc(75vh - 3em);
 }
 
 /* NAV */
