@@ -41,7 +41,7 @@ function repositionFloats()
 			{
 				if(floats[i].classList[1]=="right")
 				{
-					floats[i].style.marginRight = (parseInt(floats[i].style.marginRight)-tooMuchRight)+"px";
+					floats[i].style.marginRight = (parseInt(floats[i].style.marginRight)+tooMuchRight)+"px";
 				}
 			}
 			tooMuchRight += 10;
