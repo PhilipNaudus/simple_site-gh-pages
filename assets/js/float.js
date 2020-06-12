@@ -66,5 +66,5 @@ object.addEventListener("load", setTimeout(function(){
 		}
 		tooMuchRight += 10;
 	}
-}, 1000));
+}, 10000));
 //alert(document.getElementsByClassName("container")[0].offsetWidth);
