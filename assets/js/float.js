@@ -36,7 +36,7 @@ function repositionFloats()
 				if(right<0) floats[i].style.marginRight = (margin-right)+"px";
 			}
 			tooMuchRight += 10;
-		} while(Math.max(body.scrollHeight,body.offsetHeight,html.clientHeight,html.scrollHeight,html.offsetHeight) > browserWidth && tooMuchRight < 50);
+		} while(false && Math.max(body.scrollHeight,body.offsetHeight,html.clientHeight,html.scrollHeight,html.offsetHeight) > browserWidth && tooMuchRight < 50);
 	} else
 	{
 		for(var i=0; i<floats.length; i++)
