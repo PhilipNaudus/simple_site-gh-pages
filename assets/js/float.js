@@ -47,7 +47,7 @@ function repositionFloats()
 				}
 				tooMuchRight += 10;
 			}
-		}, 100);
+		}, 1000);
 	} else
 	{
 		for(var i=0; i<floats.length; i++)
