@@ -12,8 +12,8 @@ num: 2
 Around 400 <small>AD</small>, a poem began circulating imperial China. It told of a young girl (most likely in her early teens) who made the momentous decision to take her father’s place in battle. Although modern historians now believe this poem to be fictitious, early historians (most notably, [Zhu Guozhen](/pages/ming/women_generals)) insisted that the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* was an autobiography. Regardless of the authenticity of the original tale, this amazing story went on to inspire one of the greatest legends ever told.
 
 <figure  class="float left" style="max-width: 450px;" >
-	<img class="fillimg" style="max-width: 450px;" src="/assets/images/articles/ballad_of_mulan_song_dynasty_mu_fu.jpg" alt="This copy of The Ballad of Mulan was written by Song dynasty calligrapher Mi Fu in 1094 AD (Public domain)." />
-	<figcaption style="text-align: center;"><i>This copy of The Ballad of Mulan was written by Song dynasty calligrapher Mi Fu in 1094 <small>AD</small> (Public domain).</i></figcaption>
+<img style="max-width: 450px;" src="/assets/images/articles/ballad_of_mulan_song_dynasty_mu_fu.jpg" alt="This copy of The Ballad of Mulan was written by Song dynasty calligrapher Mi Fu in 1094 AD (Public domain)." />
+<figcaption style="text-align: center;"><i>This copy of The Ballad of Mulan was written by Song dynasty calligrapher Mi Fu in 1094 <small>AD</small> (Public domain).</i></figcaption>
 </figure>
 
 For over a hundred years, the *Ballad of Mulan* was passed down via oral tradition, until it was finally written down during the Tang dynasty. Around this same time, several authors ([Wei Yuanfu](/pages/tang/song_of_mulan), Bai Juyi, [Du Mu](/pages/tang/mulan_temple_du_mu), and Li Rong) also wrote accounts verifying Mulan’s story.
@@ -25,8 +25,8 @@ For the next several hundred years, very little was written about Mulan. While a
 Around 1500 <small>AD</small>, Xu Wei wrote the play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)*. Although this play was short (the unannotated manuscript is twelve pages), Xu Wei inserted reimagined the story in a way that would capture the imaginations of the common people.
 
 <figure  class="float right" style="max-width: 350px;" >
-	<img  class="fillimg" style="max-width: 350px;" src="/assets/images/articles/mulan_bids_farewell_to_her_family_while_two_soldiers_wait_impatiently.jpg" alt="Mulan bids farewell to her family while two soldiers wait impatiently. Included as an illustration in a late woodblock reprinting of a collection of Xu Wei’s plays (Public domain)." />
-	<figcaption style="text-align: center;"><i>Mulan bids farewell to her family while two soldiers wait impatiently. Included as an illustration in a late woodblock reprinting of a collection of Xu Wei’s plays (Public domain).</i></figcaption>
+<img  style="max-width: 350px;" src="/assets/images/articles/mulan_bids_farewell_to_her_family_while_two_soldiers_wait_impatiently.jpg" alt="Mulan bids farewell to her family while two soldiers wait impatiently. Included as an illustration in a late woodblock reprinting of a collection of Xu Wei’s plays (Public domain)." />
+<figcaption style="text-align: center;"><i>Mulan bids farewell to her family while two soldiers wait impatiently. Included as an illustration in a late woodblock reprinting of a collection of Xu Wei’s plays (Public domain).</i></figcaption>
 </figure>
 
 Xu Wei took a lot of liberties with this play and wasn’t overly concerned with historical accuracy. For example, the play included Mulan with bound feet… which is the ancient equivalent of having a woman soldier wearing sexy armor. One version of the manuscript even explicitly instructs the actress playing Mulan to change clothes in full view of the audience.

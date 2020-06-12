@@ -14,8 +14,8 @@ num: 1
 An inscription on a [memorial dedicated to Mulan](/pages/yuan/memorial_filial_general) located in Hubei claims to be in Mulan’s hometown. However, Ming dynasty historian Zhu Guozhen [recorded](/pages/ming/women_generals) that Mulan was born in Bozhou. In addition, other ancient historians claim that Shanxi, Henan, and Hebei were Mulan’s birthplaces.
 
 <figure  class="float right" style="max-width: 350px;" >
-	<img  class="fillimg" style="max-width: 350px;" src="/assets/images/articles/faq/mulan_birthplaces.png" alt="Mulan’s potential birthplaces." />
-	<figcaption style="text-align: center;"><i>Mulan’s potential birthplaces.</i></figcaption>
+<img style="max-width: 350px;" src="/assets/images/articles/faq/mulan_birthplaces.png" alt="Mulan’s potential birthplaces." />
+<figcaption style="text-align: center;"><i>Mulan’s potential birthplaces.</i></figcaption>
 </figure>
 
 Most modern historians use the disagreement among imperial historians to argue that the Chinese people merely *wanted* to believe that Mulan’s story was true. However, there is little evidence to support her historicity.
@@ -29,8 +29,8 @@ An inscription in a [memorial](/pages/yuan/memorial_filial_general) erected duri
 Ming dynasty historian Zhu Guozhen [wrote](/pages/ming/women_generals) that Mulan served under [Emperor Yang of Sui](https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui), who ruled from 569 to 618 AD. Emperor Yang was incredibly corrupt, and is believed to have raped thousands of virgin girls during his reign. After he died, his tomb was (according to legend) relocated several times due to consecutive lightning strikes. Zhu Guozhen describes how Emperor Yang sought to take Mulan as a concubine, but she took her own life to preserve her honor.
 
 <figure  class="float left" style="max-width: 450px;" >
-	<img  class="fillimg" src="/assets/images/articles/faq/emperor_yang_of_sui.jpg" alt="Emperor Yang of Sui. (Public domain)" />
-	<figcaption style="text-align: center;"><i>Emperor Yang of Sui. (Public domain)</i></figcaption>
+<img src="/assets/images/articles/faq/emperor_yang_of_sui.jpg" alt="Emperor Yang of Sui. (Public domain)" />
+<figcaption style="text-align: center;"><i>Emperor Yang of Sui. (Public domain)</i></figcaption>
 </figure>
 
 Most modern historians believe that Mulan’s story is fictitious, but insist that it is set during the era of Northern Wei, most likely under the reign of [Emperor Taiwu](https://en.wikipedia.org/wiki/Emperor_Taiwu_of_Northern_Wei) because Taiwu engaged in a twelve-year war against the Rouran khan between 429 and 441 AD (the *[Ballad of Mulan](/pages/northern_wei/ballad_of_mulan)* states that Mulan served for twelve years). Because it was not beneath Emperor Taiwu to compel elderly men to join his army (he won battles through attrition), it is possible that a young girl might have been forced to take her father’s place to save his life during the reign of this corrupt warlord. However, because the Ballad of Mulan says that her father was drafted by the *khan*, it it also possible that she fought on the opposite side. 
@@ -69,7 +69,7 @@ According to the legend, Mulan was exceedingly beautiful and talented. In fact, 
 According to the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)*, Mulan was arranged to marry the son of Wang Sixun after she returned to war. The Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* gave Wang Sixun’s son a name: Wang Qingyun, and made them already engaged at the beginning of the story. According to the novel, Mulan broke off her engagement to join the army.
 
 <figure class="float right" style="max-width:450px;">
-<img class="fillimg" src="/assets/images/articles/fiercely_filial/wang_qingyun_hua_mulans_fiance.png" alt="Wang Qingyun, Mulan's fiance. Included as an illustration in an early woodblock printing of Fierce and Filial." />
+<img src="/assets/images/articles/fiercely_filial/wang_qingyun_hua_mulans_fiance.png" alt="Wang Qingyun, Mulan's fiance. Included as an illustration in an early woodblock printing of Fierce and Filial." />
 <figcaption style="text-align: center;"><i>Wang Qingyun, Mulan’s fianc&eacute;. Included as an illustration in an early woodblock printing of Fierce and Filial. (Public domain)</i></figcaption>
 </figure>
 
