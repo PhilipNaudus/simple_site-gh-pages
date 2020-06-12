@@ -83,7 +83,8 @@ figure img {
 .float img {
   max-height: calc(75vh - 3em);
   width: auto;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* NAV */
