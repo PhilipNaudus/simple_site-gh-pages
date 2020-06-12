@@ -74,13 +74,14 @@ figure img {
   margin-right: auto;
 }
 
-.float, .float img {
+.float {
   max-width: 450px;
   max-height: 75vh;
   margin: auto;
 }
 
 .float img {
+  max-width: 430px;
   max-height: calc(75vh - 3em);
   width: auto;
   display: block;
