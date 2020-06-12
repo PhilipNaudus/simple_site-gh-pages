@@ -30,7 +30,7 @@ function repositionFloats()
 
 			// Make sure that the element doesn't get cut off to the right
 			var right = browserWidth - floats[i].getBoundingClientRect().right;
-			if(right<0) floats[i].style.marginRight = (margin-right)+"px";
+			if(right<0) floats[i].style.marginRight = (margin-right-30)+"px";
 		}
 	} else
 	{
@@ -50,21 +50,4 @@ function repositionFloats()
 window.addEventListener("resize", repositionFloats);
 repositionFloats();
 
-object.addEventListener("load", setTimeout(function(){
-	// Shift right floats to the left if they're causing horizontal scrolling
-	tooMuchRight = 0;
-	var floats = document.getElementsByClassName("float");
-	var browserWidth = Math.min(document.body.scrollWidth, document.documentElement.scrollWidth, document.body.offsetWidth, document.documentElement.offsetWidth, document.documentElement.clientWidth, window.innerWidth);
-	while(Math.max(body.scrollHeight,body.offsetHeight,html.clientHeight,html.scrollHeight,html.offsetHeight) > browserWidth && tooMuchRight < 50)
-	{
-		for(var i=0; i<floats.length; i++)
-		{
-			if(floats[i].classList[1]=="right")
-			{
-				floats[i].style.marginRight = (parseInt(floats[i].style.marginRight)+tooMuchRight)+"px";
-			}
-		}
-		tooMuchRight += 10;
-	}
-}, 10000));
 //alert(document.getElementsByClassName("container")[0].offsetWidth);
