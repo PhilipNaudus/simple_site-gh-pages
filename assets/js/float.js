@@ -30,7 +30,7 @@ function repositionFloats()
 
 			// Make sure that the element doesn't get cut off to the right
 			var right = browserWidth - floats[i].getBoundingClientRect().right;
-			if(right<0) floats[i].style.marginRight = (margin-right-30)+"px";
+			if(right<0) floats[i].style.marginRight = (margin-right+30)+"px";
 		}
 	} else
 	{
