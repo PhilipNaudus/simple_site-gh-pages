@@ -33,19 +33,21 @@ function repositionFloats()
 			if(right<0) floats[i].style.marginRight = (margin-right)+"px";
 		}
 
-		// Shift right floats to the left if they're causing horizontal scrolling
-		tooMuchRight = 0;
-		while(Math.max(body.scrollHeight,body.offsetHeight,html.clientHeight,html.scrollHeight,html.offsetHeight) > browserWidth && tooMuchRight < 50)
-		{
-			for(var i=0; i<floats.length; i++)
+		setTimeout(function(){
+			// Shift right floats to the left if they're causing horizontal scrolling
+			tooMuchRight = 0;
+			while(Math.max(body.scrollHeight,body.offsetHeight,html.clientHeight,html.scrollHeight,html.offsetHeight) > browserWidth && tooMuchRight < 50)
 			{
-				if(floats[i].classList[1]=="right")
+				for(var i=0; i<floats.length; i++)
 				{
-					floats[i].style.marginRight = (parseInt(floats[i].style.marginRight)+tooMuchRight)+"px";
+					if(floats[i].classList[1]=="right")
+					{
+						floats[i].style.marginRight = (parseInt(floats[i].style.marginRight)+tooMuchRight)+"px";
+					}
 				}
+				tooMuchRight += 10;
 			}
-			tooMuchRight += 10;
-		}
+		}, 100);
 	} else
 	{
 		for(var i=0; i<floats.length; i++)
