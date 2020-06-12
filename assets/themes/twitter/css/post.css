@@ -81,7 +81,7 @@ figure img {
 }
 
 .float img {
-  max-width: 430px;
+  max-width: 410px;
   max-height: calc(75vh - 3em);
   width: auto;
   display: block;
