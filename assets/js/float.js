@@ -12,31 +12,40 @@ function repositionFloats()
 
 	if(browserWidth>830)
 	{
+		for(var i=0; i<floats.length; i++)
+		{
+			floatParent.insertBefore(floats[i], document.getElementById("floatP"+i));
+
+			var cssFloat = floats[i].classList[1];
+			var margin = -floats[i].offsetWidth/2;
+			floats[i].style.cssFloat = cssFloat;
+			floats[i].style.padding = "20px";
+
+			if(cssFloat=="left") floats[i].style.marginLeft = margin+"px";
+			else if(cssFloat=="right") floats[i].style.marginRight = margin+"px";
+
+			// Make sure that the element doesn't get cut off to the left
+			var left = floats[i].getBoundingClientRect().left;
+			if(left<0) floats[i].style.marginLeft = (margin-left)+"px";
+
+			// Make sure that the element doesn't get cut off to the right
+			var right = browserWidth - floats[i].getBoundingClientRect().right - tooMuchRight;
+			if(right<0) floats[i].style.marginRight = (margin-right)+"px";
+		}
+
+		// Shift right floats to the left if they're causing horizontal scrolling
 		tooMuchRight = 0;
-		do
+		while(Math.max(body.scrollHeight,body.offsetHeight,html.clientHeight,html.scrollHeight,html.offsetHeight) > browserWidth && tooMuchRight < 50)
 		{
 			for(var i=0; i<floats.length; i++)
 			{
-				floatParent.insertBefore(floats[i], document.getElementById("floatP"+i));
-
-				var cssFloat = floats[i].classList[1];
-				var margin = -floats[i].offsetWidth/2;
-				floats[i].style.cssFloat = cssFloat;
-				floats[i].style.padding = "20px";
-
-				if(cssFloat=="left") floats[i].style.marginLeft = margin+"px";
-				else if(cssFloat=="right") floats[i].style.marginRight = margin+"px";
-
-				// Make sure that the element doesn't get cut off to the left
-				var left = floats[i].getBoundingClientRect().left;
-				if(left<0) floats[i].style.marginLeft = (margin-left)+"px";
-
-				// Make sure that the element doesn't get cut off to the right
-				var right = browserWidth - floats[i].getBoundingClientRect().right - tooMuchRight;
-				if(right<0) floats[i].style.marginRight = (margin-right)+"px";
+				if(floats[i].classList[1]=="right")
+				{
+					floats[i].style.marginRight = (parseInt(floats[i].style.marginRight)-tooMuchRight)+"px";
+				}
 			}
 			tooMuchRight += 10;
-		} while(false && Math.max(body.scrollHeight,body.offsetHeight,html.clientHeight,html.scrollHeight,html.offsetHeight) > browserWidth && tooMuchRight < 50);
+		}
 	} else
 	{
 		for(var i=0; i<floats.length; i++)
