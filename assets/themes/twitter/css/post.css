@@ -73,6 +73,11 @@ figure img {
   margin-right: auto;
 }
 
+.float {
+  max-width: 450px;
+  max-height: 85vw;
+}
+
 /* NAV */
 
 header {

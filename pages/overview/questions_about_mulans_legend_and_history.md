@@ -9,7 +9,7 @@ imageType: float
 num: 1
 ---
 
-<h2>Where was Mulan born?</h2>
+<h2>Is Mulan a true story? Where was she born?</h2>
 
 An inscription on a [memorial dedicated to Mulan](/pages/yuan/memorial_filial_general) located in Hubei claims to be in Mulan’s hometown. However, Ming dynasty historian Zhu Guozhen [recorded](/pages/ming/women_generals) that Mulan was born in Bozhou. In addition, other ancient historians claim that Shanxi, Henan, and Hebei were Mulan’s birthplaces.
 
@@ -28,7 +28,7 @@ An inscription in a [memorial](/pages/yuan/memorial_filial_general) erected duri
 
 Ming dynasty historian Zhu Guozhen [wrote](/pages/ming/women_generals) that Mulan served under [Emperor Yang of Sui](https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui), who ruled from 569 to 618 AD. Emperor Yang was incredibly corrupt, and is believed to have raped thousands of virgin girls during his reign. After he died, his tomb was (according to legend) relocated several times due to consecutive lightning strikes. Zhu Guozhen describes how Emperor Yang sought to take Mulan as a concubine, but she took her own life to preserve her honor.
 
-<figure  class="float left" style="max-width: 450px;" >
+<figure  class="float left">
 <img src="/assets/images/articles/faq/emperor_yang_of_sui.jpg" alt="Emperor Yang of Sui. (Public domain)" />
 <figcaption style="text-align: center;"><i>Emperor Yang of Sui. (Public domain)</i></figcaption>
 </figure>
@@ -68,7 +68,7 @@ According to the legend, Mulan was exceedingly beautiful and talented. In fact, 
 
 According to the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)*, Mulan was arranged to marry the son of Wang Sixun after she returned to war. The Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce_and_filial)* gave Wang Sixun’s son a name: Wang Qingyun, and made them already engaged at the beginning of the story. According to the novel, Mulan broke off her engagement to join the army.
 
-<figure class="float right" style="max-width:450px;">
+<figure class="float right">
 <img src="/assets/images/articles/fiercely_filial/wang_qingyun_hua_mulans_fiance.png" alt="Wang Qingyun, Mulan's fiance. Included as an illustration in an early woodblock printing of Fierce and Filial." />
 <figcaption style="text-align: center;"><i>Wang Qingyun, Mulan’s fianc&eacute;. Included as an illustration in an early woodblock printing of Fierce and Filial. (Public domain)</i></figcaption>
 </figure>
@@ -79,7 +79,7 @@ In *[Mulan Joins the Army](/pages/ming/mulan_joins_the_army_xu_wei)* and *[Fierc
 
 The first version to introduce romance into the legend was the 1939 film *[Mulan Joins the Army](/pages/post_imperial/mulan_joins_the_army_1939_film)*. Mulan’s subordinate, Yuandu, begins to develop feelings for her after Mulan goes undercover as a woman.
 
-<figure class="float left" style="max-width: 450px;">
+<figure class="float left">
 <img src="/assets/images/articles/mulan_joins_the_army_1939/960/mulan_yuandu_discuss_military_plans.jpg" alt="Mulan and Yuandu discussing military plans in the 1939 film Mulan Joins the Army. ©1939 China United Productions." />
 <figcaption style="text-align: center;"><i>Mulan and Yuandu discussing military plans in the 1939 film Mulan Joins the Army. ©1939 China United Productions.</i></figcaption>
 </figure>
