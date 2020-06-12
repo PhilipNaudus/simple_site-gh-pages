@@ -73,7 +73,7 @@ figure img {
   margin-right: auto;
 }
 
-.float {
+.float, .float img {
   max-width: 450px;
   max-height: 85vh;
 }
