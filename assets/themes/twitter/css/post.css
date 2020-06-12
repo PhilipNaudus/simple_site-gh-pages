@@ -75,13 +75,15 @@ figure img {
 }
 
 .float {
-  max-width: 450px;
+  width: 450px;
+  max-width: 95vw;
   max-height: 75vh;
   margin: auto;
 }
 
 .float img {
-  max-width: 410px;
+  width: 410px;
+  max-width: 95vw;
   max-height: calc(75vh - 3em);
   width: auto;
   display: block;
