@@ -50,7 +50,7 @@ function repositionFloats()
 window.addEventListener("resize", repositionFloats);
 repositionFloats();
 
-object.addEventListener("load", function(){
+object.addEventListener("load", setTimeout(function(){
 	// Shift right floats to the left if they're causing horizontal scrolling
 	tooMuchRight = 0;
 	var floats = document.getElementsByClassName("float");
@@ -66,5 +66,5 @@ object.addEventListener("load", function(){
 		}
 		tooMuchRight += 10;
 	}
-});
+}, 1000));
 //alert(document.getElementsByClassName("container")[0].offsetWidth);
