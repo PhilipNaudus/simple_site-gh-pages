@@ -14,7 +14,7 @@ description: "Ancient historical and literary texts reveal the real history behi
 {% assign imageCount = 0 %}
 {% for dynasty in dynastyArr %}
 	{% if dynasty != "overview" %}
-		<h4 class="heading text-left mb-5"><img data-src="/assets/images/thumbs/dynasties/{{ dynasty }}.jpg" width="80" height="80" class="lazy" alt="{{ dynastyAlts[forloop.index0] }}" />{{ dynastyNames[forloop.index0] }}</h4>
+		<h4 class="heading text-left mb-5"><a name="{{ dynasty }}"><img data-src="/assets/images/thumbs/dynasties/{{ dynasty }}.jpg" width="80" height="80" class="lazy" alt="{{ dynastyAlts[forloop.index0] }}" />{{ dynastyNames[forloop.index0] }}</a></h4>
 	{% endif %}
 	{% assign folderName = '/' | append: dynasty | append: '/' %}
 	{% assign folder = site.pages | where_exp: "item" , "item.path contains folderName" | sort: "num" %}
