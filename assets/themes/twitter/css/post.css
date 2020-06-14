@@ -268,7 +268,7 @@ nav ul li:hover>ul {
   text-decoration: none;
 }
 
-.main h4 a img {
+h4 a img {
   height: 3em;
   width: 3em;
   border-radius: 2em;
@@ -278,7 +278,7 @@ nav ul li:hover>ul {
   margin-right: .7em;
 }
 
-.main h4 a {
+h4 a {
   color: #000000:
 }
 
