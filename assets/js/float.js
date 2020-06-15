@@ -30,6 +30,17 @@ function repositionFloats()
 			// Make sure that the element doesn't get cut off to the right
 			var right = browserWidth - floats[i].getBoundingClientRect().right;
 			if(right<0) floats[i].style.marginRight = (margin-right+20)+"px";
+
+			// Manually set image sizes to that they don't "jump" when scrolled on mobile browsers
+			var img = floats[i].getElementsbyTagName("img")[0].onload;
+			img.onload = function() {
+				img.style.width = (parseInt(img.width)-1)+"px";
+				img.style.height = (parseInt(img.height)-1)+"px";
+				img.style.maxWidth = "none";
+				img.style.maxHeight = "none";
+				floats[i].maxWidth = "none";
+				floats[i].maxHeight = "none";
+			}
 		}
 	} else
 	{
