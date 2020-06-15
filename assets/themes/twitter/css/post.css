@@ -93,6 +93,10 @@ figure img {
   max-width: 85vw;
   max-height: 75vh;
 }
+.float img {
+  height: auto;
+  width: auto;
+}
 
 @media (min-width:831px) {
   .float {
@@ -101,8 +105,6 @@ figure img {
   .float img {
     max-width: 410px;
     max-height: calc(75vh - 4em);
-    height: auto;
-    width: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
