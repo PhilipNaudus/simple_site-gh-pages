@@ -89,14 +89,11 @@ figure img {
   margin-right: auto;
 }
 
-.float {
+.float, .float img {
   max-width: 85vw;
   max-height: 75vh;
 }
 
-.float img {
-  max-width: 85vw;
-}
 @media (min-width:831px) {
   .float {
     width: 450px;
