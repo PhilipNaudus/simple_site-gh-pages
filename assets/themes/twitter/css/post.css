@@ -72,7 +72,8 @@ figure img {
 
 @media (max-width:480px) {
   p,blockquote {
-    margin: 0;
+    margin-left: 0;
+    margin-right: 0;
     letter-spacing: 1px;
     line-height: 1.8em;
     font-size: 1em;
