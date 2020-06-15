@@ -92,7 +92,7 @@ figure img {
 
 .float, .float img {
   max-width: 85vw;
-  max-height: 75vh;
+  max-height: 65vh;
 }
 .float img {
   height: auto;
