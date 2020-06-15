@@ -1,5 +1,12 @@
-.banner {
-  background:url(/assets/images/promo/banner.jpg) no-repeat center center fixed;
+.ballad_banner {
+  background:url(/assets/images/promo/ballad_banner.jpg) no-repeat center center fixed;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+}
+.bozhou_banner {
+  background:url(/assets/images/promo/bozhou_banner.jpg) no-repeat center center fixed;
   -webkit-background-size:cover;
   -moz-background-size:cover;
   -o-background-size:cover;
