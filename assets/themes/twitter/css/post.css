@@ -22,7 +22,7 @@ p,blockquote {
   margin-right: auto;
   color: #000;
   padding-bottom: 1.3em;
-  font-size: 14px;
+  font-size: 22px;
 }
 blockquote {
   background: #f9f9f9;
@@ -268,7 +268,7 @@ nav ul li:hover>ul {
   text-decoration: none;
 }
 
-h4 a img {
+.main h4 a img {
   height: 3em;
   width: 3em;
   border-radius: 2em;
@@ -278,7 +278,7 @@ h4 a img {
   margin-right: .7em;
 }
 
-h4 a {
+.main h4 a {
   color: #000:
 }
 
