@@ -38,8 +38,8 @@ function repositionFloats()
 				img.style.height = (parseInt(img.height)-1)+"px";
 				img.style.maxWidth = "none";
 				img.style.maxHeight = "none";
-				floats[i].maxWidth = "none";
-				floats[i].maxHeight = "none";
+				img.parentNode.maxWidth = "none";
+				img.parentNode.maxHeight = "none";
 			}
 		}
 	} else
