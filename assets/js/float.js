@@ -33,6 +33,8 @@ function repositionFloats()
 
 			// Manually set image sizes to that they don't "jump" when scrolled on mobile browsers
 			var img = floats[i].getElementsByTagName("img")[0];
+			img.style.width = "100px";
+			img.style.height = "100px";
 			img.onload = function() {
 				img.style.width = "100px";//(parseInt(img.width)-1)+"px";
 				img.style.height = "100px";//(parseInt(img.height)-1)+"px";
