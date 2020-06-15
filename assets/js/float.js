@@ -31,7 +31,7 @@ function repositionFloats()
 			var right = browserWidth - floats[i].getBoundingClientRect().right;
 			if(right<0) floats[i].style.marginRight = (margin-right+20)+"px";
 
-			// Manually set image sizes to that they don't "jump" when scrolled on mobile browsers
+			/*// Manually set image sizes to that they don't "jump" when scrolled on mobile browsers
 			var img = floats[i].getElementsByTagName("img")[0];
 			img.style.width = "100px";
 			img.style.height = "100px";
@@ -42,7 +42,7 @@ function repositionFloats()
 				img.style.maxHeight = "none";
 				img.parentNode.style.maxWidth = "none";
 				img.parentNode.style.maxHeight = "none";
-			}
+			}*/
 		}
 	} else
 	{
