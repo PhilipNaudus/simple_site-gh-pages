@@ -96,6 +96,9 @@ figure img {
 .float img {
   height: auto;
   width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media (min-width:831px) {
@@ -105,9 +108,6 @@ figure img {
   .float img {
     max-width: 410px;
     max-height: calc(75vh - 4em);
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
   }
 }
 
