@@ -31,13 +31,17 @@
   font-family:'Song Myung',serif;
 }
 
-@media (min-width:950px) {
+.float {
+  box-shadow:1px 1px 2px #000,0 0 25px #000,0 0 5px #fff;
+}
+
+@media (max-width:950px) {
   .title1_agile h3 {
     font-size:2em;
   }
 }
 
-@media (min-width:650px) {
+@media (max-width:650px) {
   .title1_agile h3 {
     font-size:1.5em;
   }
