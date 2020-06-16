@@ -70,21 +70,6 @@
 </div>
 
 <script type="text/javascript" src="/assets/js/float.js"></script>
-<script type="text/javascript">
-	// Fix "jump" resizing bug on mobile browsers
- 	var browserWidth = Math.min(document.body.scrollWidth, document.documentElement.scrollWidth, document.body.offsetWidth, document.documentElement.offsetWidth, document.documentElement.clientWidth, window.innerWidth);
-	var browserHeight = Math.min(document.body.scrollHeight, document.documentElement.scrollHeight, document.body.offsetHeight, document.documentElement.offsetHeight, document.documentElement.clientHeight, window.innerHeight);
-	if( browserWidth < 450 )
-	{
-		var banners = document.getElementsByClassName("banner");
-
-		for(i=0; i<banners.length; i++)
-		{
-			banners[0].style.backgroundSize = "auto "+(browserHeight+60)+"px"; 
-			banners[0].style.backgroundPosition = "bottom left"; 
-		}
-	}
-</script>
 
 <div class="footer">
 	<div class="container">
