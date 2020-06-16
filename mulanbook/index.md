@@ -1,29 +1,8 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Discover the Hua Mulan Novel</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta charset="utf-8">
-	<link rel="stylesheet" href="/assets/themes/twitter/css/post.css" type="text/css" media="none" onload="if(media!='all')media='all'" />
-	<link rel="stylesheet" href="/assets/themes/twitter/css/banner.css" type="text/css" media="all" onload="if(media!='all')media='all'">
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Song+Myung" />
-</head>
-<body>
-<header>
-	<nav class="mnu">
-		<div class="logo" id="logo">
-			<h1> <a href="/"><img src="/assets/themes/twitter/images/logo_mulanbook.png" alt="MulanBook Logo" /></a></h1>
- 		</div>
-
-	        <label for="drop" class="toggle"><b>&#9776</b></label>
-	        <input type="checkbox" id="drop">
-	        <ul class="menu mt-1">
-	                <li class="mr-lg-4 mr-3"><a href="https://www.mulanbook.com">Home</a></li>
-	                <!--<li class="mr-lg-4 mr-3"><a href="about.html" class="scroll">About</a></li>-->
-	        </ul>
-        </nav>
-</header>
+---
+layout: custom
+title: Experience The Hua Mulan Novel
+description: During the Qing Dynasty, Zhang Shaoxian took the various Mulan retellings and united them into a story that would captiate audiences for generations to come.
+---
 
 <!-- /banner_bottom -->
 <div class="main banner_bottom" id="article">
@@ -31,7 +10,7 @@
 	<div class="ballad_banner">
 		<div class="container">
 			<div class="title1_agile">
-				<h3>Discover the book based on the Qing dynasty novel about Hua Mulan</h3>
+				<h3>Experience the book based on the Qing dynasty novel about Hua Mulan</h3>
 			</div>
 		</div>
 	</div>
@@ -116,26 +95,3 @@
 </div>
 
 <script type="text/javascript" src="/assets/js/float.js"></script>
-
-<div class="footer">
-	<div class="container">
-		<p>&copy; 2020 Philip Naudus. All rights reserved.</p>
-	</div>
-</div>
-<script type="text/javascript">
-var sc_project=12065750;
-var sc_invisible=1;
-var sc_security="ef566b0c";
-var sc_https=1;
-var sc_client_storage="disabled";
-</script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js" async></script>
-<noscript><div class="statcounter"><a title="website statistics"
-href="https://statcounter.com/" target="_blank"><img class="statcounter"
-src="https://c.statcounter.com/12065750/0/ef566b0c/1/" alt="website
-statistics"></a></div></noscript>
-</body>
-</html>
-
-
