@@ -11,7 +11,7 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 600;
 }
 
-p,blockquote {
+p,blockquote,ul,ol {
   margin: 0;
   letter-spacing: 1px;
   line-height: 1.5em;
@@ -71,7 +71,7 @@ figure img {
 }
 
 @media (max-width:480px) {
-  p,blockquote {
+  p,blockquote,ul,ol {
     margin-left: 0;
     margin-right: 0;
     letter-spacing: 1px;
