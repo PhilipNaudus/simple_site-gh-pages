@@ -44,7 +44,7 @@ title: Fierce and Filial, "The Hua Mulan Novel"
 				<!-- begin text -->
 				<p>This translation is a work in progress. I’m working as hard as I can to complete this translation... and would be happy to send you the rest of the chapters as I complete them.</p>
 
-				<p style="text-align:center;"><a class="readnovel email" href="http://eepurl.com/gIKMMP">Email me one chapter each week</small></a></p>
+				<p style="text-align:center;"><a class="readnovel email" href="http://eepurl.com/gIKMMP">Email me one chapter each week</a></p>
 				<p style="text-align:center;"><a class="readnovel facebook" href="https://www.facebook.com/groups/2465189123803489/">I’d like to read the chapters on Facebook<br /><small>Everyone who requests to join the group will be approved</small></a></p>
 
 
