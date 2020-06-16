@@ -72,7 +72,8 @@
 <script type="text/javascript" src="/assets/js/float.js"></script>
 <script type="text/javascript">
 	// Fix "jump" resizing bug on mobile browsers
-	function resizeBackground() {
+	if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )
+	{
 		var banners = document.getElementsByClassName("banner");
 		var browserHeight = Math.min(document.body.scrollHeight, document.documentElement.scrollHeight, document.body.offsetHeight, document.documentElement.offsetHeight, document.documentElement.clientHeight, window.innerHeight);
 
@@ -81,9 +82,6 @@
 			banners[0].style.backgroundSize = "auto "+(browserHeight+60)+"px"; 
 		}
 	}
-
-$(window).resize(resizeBackground);
-resizeBackground();
 </script>
 
 <div class="footer">
