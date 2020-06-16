@@ -31,18 +31,13 @@ function repositionFloats()
 			var right = browserWidth - floats[i].getBoundingClientRect().right;
 			if(right<0) floats[i].style.marginRight = (margin-right+20)+"px";
 
-			/*// Manually set image sizes to that they don't "jump" when scrolled on mobile browsers
+			// Lock image sizes to that they don't "jump" when scrolled on mobile browsers
 			var img = floats[i].getElementsByTagName("img")[0];
-			img.style.width = "100px";
-			img.style.height = "100px";
-			img.onload = function() {
-				img.style.width = "100px";//(parseInt(img.width)-1)+"px";
-				img.style.height = "100px";//(parseInt(img.height)-1)+"px";
-				img.style.maxWidth = "none";
-				img.style.maxHeight = "none";
-				img.parentNode.style.maxWidth = "none";
-				img.parentNode.style.maxHeight = "none";
-			}*/
+			if (img.complete) {
+				lockImageSizes(img);
+			} else {
+				img.addEventListener('load', lockImageSizes, false)
+			}
 		}
 	} else
 	{
@@ -57,6 +52,20 @@ function repositionFloats()
 			floats[i].style.padding = "0px";
 		}
 	}
+}
+
+// Lock image sizes to that they don't "jump" when scrolled on mobile browsers
+function lockImageSizes(imgOrEvent)
+{
+	var img = imgOrEvent.target ? imgOrEvent.target : imgOrEvent;
+
+	alert(img.width);
+	img.style.width = parseInt(img.width)+"px";
+	img.style.height = parseInt(img.height)+"px";
+	img.style.maxWidth = "none";
+	img.style.maxHeight = "none";
+	img.parentNode.style.maxWidth = "none";
+	img.parentNode.style.maxHeight = "none";
 }
 
 window.addEventListener("resize", repositionFloats);

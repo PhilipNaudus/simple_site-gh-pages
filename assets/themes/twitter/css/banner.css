@@ -1,9 +1,7 @@
 .ballad_banner {
   background:url(/assets/images/promo/ballad_banner.jpg) no-repeat center center fixed;
-  -webkit-background-size:cover;
-  -moz-background-size:cover;
-  -o-background-size:cover;
-  background-size:cover;
+  background-size: 100% auto;
+  background-repeat: repeat-y;
 }
 .bozhou_banner {
   background:url(/assets/images/promo/bozhou_banner.jpg) no-repeat center center fixed;
