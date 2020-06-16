@@ -30,14 +30,6 @@ function repositionFloats()
 			// Make sure that the element doesn't get cut off to the right
 			var right = browserWidth - floats[i].getBoundingClientRect().right;
 			if(right<0) floats[i].style.marginRight = (margin-right+20)+"px";
-
-			// Lock image sizes to that they don't "jump" when scrolled on mobile browsers
-			var img = floats[i].getElementsByTagName("img")[0];
-			if (img.complete) {
-				lockImageSizes(img);
-			} else {
-				img.addEventListener('load', lockImageSizes, false)
-			}
 		}
 	} else
 	{
@@ -50,6 +42,14 @@ function repositionFloats()
 			floats[i].style.marginRight = "auto";
 			floats[i].style.marginBottom = "2em";
 			floats[i].style.padding = "0px";
+
+			// Lock image sizes to that they don't "jump" when scrolled on mobile browsers
+			var img = floats[i].getElementsByTagName("img")[0];
+			if (img.complete) {
+				lockImageSizes(img);
+			} else {
+				img.addEventListener('load', lockImageSizes, false)
+			}
 		}
 	}
 }
