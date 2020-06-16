@@ -46,14 +46,6 @@ function repositionFloats()
 	}
 }
 
-// Lock image sizes to that they don't "jump" when scrolled on mobile browsers
-function lockImageSizes(imgOrEvent)
-{
-	var img = imgOrEvent.target ? imgOrEvent.target : imgOrEvent;
-
-	setTimeout(lockImageSizesTimeout, 100, img);
-}
-
 window.addEventListener("resize", repositionFloats);
 repositionFloats();
 
