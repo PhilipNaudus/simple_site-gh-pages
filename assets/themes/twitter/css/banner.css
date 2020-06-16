@@ -6,7 +6,9 @@
 }
 .bozhou_banner {
   background:url(/assets/images/promo/bozhou_banner.jpg) no-repeat center center fixed;
-  background-size: cover;
+  background-size: 100% auto;
+  background-repeat: repeat-y;
+  background-position: left top; 
 }
 
 .title1_agile {
