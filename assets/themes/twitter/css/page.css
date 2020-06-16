@@ -181,7 +181,8 @@ nav ul li:hover>ul {
 
   [id^=drop]:checked+ul {
     display: block;
-    background: rgba(16,16,16,.85);
+    background: rgba(70,71,74,.25);
+    /*background: rgba(16,16,16,.85);*/
     padding: 15px 0;
     text-align: center;
     width: 100%;
