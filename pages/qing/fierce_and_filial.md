@@ -15,7 +15,7 @@ As the story opens, Mulan is betrothed to one of the most brilliant scholars in 
 
 <p style="text-align:center;"><a class="readnovel book" href="/pages/qing/fierce_and_filial_english_translation">Mulan: The Qing dynasty novel<br /><small>Read the English translation of <i>Fierce and Filial</i></small></a></p>
 
-<h2>Plot Summary</h2>
+<h2>Plot summary of volume 1 (chapters 1-23)</h2>
 
 Seventeen-year-old Mulan is one of the most beautiful and talented women in Hebei. The fact that she is engaged to marry Wang Qingyun, one of the few young men who managed to exempt himself from the previous drafts, makes her the envy of the entire village. However, when Mulan’s father (a retired battalion captain by the name of Hua Hu) is called to serve in the army, her world turns upside-down. Because her siblings are still very young (her Munan nine years old while her brother Yaoer is five), Mulan volunteers to take her father’s place in battle. Dressing as a man, she gives up everything she has ever know to join the army.
 
@@ -43,7 +43,7 @@ Earth Master recognizes Mulan as the soldier who defeated him. Although he desir
 
 When Mulan refuses to consummate the wedding, Princess Wanhua grows suspicious and eventually discovers that Mulan is a woman. Finally, Mulan shares her story, and Wanhua is so impressed that the two women become sworn sisters. Wanhua agrees to betray the bandits and work to destroy them from within.
 
-Before she departs, Mulan confides her insecurities in Princess Wanhua. When she first left, she had not intended to be away for this long. Being that almost all young men have been drafted, her fianc&eacute; Qingyun has been living in a town of women for nearly seven years. Mulan has little doubt that Qingyun has already married, and is uncertain whether these years that she has spent living among men have lowered her value beyond even hoping to become his second wife. Finally, Princess Wanhua comes up with a solution which both of them feel will convince Qingyun to marry Mulan: If he takes Mulan in marriage, Wanhua will agree to serve as his mistress. Mulan feels relieved and is deeply grateful to the princess.
+Before she departs, Mulan confides her insecurities in Princess Wanhua. When she first left, she had not intended to be away for this long. Being that almost all young men have been drafted, her fianc&eacute; Qingyun has been living in a town of women for nearly seven years. Mulan has little doubt that Qingyun has already married, and is uncertain whether these years that she has spent living among men have lowered her value beyond even hoping to become his second wife. Finally, Princess Wanhua comes up with a solution she feels may convince Qingyun to marry Mulan.
 
 <figure class="float left" style="max-width:450px;">
 <img src="/assets/images/articles/fiercely_filial/earth_master_hua_mulan.jpg" alt="Earth Master. (Although his name is Zhao Rang, he goes by Earth Master for much of the book.) Included as an illustration in an early woodblock printing of Fierce and Filial." />
@@ -53,6 +53,8 @@ Before she departs, Mulan confides her insecurities in Princess Wanhua. When she
 To escape from the bandits' stronghold, Mulan dresses as a woman. However, the bandits have anticipated this. The guards are ordered not to let any men out, and women who exit must prove their feminity by wearing <a href="https://en.wikipedia.org/wiki/Lotus_shoes">lotus shoes</a>. When Mulan still manages to return to her camp undetected, the bandits conclude that she must be a master of dark magic.
 
 Mulan gets lost on the way back and ends up on the wrong side of the mountain. Right before nightfall, she suddenly realizes that she is hopelessly lost. Suddenly, Li Jing (mentor to  Mulan’s grandfather in <a href="biography_of_extraordinary_mulan">Biography of Extraordinary Mulan</a>) appears and gives her a magical bow and arrow. Then, Li Jing transports Mulan back to her camp through the use of magic.
+
+<h2>Plot summary of volume 2 (chapters 24-46)</h2>
 
 Meanwhile, Princess Wanhua convinces the bandits to feign surrender. They invite Supreme Commander Xin Ping and his army into their stronghold, hoping to capture them. Although Xin Ping knows this is a trap, he recalls the emperor's orders to advance at any cost. Meanwhile, the bandits are prepared. Three thousand bandits are ordered to fight only against Mulan, whom they believe to be a wizard. During the battle, Mulan is seriously injured and is about to die, but Princes Wanhua drags her to safety. During the chaos, Princess Wanhua sneaks behind the bandit leaders, kills them, and then flees to "assist" Leopard Skin, the mighty bandit king.
 
