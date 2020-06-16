@@ -1,27 +1,7 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Fierce and Filial, "The Hua Mulan Novel," Translator's Preface</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta charset="utf-8">
-	<link rel="stylesheet" href="/assets/themes/twitter/css/post.css" type="text/css" media="none" onload="if(media!='all')media='all'" />
-</head>
-<body>
-<header>
-	<nav class="mnu">
-		<div class="logo" id="logo">
-			<h1> <a href="/"><img src="/assets/themes/twitter/images/logo_mulanbook.png" alt="MulanBook Logo" /></a></h1>
- 		</div>
-
-	        <label for="drop" class="toggle"><b>&#9776</b></label>
-	        <input type="checkbox" id="drop">
-	        <ul class="menu mt-1">
-	                <li class="mr-lg-4 mr-3"><a href="https://www.mulanbook.com">Home</a></li>
-	                <!--<li class="mr-lg-4 mr-3"><a href="about.html" class="scroll">About</a></li>-->
-	        </ul>
-        </nav>
-</header>
+---
+layout: custom
+title: Fierce and Filial, "The Hua Mulan Novel," Translator's Preface
+---
 
 <!-- /banner_bottom -->
 <div class="main banner_bottom" id="article">
@@ -47,31 +27,3 @@
 		</div>
 	</div>
 </div>
-
-
-
-
-
-
-<div class="footer">
-	<div class="container">
-		<p>&copy; 2020 Philip Naudus. All rights reserved.</p>
-	</div>
-</div>
-<script type="text/javascript">
-var sc_project=12065750;
-var sc_invisible=1;
-var sc_security="ef566b0c";
-var sc_https=1;
-var sc_client_storage="disabled";
-</script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js" async></script>
-<noscript><div class="statcounter"><a title="website statistics"
-href="https://statcounter.com/" target="_blank"><img class="statcounter"
-src="https://c.statcounter.com/12065750/0/ef566b0c/1/" alt="website
-statistics"></a></div></noscript>
-</body>
-</html>
-
-
