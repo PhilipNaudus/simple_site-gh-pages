@@ -11,7 +11,7 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 600;
 }
 
-p,blockquote,ul,ol {
+p,blockquote,form {
   margin: 0;
   letter-spacing: 1px;
   line-height: 1.5em;
@@ -71,7 +71,7 @@ figure img {
 }
 
 @media (max-width:480px) {
-  p,blockquote,ul,ol {
+  p,blockquote,form {
     margin-left: 0;
     margin-right: 0;
     letter-spacing: 1px;
@@ -92,7 +92,7 @@ figure img {
 
 .float, .float img {
   max-width: 85vw;
-  max-height: 50vh;
+  max-height: 60vh;
 }
 .float img {
   height: auto;
@@ -108,7 +108,7 @@ figure img {
   }
   .float img {
     max-width: 410px;
-    max-height: calc(50vh - 4em);
+    max-height: calc(60vh - 4em);
   }
 }
 

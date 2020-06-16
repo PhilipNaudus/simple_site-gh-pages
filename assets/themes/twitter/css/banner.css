@@ -36,7 +36,7 @@
 }
 
 .title1_agile h4 {
-  font-size: 1em;
+  font-size: 1.5em;
 }
 
 .float img {
@@ -51,6 +51,9 @@
 @media (max-width:950px) {
   .title1_agile h3 {
     font-size:2em;
+  }
+  .title1_agile h4 {
+    font-size: 1em;
   }
 }
 
