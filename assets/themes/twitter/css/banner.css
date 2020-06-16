@@ -6,6 +6,11 @@
   background:url(/assets/images/promo/bozhou_banner.jpg) no-repeat center center fixed;
   background-size: cover;
 }
+@media (max-width:830px) {
+  .bozhou_banner {
+    background:url(/assets/images/promo/bozhou_banner_mobile.jpg) no-repeat center center fixed;
+  }
+}
 
 .title1_agile {
   display:block;
