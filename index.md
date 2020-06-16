@@ -13,6 +13,7 @@ description: "Ancient historical and literary texts reveal the real history behi
 
 {% assign imageCount = 0 %}
 {% for dynasty in dynastyArr %}
+{% if article.layout == "post" %}
 	{% if dynasty != "overview" %}
 		<h4 class="heading text-left mb-5"><img data-src="/assets/images/thumbs/dynasties/{{ dynasty }}.jpg" width="80" height="80" class="lazy" alt="{{ dynastyAlts[forloop.index0] }}" /><a name="{{ dynasty }}">{{ dynastyNames[forloop.index0] }}</a></h4>
 	{% endif %}
@@ -38,6 +39,7 @@ description: "Ancient historical and literary texts reveal the real history behi
 			</div>
 		</div>
 	{% endfor %}
+{% endif %}
 {% endfor %}
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js" onload="var lazyLoadInstance=new LazyLoad({elements_selector:'.lazy'});"></script>
