@@ -6,8 +6,12 @@
   background:url(/assets/images/promo/bozhou_banner.jpg) no-repeat center center fixed;
   background-size: cover;
 }
+.ming_banner {
+  background:url(/assets/images/articles/mulan_joins_the_army_tang_yin_ming_dynasty.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
 @media (max-width:500px) {
-  .bozhou_banner, .ballad_banner
+  .bozhou_banner, .ballad_banner, .ming_banner
   {
     background-attachment: scroll;
   }
@@ -22,13 +26,17 @@
   margin-right:auto
 }
 
-.title1_agile h3 {
+.title1_agile h3, .title1_agile h4 {
   font-size:2.5em;
   font-weight:700;
   letter-spacing:1px;
   color:#fff;
   text-shadow:1px 1px 2px #000,0 0 25px #000,0 0 5px #fff;
   font-family:'Song Myung',serif;
+}
+
+.title1_agile h4 {
+  font-size: 1em;
 }
 
 .float img {
