@@ -1,14 +1,10 @@
 .ballad_banner {
   background:url(/assets/images/promo/ballad_banner.jpg) no-repeat center center fixed;
-  background-size: 100% auto;
-  background-repeat: repeat-y;
-  background-position: left bottom; 
+  background-size: cover;
 }
 .bozhou_banner {
   background:url(/assets/images/promo/bozhou_banner.jpg) no-repeat center center fixed;
-  background-size: 100% auto;
-  background-repeat: repeat-y;
-  background-position: left bottom; 
+  background-size: cover;
 }
 
 .title1_agile {

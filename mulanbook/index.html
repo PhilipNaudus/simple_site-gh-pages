@@ -28,7 +28,7 @@
 <!-- /banner_bottom -->
 <div class="main banner_bottom" id="article">
 	<div class="clearfix" style="margin-top: 24px;"> </div>
-	<div class="ballad_banner">
+	<div class="ballad_banner banner">
 		<div class="container">
 			<div class="title1_agile">
 				<h3>Discover the book based on the Qing dynasty novel about Hua Mulan</h3>
@@ -47,7 +47,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="bozhou_banner">
+	<div class="bozhou_banner banner">
 		<div class="container">
 			<div class="title1_agile">
 				<h3>While the original plot and characters have been unaltered, the story has been retold to engage the modern reader.</h3>
@@ -65,15 +65,26 @@
 				<p>Nevertheless, the overarching plot and each subplot remains intact. Names and personalities of the original characters have not been altered, and even the original chapter numbering has been preserved.</p>
 			</div>
 			<div style="clear:both;"></div>
-			<script type="text/javascript" src="/assets/js/float.js"></script>
 		</div>
 	</div>
 </div>
 
+<script type="text/javascript" src="/assets/js/float.js"></script>
+<script type="text/javascript">
+	// Fix "jump" resizing bug on mobile browsers
+	function resizeBackground() {
+		var banners = document.getElementsByClassName("banner");
+		var browserHeight = Math.min(document.body.scrollHeight, document.documentElement.scrollHeight, document.body.offsetHeight, document.documentElement.offsetHeight, document.documentElement.clientHeight, window.innerHeight);
 
+		for(i=0; i<banners.length; i++)
+		{
+			banners[0].style.backgroundSize = "auto "+(browserHeight+60)+"px"; 
+		}
+	}
 
-
-
+$(window).resize(resizeBackground);
+resizeBackground();
+</script>
 
 <div class="footer">
 	<div class="container">
