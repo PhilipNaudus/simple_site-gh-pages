@@ -4,7 +4,7 @@ title: <i>Biography of Extraordinary Mulan</i> (c. 1800)
 description: <i>Biography of Extraordinary Mulan</i> is a Qing dynasty novel that tells the story of how Mulan’s grandfather passed down the wisdom Mulan needed to become skilled in martial arts.
 image: mulan_training_martial_arts_grandfather_biography_of_extraordinary_mulan.png
 bg: bababa
-alt: Mulan receives instruction in martial arts from her grandfather as her grandmother looks on. Included as an illustration in a late woodblock reprinting of Biography of Extraordinary Mulan (Public domain).
+alt: Mulan receives instruction in martial arts from her grandfather as her grandmother looks on. Included in a late woodblock reprinting of Biography of Extraordinary Mulan (Public domain).
 imageType: float
 num: 3
 ---
