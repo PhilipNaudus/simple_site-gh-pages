@@ -59,7 +59,6 @@ function lockImageSizes(imgOrEvent)
 {
 	var img = imgOrEvent.target ? imgOrEvent.target : imgOrEvent;
 
-	alert(img.width);
 	img.style.width = parseInt(img.width)+"px";
 	img.style.height = parseInt(img.height)+"px";
 	img.style.maxWidth = "none";
