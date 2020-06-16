@@ -1,5 +1,5 @@
 ---
-layout: custom
+layout: page
 title: Experience The Hua Mulan Novel
 description: During the Qing Dynasty, Zhang Shaoxian took the various Mulan retellings and united them into a story that would captiate audiences for generations to come.
 ---
