@@ -21,8 +21,8 @@ As the twentieth century drew to a close, English translations of Mulan's story 
 
 Mulan's story has traversed the globe several times and has touched the hearts and minds of countless generations since the story was first conceived over a millennium ago.
 
-**Related Articles:**
-&bull; [Questions about Mulan’s Legend and History, Answered](/pages/overview/questions_about_mulans_legend_and_history)
+**Related Articles:**<br />
+&bull; [Questions about Mulan’s Legend and History, Answered](/pages/overview/questions_about_mulans_legend_and_history)<br />
 &bull; [The legend of Mulan: 1,500 years of history](/pages/overview/history_of_legend_of_mulan)
 
 

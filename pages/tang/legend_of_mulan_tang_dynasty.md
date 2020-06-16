@@ -17,8 +17,8 @@ Early renditions of Mulan's story almost exclusively focused on Mulan's beauty, 
 
 Although these depictions of Mulan may seem disappointingly anti-feminist to the modern reader, they mark a revolutionary shift in Chinese ideology. Previously, Ban Zhao had insisted that "a man's worth lies in his strength while a woman's beauty stems from her inferiority." As the status of women gradually rose, poets challenged the culture with the story of Mulan, yet assured readers that a woman who becomes strong will not lose her beauty or virtue. Mulan, the most filial daughter of all, was heralded as the perfect woman.
 
-**Related Articles:**
-&bull; [Questions about Mulan’s Legend and History, Answered](/pages/overview/questions_about_mulans_legend_and_history)
+**Related Articles:**<br />
+&bull; [Questions about Mulan’s Legend and History, Answered](/pages/overview/questions_about_mulans_legend_and_history)<br />
 &bull; [The legend of Mulan: 1,500 years of history](/pages/overview/history_of_legend_of_mulan)
 
 
