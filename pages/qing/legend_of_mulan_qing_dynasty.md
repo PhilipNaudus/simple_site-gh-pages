@@ -22,12 +22,8 @@ As the oppressive Qing state began to crumble, Zhang Shaoxian united many of the
 In each of these retellings, Mulan is described as both strong and virtuous. Even when she is thrust into difficult circumstances, her story is used to inspire readers that one can resist evil with great force without resorting to objectionable means.
 
 **Related Articles:**
-<p>
-<ol>
-<li /><a href="/pages/overview/questions_about_mulans_legend_and_history">Questions about Mulan’s Legend and History, Answered</a>
-<li /><a href="/pages/overview/history_of_legend_of_mulan">The legend of Mulan: 1,500 years of history</a>
-</ol>
-</p>
+&bull; [Questions about Mulan’s Legend and History, Answered](/pages/overview/questions_about_mulans_legend_and_history)
+&bull; [The legend of Mulan: 1,500 years of history](/pages/overview/history_of_legend_of_mulan)
 
 
 <center><a id="note_link" href="#" onclick="toggle_note(); return false;">References <span id="show_note_icon"></span></a></center>
