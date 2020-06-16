@@ -5,8 +5,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	{% if page.description %}<meta name="description" content="{{ page.description | strip_html }}">{% endif %}
-	{% if page.layout == "custom" %} <link rel="stylesheet" href="/assets/themes/twitter/css/post.css" type="text/css" media="none" onload="if(media!='all')media='all'" /><link rel="stylesheet" href="/assets/themes/twitter/css/banner.css" type="text/css" media="all" onload="if(media!='all')media='all'"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Song+Myung" />
+	{% if page.layout == "custom" %} <link rel="stylesheet" href="/assets/themes/twitter/css/post.css" type="text/css" media="none" onload="if(media!='all')media='all'" />
 	{% else %} <link rel="stylesheet" href="{{ ASSET_PATH }}/css/{{ page.layout }}.css" type="text/css" media="none" onload="if(media!='all')media='all'" />{% endif %}
+	{% if page.extrahead %} {{ page.extrahead }} {% endif %}
 	<link rel="icon" type="image/png" href="/icon.png" />
 </head>
 <body>
