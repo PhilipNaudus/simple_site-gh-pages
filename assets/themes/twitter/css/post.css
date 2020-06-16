@@ -88,6 +88,8 @@ figure img {
   height: auto;
   margin-left: auto;
   margin-right: auto;
+  transition: with 2s;
+  transition: height 2s;
 }
 
 .float, .float img {
@@ -100,7 +102,8 @@ figure img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
+  transition: with 2s;
+  transition: height 2s;}
 
 @media (min-width:831px) {
   .float {
