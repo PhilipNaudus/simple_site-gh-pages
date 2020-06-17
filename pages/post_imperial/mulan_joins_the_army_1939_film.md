@@ -102,7 +102,7 @@ Countless eligible young men from Mulan's hometown eagerly await her return, but
 var floats = document.getElementsByClassName("float");
 for (var i = 0; i < floats.length; i++)
 {
-  floats[i].style.maxHeight = "calc("+getComputedStyle(floats[i]).maxHeight+" + 5em)"
+  floats[i].style.maxHeight = "calc("+getComputedStyle(floats[i]).maxHeight+" + 7em)"
 }
 </script>
 {:/}
