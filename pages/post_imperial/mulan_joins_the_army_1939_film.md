@@ -99,9 +99,10 @@ Countless eligible young men from Mulan's hometown eagerly await her return, but
 <script type="text/javascript" src="/assets/js/resizeLazyThumbs.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js" onload="var lazyLoadInstance=new LazyLoad({elements_selector:'.lazy'});"></script>
 <script type="text/javascript">
-var floats = document.getElementsByClassName('float');
-for (var i = 0; i < floats.length; i++) {
-  floats[i].style.maxHeight = (parseInt(floats[i].style.maxHeight) + 4) + "em";
+var floats = document.getElementsByClassName("float");
+for (var i = 0; i < floats.length; i++)
+{
+  floats[i].style.maxHeight = "calc("+getComputedStyle(floats[i]).maxHeight+" + 4em)"
 }
 </script>
 {:/}
