@@ -162,6 +162,7 @@ nav ul li {
   margin: 0;
   display: inline-block;
   float: left;
+  margin-left: 3em;
 }
 
 nav a {
