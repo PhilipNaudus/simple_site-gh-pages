@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mulanbook: The history and legend of Hua Mulan"
-description: "Ancient historical and literary texts reveal the real history behind the legend of Mulan and how it developed over the past 1,500 years."
+description: Learn about the real history behind the legend of Mulan from both ancient and modern texts, read the original Hua Mulan novels, and discover the truth behind one of the most fascinating Chinese legends.
 ---
 
 {::nomarkdown}
