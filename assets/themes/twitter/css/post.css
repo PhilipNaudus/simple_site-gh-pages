@@ -381,7 +381,7 @@ a {
   padding-top: 3rem!important;
 }
 
-/* readnovel */
+/* readnovel
 .readnovel {
     display: inline-block;
     text-align: center;
@@ -426,4 +426,71 @@ a {
     left: 0px;
     background: url("data:image/png;base64,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") no-repeat left center transparent;
     background-size: 100% 100%;
+}
+
+/* banner */
+
+.ballad_banner {
+  background:url(/assets/images/promo/ballad_banner.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.bozhou_banner {
+  background:url(/assets/images/promo/bozhou_banner.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.ming_banner {
+  background:url(/assets/images/articles/mulan_joins_the_army_tang_yin_ming_dynasty.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+@media (max-width:500px) {
+  .bozhou_banner, .ballad_banner, .ming_banner
+  {
+    background-attachment: scroll;
+  }
+}
+
+.title1_agile {
+  display:block;
+  width:70%;
+  padding-top:4em;
+  padding-bottom:4em;
+  margin-left:auto;
+  margin-right:auto
+}
+
+.title1_agile h3, .title1_agile h4 {
+  font-size:2.5em;
+  font-weight:700;
+  letter-spacing:1px;
+  color:#fff;
+  text-shadow:1px 1px 2px #000,0 0 25px #000,0 0 5px #fff;
+  font-family:'Song Myung',serif;
+}
+
+.title1_agile h4 {
+  font-size: 1.5em;
+}
+
+.float img {
+  box-shadow: 1px 1px 2px #000,0 0 25px #000,0 0 5px #fff;
+  max-height: 40vh;
+}
+
+.container {
+  display: inline-block;
+}
+
+@media (max-width:950px) {
+  .title1_agile h3 {
+    font-size:2em;
+  }
+  .title1_agile h4 {
+    font-size: 1em;
+  }
+}
+
+@media (max-width:650px) {
+  .title1_agile h3 {
+    font-size:1.5em;
+  }
 }
