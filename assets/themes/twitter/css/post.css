@@ -426,7 +426,7 @@ a {
 
 .float .shaddow {
   box-shadow: 1px 1px 2px #000,0 0 25px #000,0 0 5px #fff;
-  max-height: 40vh;
+  max-height: 15em;
 }
 
 @media (max-width:950px) {
