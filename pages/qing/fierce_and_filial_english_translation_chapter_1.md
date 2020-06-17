@@ -1,6 +1,7 @@
 ---
 layout: custom
 title: Fierce and Filial, "The Hua Mulan Novel," Chapter 1
+extrahead: '<link rel="stylesheet" href="/assets/themes/twitter/css/button.css" />'
 ---
 
 <!-- /banner_bottom -->

@@ -13,7 +13,7 @@ As the title suggests, *Fierce and Filial* describes Mulan as a mighty warrior w
 
 As the story opens, Mulan is betrothed to one of the most brilliant scholars in all of China. Because tradition demanded that she be primarily devoted to her fianc&eacute;'s family, her choice to take her father's place in battle showed that she placed her father above her future husband. However, due to her resolve to remain devoted to her father, she is willing to risk offending her fianc&eacute;, even if it means she may never marry.
 
-<p style="text-align:center;"><a class="readnovel book" href="/pages/qing/fierce_and_filial_english_translation">Mulan: The Qing dynasty novel<br /><small>Read the English translation of <i>Fierce and Filial</i></small></a></p>
+<div style="background:#F1F6FB;border:#D6DFD8 2px solid;vertical-align:middle;text-align:center;width:100%;padding:78px 68px 78px 68px;color:#879F9F"><b>I’m currently working to adapt this novel into a book that will be both accessible and engaging for modern readers.<br /><a href="/mulanbook">Learn more</a></b></span></div>
 
 <h2>Plot summary of volume 1 (chapters 1-23)</h2>
 
