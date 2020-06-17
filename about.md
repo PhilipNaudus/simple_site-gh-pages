@@ -18,12 +18,7 @@ title: About
 				<p>One of the best perks about living in Taiwan is being able to explore the abandoned corners of libraries. I enjoy reading very old Chinese novels because they open my horizons to a fascinating culture that is different from the one I grew up with.</p>
 				<p>I have read over a dozen retellings of the Mulan legend in the original Chinese, and have made this website to share my knowledge with you.</p>
 
-<div>
-
-<p style="float:right;"><b>Next: <a href="/pages/qing/fierce_and_filial_english_translation_chapter_1"><i>Chapter 1</i></a></b></p>
-
-</div>
-<div style="clear:both;"></div>
+			<div style="clear:both;"></div>
 
 			</div>
 		</div>

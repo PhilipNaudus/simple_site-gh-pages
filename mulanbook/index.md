@@ -1,7 +1,7 @@
 ---
 layout: custom
 title: Experience The Hua Mulan Novel
-description: During the Qing Dynasty, Zhang Shaoxian took the various Mulan retellings and united them into a story that would captiate audiences for generations to come.
+description: During the Qing Dynasty, Zhang Shaoxian took the various Mulan retellings and united them into a story that would captivate audiences for generations to come.
 extrahead: '<link rel="stylesheet" href="/assets/themes/twitter/css/banner.css" type="text/css" media="all" onload="if(media!=\"all\")media=\"all\""><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Song+Myung" />'
 ---
 
@@ -38,7 +38,7 @@ extrahead: '<link rel="stylesheet" href="/assets/themes/twitter/css/banner.css" 
 		<div class="inner_sec_top_aglieits">
 			<div class="banner_bottom_info">
 				<br />
-				<p>It’s more than a translation. Instead of reading footnotes about relevant historical events, you’ll be drawn into the characters’ world so that you can experience how the original audience felt about the story.</p>
+				<p>It’s more than a translation. Instead of reading footnotes about relevant historical events, you’ll be drawn into the characters’ world so you can experience how the original audience felt about the story.</p>
 				<figure  class="float right" >
 					<img src="/assets/images/articles/hua_mulan_lu_wanhua_sworn_sisters.jpg" alt="Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua." />
 				</figure>
