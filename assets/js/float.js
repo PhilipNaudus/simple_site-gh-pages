@@ -42,34 +42,8 @@ function repositionFloats()
 			floats[i].style.marginRight = "auto";
 			floats[i].style.marginBottom = "2em";
 			floats[i].style.padding = "0px";
-
-			// Lock image sizes to that they don't "jump" when scrolled on mobile browsers
-			var img = floats[i].getElementsByTagName("img")[0];
-			if (img.complete) {
-				lockImageSizes(img);
-			} else {
-				img.addEventListener('load', lockImageSizes, false)
-			}
 		}
 	}
-}
-
-// Lock image sizes to that they don't "jump" when scrolled on mobile browsers
-function lockImageSizes(imgOrEvent)
-{
-	var img = imgOrEvent.target ? imgOrEvent.target : imgOrEvent;
-
-	setTimeout(lockImageSizesTimeout, 100, img);
-}
-
-function lockImageSizesTimeout(img)
-{
-	img.style.width = parseInt(img.width)+"px";
-	img.style.height = parseInt(img.height)+"px";
-	img.style.maxWidth = "none";
-	img.style.maxHeight = "none";
-	img.parentNode.style.maxWidth = "none";
-	img.parentNode.style.maxHeight = "none";
 }
 
 window.addEventListener("resize", repositionFloats);

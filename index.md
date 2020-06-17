@@ -20,6 +20,7 @@ description: "Ancient historical and literary texts reveal the real history behi
 	{% assign folder = site.pages | where_exp: "item" , "item.path contains folderName" | sort: "num" %}
 
 	{% for article in folder %}
+	{% if article.layout == "post" %}
 		<div class="row {% if forloop.last %} last_article {% else %} first_article {% endif %}">
 			<div class="col-md-4 main-1">
 				{% if article.image contains "#" %}
@@ -37,6 +38,7 @@ description: "Ancient historical and literary texts reveal the real history behi
 				<p class="mt-3">{{ article.description }}</p>
 			</div>
 		</div>
+	{% endif %}
 	{% endfor %}
 {% endfor %}
 

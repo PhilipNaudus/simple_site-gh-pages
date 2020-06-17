@@ -80,6 +80,7 @@ figure img {
   }
 }
 
+/***** Floating and full-sized images *****/
 .fillimg {
   display: block;
   max-width: 85vw;
@@ -100,15 +101,15 @@ figure img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  max-height: calc(20em - 4em);
 }
-
+/* For desktop */
 @media (min-width:831px) {
   .float {
     width: 450px;
   }
   .float img {
     max-width: 410px;
-    max-height: calc(20em - 4em);
   }
 }
 
@@ -223,6 +224,7 @@ nav ul li:hover>ul {
     display: block;
     background: rgba(70,71,74,1);
     /*background: rgba(16,16,16,.85);*/
+    box-shadow: 1px 1px 2px #000,0 0 25px #000,0 0 5px #fff;
     padding: 15px 0;
     text-align: center;
     width: 100%;
