@@ -31,11 +31,11 @@ description: "Ancient historical and literary texts reveal the real history behi
 					{% assign defaultImage = article.image  %}
 				{% endif %}
 
-				<a href="{{ article.url }}"><img src="/assets/images/thumbs/articles/placeholder.png" data-src="/assets/images/thumbs/articles/{{ defaultImage }}" style="background-color: #{{ article.bg }}" class="lazy img-fluid" /></a>
+				<a href="{% if article.overrideurl %}{{ article.overrideurl }}{% else %}{{ article.url }}{% endif %}"><img src="/assets/images/thumbs/articles/placeholder.png" data-src="/assets/images/thumbs/articles/{{ defaultImage }}" style="background-color: #{{ article.bg }}" class="lazy img-fluid" /></a>
 				{% assign imageCount = imageCount | plus:1 %}
 			</div>
 			<div class="col-md-8 main-2">
-				<h3 class="mt-2"><a href="{{ article.url }}">{{ article.title }}</a></h3>
+				<h3 class="mt-2"><a href="{% if article.overrideurl %}{{ article.overrideurl }}{% else %}{{ article.url }}{% endif %}">{{ article.title }}</a></h3>
 				<p class="mt-3">{{ article.description }}</p>
 			</div>
 		</div>
