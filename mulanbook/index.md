@@ -20,8 +20,8 @@ extrahead: '<link rel="stylesheet" href="/assets/themes/twitter/css/banner.css" 
 			<div class="banner_bottom_info">
 				<br />
 				<p>During the Qing Dynasty, Zhang Shaoxian took the various Mulan retellings and united them into a story that would captiate audiences for generations to come.</p>
-				<figure  class="float left">
-					<img src="/assets/images/promo/cover.jpg" alt="Original cover to the Qing dynasty novel Fierce and Filial" />
+				<figure class="float left">
+					<img class="shaddow" src="/assets/images/promo/cover.jpg" alt="Original cover to the Qing dynasty novel Fierce and Filial" />
 				</figure>
 				<p>You’ve read books and seen movies based on this legendary Chinese warrior… but are you familiar with <em>the legend?</em></p>
 			</div>
@@ -39,8 +39,8 @@ extrahead: '<link rel="stylesheet" href="/assets/themes/twitter/css/banner.css" 
 			<div class="banner_bottom_info">
 				<br />
 				<p>It’s more than a translation. Instead of reading footnotes about relevant historical events, you’ll be drawn into the characters’ world so you can experience how the original audience felt about the story.</p>
-				<figure  class="float right" >
-					<img src="/assets/images/articles/hua_mulan_lu_wanhua_sworn_sisters.jpg" alt="Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua." />
+				<figure class="float right" >
+					<img class="shaddow" src="/assets/images/articles/hua_mulan_lu_wanhua_sworn_sisters.jpg" alt="Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua." />
 				</figure>
 				<p>Nevertheless, the overarching plot and each subplot remains intact. Care has been taken to preserve all the major characters, and and even the original chapter numbering has been preserved.</p>
 			</div>
