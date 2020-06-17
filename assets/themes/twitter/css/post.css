@@ -467,7 +467,7 @@ a {
   font-family:'Song Myung',serif;
 }
 
-.title1_agile h4 {
+.title1_agile h4, .title1_agile h4 a {
   font-size: 1.5em;
 }
 

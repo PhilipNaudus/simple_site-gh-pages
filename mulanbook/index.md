@@ -2,7 +2,7 @@
 layout: custom
 title: Experience The Hua Mulan Novel
 description: During the Qing Dynasty, Zhang Shaoxian took the various Mulan retellings and united them into a story that would captivate audiences for generations to come.
-extrahead: '<link rel="stylesheet" href="/assets/themes/twitter/css/banner.css" type="text/css" media="all" onload="if(media!=\"all\")media=\"all\""><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Song+Myung" />'
+extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Song+Myung" />'
 ---
 
 <!-- /banner_bottom -->
