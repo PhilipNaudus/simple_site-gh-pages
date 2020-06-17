@@ -54,7 +54,7 @@
 					{% assign folder = site.pages | where_exp: "item" , "item.path contains folderName" | sort: "num" %}
 
 					{% for article in folder %}
-					{% if article.layout == "post" %}
+					{% if article.layout == "post" %}{% unless article.overrideurl %}
 						{% if next == false %}
 							{% assign nextTitle = article.title %}
 							{% assign nextUrl = article.url %}
@@ -69,7 +69,7 @@
 							{% assign prevTitle = article.title %}
 							{% assign prevUrl = article.url %}
 						{% endif %}
-					{% endif %}
+					{% endunless %}{% endif %}
 					{% endfor %}
 				{% endfor %}
 
