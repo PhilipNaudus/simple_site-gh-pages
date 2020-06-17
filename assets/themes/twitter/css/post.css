@@ -83,7 +83,7 @@ figure img {
 .fillimg {
   display: block;
   max-width: 85vw;
-  max-height: 60vh;
+  max-height: 20em;
   width: auto;
   height: auto;
   margin-left: auto;
@@ -92,7 +92,7 @@ figure img {
 
 .float, .float img {
   max-width: 85vw;
-  max-height: 60vh;
+  max-height: 20em;
 }
 .float img {
   height: auto;
@@ -108,7 +108,7 @@ figure img {
   }
   .float img {
     max-width: 410px;
-    max-height: calc(60vh - 4em);
+    max-height: calc(20em - 4em);
   }
 }
 
