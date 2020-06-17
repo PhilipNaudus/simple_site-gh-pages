@@ -94,6 +94,7 @@ figure img {
 .float, .float img {
   max-width: 85vw;
   max-height: 25em;
+  vertical-align: top;
 }
 .float img {
   height: auto;
