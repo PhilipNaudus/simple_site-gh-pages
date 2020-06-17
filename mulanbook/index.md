@@ -1,7 +1,7 @@
 ---
 layout: custom
 title: Experience The Hua Mulan Novel
-description: During the Qing Dynasty, Zhang Shaoxian took the various Mulan retellings and united them into a story that would captivate audiences for generations to come.
+description: During the Qing dynasty, Zhang Shaoxian took the various Mulan retellings and united them into a story that would captivate audiences for generations to come.
 extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Song+Myung" />'
 ---
 
@@ -19,7 +19,7 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 		<div class="inner_sec_top_aglieits">
 			<div class="banner_bottom_info">
 				<br />
-				<p>During the Qing Dynasty, Zhang Shaoxian took the various Mulan retellings and united them into a story that would captiate audiences for generations to come.</p>
+				<p>During the Qing dynasty, Zhang Shaoxian took the various Mulan retellings and united them into a story that would captivate audiences for generations to come.</p>
 				<figure class="float left">
 					<img class="shaddow" src="/assets/images/promo/cover.jpg" alt="Original cover to the Qing dynasty novel Fierce and Filial" />
 				</figure>
