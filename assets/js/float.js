@@ -13,7 +13,9 @@ function repositionFloats()
 	{
 		for(var i=0; i<floats.length; i++)
 		{
-			floats[i].parentNode.insertBefore(floats[i], document.getElementById("floatP"+i));
+			// Move the image up to be parallel to the text to which it refers
+			if(floats[i].classList.length < 3 && floats[i].classList[2] != "nomove") // Don't move if we were told not to move
+				floats[i].parentNode.insertBefore(floats[i], document.getElementById("floatP"+i));
 
 			var cssFloat = floats[i].classList[1];
 			var margin = -floats[i].offsetWidth/2;
@@ -35,6 +37,7 @@ function repositionFloats()
 	{
 		for(var i=0; i<floats.length; i++)
 		{
+			// Move the image down to be after the text to which it refers
 			floats[i].parentNode.insertBefore(document.getElementById("floatP"+i), floats[i]);
 
 			floats[i].style.cssFloat = "none";

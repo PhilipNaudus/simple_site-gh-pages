@@ -24,3 +24,4 @@ title: About
 		</div>
 	</div>
 </div>
+<script type="text/javascript" src="/assets/js/float.js"></script>
