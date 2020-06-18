@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mulanbook: The history and legend of Hua Mulan"
-description: Learn about the real history behind the legend of Mulan from both ancient and modern texts, read the original Hua Mulan novels, and discover the truth behind one of the most fascinating Chinese legends.
+description: "Learn about the real history behind the legend of Mulan from both ancient and modern texts, read the original Hua Mulan novels, and discover the truth behind one of the most fascinating Chinese legends."
 ---
 
 {::nomarkdown}
