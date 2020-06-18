@@ -50,7 +50,7 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 		<div class="container">
 			<div class="title1_agile">
 				<h3>Coming soon</h3>
-				<h4>This book will be released once I find a publisher who is willing to release this book without making significant changes to the plot, or I raise the funds needed to self-publish.</h4>
+				<h4>This book will be made available once I find a publisher who is willing to release this book without altering the plot, or I raise the funds needed to self-publish.</h4>
 			</div>
 		</div>
 	</div>
