@@ -11,7 +11,7 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 	<div class="ballad_banner">
 		<div class="container">
 			<div class="title1_agile">
-				<h3>Experience the book based on a Qing dynasty novel about Hua Mulan</h3>
+				<h3>Experience the book based on the Qing dynasty novel about Hua Mulan</h3>
 			</div>
 		</div>
 	</div>
