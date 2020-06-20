@@ -18,9 +18,6 @@ Around 400 <small>AD</small>, a poem began circulating imperial China. It told o
 
 For over a hundred years, the *Ballad of Mulan* was passed down via oral tradition, until it was finally written down during the Tang dynasty. Around this same time, several authors ([Wei Yuanfu](/pages/tang/song_of_mulan), Bai Juyi, [Du Mu](/pages/tang/mulan_temple_du_mu), and Li Rong) also wrote accounts verifying Mulan’s story.
 
-<div style="background:#F1F6FB;border:#D6DFD8 2px solid;vertical-align:middle;text-align:center;color:#879F9F"><b>One reader of this website summarized the history of Mulan’s legend in the video below. Although he inserts his own opinions into the commentary, it is a very good overview of the legend’s development.</b><br /><br /><iframe width="560" height="315" src="https://www.youtube.com/embed/u9ccDA-9c_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<br />
-
 The early narratives about Mulan were are all very short. They provide enough information to verify that Mulan took her father’s place in battle, served for twelve or thirteen years without her femininity ever being discovered, and was rewarded by the emperor for her accomplishments. Due to the brevity of these accounts, later authors became fascinated with Mulan’s story and began embellishing it. After all, Mulan’s story has such a fantastic premise that it begs to be told in a more elaborate form.
 
 For the next several hundred years, very little was written about Mulan. While a [memorial](/pages/yuan/memorial_filial_general) erected during the Song dynasty suggests that this maiden warrior continued to captivate the hearts of a Taoist sect, it wasn’t until the Ming dynasty that Mulan’s story came into the public spotlight.
