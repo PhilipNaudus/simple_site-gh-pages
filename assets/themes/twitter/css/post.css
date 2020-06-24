@@ -92,7 +92,7 @@ figure img {
 }
 
 .float, .float img {
-  max-width: 85vw;
+  max-width: 75vw;
   max-height: 25em;
 }
 .float img {
@@ -242,7 +242,7 @@ nav ul li:hover>ul {
     position: relative;
     left: 50%;
     right: 50%;
-    margin-left: -45vw;
+    margin-left: -45;
     margin-right: -45vw;
   }
 }
