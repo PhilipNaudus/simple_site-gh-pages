@@ -15,7 +15,7 @@ title: Lingjian
 				<p>Between 1929 and 1943, a survey was conducted on ethnic people and cultural relics throughout Yunan. The Yunnan Gongshan Administration Bureau wanted to guarantee safe passage to a man by the name of Tao Yunkui, and gave him the <em>lingjian</em> shown below.</p>
 
 				<figure  class="float">
-				<img src="/assets/images/articles/lingjian1.jpg" alt="A text from the Ming dynasty." />
+				<img src="/assets/images/articles/lingjian1.jpg" alt="Photgraph of a lingjian" />
         <caption><em>Image source: <a href="http://museum.ihp.sinica.edu.tw/education_detail.php?id=87">Museum of the Institute of History and Philology / Academia Sinica</a></em></caption>
 				</figure><br />
 
@@ -25,7 +25,7 @@ title: Lingjian
 				<p>In the <em>lingjian</em> below, two notches have been cut in the top right.</p>
 
 				<figure  class="float">
-				<img src="/assets/images/articles/lingjian2.jpg" alt="A text from the Ming dynasty." />
+				<img src="/assets/images/articles/lingjian2.jpg" alt="Photgraph of a lingjian" />
         <caption><em>Image source: <a href="http://museum.ihp.sinica.edu.tw/education_detail.php?id=87">Museum of the Institute of History and Philology / Academia Sinica</a></em></caption>
 				</figure><br />
 
