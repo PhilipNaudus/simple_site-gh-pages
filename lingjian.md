@@ -11,7 +11,7 @@ title: Lingjian
 			<div class="banner_bottom_info">
 				<h1>Lingjian</h1>
 				<p>A <em>lingjian</em> (&#20196;&#31661;) was a token of authority officers used to authorize their subordinates to carry out essential tasks. It is sometimes called a "command arrow" because the general's command was written on it, and it was shaped like an arrow.</p>
-				<p>Little is known of how a <em>lingjian</em> was used in ancient China (once an order was completed, the authorizing <em>lingjian</em> may have been destroyed). However, a few <em>lingjian</em> that have survived may shed light onto how they were used.</p>
+				<p>Little is known of how a <em>lingjian</em> was used in ancient China (once an order was completed, the authorizing <em>lingjian</em> may have been destroyed). However, a few of them that have survived may shed light onto how they were used.</p>
 				<p>Between 1929 and 1943, a survey was conducted on ethnic people and cultural relics throughout Yunan. The Yunnan Gongshan Administration Bureau wanted to guarantee safe passage to a man by the name of Tao Yunkui, and gave him the <em>lingjian</em> shown below.</p>
 
 				<center><figure class="float">
