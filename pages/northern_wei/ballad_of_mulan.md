@@ -21,7 +21,9 @@ Although most modern historians assume that the *Ballad of Mulan* is a work of f
 
 Nevertheless, the arguments which modern historians make when casting doubt upon the historicity of Mulan's story are weighty. The historical documents which insist that Mulan was a real person propose contradictory accounts of her life. Each historian offers a different set of details about her family, the time in which she lived, and the enemy against whom she fought. Because no one historical account has emerged as the authoritative record of her life, the majority of modern historians have decided to reject all of these so-called historical documents and conclude that the authenticity of Mulan's story cannot be verified.
 
-<h2>English Translation</h2>
+<h2>English Paraphrase</h2>
+
+*For an English translation, please see [Wikisource](https://en.m.wikisource.org/wiki/Translation:Ballad_of_Mulan)*
 
 A sigh. Another sigh.<br />
 Mulan sits in the doorway in front of her loom.
