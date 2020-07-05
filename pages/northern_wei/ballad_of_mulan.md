@@ -23,7 +23,7 @@ Nevertheless, the arguments which modern historians make when casting doubt upon
 
 <h2>English Paraphrase</h2>
 
-*For an English translation, please see [Wikisource](https://en.m.wikisource.org/wiki/Translation:Ballad_of_Mulan)*
+*For an English translation, please see [Wikisource](https://en.m.wikisource.org/wiki/Translation:Ballad_of_Mulan).*
 
 A sigh. Another sigh.<br />
 Mulan sits in the doorway in front of her loom.
