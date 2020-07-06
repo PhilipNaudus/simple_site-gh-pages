@@ -14,7 +14,7 @@ title: About
 				<img src="/assets/images/promo/about_me_book.jpg" alt="A text from the Ming dynasty." />
 				</figure><br />
 				<p>Hi, I’m Shengwen P. Hsu. I’m a Chinese translator. I live in Taipei with my wife and two kids.</p>
-				<p>Because I’m close to National Taiwan University, I enjoy visiting their archives. I wish I could say I’m a scholar, but I am one of the few people who visit the treasures abandoned to the back corner of the library. It is in the compressed stacks that I discovered a whole new world.</p>
+				<p>Because I’m close to National Taiwan University, I enjoy visiting their archives. I wish I could say I’m a scholar, but I am one of the few people who visit the abandoned treasures in back corner of the library. It is in the compressed stacks that I discovered a whole new world.</p>
 				<p>I have read over a dozen retellings of the Mulan legend in the original Chinese, and have made this website to share my knowledge with you.</p>
 
 			<div style="clear:both;"></div>
