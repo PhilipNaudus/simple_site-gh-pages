@@ -13,7 +13,7 @@ As the title suggests, *Fierce and Filial* describes Mulan as a mighty warrior w
 
 As the story opens, Mulan is betrothed to one of the most brilliant scholars in all of China. Because tradition demanded that she be primarily devoted to her fianc&eacute;'s family, her choice to take her father's place in battle showed that she placed her father above her future husband. However, due to her resolve to remain devoted to her father, she is willing to risk offending her fianc&eacute;, even if it means she may never marry.
 
-Although two previous novels included Mulan retellings, Mulan is only a minor character in *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)*, and *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)* was never printed. Thus, this is the first novel to reach the woodblock printing press.
+Although two previous novels included Mulan retellings, Mulan is only a minor character in *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)*, and it is unknown whether the author of *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)* considered this work finished. Thus, this is the first complete novel to reach the woodblock printing press.
 
 <div style="background:#F1F6FB;border:#D6DFD8 2px solid;vertical-align:middle;text-align:center;color:#879F9F"><b>I’m currently working to adapt this novel into a book that will be both accessible and engaging for modern readers.<br /><a href="/mulanbook">Learn more</a>.</b></div>
 <br />
