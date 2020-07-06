@@ -11,6 +11,8 @@ num: 3
 
 *Biography of Extraordinary Mulan* was written primarily in response to the oppressive Manchu rulers under whom the Chinese people were forced to serve. The anonymous author, who refers to himself as the "Old Master of Ocean Garden," advocates withdrawing from evil through monasticism. This is perhaps the most unique retelling of Mulan's story because it supports passivism and, as a result, contains very few scenes depicting warfare. While there are some instances where the characters are forced to fight, they seek to avoid conflict whenever possible.
 
+Although some scholars consider this to be the first novel about Mulan, *Biography of Extraordinary Mulan* was never printed. It is not known whether the author elected to discard his own manuscript, or if it was rejected by the woodblock printing press.
+
 The main protagonist of this story is Mulan's grandfather, Zhu Ruoxu. During the first half of the novel, Ruoxu learns the secrets of dark magic from his mentor, Li Jing. However, because Ruoxu has incredible self-restraint, he refuses to exercise his power but seeks to promote change indirectly. Halfway through the book, the focus shifts to Mulan, who finally learns how to apply her grandfather's magical arts to defeat the forces of evil. However, the emperor begins to suspect Mulan of seeking to usurp his throne and sentences her to death.
 
 The message of this book is that evil cannot always be resisted. In a sense, the author was trying to encourage the original readers that even though they had the power to fight the oppression they endured, seeking social transformation is not always the right course of action.

@@ -13,10 +13,12 @@ As the title suggests, *Fierce and Filial* describes Mulan as a mighty warrior w
 
 As the story opens, Mulan is betrothed to one of the most brilliant scholars in all of China. Because tradition demanded that she be primarily devoted to her fianc&eacute;'s family, her choice to take her father's place in battle showed that she placed her father above her future husband. However, due to her resolve to remain devoted to her father, she is willing to risk offending her fianc&eacute;, even if it means she may never marry.
 
+Although two previous novels included Mulan retellings, Mulan is only a minor character in *[Romance of Sui and Tang](/pages/qing/romance_of_sui_and_tang)*, and *[Biography of Extraordinary Mulan](/pages/qing/biography_of_extraordinary_mulan)* was never printed. Thus, this is the first novel to reach the woodblock printing press.
+
 <div style="background:#F1F6FB;border:#D6DFD8 2px solid;vertical-align:middle;text-align:center;color:#879F9F"><b>I’m currently working to adapt this novel into a book that will be both accessible and engaging for modern readers.<br /><a href="/mulanbook">Learn more</a>.</b></div>
 <br />
 
-<h2>Plot summary of volume 1 (chapters 1-23)</h2>
+<h2>Plot summary</h2>
 
 Seventeen-year-old Mulan is one of the most beautiful and talented women in Hebei. The fact that she is engaged to marry Wang Qingyun, one of the few young men who exempted himself from the previous drafts, makes her the envy of the entire village. However, when Mulan’s father (a retired battalion captain by the name of Hua Hu) is called to serve in the army, her world turns upside-down. Because her siblings are still very young (her sister Munan nine years old while her brother Yaoer is five), Mulan volunteers to take her father’s place in battle. Dressing as a man, she gives up everything she has ever know to join the army.
 
@@ -55,7 +57,7 @@ To escape from the bandits' stronghold, Mulan dresses as a woman. However, the b
 
 Mulan gets lost on the way back and ends up on the wrong side of the mountain. Right before nightfall, she realizes that she is hopelessly lost. Suddenly, Li Jing (mentor to  Mulan’s grandfather in <a href="biography_of_extraordinary_mulan">Biography of Extraordinary Mulan</a>) appears and gives her a magical bow and arrow. Then, Li Jing transports Mulan back to her camp through the use of magic.
 
-<h2>Plot summary of volume 2 (chapters 24-46)</h2>
+Xin Ping decides to release Heaven Catcher and use him as a way to entice the bandits to open their fortress. He will personally lead a team of men to Maoer Ridge (where Heaven Catcher is being held captive), and announces that Mulan will serve as acting supreme commander until he returns.
 
 The bandits feign surrender. They invite Supreme Commander Xin Ping and his army into their stronghold, hoping to capture them. Although Xin Ping knows this is a trap, he recalls the emperor's orders to advance at any cost. Meanwhile, the bandits are prepared. Three thousand bandits are ordered to fight only against Mulan, whom they believe to be a sorceress. During the battle, Mulan is seriously injured and is about to die, but Princes Wanhua drags her to safety. During the chaos, Princess Wanhua sneaks behind the bandit leaders, kills them, and then flees to "assist" Leopard Skin, the last and mightiest of the bandit king.
 
