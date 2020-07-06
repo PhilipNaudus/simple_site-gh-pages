@@ -13,9 +13,9 @@ title: About
 				<figure  class="float left" style="max-width: 450px;" >
 				<img src="/assets/images/promo/about_me_book.jpg" alt="A text from the Ming dynasty." />
 				</figure><br />
-				<p>Hi, my name is Philip Naudus. I’m a Chinese translator.</p>
-				<p>I’m an American living in Taiwan. I’m married and have two kids. I have moved around the globe several times and am still trying to figure out where I belong.</p>
-				<p>One of the best perks about living in Taiwan is being able to explore the abandoned corners of libraries. I enjoy reading very old Chinese novels because they open my horizons to a fascinating culture that is different from the one I grew up with.</p>
+				<p>Hi, I’m Shengwen P. Hsu. I’m a Chinese translator.</p>
+				<p>I live in Taipei with my wife and two kids.</p>
+				<p>Because I’m close to National Taiwan University, I enjoy visiting their archives. I wish I could say I’m a scholar, but I am one of the few people who visit the treasures abandoned to the back corner of the library. It is in the compressed stacks of the library that I discovered a whole new world.</p>
 				<p>I have read over a dozen retellings of the Mulan legend in the original Chinese, and have made this website to share my knowledge with you.</p>
 
 			<div style="clear:both;"></div>
