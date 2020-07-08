@@ -411,7 +411,7 @@ a {
   margin-right:auto
 }
 
-.title1_agile h3, .title1_agile h4 {
+.title1_agile h1, .title1_agile h2 {
   font-size:2.5em;
   font-weight:700;
   letter-spacing:1px;
@@ -420,7 +420,7 @@ a {
   font-family:'Song Myung',serif;
 }
 
-.title1_agile h4 {
+.title1_agile h2 {
   font-size: 1.5em;
 }
 
@@ -430,16 +430,16 @@ a {
 }
 
 @media (max-width:950px) {
-  .title1_agile h3 {
+  .title1_agile h1 {
     font-size:2em;
   }
-  .title1_agile h4 {
+  .title1_agile h2 {
     font-size: 1em;
   }
 }
 
 @media (max-width:650px) {
-  .title1_agile h3 {
+  .title1_agile h1 {
     font-size:1.5em;
   }
 }

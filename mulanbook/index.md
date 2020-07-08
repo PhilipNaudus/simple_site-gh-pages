@@ -11,7 +11,7 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 	<div class="ballad_banner">
 		<div class="container">
 			<div class="title1_agile">
-				<h3>Experience the book based on the Qing dynasty novel about Hua Mulan</h3>
+				<h1>Experience the book based on the Qing dynasty novel about Hua Mulan</h1>
 			</div>
 		</div>
 	</div>
@@ -30,7 +30,7 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 	<div class="bozhou_banner">
 		<div class="container">
 			<div class="title1_agile">
-				<h3>The original plot and characters remain unaltered, and the story has been retold to engage modern readers.</h3>
+				<h1>The original plot and characters remain unaltered, and the story has been retold to engage modern readers.</h1>
 			</div>
 		</div>
 	</div>
@@ -49,8 +49,8 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 	<div class="ming_banner">
 		<div class="container">
 			<div class="title1_agile">
-				<h3>Coming soon</h3>
-				<h4>This book will be made available once I find a publisher who is willing to release this book without altering the plot, or I raise the funds needed to self-publish.</h4>
+				<h1>Coming soon</h1>
+				<h2>This book will be made available once I find a publisher who is willing to release this book without altering the plot, or I raise the funds needed to self-publish.</h2>
 			</div>
 		</div>
 	</div>
