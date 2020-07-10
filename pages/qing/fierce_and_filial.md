@@ -66,7 +66,7 @@ The bandits feign surrender. They invite Supreme Commander Xin Ping and his army
 <figcaption style="text-align: center;"><i>Sorceress Huang Fengshan.</i></figcaption>
 </figure>
 
-The army advances to confront their final opponent, but Mulan must remain behind because several of her ribs were broken in the previous battle. For the next three months, Mulan is in critical condition and fades in and out of consciousness. When she finally recovers, she is surprised to find that the doctor shows no signs of having discovered her identity as a woman while restoring her ribs. This remains a mystery that will be not be solved until much later.
+The army advances to confront their final opponent, but Mulan must remain behind because several of her ribs were broken in the previous battle. For the next three months, Mulan is in critical condition and fades in and out of consciousness.
 
 When Mulan is finally strong enough to fight, she rejoins the army and finds that they have been locked in a battle against a sorceress, Huang Fengshan, for the past three months. The sorceress has killed many of the army’s mighty men, including Vanguard Niu He. When Mulan returns to the battlefield, her presence inspires the army to attack one more time. During the battle, Mulan confronts the sorceress and defeats her with the magical bow and arrow she received from Li Jing. Upon seeing that their hero has been defeated, Leopard Skin and the bandits flee back to their heavily fortified stronghold and refuse to come out. Xin Ping and his men spend the next year laying siege to the fortress.
 
