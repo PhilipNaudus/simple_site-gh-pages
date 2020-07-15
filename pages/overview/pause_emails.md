@@ -46,7 +46,7 @@ input[type=submit]:hover {
 
 				<div id="formdiv">
 				  <form action="/pages/overview/thank_you_pause" netlify>
-				    <label for="pause_email">Email Address (optional)</label>
+				    <label for="pause_email">Email address that is currently subscribed:</label>
 				    <input type="text" id="pause_email" name="pause_email" placeholder="email@email.com">
 
 				    <input type="submit" value="Submit">
