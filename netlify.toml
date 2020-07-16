@@ -111,7 +111,7 @@
   force = true
 [[redirects]]
   from = "https://mulanbook.com/pages/qing/biography_of_extraordinary_mulan"
-  to = "https://mulanbook.com/pages/qing/biography-of-extraordinary-mulan"
+  to = "https://mulanbook.com/pages/qing/complete-account-of-extraordinary-mulan"
   status = 301
   force = true
 [[redirects]]
