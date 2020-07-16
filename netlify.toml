@@ -50,7 +50,7 @@
   status = 301
   force = true
 [[redirects]]
-  from = "https://mulanbook.com/pages/northern-wei/ballad_of_mulan"
+  from = "https://mulanbook.com/pages/northern_wei/ballad_of_mulan"
   to = "https://mulanbook.com/pages/northern-wei/ballad-of-mulan"
   status = 301
   force = true
