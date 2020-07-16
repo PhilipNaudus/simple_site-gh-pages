@@ -11,7 +11,7 @@
   force = true
 [[redirects]]
   from = "https://mulanbook.com/pages/qing/mulan_joins_the_army"
-  to = "https://mulanbook.com/pages/qing/mulan_joins_the_army_1903"
+  to = "https://mulanbook.com/pages/qing/mulan-joins-the-army-1903"
   status = 301
   force = true
 [[redirects]]
