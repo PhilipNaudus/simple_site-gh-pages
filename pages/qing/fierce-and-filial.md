@@ -15,7 +15,7 @@ As the story opens, Mulan is betrothed to one of the most brilliant scholars in 
 
 Although two previous novels included Mulan retellings, Mulan is only a minor character in *[Romance of Sui and Tang](/pages/qing/romance-of-sui-and-tang)*, and it is unknown whether the author of *[Biography of Extraordinary Mulan](/pages/qing/biography-of-extraordinary-mulan)* considered this work finished. Thus, this is the first complete novel to reach the woodblock printing press.
 
-<div style="background:#F1F6FB;border:#D6DFD8 2px solid;vertical-align:middle;text-align:center;color:#879F9F"><b>I’m currently working to adapt this novel into a book that will be both accessible and engaging for modern readers.<br /><a href="/mulanbook">Learn more</a>.</b></div>
+<div style="background:#F1F6FB;border:#D6DFD8 2px solid;vertical-align:middle;text-align:center;color:#879F9F"><b>I’m currently working to adapt this novel into a book that will be both accessible and engaging for modern readers.<br /><a href="/mulan-book">Learn more</a>.</b></div>
 <br />
 
 <h2>Plot summary</h2>
