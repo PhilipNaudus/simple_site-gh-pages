@@ -1,17 +1,17 @@
 ---
 layout: post
-title: <i>Biography of Extraordinary Mulan</i> (c. 1800)
-description: <i>Biography of Extraordinary Mulan</i> is a Qing dynasty novel that tells the story of how Mulan’s grandfather passed down the wisdom Mulan needed to become skilled in martial arts.
+title: <i>The Complete Account of Extraordinary Mulan</i> (c. 1800)
+description: <i>The Complete Account of Extraordinary Mulan</i> is a Qing dynasty novel that tells the story of how Mulan’s grandfather passed down the wisdom Mulan needed to become skilled in martial arts.
 image: mulan-training-martial-arts-grandfather-biography-of-extraordinary-mulan.png
 bg: bababa
-alt: <small>Mulan receives instruction in martial arts from her grandfather as her grandmother looks on. Included in a late woodblock reprinting of Biography of Extraordinary Mulan (Public domain).</small>
+alt: <small>Mulan receives instruction in martial arts from her grandfather as her grandmother looks on. Included in a late woodblock reprinting of The Complete Account of Extraordinary Mulan (Public domain).</small>
 imageType: float
 num: 3
 ---
 
-*Biography of Extraordinary Mulan* was written primarily in response to the oppressive Manchu rulers under whom the Chinese people were forced to serve. The anonymous author, who refers to himself as the "Old Master of Ocean Garden," advocates withdrawing from evil through monasticism. This is perhaps the most unique retelling of Mulan's story because it supports passivism and, as a result, contains very few scenes depicting warfare. While there are some instances where the characters are forced to fight, they seek to avoid conflict whenever possible.
+*The Complete Account of Extraordinary Mulan* was written primarily in response to the oppressive Manchu rulers under whom the Chinese people were forced to serve. The anonymous author, who refers to himself as the "Old Master of Ocean Garden," advocates withdrawing from evil through monasticism. This is perhaps the most unique retelling of Mulan's story because it supports passivism and, as a result, contains very few scenes depicting warfare. While there are some instances where the characters are forced to fight, they seek to avoid conflict whenever possible.
 
-Although some scholars consider this to be the first novel about Mulan, the author never released *Biography of Extraordinary Mulan* during his lifetime. The manuscript was discovered in 1800. It is impossible to know whether the author considered the book complete, or if he had intentionally discarded it.
+Although some scholars consider this to be the first novel about Mulan, the author never released *The Complete Account of Extraordinary Mulan* during his lifetime. The manuscript was discovered in 1800. It is impossible to know whether the author considered the book complete, or if he had intentionally discarded it.
 
 The main protagonist of this story is Mulan's grandfather, Zhu Ruoxu. During the first half of the novel, Ruoxu learns the secrets of dark magic from his mentor, Li Jing. However, because Ruoxu has incredible self-restraint, he refuses to exercise his power but seeks to promote change indirectly. Halfway through the book, the focus shifts to Mulan, who finally learns how to apply her grandfather's magical arts to defeat the forces of evil. However, the emperor begins to suspect Mulan of seeking to usurp his throne and sentences her to death.
 
@@ -45,4 +45,4 @@ After her parents pass away, thirty-year-old Mulan is left alone to raise her si
 
 The emperor is finally convinced of her innocence, but it is too late. In his remorse, he gives her an honorable burial, writing "Filial, loyal, and valiant martyr" on her tombstone.
 
-<a href="https://zh.wikisource.org/wiki/%E6%9C%A8%E8%98%AD%E5%A5%87%E5%A5%B3%E5%82%B3">Read the original Chinese text of <i>Biography of Extraordinary Mulan.</i></a>
+<a href="https://zh.wikisource.org/wiki/%E6%9C%A8%E8%98%AD%E5%A5%87%E5%A5%B3%E5%82%B3">Read the original Chinese text of <i>The Complete Account of Extraordinary Mulan.</i></a>
