@@ -13,7 +13,7 @@ As the title suggests, *Fierce and Filial* describes Mulan as a mighty warrior w
 
 As the story opens, Mulan is betrothed to one of the most brilliant scholars in all of China. Because tradition demanded that she be primarily devoted to her fianc&eacute;'s family, her choice to take her father's place in battle showed that she placed her father above her future husband. However, due to her resolve to remain devoted to her father, she is willing to risk offending her fianc&eacute;, even if it means she may never marry.
 
-Although two previous novels included Mulan retellings, Mulan is only a minor character in *[Romance of Sui and Tang](/pages/qing/romance-of-sui-and-tang)*, and it is unknown whether the author of *[Biography of Extraordinary Mulan](/pages/qing/biography-of-extraordinary-mulan)* considered this work finished. Thus, this is the first complete novel to reach the woodblock printing press.
+Although two previous novels included Mulan retellings, Mulan is only a minor character in *[Romance of Sui and Tang](/pages/qing/romance-of-sui-and-tang)*, and it is unknown whether the author of *[The Complete Account of Extraordinary Mulan](/pages/qing/complete-account-of-extraordinary-mulan)* considered this work finished. Thus, this is the first complete novel to reach the woodblock printing press.
 
 <div style="background:#F1F6FB;border:#D6DFD8 2px solid;vertical-align:middle;text-align:center;color:#879F9F"><b>I’m currently working to adapt this novel into a book that will be both accessible and engaging for modern readers.<br /><a href="/mulan-book">Learn more</a>.</b></div>
 <br />
@@ -55,7 +55,7 @@ Before she departs, Mulan confides her insecurities in Princess Wanhua. When she
 
 To escape from the bandits' stronghold, Mulan dresses as a woman. However, the bandits have anticipated this. The guards are ordered not to let any men out, and women who exit must prove their femininity by wearing <a href="https://en.wikipedia.org/wiki/Lotus_shoes">lotus shoes</a>. When Mulan escapes, the bandits conclude that she must be a master of dark magic.
 
-Mulan gets lost on the way back and ends up on the wrong side of the mountain. Right before nightfall, she realizes that she is hopelessly lost. Suddenly, Li Jing (mentor to  Mulan’s grandfather in <a href="biography-of-extraordinary-mulan">Biography of Extraordinary Mulan</a>) appears and gives her a magical bow and arrow. Then, Li Jing transports Mulan back to her camp through the use of magic.
+Mulan gets lost on the way back and ends up on the wrong side of the mountain. Right before nightfall, she realizes that she is hopelessly lost. Suddenly, Li Jing (mentor to  Mulan’s grandfather in <a href="complete-account-of-extraordinary-mulan">The Complete Account of Extraordinary Mulan</a>) appears and gives her a magical bow and arrow. Then, Li Jing transports Mulan back to her camp through the use of magic.
 
 Xin Ping decides to release Heaven Catcher and use him as a way to entice the bandits to open their fortress. He will personally lead a team of men to Maoer Ridge (where Heaven Catcher is being held captive), and announces that Mulan will serve as acting supreme commander until he returns.
 
