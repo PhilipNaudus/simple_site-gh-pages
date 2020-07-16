@@ -45,7 +45,7 @@ When the royal court finally heard about Mulan’s true nature, Emperor Yang off
 Emperor Yang was greatly moved by how fiercely loyal she was to defending her family and her chastity. Thus, he posthumously promoted her to general and added “filial” to her title. This is why she is now known as The Filial General.
 </blockquote>
 
-Although *[Romance of Sui and Tang](/pages/qing/romance-of-sui-and-tang)* and *[Biography of Extraordinary Mulan](/pages/qing/biography-of-extraordinary-mulan)* incorporate similar tragic endings into Mulan’s story, the remaining versions of the story make no mention of her death. Most retellings conclude with Mulan either being reunited with her family or marrying a brilliant scholar and living happily ever after.
+Although *[Romance of Sui and Tang](/pages/qing/romance-of-sui-and-tang)* and *[The Complete Account of Extraordinary Mulan](/pages/qing/complete-account-of-extraordinary-mulan)* incorporate similar tragic endings into Mulan’s story, the remaining versions of the story make no mention of her death. Most retellings conclude with Mulan either being reunited with her family or marrying a brilliant scholar and living happily ever after.
 
 
 <h2>Did Mulan have a brother or a sister?</h2>
@@ -54,7 +54,7 @@ The *[Ballad of Mulan](/pages/northern-wei/ballad-of-mulan)* mentions that Mulan
 
 Additionally, the Ming dynasty play *[Mulan Joins the Army](/pages/ming/mulan-joins-the-army-xu-wei)* and the Qing dynasty novel *[Fierce and Filial](/pages/qing/fierce-and-filial)* both state that Mulan had a nine-year-old sister by the name of Munan and a five-year-old brother by the name Hua Fang (who was nicknamed Yaoer).
 
-According to *[Biography of Extraordinary Mulan](/pages/qing/biography-of-extraordinary-mulan)*, Mulan was an only child, but her mother gave birth after Mulan joined the army. After her parents pass away, Mulan acts as a mother to her siblings.
+According to *[The Complete Account of Extraordinary Mulan](/pages/qing/complete-account-of-extraordinary-mulan)*, Mulan was an only child, but her mother gave birth after Mulan joined the army. After her parents pass away, Mulan acts as a mother to her siblings.
 
 Finally, *[Romance of Sui and Tang](/pages/qing/romance-of-sui-and-tang)* includes a subplot where Mulan’s sister Youlan (who was only slightly younger than Mulan) dresses as a man to deliver a letter after Mulan’s death.
 
@@ -89,7 +89,7 @@ Since 1939, every retelling of Mulan’s story has included a romantic interest.
 
 <h2>Who was Mulan’s sidekick?</h2>
 
-In *[Romance of Sui and Tang](/pages/qing/romance-of-sui-and-tang)*, Mulan assists a princess. In *[Biography of Extraordinary Mulan](/pages/qing/biography-of-extraordinary-mulan)*, Mulan is aided by a camel that is indwelt with the spirit of a snake. Additionally, in *[Fierce and Filial](/pages/qing/fierce-and-filial)* Mulan has two helpers (both men from her hometown).
+In *[Romance of Sui and Tang](/pages/qing/romance-of-sui-and-tang)*, Mulan assists a princess. In *[The Complete Account of Extraordinary Mulan](/pages/qing/complete-account-of-extraordinary-mulan)*, Mulan is aided by a camel that is indwelt with the spirit of a snake. Additionally, in *[Fierce and Filial](/pages/qing/fierce-and-filial)* Mulan has two helpers (both men from her hometown).
 
 In the 1903 play *[Mulan Joins the Army](/pages/qing/mulan-joins-the-army-1903)*, Mulan’s cousin Mushu dresses as a woman to avoid the draft. For most of the play, Mulan uses the name “Mushu” as her male pseudonym.
 
