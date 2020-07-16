@@ -9,7 +9,7 @@ imageType: float
 num: 1
 ---
 
-After the devastating conclusion to the Opium Wars, the Chinese people became increasingly dissatisfied with the Qing Dynasty. An uprising ensued, which eventually resulted in the collapse of China's final dynasty. During the <a href="https://en.wikipedia.org/wiki/Xinhai-Revolution">Revolution of 1911</a>, the legend of Mulan was used to inspire women to join the Women's Liberation Army and fight to free China from the oppressive Qing state.
+After the devastating conclusion to the Opium Wars, the Chinese people became increasingly dissatisfied with the Qing Dynasty. An uprising ensued, which eventually resulted in the collapse of China's final dynasty. During the <a href="https://en.wikipedia.org/wiki/Xinhai_Revolution">Revolution of 1911</a>, the legend of Mulan was used to inspire women to join the Women's Liberation Army and fight to free China from the oppressive Qing state.
 
 In the 1920s, the communist party began gaining traction. The communists, who insisted on equality among all individuals, welcomed women to join their ranks. Mulan was hailed as an inspiration among women who sought to liberate themselves from China's patriarchal system and escape family duties such as arranged marriages. Whereas virtually every previous rendition of the legend emphasis that Mulan's joining the army was an incredible act of filial sacrifice, her story was now being used by women who sought personal freedom, recognition, and adventure.
 

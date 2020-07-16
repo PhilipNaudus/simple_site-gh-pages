@@ -40,7 +40,7 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 				<br />
 				<p>It’s more than a translation. Instead of reading footnotes about relevant historical events, you’ll be drawn into the characters’ world so you can experience how the original audience felt about the story.</p>
 				<figure class="float right" >
-					<img class="shaddow" src="/assets/images/articles/hua_mulan_lu_wanhua_sworn_sisters.jpg" alt="Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua." />
+					<img class="shaddow" src="/assets/images/articles/hua-mulan-lu-wanhua-sworn-sisters.jpg" alt="Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua." />
 				</figure>
 				<p>Nevertheless, the overarching plot and each subplot remains intact. Care has been taken to preserve all the major characters, and as well as the themes behind each chapter.</p>
 			</div>
