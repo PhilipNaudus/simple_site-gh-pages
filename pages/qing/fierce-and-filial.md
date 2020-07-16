@@ -53,7 +53,7 @@ Before she departs, Mulan confides her insecurities in Princess Wanhua. When she
 <figcaption style="text-align: center;"><i>Earth Master. (Although his name is Zhao Rang, he goes by Earth Master for much of the book.)</i></figcaption>
 </figure>
 
-To escape from the bandits' stronghold, Mulan dresses as a woman. However, the bandits have anticipated this. The guards are ordered not to let any men out, and women who exit must prove their femininity by wearing <a href="https://en.wikipedia.org/wiki/Lotus-shoes">lotus shoes</a>. When Mulan escapes, the bandits conclude that she must be a master of dark magic.
+To escape from the bandits' stronghold, Mulan dresses as a woman. However, the bandits have anticipated this. The guards are ordered not to let any men out, and women who exit must prove their femininity by wearing <a href="https://en.wikipedia.org/wiki/Lotus_shoes">lotus shoes</a>. When Mulan escapes, the bandits conclude that she must be a master of dark magic.
 
 Mulan gets lost on the way back and ends up on the wrong side of the mountain. Right before nightfall, she realizes that she is hopelessly lost. Suddenly, Li Jing (mentor to  Mulan’s grandfather in <a href="biography-of-extraordinary-mulan">Biography of Extraordinary Mulan</a>) appears and gives her a magical bow and arrow. Then, Li Jing transports Mulan back to her camp through the use of magic.
 
