@@ -16,51 +16,144 @@
   force = true
 [[redirects]]
   from = "https://mulanbook.com/pages/qing/fierce_and_filial_english_translation"
-  to = "https://mulanbook.com/mulanbook"
+  to = "https://mulanbook.com/mulan-book"
   status = 301
   force = true
 [[redirects]]
   from = "https://mulanbook.com/pages/qing/fierce_and_filial_english_translation_chapter_1"
-  to = "https://mulanbook.com/mulanbook"
+  to = "https://mulanbook.com/mulan-book"
   status = 301
   force = true
 [[redirects]]
   from = "https://mulanbook.com/pages/qing/fierce_and_filial_english_translation_chapter_2"
-  to = "https://mulanbook.com/mulanbook"
+  to = "https://mulanbook.com/mulan-book"
   status = 301
   force = true
 [[redirects]]
-  from = "https://mulanbook.com/pages/ming/legend-of-mulan-ming-dynasty.md"
-  to = "https://mulanbook.com/mulanbook"
+  from = "https://mulanbook.com/mulanbook"
+  to = "https://mulanbook.com/mulan-book"
   status = 301
   force = true
 [[redirects]]
-  from = "https://mulanbook.com/pages/ming/mulan-joins-the-army-xu-wei.md"
-  to = "https://mulanbook.com/mulanbook"
+  from = "https://mulanbook.com/pages/ming/legend_of_mulan_ming_dynasty.md"
+  to = "https://mulanbook.com/pages/ming/legend-of-mulan-ming-dynasty.md"
   status = 301
   force = true
 [[redirects]]
-  from = "https://mulanbook.com/pages/ming/women-generals.md"
-  to = "https://mulanbook.com/mulanbook"
+  from = "https://mulanbook.com/pages/ming/mulan_joins_the_army_xu_wei.md"
+  to = "https://mulanbook.com/pages/ming/mulan-joins-the-army-xu-wei.md"
   status = 301
   force = true
 [[redirects]]
-  from = "https://mulanbook.com/pages/northern-wei/ballad-of-mulan.md"
-  to = "https://mulanbook.com/mulanbook"
+  from = "https://mulanbook.com/pages/ming/women_generals.md"
+  to = "https://mulanbook.com/pages/ming/women-generals.md"
   status = 301
   force = true
-
-
-
-
-
-
-
-
-
-
-
-
+[[redirects]]
+  from = "https://mulanbook.com/pages/northern-wei/ballad_of_mulan.md"
+  to = "https://mulanbook.com/pages/northern-wei/ballad-of-mulan.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/overview/ask_question.md"
+  to = "https://mulanbook.com/pages/overview/ask-question.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/overview/history_of_legend_of_mulan.md"
+  to = "https://mulanbook.com/pages/overview/history-of-legend-of-mulan.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/overview/questions_about_mulans_legend_and_history.md"
+  to = "https://mulanbook.com/pages/overview/questions-about-mulans-legend-and-history.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/overview/thank_you_question.md"
+  to = "https://mulanbook.com/pages/overview/thank-you-question.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/post_imperial/disneys_live_action_mulan.md"
+  to = "https://mulanbook.com/pages/post-imperial/disneys-live-action-mulan.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/post_imperial/disneys_mulan.md"
+  to = "https://mulanbook.com/pages/post-imperial/disneys-mulan.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/post_imperial/lady_general_hua_mulan.md"
+  to = "https://mulanbook.com/pages/post-imperial/lady-general-hua-mulan.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/post_imperial/legend_of_mulan_post_imperial_china.md"
+  to = "https://mulanbook.com/pages/post-imperial/legend-of-mulan-post-imperial-china.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/post_imperial/mulan_joins_the_army_1939_film.md"
+  to = "https://mulanbook.com/pages/post-imperial/mulan-joins-the-army-1939-film.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/post_imperial/mulan_rise_of_a_warrior.md"
+  to = "https://mulanbook.com/pages/post-imperial/mulan-rise-of-a-warrior.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/post_imperial/the_woman_warrior.md"
+  to = "https://mulanbook.com/pages/post-imperial/the-woman-warrior.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/qing/biography_of_extraordinary_mulan.md"
+  to = "https://mulanbook.com/pages/qing/biography-of-extraordinary-mulan.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/qing/fierce_and_filial.md"
+  to = "https://mulanbook.com/pages/qing/fierce-and-filial.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/qing/legend_of_mulan_qing_dynasty.md"
+  to = "https://mulanbook.com/pages/qing/legend-of-mulan-qing-dynasty.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/qing/mulan_joins_the_army_1903.md"
+  to = "https://mulanbook.com/pages/qing/mulan-joins-the-army-1903.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/qing/romance_of_sui_and_tang.md"
+  to = "https://mulanbook.com/pages/qing/romance-of-sui-and-tang.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/tang/legend_of_mulan_tang_dynasty.md"
+  to = "https://mulanbook.com/pages/tang/legend-of-mulan-tang-dynasty.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/tang/mulan_temple_du_mu.md"
+  to = "https://mulanbook.com/pages/tang/mulan-temple-du-mu.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/tang/song_of_mulan.md"
+  to = "https://mulanbook.com/pages/tang/song-of-mulan.md"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/yuan/memorial_filial_general.md"
+  to = "https://mulanbook.com/pages/yuan/memorial-filial-general.md"
+  status = 301
+  force = true
 [[headers]]
   for = "*.js" # js files should be set this way
   [headers.values]
