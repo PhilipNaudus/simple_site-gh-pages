@@ -15,6 +15,21 @@
   status = 301
   force = true
 [[redirects]]
+  from = "https://mulanbook.com/pages/qing/mu"
+  to = "https://mulanbook.com/pages/qing/mulan-joins-the-army-1903"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/qing/fiercely_filial"
+  to = "https://mulanbook.com/pages/qing/fierce-and-filial"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/pages/ming/minuscule_book_from_the_yongzhuang_studio"
+  to = "https://mulanbook.com/pages/ming/women-generals"
+  status = 301
+  force = true
+[[redirects]]
   from = "https://mulanbook.com/pages/qing/fierce_and_filial_english_translation"
   to = "https://mulanbook.com/mulan-book"
   status = 301
