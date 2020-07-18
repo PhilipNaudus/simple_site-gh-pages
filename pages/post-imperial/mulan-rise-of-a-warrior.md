@@ -43,7 +43,7 @@ During training exercises, Mulan quickly demonstrates herself to be highly skill
 <figcaption style="text-align: center;"><i>Mulan escapes from prison with the assistance of Wentai.</i></figcaption>
 </figure>
 
-Mulan is bound and sentenced to death. Wentai, confident that Mulan is not a theif, comes to visit her in the prison. Mulan reveals her true identity and begs Wentai to burn her body to prevent her femininity from being revealed after her execution. However, when when the Rouran army launches a surprise attack, Wentai releases Mulan and tells her to escape. Upon seeing that her comrades are struggling to resist the assault, Mulan rushes forward to challenge the enemy commander and secures the victory. As a reward for her service, Mulan is pardoned and promoted to serve as assistant commander alongside Wentai.
+Mulan is bound and sentenced to death. Wentai, confident that Mulan is not a thief, comes to visit her in the prison. Mulan reveals her true identity and begs Wentai to burn her body to prevent her femininity from being revealed after her execution. However, when when the Rouran army launches a surprise attack, Wentai releases Mulan and tells her to escape. Upon seeing that her comrades are struggling to resist the assault, Mulan rushes forward to challenge the enemy commander and secures the victory. As a reward for her service, Mulan is pardoned and promoted to serve as assistant commander alongside Wentai.
 
 <figure class="big">
 <img class="fillimg lazy" src="/assets/images/articles/mulan-rise-of-a-warrior/mulan-slays-the-enemy-commander.jpg" alt="Mulan delivers a fatal blow to the enemy commander." />
