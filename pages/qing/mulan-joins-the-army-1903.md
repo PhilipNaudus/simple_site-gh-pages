@@ -15,7 +15,7 @@ The play opens with Zhao Jing, a corrupt government official who is in charge of
 
 Meanwhile, Mulan sits in her home together with her father, mother, and younger sister. Mulan's father has just received his draft notice and bemoans his fate. His only hope for deliverance would be if Mulan's cousin, Mushu, volunteered to take his place in battle.
 
-Mushu was orphaned when he was a young boy and has lived together with Mulan's family ever since he lost his parents. Although he shows great potential, he is lazy, undependable, and is continuously in and out of gangs. When Mulan's father realizes that his fate rests with Mushu, he is utterly desponded.
+Mushu was orphaned when he was a young boy and has lived together with Mulan's family ever since he lost his parents. Although he shows great potential, he is lazy, undependable, and is continuously in and out of gangs. When Mulan's father realizes that his fate rests with Mushu, he is utterly despondent.
 
 Suddenly, Mushu stumbles into the door. Mulan and her father jump to greet Mushu and begin begging him to take Mulan's father's place in battle. Before Mushu has a chance to respond, Zhao Jing roars onto the scene. Mulan's father panics and promises that Mushu will take his place. Zhao Jing stomps off, upset that he did not receive a bribe.
 
