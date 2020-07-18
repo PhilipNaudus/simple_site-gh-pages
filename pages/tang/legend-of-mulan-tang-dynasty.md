@@ -11,7 +11,7 @@ num: 1
 
 Shortly after the formation of the Tang Dynasty, Empress Wu rose to power. This woman's sovereign reign over all of China, unsurprisingly, had a profound impact on the society's opinion of women. However, because culture is often slow to adapt, it was not until after Empress Wu's death that authors began portraying women in a more positive light.
 
-As the female protagonist became increasingly acceptable in literature, retellings of Mulan's story abounded. However, the modern perception of Mulan being a stong warrior did not develop until much later. Wei Yuanfu's Song of Mulan, the most progressive of the four Tang Dynasty poems about Mulan, simply mentions that a battle occurred and a victory ensured. Because the culture was not yet prepared to accept a woman warrior, poets could only hint at Mulan's strength and valor.
+As the female protagonist became increasingly acceptable in literature, retellings of Mulan's story abounded. However, the modern perception of Mulan being a strong warrior did not develop until much later. Wei Yuanfu's Song of Mulan, the most progressive of the four Tang Dynasty poems about Mulan, simply mentions that a battle occurred and a victory ensured. Because the culture was not yet prepared to accept a woman warrior, poets could only hint at Mulan's strength and valor.
 
 Early renditions of Mulan's story almost exclusively focused on Mulan's beauty, elegance, and virtue. The most popular retelling, Du Mu's Mulan Temple, depicts Mulan as agonizing over whether it would be appropriate for her to drink together with the other officers. Even while dressed as a man, she struggled to act in a way that was becoming for a lady.
 
