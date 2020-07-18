@@ -11,7 +11,7 @@ num: 5
 
 Upon the release of this film, the story of Mulan reached legendary status in the English-speaking world. Based primarily on Maxine Hong Kingston's [The Woman Warrior](/pages/post-imperial/the-woman-warrior), Disney's *Mulan* captivated audiences with the story of a woman who was determined to find her true purpose in life. The producers of *Mulan* made a significant effort to integrate elements from the original legend into the film. In particular:
 
-&bull; The Huns, the enemy against whom Mulan fights, is a colloquial term used to refer to the Xiongnu. Both the 1332 [Memorial to the Filial General](/pages/yuan/memorial-filial-general) and the 1903 play [Mulan Joins the Army](/pages/qing/mulan-joins-the-army-1903) specifically mention the Xiongnu as the enenmy.<br />
+&bull; The Huns, the enemy against whom Mulan fights, is a colloquial term used to refer to the Xiongnu. Both the 1332 [Memorial to the Filial General](/pages/yuan/memorial-filial-general) and the 1903 play [Mulan Joins the Army](/pages/qing/mulan-joins-the-army-1903) specifically mention the Xiongnu as the enemy.<br />
 &bull; Mushu, Mulan's sidekick in the Disney film, was named after Mulan's cousin in the 1903 play [Mulan Joins the Army](/pages/qing/mulan-joins-the-army-1903).<br />
 &bull; The epic victory won by causing an avalanche was inspired by the 1850 novel [Fierce and Filial](/pages/qing/fierce-and-filial). (However, in this version of the legend, the avalanche is credited to Mulan's fianc&eacute;.)<br />
 &bull; Mulan's declining of the emperor's offer of a prominent position is a common theme that appears in many of the Mulan legends, including the [Ballad of Mulan](/pages/northern-wei/ballad-of-mulan) and many other retellings.
