@@ -83,7 +83,7 @@ figure img {
 /***** Floating and full-sized images *****/
 .fillimg {
   display: block;
-  max-width: 75vw;
+  max-width: 85vw;
   max-height: 25em;
   width: auto;
   height: auto;
