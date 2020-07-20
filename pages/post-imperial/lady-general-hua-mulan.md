@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>Lady General Hua Mu-Lan</i> (1964)
+title: <i>Lady General Hua Mu-Lan</i> (&#33457;&#26408;&#34349;, 1964)
 description: The film <i>Lady General Hua Mu-Lan</i> tells a story about unity. By themselves, Mulan, Ping, and Li Guang each make small contributions. Together, they achieve something great.
 image: lady-general-hua-mulan-movie-poster.jpg
 bg: 74222b
