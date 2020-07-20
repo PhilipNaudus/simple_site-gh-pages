@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>Mulan Joins the Army</i> by Xu Wei (c. 1580 AD)
+title: <i>Mulan Joins the Army</i> (&#26408;&#34349;&#24478;&#36557;) by Xu Wei (c. 1580 AD)
 description: <i>Mulan Joins the Army</i> is one of Xu Wei’s most famous plays, and is often credited with bringing the legend of Mulan into the public spotlight.
 image: mulan-bids-farewell-to-her-family-while-two-soldiers-wait-impatiently.jpg
 bg: b39562
