@@ -242,7 +242,7 @@ nav ul li:hover>ul {
     position: relative;
     left: 50%;
     right: 50%;
-    margin-left: -45;
+    margin-left: -45vw;
     margin-right: -45vw;
   }
 }
