@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>Women Generals</i> by Zhu Guozhen (c. 1625 AD)
+title: <i>Women Generals</i> by Zhu Guozhen (&#28263;&#24162;&#23567;&#21697;&#65306;&#22899;&#23559;, c. 1625 AD)
 description: While addressing the topic of female soldiers, an early historian reconstructed what he believed to be Mulan’s true story.
 image: minuscule-book-from-the-yongzhuang-studio.jpg
 bg: e8d9c4
