@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>Mulan Joins the Army</i> (1939)
+title: <i>Mulan Joins the Army</i> (&#26408;&#34349;&#24478;&#36557;, 1939)
 description: <i>Mulan Joins the Army</i> became a classic film adaptation of Mulan’s story, and is the first retelling to introduce romance into the legend.
 image: mulan-joins-the-army-1939-triumphant-return.jpg
 bg: 4a494a
