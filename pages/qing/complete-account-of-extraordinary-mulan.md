@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>The Complete Account of Extraordinary Mulan</i> (c. 1800)
+title: <i>The Complete Account of Extraordinary Mulan</i> (&#26408;&#34349;&#22855;&#22899;&#20659;, c. 1800)
 description: <i>The Complete Account of Extraordinary Mulan</i> is a Qing dynasty novel that tells the story of how Mulan’s grandfather passed down the wisdom Mulan needed to become skilled in martial arts.
 image: mulan-training-martial-arts-grandfather-biography-of-extraordinary-mulan.png
 bg: bababa
