@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The <i>Ballad of Mulan</i>
+title: The <i>Ballad of Mulan</i> (&#26408;&#34349;&#36781;)
 description: The <i>Ballad of Mulan</i> is the oldest known version of Mulan’s story. This one poem ended up inspiring countless retellings for centuries to come.
 image: ballad-of-mulan-song-dynasty-mu-fu.jpg
 bg: 8c6f4e
