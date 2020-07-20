@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>Mulan Joins the Army</i> (1903)
+title: <i>Mulan Joins the Army</i> (&#26408;&#34349;&#24478;&#36557;, 1903)
 description: <i>Mulan Joins the Army</i> is a Qing dynasty play. When Mulan’s cousin, Mushu, refuses to take his adopted father&rsquo;s place in battle, Mulan joins the army in Mushu&rsquo;s stead to fight against the Xiongnu.
 image: mulan-joins-the-army-by-feng-luoxia.jpg
 bg: a49b8c
