@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>Romance of Sui and Tang</i> by Chu Renhuo (1695)
+title: <i>Romance of Sui and Tang</i> by Chu Renhuo (&#38539;&#21776;&#28436;&#32681;, 1695)
 description: <i>Romance of Sui and Tang</i> is a famous historical fiction novel, and is best known for a subplot in which Mulan makes an unlikely friend when she is captured by a benevolent princess.
 image: hua-mulan-romance-of-sui-and-tang.jpg
 bg: eeeeee
