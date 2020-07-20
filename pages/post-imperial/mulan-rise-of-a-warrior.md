@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<i>Mulan: Rise of a Warrior</i> (2009)"
+title: "<i>Mulan: Rise of a Warrior</i> (&#33457;&#26408;&#34349;, 2009)"
 description: <i>Rise of a Warrior</i> is a historical fiction film that retells the legend of Mulan from a Modern Chinese perspective.
 image: mulan-rise-of-a-warrior-movie-poster.jpg
 bg: 4d5941
