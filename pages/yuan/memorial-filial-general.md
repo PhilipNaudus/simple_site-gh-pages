@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Memorial to the Filial General (1332 AD)
+title: A Memorial to the Filial General (&#23389;&#28872;&#23559;&#36557;&#31072;&#20687;&#36776;&#27491;&#35352;, 1332 AD)
 description: A memorial to Mulan, which was discovered next to the remains of a temple on Mulan Mountain, claims to tell Mulan’s true story.
 image: mulan-mountain.jpg
 bg: 86a6a5
