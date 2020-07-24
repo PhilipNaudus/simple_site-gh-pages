@@ -15,7 +15,7 @@ The version which was finally put into writing begins with Mulan sitting in fron
 
 After Mulan is reunited with her parents and she has resumed her feminine appearance, her comrades are shocked to discover that she is a woman&mdash;for the twelve years that they fought together, none of them had suspected anything. The ballad concludes by commenting, "When a pair of rabbits run side by side, who can distinguish male from female?"
 
-This final line is a direct challenge against the ancient proverb "Men are wolves who fear weakness; women are rats who fear strength" (&#29983;&#30007;&#22914;&#29436;&#65292;&#29494;&#24656;&#20854;?&#65307;&#29983;&#22899;&#22914;&#40736;&#65292;&#29494;&#24656;&#20854;&#34382;). The thought that men and women are nearly identical would have been considered outrageously progressive.
+This final line stands in stark contrast against the ancient proverb "Men are wolves who fear weakness; women are rats who fear strength" (&#29983;&#30007;&#22914;&#29436;&#65292;&#29494;&#24656;&#20854;?&#65307;&#29983;&#22899;&#22914;&#40736;&#65292;&#29494;&#24656;&#20854;&#34382;). Many scholars (see references below) have used this fact to argue that the *Ballad of Mulan* was written during early Northern Wei, when Confucian values temporarily lost their sway over Chinese thought.
 
 Although most modern historians assume that the *Ballad of Mulan* is a work of fiction, it was not until recent times that the historicity of Mulan began to be questioned. Before the twentieth century, the story of Mulan was assumed to be a real historical event. [A memorial dedicated to Mulan during the Yuan Dynasty](/pages/yuan/memorial-filial-general) explicitly mentions the *Ballad of Mulan* and cites it as a historical document. During the Ming Dynasty, a number of historians became increasingly interested in Mulan's story (see [The Legend of Mulan During the Ming Dynasty](/pages/ming/legend-of-mulan-ming-dynasty)).
 
@@ -130,6 +130,7 @@ Can you really discern whether I am a *he* or a *she*?
 <ol>
 <li><a href="https://books.google.com.tw/books?id=5VZyDwAAQBAJ&pg=PA163#v=onepage&q&f=false">&#24373;&#35258;&#26126;, &#26408;&#34349;&#30740;&#31350; (&#33268;&#30693;&#23416;&#34899;&#20986;&#29256;, 2016): 163.</a></li>
 <li><a href="https://zh.wikisource.org/zh-hant/%E5%A5%B3%E8%AA%A1">&#29677;&#26157;, &#22899;&#35489; (&#24460;&#28450;&#26360;84&#21367;, c. 75 AD).</a></li>
+<li><a href="https://www.jstor.org/stable/4125407?seq=1">Lan, Feng. <em>The Female Individual and the Empire: A Historicist Approach to Mulan and Kingston's Woman Warrior</a>, Comparative Literature, 2003.03): 229-245</a></li>
 </ol>
 </div>
 
