@@ -13,7 +13,9 @@ The *Song of Mulan*, composed by Wei Yuanfu, is strikingly similar to the *Balla
 
 Because the *Ballad* failed to explain why Mulan found it necessary to take her father's place, Wei Yuanfu decided to mention that her father was old, in poor health, and his condition had been steadily deteriorating.
 
-When Mulan returns home, she has strips herself of her manly garments and resumes her appearance as a petite woman. After she has returned to her proper place in the family, she sings a song that insists that a daughter is just as valuable as a son.
+When Mulan returns home, she strips herself of her manly garments and resumes her appearance as a petite woman. After she has returned to her proper place in the family, she sings a song that insists that a daughter is just as valuable as a son.
+
+While this poem certainly contains progressive elements, it is important not to allow our modern perspective to influence our reading of this poem. Whereas the *[Ballad of Mulan](/pages/northern-wei/ballad-of-mulan)* climaxes with a conclusion that emphasis gender equality, this poem concludes by emphasizing virtue. 
 
 The *Song* concludes that all the officials of this world should learn from Mulan's example. Any man who would be as devoted and as virtuous as Mulan would undoubtedly become a famous historical figure who would be revered throughout the ages.
 
