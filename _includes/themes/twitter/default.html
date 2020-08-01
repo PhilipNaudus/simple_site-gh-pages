@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 <title>{{ page.title | strip_html }}
-	{% if page.layout contains "post" %} | Mulanbook
+	{% if page.layout contains "post" %}
 		{% assign titlesize = (page.title | strip_html).size - ((((page.title | split: '&').size)-1)*8) %}
-		{% if titlesize > 30 %} | Mulanbook{% else %} | Mulanbook: The History and Legend of Hua Mulan{% endif %}
+		{{titlesize}}{% if titlesize > 30 %} | Mulanbook{% else %} | Mulanbook: The History and Legend of Hua Mulan{% endif %}
 	{% endif %}
 </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
