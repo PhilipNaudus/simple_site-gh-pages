@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>{{ page.title | strip_html }}{% if page.layout contains "post" %} | Mulanbook{% endif %}</title>
+<title>{{ page.title | strip_html }}
+	{% if page.layout contains "post" %} | Mulanbook
+		{% assign titlesize = (page.title | strip_html).size - ((((page.title | split: '&').size)-1)*8) %}
+		{% if titlesize > 30 %} | Mulanbook{% else %} | Mulanbook: The History and Legend of Hua Mulan{% endif %}
+	{% endif %}
+</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	{% if page.description %}<meta name="description" content="{{ page.description | strip_html }}">{% endif %}
