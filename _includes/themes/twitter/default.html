@@ -8,7 +8,7 @@
 		{% assign excessChineseChars = splitChineseChars.size | minus: 1 | times: 7 %}
 		{% assign titleSize = titleStrip.size | minus: excessChineseChars %}
 
-		{{titleSize}}{% if titleSize > 30 %} | Mulanbook{% else %} | Mulanbook: The History and Legend of Hua Mulan{% endif %}
+		{% if titleSize > 30 %} | Mulanbook{% else %} | Mulanbook: The History and Legend of Hua Mulan{% endif %}
 	{% endif %}
 </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
