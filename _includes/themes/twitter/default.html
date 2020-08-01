@@ -4,9 +4,9 @@
 <title>{{ page.title | strip_html }}
 	{% if page.layout contains "post" %}
 		{% assign titleStrip = page.title | strip_html %}
-		{% assign splitChineseChars = titlestrip | split: '&' %}
+		{% assign splitChineseChars = titleStrip | split: '&' %}
 		{% assign excessChineseChars = splitChineseChars.size | minus: 1 | times: 7 %}
-		{% assign titleSize = titleStrip | minus: excessChineseChars %}
+		{% assign titleSize = titleStrip.size | minus: excessChineseChars %}
 
 		{{titleSize}}{% if titleSize > 30 %} | Mulanbook{% else %} | Mulanbook: The History and Legend of Hua Mulan{% endif %}
 	{% endif %}
