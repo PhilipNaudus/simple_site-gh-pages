@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>{{ page.title | strip_html }} {% if page.layout contains "post" %}- Mulanbook: The history and legend of Hua Mulan {% endif %}</title>
+<title>{{ page.title | strip_html }}
+	{% if page.layout contains "post" %}
+		{% assign titleStrip = page.title | strip_html %}
+		{% assign splitChineseChars = titleStrip | split: '&' %}
+		{% assign excessChineseChars = splitChineseChars.size | minus: 1 | times: 7 %}
+		{% assign titleSize = titleStrip.size | minus: excessChineseChars %}
+
+		{% if titleSize > 30 %} | Mulanbook{% else %} | Mulanbook: The History and Legend of Hua Mulan{% endif %}
+	{% endif %}
+</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	{% if page.description %}<meta name="description" content="{{ page.description | strip_html }}">{% endif %}
@@ -22,7 +31,7 @@
 	        <ul class="menu mt-1">
 	                <li class="mr-lg-4 mr-3"><a href="/">Home</a></li>
 			<li class="mr-lg-4 mr-3"><a href="/about">About</a></li>
-			<li class="mr-lg-4 mr-3"><a href="/mulanbook">Mulan: The Book</a></li>
+			<li class="mr-lg-4 mr-3"><a href="/mulan-book">Mulan: The Book</a></li>
 	        </ul>
         </nav>
 </header>
@@ -31,7 +40,7 @@
 
 <div class="footer">
 	<div class="container">
-		<p>&copy; 2020 Shengwen Hsu. All rights reserved.</p>
+		<p>&copy; 2020 Philip Naudus. All rights reserved.</p>
 	</div>
 </div>
 <script type="text/javascript">

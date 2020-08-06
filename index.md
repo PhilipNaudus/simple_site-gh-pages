@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Mulanbook: The history and legend of Hua Mulan"
+title: "The Legend of Hua Mulan: 1,500 Years of History | Mulanbook"
 description: "Learn about the real history behind the legend of Mulan from both ancient and modern texts, read the original Hua Mulan novels, and discover the truth behind one of the most fascinating Chinese legends."
 ---
 
 {::nomarkdown}
 
-{% assign dynastyArr = "overview#northern_wei#tang#yuan#ming#qing#post_imperial" | split: '#' %}
+{% assign dynastyArr = "overview#northern-wei#tang#yuan#ming#qing#post-imperial" | split: '#' %}
 {% assign dynastyNames = "Overview#Northern Wei (386&ndash;534 AD)#Tang Dynasty (618&ndash;907 AD)#Yuan Dynasty (1271&ndash;1368 AD)#Ming Dynasty (1368&ndash;1644 AD)#Qing Dynasty (1644&ndash;1912)#Post-Imperial China (1912&ndash;Present)" | split: '#' %}
 {% assign dynastyAlts = "Overview#A relic from the Northern Wei dynasty. Image source: http://bit.ly/2GuB2Vv#A pagoda built during the Tang Dynasty. Image source: http://bit.ly/2GpfHwP#A tower built durnig the Yuan Dynasty. Image source: http://bit.ly/2LIJlkX#An arch constructed during the Ming Dynasty. Image source: http://bit.ly/2GveIuU#A gate to the Forbidden City, which was used during the Qing Dynasty. Image source: http://bit.ly/2ybwq23#National government office of the ROC. Image source: http://bit.ly/2yNrPTX" | split: '#' %}
 

@@ -242,7 +242,7 @@ nav ul li:hover>ul {
     position: relative;
     left: 50%;
     right: 50%;
-    margin-left: -45;
+    margin-left: -45vw;
     margin-right: -45vw;
   }
 }
@@ -384,15 +384,15 @@ a {
 /* banner */
 
 .ballad_banner {
-  background:url(/assets/images/promo/ballad_banner.jpg) no-repeat center center fixed;
+  background:url(/assets/images/promo/ballad-banner.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 .bozhou_banner {
-  background:url(/assets/images/promo/bozhou_banner.jpg) no-repeat center center fixed;
+  background:url(/assets/images/promo/bozhou-banner.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 .ming_banner {
-  background:url(/assets/images/articles/mulan_joins_the_army_tang_yin_ming_dynasty.jpg) no-repeat center center fixed;
+  background:url(/assets/images/articles/mulan-joins-the-army-tang-yin-ming-dynasty.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 @media (max-width:500px) {
