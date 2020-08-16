@@ -36,11 +36,16 @@
   force = true
 [[redirects]]
   from = "https://mulanbook.com/pages/qing/fierce_and_filial_english_translation"
-  to = "https://mulanbook.com/mulan-book/bpr"
-  status = 302
+  to = "https://mulanbook.com/mulan-book/"
+  status = 301
   force = true
 [[redirects]]
-  from = "https://mulanbook.com/pages/qing/fierce_and_filial_english_translation_chapter_1"
+  from = "https://mulanbook.com/pages/qing/fierce_and_filial_english_translation"
+  to = "https://mulanbook.com/mulan-book/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://mulanbook.com/mulan-book/bpr"
   to = "https://mulanbook.com/mulan-book"
   status = 301
   force = true
