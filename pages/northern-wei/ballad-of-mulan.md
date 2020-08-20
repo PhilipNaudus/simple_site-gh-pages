@@ -25,11 +25,11 @@ Nevertheless, the arguments which modern historians make when casting doubt upon
 
 *For an English translation, please see [Wikisource](https://en.m.wikisource.org/wiki/Translation:Ballad_of_Mulan) or [Asia for Educators](http://afe.easia.columbia.edu/ps/china/mulan.pdf).*
 
-A sigh. Another sigh.<br />
+The sound of creaking.<br />
 Mulan sits in the doorway in front of her loom.
 
-But the loom is silent<br />
-Instead, we can only hear the sound of her sighs.
+When the loom grows silent,<br />
+We can only hear the sound of her sighs.
 
 Girl, who are you thinking about?<br />
 Girl… who do you long for?
