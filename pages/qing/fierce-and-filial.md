@@ -77,7 +77,7 @@ Meanwhile, the emperor has lost his patience with the expedition against the ban
 <figcaption style="text-align: center;"><i>Wang Qingyun, Mulan’s fianc&eacute;.</i></figcaption>
 </figure>
 
-Qingyun investigates the bandits’ stronghold and concludes that the only way to force them out is to create an avalanche. He sends a memorial to the emperor, requesting that ten barbarian cannons be constructed and sent up the mountain. After the cannons arrive, Qingyun fires them in rapid succession with the intent of inducing an artificial landslide. Leopard Skin flees down the backside of the mountain, where Mulan is waiting. She captures Leopard Skin, and Princess Wanhua forces the bandits to surrender.
+Qingyun investigates the bandits’ stronghold and concludes that the only way to force them out is to trigger a landslide. He sends a memorial to the emperor, requesting that ten barbarian cannons be constructed and sent up the mountain. After the cannons arrive, Qingyun fires them in rapid succession with the intent of inducing an artificial landslide. Leopard Skin flees down the backside of the mountain, where Mulan is waiting. She captures Leopard Skin, and Princess Wanhua forces the bandits to surrender.
 
 Mulan returns home and is shocked to realize that Qingyun is still unmarried. For the past twelve years, he has waited faithfully for her. The night of their wedding, Mulan conceives a son who eventually becomes the next prime minister of China.
 
