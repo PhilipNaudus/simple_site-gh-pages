@@ -1,7 +1,7 @@
 ---
 layout: post
-title: <i>Fierce and Filial</i> by Zhang Shaoxian (&#38312;&#23389;&#28872;&#20659;, 1850)
-description: <i>Fierce and Filial</i> is a novel that unites many of the previous renditions of Mulan’s story into a single volume, emphasizing that Mulan’s brilliance and courage stemmed from her virtue.
+title: <i>The Fierce and Filial Girl from Northern Wei</i> by Zhang Shaoxian (&#21271;&#39759;&#22855;&#21490;&#38312;&#23389;&#28872;&#20659;, 1850)
+description: This novel unites many of the previous renditions of Mulan’s story into a single volume, emphasizing that Mulan’s brilliance and courage stemmed from her virtue.
 image: hua-mulan-lu-wanhua-sworn-sisters.jpg
 bg: e9e9e9
 alt: Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua. Illustrations are from an early woodblock printing of Fierce and Filial (public domain).
@@ -9,7 +9,8 @@ imageType: big
 num: 4
 ---
 
-As the title suggests, *Fierce and Filial* describes Mulan as a mighty warrior who lives an exceptionally virtuous life (the term &#23389;&#28872; in the title emphasizes Mulan's devotion to her parents and her commitment to remain rigorously chaste). Although Mulan proves herself to be so militarily adept that the enemy is terrified of her prowess, she remains a tender woman. Although she is capable of slaughtering the enemy with ease, she weeps to see the corpses of the men she has killed. When the men are forced to endure a harsh winter, she struggles to persist with the army. During one of her final battles against the enemy, Mulan overexerts herself to the point that she vomits blood.
+As the title suggests, this novel deacribes Mulan as a woman who is both fierce and Filial. She is filial (&#23389;) because she is committed to honor her family, particularly her father. While &#28872; ("fierce") has no English equivalent, it designates a hero who has the tenacity to uphold the "three cardinal guides" (sovereign and officials, father and sons, husband and wife), even at the expense of one's life.
+describes Mulan as a mighty warrior who lives an exceptionally virtuous life (the term &#23389;&#28872; in the title emphasizes Mulan's devotion to her parents and her commitment to remain rigorously chaste). Although Mulan proves herself to be so militarily adept that the enemy is terrified of her prowess, she remains a tender woman. Although she is capable of slaughtering the enemy with ease, she weeps to see the corpses of the men she has killed. When the men are forced to endure a harsh winter, she struggles to persist with the army. During one of her final battles against the enemy, Mulan overexerts herself to the point that she vomits blood.
 
 As the story opens, Mulan is betrothed to one of the most brilliant scholars in all of China. Because tradition demanded that she be primarily devoted to her fianc&eacute;'s family, her choice to take her father's place in battle showed that she placed her father above her future husband. However, due to her resolve to remain devoted to her father, she is willing to risk offending her fianc&eacute;, even if it means she may never marry.
 
