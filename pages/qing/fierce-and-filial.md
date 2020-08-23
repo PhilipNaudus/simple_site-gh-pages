@@ -49,8 +49,6 @@ When Mulan refuses to consummate the wedding, the princess grows suspicious and 
 
 Because Qingyun is the most brilliant scholar in all of China, the princess agrees to defect, and the two women become sworn sisters. The princess agrees to betray the bandits and work to destroy them from within.
 
-Before she departs, Mulan confides her insecurities in Princess Wanhua. When she first left, she had not intended to be away for this long. Being that almost all young men have been drafted, her fianc&eacute; Qingyun has been living in a town of women for six years. Mulan has little doubt that Qingyun has already married, and is uncertain whether these years that she has spent living among men have lowered her value beyond even hoping to become his second wife. Finally, the princess comes up with a solution she feels may convince Qingyun to marry Mulan.
-
 <figure class="float left" style="max-width:450px;">
 <img src="/assets/images/articles/fiercely-filial/earth-master-hua-mulan.jpg" alt="Earth Master. (Although his name is Zhao Rang, he goes by Earth Master for much of the book.) Included as an illustration in an early woodblock printing of Fierce and Filial." />
 <figcaption style="text-align: center;"><i>Earth Master. (Although his name is Zhao Rang, he goes by Earth Master for much of the book.)</i></figcaption>
