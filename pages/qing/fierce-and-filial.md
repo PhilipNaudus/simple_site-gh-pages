@@ -43,9 +43,11 @@ The emperor grows impatient and orders the army to advance at any cost, threaten
 <figcaption style="text-align: center;"><i>Emperor Tuoba Gui.</i></figcaption>
 </figure>
 
-Earth Master recognizes Mulan as the soldier who defeated him. Although he desires revenge, he remembers that the life of his brother Heaven Catcher will be at risk if he kills Mulan. His adviser proposes a way to trap Mulan inside the bandits’ stronghold without using force. Mulan (whom they think is a man) is presented with a choice between death and marrying Princess Lu Wanhua. Mulan reluctantly consents to go forward with the wedding.
+Earth Master recognizes Mulan as the soldier who defeated him. Although he desires revenge, he remembers that the life of his brother Heaven Catcher will be at risk if he kills Mulan. His adviser proposes a way to trap Mulan inside the bandits’ stronghold without using force. Mulan (whom they think is a man) is forced to marry Princess Lu Wanhua. Mulan reluctantly consents to the wedding.
 
-When Mulan refuses to consummate the wedding, the princess grows suspicious and eventually discovers that Mulan is a woman. Finally, Mulan shares her story, and Wanhua is so impressed that the two women become sworn sisters. The princess agrees to betray the bandits and work to destroy them from within.
+When Mulan refuses to consummate the wedding, the princess grows suspicious and eventually discovers that Mulan is a woman. Mulan shares her story and urges the princess to defect. Finally, Mulan decides to sacrifice everything in service of the emperor. She swears that the princess can marry Mulan's betrothed, Wang Qingyun. (The original audience would have interpreted Mulan's actions to be virtuous, and seen her as going to extreme lengths to sacrifice herself to fulfill the three cardinal ordinances. However, virtually every Mulan retelling, even ones based on this book, has omitted this now-controversial plot element).
+
+Because Qingyun is the most brilliant scholar in all of China, the princess agrees to defect, and the two women become sworn sisters. The princess agrees to betray the bandits and work to destroy them from within.
 
 Before she departs, Mulan confides her insecurities in Princess Wanhua. When she first left, she had not intended to be away for this long. Being that almost all young men have been drafted, her fianc&eacute; Qingyun has been living in a town of women for six years. Mulan has little doubt that Qingyun has already married, and is uncertain whether these years that she has spent living among men have lowered her value beyond even hoping to become his second wife. Finally, the princess comes up with a solution she feels may convince Qingyun to marry Mulan.
 
