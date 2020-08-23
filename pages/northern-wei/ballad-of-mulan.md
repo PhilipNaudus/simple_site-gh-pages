@@ -4,7 +4,7 @@ title: The <i>Ballad of Mulan</i> (&#26408;&#34349;&#36781;)
 description: The <i>Ballad of Mulan</i> is the oldest known version of Mulan’s story. This one poem ended up inspiring countless retellings for centuries to come.
 image: ballad-of-mulan-song-dynasty-mu-fu.jpg
 bg: 8c6f4e
-alt: This copy of the Ballad was written by Song Dynasty calligrapher <a href="https://en.wikipedia.org/wiki/Mi_Fu">Mi Fu</a> in 1094 AD (Public domain).
+alt: This copy of the Ballad was penned by Song Dynasty calligrapher <a href="https://en.wikipedia.org/wiki/Mi_Fu">Mi Fu</a> in 1094 AD (Public domain).
 imageType: big
 num: 1
 ---
@@ -15,7 +15,7 @@ The version which was finally put into writing begins with Mulan sitting in fron
 
 After Mulan is reunited with her parents and she has resumed her feminine appearance, her comrades are shocked to discover that she is a woman&mdash;for the twelve years that they fought together, none of them had suspected anything. The ballad concludes by commenting, "When a pair of rabbits run side by side, who can distinguish male from female?"
 
-This final line stands in stark contrast against the ancient proverb "Men are wolves who fear weakness; women are rats who fear strength" (&#29983;&#30007;&#22914;&#29436;&#65292;&#29494;&#24656;&#20854;?&#65307;&#29983;&#22899;&#22914;&#40736;&#65292;&#29494;&#24656;&#20854;&#34382;). Many scholars (see references below) have used this fact to argue that the *Ballad of Mulan* was written during early Northern Wei, when Confucian values temporarily lost their sway over Chinese thought.
+This final line stands in stark contrast against China's patriarchal culture, which seems to support the notion that the *Ballad of Mulan* was written during the era of Northern Wei, when Confucian values temporarily lost their sway over Chinese thought.
 
 Although most modern historians assume that the *Ballad of Mulan* is a work of fiction, it was not until recent times that the historicity of Mulan began to be questioned. Before the twentieth century, the story of Mulan was assumed to be a real historical event. [A memorial dedicated to Mulan during the Yuan Dynasty](/pages/yuan/memorial-filial-general) explicitly mentions the *Ballad of Mulan* and cites it as a historical document. During the Ming Dynasty, a number of historians became increasingly interested in Mulan's story (see [The Legend of Mulan During the Ming Dynasty](/pages/ming/legend-of-mulan-ming-dynasty)).
 
