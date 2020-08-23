@@ -4,7 +4,7 @@ title: The <i>Ballad of Mulan</i> (&#26408;&#34349;&#36781;)
 description: The <i>Ballad of Mulan</i> is the oldest known version of Mulan’s story. This one poem ended up inspiring countless retellings for centuries to come.
 image: ballad-of-mulan-song-dynasty-mu-fu.jpg
 bg: 8c6f4e
-alt: This copy of the Ballad was written by Song dynasty calligrapher <a href="https://en.wikipedia.org/wiki/Mi_Fu">Mi Fu</a> in 1094 AD (Public domain).
+alt: This copy of the Ballad was penned by Song dynasty calligrapher <a href="https://en.wikipedia.org/wiki/Mi_Fu">Mi Fu</a> in 1094 AD (Public domain).
 imageType: big
 num: 1
 ---
@@ -13,7 +13,7 @@ Because the *Ballad of Mulan* is an anonymous and undated work, very little can 
 
 The version which was finally put into writing begins with Mulan sitting in front of her loom, weeping over the fact that her father has just received his conscription orders. Because Mulan has no elder brother, she is resolved to take her father's place. Upon returning, she is offered a prominent position but turns it down; her only request is that she be sent home to her family.
 
-After Mulan is reunited with her parents and she has resumed her feminine appearance, her comrades are shocked to discover that she is a woman&mdash;for the twelve years that they fought together, none of them had suspected anything. The ballad concludes by commenting, "When a pair of rabbits run side by side, who can distinguish male from female?"
+After Mulan is reunited with her parents and she has resumed her feminine appearance, her comrades are shocked to discover that she is a woman&mdash;for the twelve years that they fought together, none of them had suspected anything. The *Ballad* concludes by commenting, "When a pair of rabbits run side by side, who can distinguish male from female?"
 
 The final line stands in stark contrast against China's patriarchal culture. This seems to support the notion that the *Ballad of Mulan* was written during the era of Northern Wei, when Confucian values temporarily lost their sway over Chinese thought.
 
