@@ -50,10 +50,10 @@ input[type=submit]:hover {
 				    <input type="text" id="name" name="name" placeholder="Your name...">
 
 				    <label for="name">Email Address</label>
-				    <input type="text" id="email" name="email" placeholder="I can email you the answer (optional).">
+				    <input type="text" id="email" name="email" placeholder="Your email address...">
 
-				    <label for="country">What’s your question?</label>
-				    <textarea id="question" name="question"></textarea>
+				    <label for="country">Message</label>
+				    <textarea id="message" name="message"></textarea>
 				  
 				    <input type="submit" value="Submit">
 				  </form>
