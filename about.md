@@ -1,6 +1,6 @@
 ---
 layout: custom
-title: About | Mulanbook: The History and Legend of Hua Mulan
+title: "About | Mulanbook: The History and Legend of Hua Mulan"
 ---
 
 <!-- /banner_bottom -->
