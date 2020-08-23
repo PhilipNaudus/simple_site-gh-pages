@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>The Fierce and Filial Girl from Northern Wei</i> by Zhang Shaoxian (&#21271;&#39759;&#22855;&#21490;&#38312;&#23389;&#28872;&#20659;, 1850)
+title: <i>The Fierce and Filial Girl from Northern Wei</i> by Zhang Shaoxian (&#21271;&#39759;&#22855;&#21490;&#38312;&#23389;&#28872;&#20659;, c. 1850)
 description: This novel unites many of the previous renditions of Mulan’s story into a single volume, emphasizing that Mulan’s brilliance and courage stemmed from her virtue.
 image: hua-mulan-lu-wanhua-sworn-sisters.jpg
 bg: e9e9e9
