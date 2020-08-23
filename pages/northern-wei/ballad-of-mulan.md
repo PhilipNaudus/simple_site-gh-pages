@@ -15,7 +15,7 @@ The version which was finally put into writing begins with Mulan sitting in fron
 
 After Mulan is reunited with her parents and she has resumed her feminine appearance, her comrades are shocked to discover that she is a woman&mdash;for the twelve years that they fought together, none of them had suspected anything. The ballad concludes by commenting, "When a pair of rabbits run side by side, who can distinguish male from female?"
 
-This final line stands in stark contrast against China's patriarchal culture. This seems to support the notion that the *Ballad of Mulan* was written during the era of Northern Wei, when Confucian values temporarily lost their sway over Chinese thought.
+The final line stands in stark contrast against China's patriarchal culture. This seems to support the notion that the *Ballad of Mulan* was written during the era of Northern Wei, when Confucian values temporarily lost their sway over Chinese thought.
 
 Although most modern historians assume that the *Ballad of Mulan* is a work of fiction, it was not until recent times that the historicity of Mulan began to be questioned. Previously, the story of Mulan was assumed to be a real historical event. [A memorial dedicated to Mulan during the Yuan dynasty](/pages/yuan/memorial-filial-general) explicitly mentions the *Ballad of Mulan* and cites it as a historical document. During the Ming Dynasty, a number of historians became increasingly interested in Mulan's story (see [The Legend of Mulan During the Ming Dynasty](/pages/ming/legend-of-mulan-ming-dynasty)).
 
