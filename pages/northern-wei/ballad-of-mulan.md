@@ -9,7 +9,7 @@ imageType: big
 num: 1
 ---
 
-Because the *Ballad of Mulan* is an anonymous and undated work, very little can be said about it with certainty. It was most likely composed during the era of Northern Wei and passed down orally for over a century until it was finally preserved in written form during the Tang Dynasty.
+Because the *Ballad of Mulan* is an anonymous and undated work, very little can be said about it with certainty. It was most likely composed during the era of Northern Wei (386–534 AD) and passed down orally for over a century until it was finally preserved in written form during the Tang dynasty.
 
 The version which was finally put into writing begins with Mulan sitting in front of her loom, weeping over the fact that her father has just received his conscription orders. Because Mulan has no elder brother, she is resolved to take her father's place. Upon returning, she is offered a prominent position but turns it down; her only request is that she be sent home to her family.
 
