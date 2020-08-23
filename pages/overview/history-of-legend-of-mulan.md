@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The History Behind the Legend of Mulan From 400 AD Onward"
+title: "The History Behind the Legend of Mulan (400 AD Onward)"
 description: Ancient texts from the past 1,500 years reveal the real history behind the legend of Mulan and how it developed into what we have today.
 image: mulan-history.jpg
 bg: 8c6f4e
