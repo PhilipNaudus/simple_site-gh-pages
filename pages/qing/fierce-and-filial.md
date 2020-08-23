@@ -80,7 +80,7 @@ Meanwhile, the emperor has lost his patience with the expedition against the ban
 
 Qingyun investigates the bandits’ stronghold and concludes that the only way to force them out is to trigger a landslide. He sends a memorial to the emperor, requesting that ten barbarian cannons be constructed and sent up the mountain. After the cannons arrive, Qingyun fires them in rapid succession with the intent of inducing an artificial landslide. Leopard Skin flees down the backside of the mountain, where Mulan is waiting. She captures Leopard Skin, and Princess Wanhua forces the bandits to surrender.
 
-Mulan returns home and is shocked to realize that Qingyun is still unmarried. For the past twelve years, he has waited faithfully for her. The night of their wedding, Mulan conceives a son who eventually becomes the next prime minister of China.
+Mulan returns home. Qingyun marries Wanhua, but takes Mulan as his second wife. The night of their wedding, Qingyun makes love to Mulan prior to consummating his marriage to Wanhua. Mulan conceives a son who eventually becomes the next prime minister of China.
 
 <a href="https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991011302539704786&context=L&vid=886NTU_INST:886NTU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8C%97%E9%AD%8F%E5%A5%87%E5%8F%B2&offset=0">Read the original Chinese text of <i>Fierce and Filial.</i></a>
 
