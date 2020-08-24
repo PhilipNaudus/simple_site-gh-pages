@@ -1,7 +1,7 @@
 ---
 layout: post
-title: <i>Fierce and Filial</i> by Zhang Shaoxian (&#38312;&#23389;&#28872;&#20659;, 1850)
-description: <i>Fierce and Filial</i> is a novel that unites many of the previous renditions of Mulan’s story into a single volume, emphasizing that Mulan’s brilliance and courage stemmed from her virtue.
+title: <i>The Fierce and Filial Girl from Northern Wei</i> by Zhang Shaoxian (&#21271;&#39759;&#22855;&#21490;&#38312;&#23389;&#28872;&#20659;, c. 1850)
+description: This novel unites many of the previous renditions of Mulan’s story into a single volume, emphasizing that Mulan’s brilliance and courage stemmed from her virtue.
 image: hua-mulan-lu-wanhua-sworn-sisters.jpg
 bg: e9e9e9
 alt: Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua. Illustrations are from an early woodblock printing of Fierce and Filial (public domain).
@@ -9,7 +9,8 @@ imageType: big
 num: 4
 ---
 
-As the title suggests, *Fierce and Filial* describes Mulan as a mighty warrior who lives an exceptionally virtuous life (the term &#23389;&#28872; in the title emphasizes Mulan's devotion to her parents and her commitment to remain rigorously chaste). Although Mulan proves herself to be so militarily adept that the enemy is terrified of her prowess, she remains a tender woman. Although she is capable of slaughtering the enemy with ease, she weeps to see the corpses of the men she has killed. When the men are forced to endure a harsh winter, she struggles to persist with the army. During one of her final battles against the enemy, Mulan overexerts herself to the point that she vomits blood.
+As the title suggests, this novel deacribes Mulan as a woman who is both fierce and filial. She is filial (&#23389;) because she is committed to honor her family, particularly her father. While &#28872; ("fierce") has no English equivalent, it designates a hero who has the tenacity to uphold the "three cardinal guides" (sovereign and officials, father and sons, husband and wife), even at the expense of one's life.
+describes Mulan as a mighty warrior who lives an exceptionally virtuous life (the term &#23389;&#28872; in the title emphasizes Mulan's devotion to her parents and her commitment to remain rigorously chaste). Although Mulan proves herself to be so militarily adept that the enemy is terrified of her prowess, she remains a tender woman. Although she is capable of slaughtering the enemy with ease, she weeps to see the corpses of the men she has killed. When the men are forced to endure a harsh winter, she struggles to persist with the army. During one of her final battles against the enemy, Mulan overexerts herself to the point that she vomits blood.
 
 As the story opens, Mulan is betrothed to one of the most brilliant scholars in all of China. Because tradition demanded that she be primarily devoted to her fianc&eacute;'s family, her choice to take her father's place in battle showed that she placed her father above her future husband. However, due to her resolve to remain devoted to her father, she is willing to risk offending her fianc&eacute;, even if it means she may never marry.
 
@@ -42,11 +43,11 @@ The emperor grows impatient and orders the army to advance at any cost, threaten
 <figcaption style="text-align: center;"><i>Emperor Tuoba Gui.</i></figcaption>
 </figure>
 
-Earth Master recognizes Mulan as the soldier who defeated him. Although he desires revenge, he remembers that the life of his brother Heaven Catcher will be at risk if he kills Mulan. His adviser proposes a way to trap Mulan inside the bandits’ stronghold without using force. Mulan (whom they think is a man) is presented with a choice between death and marrying Princess Lu Wanhua. Mulan reluctantly consents to go forward with the wedding.
+Earth Master recognizes Mulan as the soldier who defeated him. Although he desires revenge, he remembers that the life of his brother Heaven Catcher will be at risk if he kills Mulan. His adviser proposes a way to trap Mulan inside the bandits’ stronghold without using force. Mulan (whom they think is a man) is forced to marry Princess Lu Wanhua. Mulan reluctantly consents to the wedding.
 
-When Mulan refuses to consummate the wedding, the princess grows suspicious and eventually discovers that Mulan is a woman. Finally, Mulan shares her story, and Wanhua is so impressed that the two women become sworn sisters. The princess agrees to betray the bandits and work to destroy them from within.
+When Mulan refuses to consummate the wedding, the princess grows suspicious and eventually discovers that Mulan is a woman. Mulan shares her story and urges the princess to defect. Finally, Mulan decides to sacrifice everything in service of the emperor. She swears that the princess can marry Mulan's betrothed, Wang Qingyun. (The original audience would have interpreted Mulan's actions to be virtuous, and seen her as being utterly devoted going to fulfilling the three cardinal ordinances, even if it means sacrificing what she cherishes most. However, virtually every subsequent Mulan retelling, even ones based on this novel, has omitted this now-controversial plot element).
 
-Before she departs, Mulan confides her insecurities in Princess Wanhua. When she first left, she had not intended to be away for this long. Being that almost all young men have been drafted, her fianc&eacute; Qingyun has been living in a town of women for six years. Mulan has little doubt that Qingyun has already married, and is uncertain whether these years that she has spent living among men have lowered her value beyond even hoping to become his second wife. Finally, the princess comes up with a solution she feels may convince Qingyun to marry Mulan.
+Because Qingyun is the most brilliant scholar in all of China, the princess agrees to defect, and the two women become sworn sisters. The princess agrees to betray the bandits and work to destroy them from within.
 
 <figure class="float left" style="max-width:450px;">
 <img src="/assets/images/articles/fiercely-filial/earth-master-hua-mulan.jpg" alt="Earth Master. (Although his name is Zhao Rang, he goes by Earth Master for much of the book.) Included as an illustration in an early woodblock printing of Fierce and Filial." />
@@ -79,7 +80,7 @@ Meanwhile, the emperor has lost his patience with the expedition against the ban
 
 Qingyun investigates the bandits’ stronghold and concludes that the only way to force them out is to trigger a landslide. He sends a memorial to the emperor, requesting that ten barbarian cannons be constructed and sent up the mountain. After the cannons arrive, Qingyun fires them in rapid succession with the intent of inducing an artificial landslide. Leopard Skin flees down the backside of the mountain, where Mulan is waiting. She captures Leopard Skin, and Princess Wanhua forces the bandits to surrender.
 
-Mulan returns home and is shocked to realize that Qingyun is still unmarried. For the past twelve years, he has waited faithfully for her. The night of their wedding, Mulan conceives a son who eventually becomes the next prime minister of China.
+Mulan returns home. Qingyun marries Wanhua, but takes Mulan as his second wife. The night of their wedding, Qingyun makes love to Mulan prior to consummating his marriage to Wanhua. Mulan conceives a son who eventually becomes the next prime minister of China.
 
 <a href="https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991011302539704786&context=L&vid=886NTU_INST:886NTU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8C%97%E9%AD%8F%E5%A5%87%E5%8F%B2&offset=0">Read the original Chinese text of <i>Fierce and Filial.</i></a>
 
