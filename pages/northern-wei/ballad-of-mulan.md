@@ -137,40 +137,17 @@ Can you really discern whether I am a *he* or a *she*?
 
 <script type="text/javascript" src="/assets/js/toggle_note.js"></script>
 
-
-
-
-
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
-  "@type": "DataFeed",
+  "@type": "Book",
   "name": "The Ballad of Mulan",
-  "description": "{{page.onpagedescription | strip_html}}",
-  "dataFeedElement": [
-    {
-      "@context": "http://schema.org",
-      "@type": "Book",
-      "@id": "https://mulanbook.com/pages/northern-wei/ballad-of-mulan",
-      "url": "https://mulanbook.com/pages/northern-wei/ballad-of-mulan",
-      "name": "The Ballad of Mulan",
-      "author": {
-        "@type": "Person",
-        "name": "Unknown"
-      },
-      "workExample": [
-        {
-          "@type": "Book",
-          "inLanguage": "zh",
-          "datePublished": "400-01-01"
-        },
-        {
-          "@type": "Book",
-          "inLanguage": "zh",
-          "datePublished": "1094-01-01"
-        }
-      ]
-    }
-  ]
+  "author": {
+    "@type": "Person",
+    "name": "Unknown"
+  },
+  "inLanguage": "zh",
+  "datePublished": "400-01-01",
+  "dateModified": "1094-01-01"
 }
 </script>
