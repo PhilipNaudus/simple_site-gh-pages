@@ -136,3 +136,40 @@ Can you really discern whether I am a *he* or a *she*?
 </div>
 
 <script type="text/javascript" src="/assets/js/toggle_note.js"></script>
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "DataFeed",
+  "dataFeedElement": [
+    {
+      "@context": "http://schema.org",
+      "@type": "Book",
+      "@id": "https://mulanbook.com/pages/northern-wei/ballad-of-mulan",
+      "url": "https://mulanbook.com/pages/northern-wei/ballad-of-mulan",
+      "name": "The Ballad of Mulan",
+      "author": {
+        "@type": "Person",
+        "name": "Unknown"
+      },
+      "workExample": [
+        {
+          "@type": "Book",
+          "inLanguage": "zh",
+          "datePublished": "400-01-01"
+        },
+        {
+          "@type": "Book",
+          "@id": "http://example.com/edition/the_catcher_in_the_rye_hardcover",
+          "inLanguage": "zh",
+          "datePublished": "1094-01-01",
+        }
+      ]
+    }
+  ]
+}
+</script>
