@@ -42,7 +42,7 @@ input[type=submit]:hover {
 	<div class="container">
 		<div class="inner_sec_top_aglieits">
 			<div class="banner_bottom_info">
-				<h1>Contact Me</h1>
+				<h1>Contact Me {{layout}}</h1>
 
 				<div id="formdiv">
 				  <form action="/pages/overview/thank-you-contact" netlify>
