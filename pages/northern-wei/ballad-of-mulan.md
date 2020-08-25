@@ -146,7 +146,7 @@ Can you really discern whether I am a *he* or a *she*?
   "@context": "http://schema.org",
   "@type": "DataFeed",
   "name": "The Ballad of Mulan",
-  "description": "The Ballad of Mulan is the oldest known version of Mulan’s story. Most likely composed during the era of Northern Wei (circa 400 AD), this one poem ended up inspiring countless retellings for centuries to come.",
+  "description": "{{page.onpagedescription | strip_html}}",
   "dataFeedElement": [
     {
       "@context": "http://schema.org",
