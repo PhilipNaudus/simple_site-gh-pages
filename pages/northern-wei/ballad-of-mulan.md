@@ -164,7 +164,6 @@ Can you really discern whether I am a *he* or a *she*?
         },
         {
           "@type": "Book",
-          "@id": "http://example.com/edition/the_catcher_in_the_rye_hardcover",
           "inLanguage": "zh",
           "datePublished": "1094-01-01"
         }
