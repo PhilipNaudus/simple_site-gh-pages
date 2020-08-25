@@ -142,6 +142,7 @@ Can you really discern whether I am a *he* or a *she*?
   "@context": "http://schema.org",
   "@type": "Book",
   "name": "The Ballad of Mulan",
+  "image" : "https://mulanbook.com/assets/images/articles/ballad-of-mulan-song-dynasty-mu-fu.jpg",
   "author": {
     "@type": "Person",
     "name": "Unknown"
