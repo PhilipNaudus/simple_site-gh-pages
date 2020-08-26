@@ -147,7 +147,6 @@ Can you really discern whether I am a *he* or a *she*?
     "@type": "Person",
     "name": "Unknown"
   },
-  "inLanguage": "zh",
   "datePublished": "400-01-01",
   "dateModified": "1094-01-01"
 }
