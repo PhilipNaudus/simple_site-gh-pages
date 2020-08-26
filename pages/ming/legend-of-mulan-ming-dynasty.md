@@ -28,7 +28,8 @@ Although modern historians have begun to question the scholarship of these Ming 
 
 <div id="note">
 <ol>
-<li>Edwards, Louise. <i>Mulan’s legend and legacy in China and the United States</i> (Temple University Press, 2011)</li> <!--everything-->
+<li>Dong, Lan. <i>Mulan’s legend and legacy in China and the United States</i> (Temple University Press, 2011)</li> <!--everything-->
+<Li>Edwards, Louise. <i>Transformations of The Woman Warrior Hua Mulan: From Defender of The Family To Servant of The State</i> (Nan Nu, 2010.12): 175-214.</li>
 <li>Jing, Zhang. <i>Variable Icons and Images: Mulan and Her Legend in Five Legend-telling Groups in Huangpi, People&rsquo;s Republic of China</i> (Doctoral dissertation, 2017) Memorial University of Newfoundland.</li><!--everything-->
 <li>Kwa, Shiamin and Idema, Wilt L. <i>Mulan: Five Versions of a Classic Chinese Legend with Related Texts</i> (Hackett Publishing, 2010)</li> <!--everything-->
 <li><a href="https://ora.ox.ac.uk/objects/uuid:55ced870-5835-4b7a-b4b7-ac61def1a116/download_file?safe_filename=Full%2BDPhil%2BThesis%252C%2BMuddy%2BWaters.pdf&file_format=application%2Fpdf&type_of_work=Thesis">Luper, Edward I. <i>Muddy Waters: Political Tensions and Identity in the Writings of Xu Wei (1521&ndash;1593)</i> (Doctoral dissertation, 2015) Pembroke College.</a></li>
