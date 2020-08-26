@@ -27,7 +27,8 @@ Although these depictions of Mulan may seem disappointingly anti-feminist to the
 <div id="note">
 <ol>
 <li><a href="http://www.cuhk.edu.hk/ics/journal/articles/v50p319.pdf">Allen, Sarah M. <i>Love  and  Women  in  Early  Chinese  Fiction</i> (Journal of Chinese Studies, 2010.50): 319-324</a></li>
-<li>Edwards, Louise. <i>Mulan’s legend and legacy in China and the United States</i> (Temple University Press, 2011)</li> <!--everything-->
+<li>Dong, Lan. <i>Mulan’s legend and legacy in China and the United States</i> (Temple University Press, 2011)</li> <!--everything-->
+<Li>Edwards, Louise. <i>Transformations of The Woman Warrior Hua Mulan: From Defender of The Family To Servant of The State</i> (Nan Nu, 2010.12): 175-214</i>
 <li>Hsieh, Daniel. <i>Love and Women in Early Chinese Fiction: Academic Monographs on Chinese Literature</i> (The Chinese University Press, 2008).</li>
 <li>Jing, Zhang. <i>Variable Icons and Images: Mulan and Her Legend in Five Legend-telling Groups in Huangpi, People&rsquo;s Republic of China</i> (Doctoral dissertation, 2017) Memorial University of Newfoundland.</li><!--everything-->
 <li>Kwa, Shiamin and Idema, Wilt L. <i>Mulan: Five Versions of a Classic Chinese Legend with Related Texts</i> (Hackett Publishing, 2010)</li> <!--everything-->
