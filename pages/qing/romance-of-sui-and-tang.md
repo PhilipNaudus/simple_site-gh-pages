@@ -32,3 +32,24 @@ Several months later, Princess Xianniang discovers that Luo Cheng and Youlan hav
 Luo Cheng takes both Xianniang and Youlan to be his brides, and a joyful wedding is celebrated.
 
 <a href="https://zh.wikisource.org/zh-hant/%E9%9A%8B%E5%94%90%E6%BC%94%E7%BE%A9">Read the original Chinese text of *Romance of Sui and Tang.*</a>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "name": "Romance of Sui and Tang",
+  "alternateName": "Sui Tang Romance",
+  "alternateName": "Romance of Sui and Tang Dynasties",
+  "alternateName": "Romance of the Sui and Tang Dynasties",  "image" : "https://mulanbook.com/assets/images/articles/ballad-of-mulan-song-dynasty-mu-fu.jpg",
+  "alternateName": "Sui Tang Yanyi",
+  "image": "https://mulanbook.com/assets/images/articles/hua-mulan-romance-of-sui-and-tang.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "Chu Renhuo",
+    "alternateName": "Zhu Renhuo",
+    "alternateName": "Renhu Chu",
+    "alternateName": "Ren-hu Chu"
+  },
+  "datePublished": "1695-01-01"
+}
+</script>
