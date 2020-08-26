@@ -30,8 +30,9 @@ Mulan's story has traversed the globe several times and has touched the hearts a
 
 <div id="note">
 <ol>
-<li>Dong, Lan. <i>Men and Women in Qing China: Gender in the Red Chamber Dreams</i> (Brill Publishers, 1994): 89.</li>
-<li>Edwards, Louise P. <i>Mulan’s legend and legacy in China and the United States</i> (Temple University Press, 2011)</li> <!--everything-->
+<li>Dong, Lan. <i>Mulan’s legend and legacy in China and the United States</i> (Temple University Press, 2011)</li> <!--everything-->
+<Li>Edwards, Louise. <i>Transformations of The Woman Warrior Hua Mulan: From Defender of The Family To Servant of The State</i> (Nan Nu, 2010.12): 175-214</li>
+<li>Edwards, Louise. <i>Men and Women in Qing China: Gender in the Red Chamber Dreams</i> (Brill Publishers, 1994): 89.</li>
 <li><a href="https://rucore.libraries.rutgers.edu/rutgers-lib/47419/">Jia, Bo. <i>Gender, Women’s Liberation, and the Nation-state: A Study of the Chinese Opera the White-haired Girl.</i> (Master's thesis, 2015) Rutgers University.</a></li>
 <li>Jing, Zhang. <i>Variable Icons and Images: Mulan and Her Legend in Five Legend-telling Groups in Huangpi, People&rsquo;s Republic of China</i> (Doctoral dissertation, 2017) Memorial University of Newfoundland.</li><!--everything-->
 <li>Kwa, Shiamin and Idema, Wilt L. <i>Mulan: Five Versions of a Classic Chinese Legend with Related Texts</i> (Hackett Publishing, 2010)</li> <!--everything-->
