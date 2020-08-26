@@ -38,17 +38,17 @@ Luo Cheng takes both Xianniang and Youlan to be his brides, and a joyful wedding
   "@context": "http://schema.org",
   "@type": "Book",
   "name": "Romance of Sui and Tang",
-  "alternateName": "Sui Tang Romance",
-  {"alternateName": "Romance of Sui and Tang Dynasties"},
-  {"alternateName": "Romance of the Sui and Tang Dynasties"},
-  {"alternateName": "Sui Tang Yanyi"},
+  "alternateName": ["Sui Tang Romance",
+    "Romance of Sui and Tang Dynasties",
+    "Romance of the Sui and Tang Dynasties",
+    "Sui Tang Yanyi"],
   "image": "https://mulanbook.com/assets/images/articles/hua-mulan-romance-of-sui-and-tang.jpg",
   "author": {
     "@type": "Person",
     "name": "Chu Renhuo",
-    "alternateName": "Zhu Renhuo",
-    {"alternateName": "Renhu Chu"},
-    {"alternateName": "Ren-hu Chu"}
+    "alternateName": ["Zhu Renhuo",
+      "Renhu Chu",
+      "Ren-hu Chu"]
   },
   "datePublished": "1695-01-01"
 }
