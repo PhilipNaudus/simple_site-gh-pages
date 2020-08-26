@@ -30,8 +30,8 @@ In each of these retellings, Mulan is described as both strong and virtuous. Eve
 
 <div id="note">
 <ol>
-<li>Edwards, Louise. <i>Transformations of the Woman Warrior Hua Mulan: From Defender of the Family to Servant of the State</i> (&#30007;&#22899;, 2010.12): 175-214.</li>
-<li>Edwards, Louise. <i>Mulan’s legend and legacy in China and the United States</i> (Temple University Press, 2011)</li> <!--everything-->
+<li>Dong, Lan. <i>Mulan’s legend and legacy in China and the United States</i> (Temple University Press, 2011)</li> <!--everything-->
+<Li>Edwards, Louise. <i>Transformations of The Woman Warrior Hua Mulan: From Defender of The Family To Servant of The State</i> (Nan Nu, 2010.12): 175-214.</li>
 <li>Jing, Zhang. <i>Variable Icons and Images: Mulan and Her Legend in Five Legend-telling Groups in Huangpi, People&rsquo;s Republic of China</i> (Doctoral dissertation, 2017) Memorial University of Newfoundland.</li><!--everything-->
 <li>Kwa, Shiamin and Idema, Wilt L. <i>Mulan: Five Versions of a Classic Chinese Legend with Related Texts</i> (Hackett Publishing, 2010)</li> <!--everything-->
 <li>Sun, Xiaosu. <i>Mulan on Page and Stage: Stories of Mulan in Late Imperial China.</i> (Master's thesis, 2008) University of Pittsburgh.</li>
