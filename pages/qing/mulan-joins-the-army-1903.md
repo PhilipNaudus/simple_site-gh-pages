@@ -42,3 +42,18 @@ The supreme commander praises Mulan (referring to her as Mushu) in front of the 
 </div>
 
 <script type="text/javascript" src="/assets/js/toggle_note.js"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Play",
+  "name": "Mulan Joins the Army",
+  "image": "https://mulanbook.com/assets/images/articles/mulan-joins-the-army-by-feng-luoxia.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "Unknown"
+  },
+  "datePublished": "1903-01-01"
+}
+</script>
+

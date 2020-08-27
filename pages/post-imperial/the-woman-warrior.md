@@ -32,3 +32,18 @@ At last, Mulan comes face-to-face with the corrupt emperor, beheads him, and cro
 Although the war has now ended, Mulan is still unable to rest because she never found her brother. Presuming him to be dead, she finds the baron and blames him for her brother's fate. Mulan strips off her shirt, revealing both her true feminine nature and the words of revenge which had been tattooed on her back. While the baron is still bewildered, Mulan slices her sword through his neck.
 
 Mulan returns home as a hero and resumes her role as a woman.
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "name": "The Woman Warrior",
+  "image": "https://mulanbook.com/assets/images/articles/the-woman-warrior-cover.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "Maxine Hong Kingston"
+  },
+  "datePublished": "1976-01-01",
+  "sameAs": "https://en.wikipedia.org/wiki/The_Woman_Warrior"
+}
+</script>

@@ -46,3 +46,24 @@ After her parents pass away, thirty-year-old Mulan is left alone to raise her si
 The emperor is finally convinced of her innocence, but it is too late. In his remorse, he gives her an honorable burial, writing "Filial, loyal, and valiant martyr" on her tombstone.
 
 <a href="https://zh.wikisource.org/wiki/%E6%9C%A8%E8%98%AD%E5%A5%87%E5%A5%B3%E5%82%B3">Read the original Chinese text of <i>The Complete Account of Extraordinary Mulan.</i></a>
+
+This novel is also known as *Biography of Extraordinary Mulan*, *Biography of the Extraordinary Woman Mulan*, *The Story of the Wonderous Maiden Mulan*, *The Complete Story of the Wonderous Maiden Mulan*, and *The Story of the Loyal, Filial, and Heroic Mulan*.
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "name": "The Complete Account of Extraordinary Mulan",
+  "alternateName": ["Biography of Extraordinary Mulan",
+    "Biography of the Extraordinary Woman Mulan",
+    "The Story of the Wonderous Maiden Mulan",
+    "The Complete Story of the Wonderous Maiden Mulan",
+    "The Story of the Loyal, Filial, and Heroic Mulan"],
+  "image": "https://mulanbook.com/assets/images/articles/mulan-training-martial-arts-grandfather-biography-of-extraordinary-mulan.png",
+  "author": {
+    "@type": "Person",
+    "name": "Unknown"
+  },
+  "datePublished": "1800-01-01"
+}
+</script>

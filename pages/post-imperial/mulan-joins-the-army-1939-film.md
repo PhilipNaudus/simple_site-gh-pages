@@ -106,3 +106,18 @@ for (var i = 0; i < floats.length; i++)
 }
 </script>
 {:/}
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "name": "Mulan Joins the Army",
+  "image": "https://mulanbook.com/assets/images/articles/mulan-joins-the-army-1939-triumphant-return.jpg",
+  "author": {
+    "@type": "Organization",
+    "name": "China United Productions"
+  },
+  "datePublished": "1939-02-01",
+  "sameAs": "https://en.wikipedia.org/wiki/Mulan_Joins_the_Army_(1939_film)"
+}
+</script>

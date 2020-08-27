@@ -99,3 +99,19 @@ After Mulan has been reunited with her family, Wentai comes to visit. He confess
 </figure>
 
 [View *Mulan: Rise of a Warrior* on IMDB](https://www.imdb.com/title/tt1308138/)
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "name": "Mulan: Rise of a Warrior",
+  "alternateName": "Mulan",
+  "image": "https://mulanbook.com/assets/images/articles/mulan-rise-of-a-warrior-movie-poster.jpg",
+  "author": {
+    "@type": "Organization",
+    "name": "Starlight International Media, Inc."
+  },
+  "datePublished": "2009-11-26",
+  "sameAs": "https://en.wikipedia.org/wiki/Mulan_(2009_film)"
+}
+</script>

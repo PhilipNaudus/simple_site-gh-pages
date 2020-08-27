@@ -4,7 +4,7 @@ title: <i>The Fierce and Filial Girl from Northern Wei</i> by Zhang Shaoxian (&#
 description: This novel unites many of the previous renditions of Mulan’s story into a single volume, emphasizing that Mulan’s brilliance and courage stemmed from her virtue.
 image: hua-mulan-lu-wanhua-sworn-sisters.jpg
 bg: e9e9e9
-alt: Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua. Illustrations are from an early woodblock printing of Fierce and Filial (public domain).
+alt: Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua. Illustrations are from an early woodblock printing of The Fierce and Filial Girl from Northern Wei (public domain).
 imageType: big
 num: 4
 ---
@@ -82,6 +82,25 @@ Qingyun investigates the bandits’ stronghold and concludes that the only way t
 
 Mulan returns home. Qingyun marries Wanhua, but takes Mulan as his second wife. The night of their wedding, Qingyun makes love to Mulan prior to consummating his marriage to Wanhua. Mulan conceives a son who eventually becomes the next prime minister of China.
 
-<a href="https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991011302539704786&context=L&vid=886NTU_INST:886NTU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8C%97%E9%AD%8F%E5%A5%87%E5%8F%B2&offset=0">Read the original Chinese text of <i>Fierce and Filial.</i></a>
+<a href="https://ntu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991011302539704786&context=L&vid=886NTU_INST:886NTU_INST&lang=zh-tw&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%E5%8C%97%E9%AD%8F%E5%A5%87%E5%8F%B2&offset=0">Read the original Chinese text of <i>The Fierce and Filial Girl from Northern Wei.</i></a>
+
+This novel is also known as *Fierce and Filial*, *An Extraordinary History of the Northern Wei: The Story of a Heroic and Filial Girl*, and *The Legendary Story of a Filial and Heroic Girl from the Northern Wei*
 
 <script type="text/javascript" src="/assets/js/float.js"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "name": "The Fierce and Filial Girl from Northern Wei",
+  "alternateName": ["Fierce and Filial",
+    "An Extraordinary History of the Northern Wei: The Story of a Heroic and Filial Girl",
+    "The Legendary Story of a Filial and Heroic Girl from the Northern Wei"],
+  "image": "https://mulanbook.com/assets/images/articles/mulan-training-martial-arts-grandfather-biography-of-extraordinary-mulan.png",
+  "author": {
+    "@type": "Person",
+    "name": "Unknown"
+  },
+  "datePublished": "1800-01-01"
+}
+</script>

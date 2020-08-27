@@ -63,3 +63,18 @@ The emperor, who now owes his life to Mulan, asks her to become his adviser. How
 [View *Mulan* on IMDB](https://www.imdb.com/title/tt0120762/)
 
 <link rel="stylesheet" href="/assets/themes/twitter/css/tip.css" type="text/css" media="all" />
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "name": "Mulan",
+  "image": "https://mulanbook.com/assets/images/articles/disneys-mulan-movie-poster.jpg",
+  "author": {
+    "@type": "Organization",
+    "name": "Disney"
+  },
+  "datePublished": "1998-06-19",
+  "sameAs": "https://en.wikipedia.org/wiki/Mulan_(1998_film)"
+}
+</script>

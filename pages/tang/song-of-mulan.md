@@ -75,3 +75,17 @@ Their loyalty and filial piety would not be lost.<br />
 <div class="indent"> Their fame would last throughout the ages.</div>
 
 <a href="https://ctext.org/library.pl?if=gb&file=79316&page=132">Original Chinese Text</a>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Book",
+  "name": "Song of Mulan",
+  "image": "https://mulanbook.com/assets/images/articles/song-of-mulan.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "Wei Yuanfu"
+  },
+  "datePublished": "750-01-01"
+}
+</script>

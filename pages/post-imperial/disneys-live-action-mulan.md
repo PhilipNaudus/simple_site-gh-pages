@@ -22,3 +22,18 @@ If Disney's efforts are successful and this American adaptation is re-imported i
 <br />
 <br />
 <br />
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "name": "Mulan",
+  "image": "https://mulanbook.com/assets/images/articles/disneys-live-action-mulan-movie-poster.jpg",
+  "author": {
+    "@type": "Organization",
+    "name": "Disney"
+  },
+  "datePublished": "2020-09-04",
+  "sameAs": "https://en.wikipedia.org/wiki/Mulan_(2020_film)"
+}
+</script>

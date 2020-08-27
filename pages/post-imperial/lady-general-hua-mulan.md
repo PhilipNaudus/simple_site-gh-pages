@@ -91,3 +91,17 @@ Mulan and General Li exchange gifts as tokens of their betrothal. As Mulan watch
 <script type="text/javascript" src="/assets/js/resizeLazyThumbs.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js" onload="var lazyLoadInstance=new LazyLoad({elements_selector:'.lazy'});"></script>
 
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "name": "Lady General Hua Mu-Lan",
+  "image": "https://mulanbook.com/assets/images/articles/lady-general-hua-mulan-movie-poster.jpg",
+  "author": {
+    "@type": "Organization",
+    "name": "Shaw Brothers"
+  },
+  "datePublished": "1964-06-18",
+  "sameAs": "https://en.wikipedia.org/wiki/Lady_General_Hua_Mu-lan"
+}
+</script>

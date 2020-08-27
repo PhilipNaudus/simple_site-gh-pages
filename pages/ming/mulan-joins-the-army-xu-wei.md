@@ -61,3 +61,18 @@ When Mulan returns home, she is reunited with her family and resumes her feminin
 During the wedding celebration, the guests eagerly anticipate seeing the couple bowing to one another. However, Mulan stands erect and blushes. Her mother chides, "You fearlessly commanded an army of men for twelve years! How can you suddenly become bashful?"
 
 <small><a href="https://archive.org/details/02111248.cn/page/n64">Original Chinese text</a></small>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Play",
+  "name": "Mulan Joins the Army",
+  "image": "https://mulanbook.com/assets/images/articles/mulan-bids-farewell-to-her-family-while-two-soldiers-wait-impatiently.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "Xu Wei"
+  },
+  "datePublished": "1580-01-01"
+}
+</script>
+
