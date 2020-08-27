@@ -33,7 +33,7 @@ Luo Cheng takes both Xianniang and Youlan to be his brides, and a joyful wedding
 
 <a href="https://zh.wikisource.org/zh-hant/%E9%9A%8B%E5%94%90%E6%BC%94%E7%BE%A9">Read the original Chinese text of *Romance of Sui and Tang.*</a>
 
-This novel is also known as *Sui Tang Romance*, *Romance of Sui and Tang Dynasties*, and *Romance of the Sui and Tang Dynasties*.
+This novel is also known as *Sui Tang Romance* and *Romance of the Sui and Tang Dynasties*.
 
 <script type="application/ld+json">
 {
