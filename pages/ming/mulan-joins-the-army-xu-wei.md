@@ -34,7 +34,7 @@ Yesterday, Hua Hu had just received word of his conscription notice. The king ha
 
 Mulan calls to Xiaohuan, the family servant, who assists her in making the necessary preparations to go into battle. She will need armor, weapons, and a horse. When Mulan realizes that her small feet are sure to reveal her true identity, she slowly begins to unbind her feet.
 
-Mulan pauses and realizes that if she unbinds and enlarges her feet, thus destroying the most beautiful feature of her body, she will lose the most glorious feature of her body and, as a result, be unsuitable for marriage. However, after a moment's pause, she reassures the audience that she is not making a permanent change to her body because her family has a magic potion that will shrink her feet back to the size of golden lotuses when she returns from war. She claims that, in the end, her feet will be smaller than ever before.
+Mulan pauses and realizes that if she unbinds and enlarges her feet, thus destroying the most beautiful feature of her body, she will be unsuitable for marriage. However, after a moment's pause, she reassures the audience that she is not making a permanent change to her body because her family has a magic potion that will shrink her feet back to the size of golden lotuses when she returns from war. She claims that, in the end, her feet will be smaller than ever before.
 
 After Mulan stands up, she finds that walking is now cumbersome. However, after taking some time to practice, she begins to grow accustomed to walking with such massive feet. After she has changed clothes, she now looks exactly like a man.
 
