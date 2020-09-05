@@ -1,7 +1,7 @@
 ---
 layout: post
-title: <i>Mulan Joins the Army</i> by Xu Wei (&#26408;&#34349;&#24478;&#36557;, c. 1580 AD)
-description: <i>Mulan Joins the Army</i> is one of Xu Wei’s most famous plays, and is often credited with bringing the legend of Mulan into the public spotlight.
+title: <i>The Heroine Mulan Goes to War in Her Father’s Place</i> by Xu Wei (&#38604;&#26408;&#34349;&#26367;&#29238;&#24478;&#36557;, c. 1580)
+description: As one of Xu Wei’s most famous plays, this dramatic retelling of Mulan’s story is often credited with bringing this legend into the public spotlight.
 image: mulan-bids-farewell-to-her-family-while-two-soldiers-wait-impatiently.jpg
 bg: b39562
 alt: Mulan bids farewell to her family while two soldiers wait impatiently. Included as an illustration in a late woodblock reprinting of a collection of Xu Wei’s plays (Public domain).
@@ -66,7 +66,9 @@ During the wedding celebration, the guests eagerly anticipate seeing the couple 
 {
   "@context": "http://schema.org",
   "@type": "Play",
-  "name": "Mulan Joins the Army",
+  "name": "The Heroine Mulan Goes to War in Her Father's Place",
+  "alternateName": ["The Female Mulan",
+    "Mulan Joins the Army"],
   "image": "https://mulanbook.com/assets/images/articles/mulan-bids-farewell-to-her-family-while-two-soldiers-wait-impatiently.jpg",
   "author": {
     "@type": "Person",
@@ -75,4 +77,3 @@ During the wedding celebration, the guests eagerly anticipate seeing the couple 
   "datePublished": "1580-01-01"
 }
 </script>
-
