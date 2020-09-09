@@ -2,17 +2,17 @@
 layout: post
 title: The <i>Ballad of Mulan</i> (&#26408;&#34349;&#36781;)
 description: The <i>Ballad of Mulan</i> is the oldest known version of Mulan’s story. This one poem ended up inspiring countless retellings for centuries to come.
-onpagedescription: The <i>Ballad of Mulan</i> is the oldest known version of Mulan’s story. Most likely composed during the era of Northern Wei (around 400 AD), this one poem ended up inspiring countless retellings for centuries to come.
+onpagedescription: "The <i>Ballad of Mulan</i> is the oldest known version of Mulan’s story. Most likely composed during the era of Northern Wei (around 400 AD), this one poem ended up inspiring countless retellings for centuries to come.</p><p>As an anonymous an undated work, very little can be said about the <em>Ballad</em> with certainty. It most likely began as oral tradition, and was passed down for over a century until it was finally preserved in written form during the Tang dynasty."
+
+However, the Tang dynasty manuscripts have been lost."
 image: ballad-of-mulan-song-dynasty-mu-fu.jpg
 bg: 8c6f4e
-alt: '<!--googleoff: snippet --> This copy of the Ballad was penned by Song dynasty calligrapher <a href="https://en.wikipedia.org/wiki/Mi_Fu">Mi Fu</a> in 1094 AD (Public domain). <!--googleon: snippet -->'
+alt: 'This copy of the Ballad was penned by Song dynasty calligrapher <a href="https://en.wikipedia.org/wiki/Mi_Fu">Mi Fu</a> in 1094 AD (Public domain).'
 imageType: big
 num: 1
 ---
 
-Because the *Ballad of Mulan* is an anonymous and undated work, very little can be said about it with certainty. It most likely began as oral tradition, and was passed down for over a century until it was finally preserved in written form during the Tang dynasty.
-
-The version which was finally put into writing begins with Mulan sitting in front of her loom, weeping over the fact that her father has just received his conscription orders. Because Mulan has no elder brother, she is resolved to take her father's place. Upon returning, she is offered a prominent position but turns it down; her only request is that she be sent home to her family.
+The version that was finally put into writing begins with Mulan sitting in front of her loom, weeping over the fact that her father has just received his conscription orders. Because Mulan has no elder brother, she is resolved to take her father's place. Upon returning, she is offered a prominent position but turns it down; her only request is that she be sent home to her family.
 
 After Mulan is reunited with her parents and she has resumed her feminine appearance, her comrades are shocked to discover that she is a woman&mdash;for the twelve years that they fought together, none of them had suspected anything. The *Ballad* concludes by commenting, "When a pair of rabbits run side by side, who can distinguish male from female?"
 
