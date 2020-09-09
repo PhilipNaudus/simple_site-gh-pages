@@ -5,7 +5,7 @@ description: The <i>Ballad of Mulan</i> is the oldest known version of Mulan’s
 onpagedescription: The <i>Ballad of Mulan</i> is the oldest known version of Mulan’s story. Most likely composed during the era of Northern Wei (around 400 AD), this one poem ended up inspiring countless retellings for centuries to come.
 image: ballad-of-mulan-song-dynasty-mu-fu.jpg
 bg: 8c6f4e
-alt: This copy of the Ballad was penned by Song dynasty calligrapher <a href="https://en.wikipedia.org/wiki/Mi_Fu">Mi Fu</a> in 1094 AD (Public domain).
+alt: '<!--googleoff: snippet --> This copy of the Ballad was penned by Song dynasty calligrapher <a href="https://en.wikipedia.org/wiki/Mi_Fu">Mi Fu</a> in 1094 AD (Public domain). <!--googleon: snippet -->'
 imageType: big
 num: 1
 ---
