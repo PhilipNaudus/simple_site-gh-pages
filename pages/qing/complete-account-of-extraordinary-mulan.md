@@ -47,7 +47,7 @@ The emperor is finally convinced of her innocence, but it is too late. In his re
 
 <a href="https://zh.wikisource.org/wiki/%E6%9C%A8%E8%98%AD%E5%A5%87%E5%A5%B3%E5%82%B3">Read the original Chinese text of <i>The Complete Account of Extraordinary Mulan.</i></a>
 
-This novel is also known as *Biography of Extraordinary Mulan*, *Biography of the Extraordinary Woman Mulan*, *The Story of the Wonderous Maiden Mulan*, *The Complete Story of the Wonderous Maiden Mulan*, and *The Story of the Loyal, Filial, and Heroic Mulan*.
+This novel is also known as *Biography of Extraordinary Mulan*, *Biography of the Extraordinary Woman Mulan*, *The Story of the Wondrous Maiden Mulan*, *The Complete Story of the Wondrous Maiden Mulan*, and *The Story of the Loyal, Filial, and Heroic Mulan*.
 
 <script type="application/ld+json">
 {
@@ -56,8 +56,8 @@ This novel is also known as *Biography of Extraordinary Mulan*, *Biography of th
   "name": "The Complete Account of Extraordinary Mulan",
   "alternateName": ["Biography of Extraordinary Mulan",
     "Biography of the Extraordinary Woman Mulan",
-    "The Story of the Wonderous Maiden Mulan",
-    "The Complete Story of the Wonderous Maiden Mulan",
+    "The Story of the Wondrous Maiden Mulan",
+    "The Complete Story of the Wondrous Maiden Mulan",
     "The Story of the Loyal, Filial, and Heroic Mulan"],
   "image": "https://mulanbook.com/assets/images/articles/mulan-training-martial-arts-grandfather-biography-of-extraordinary-mulan.png",
   "author": {
