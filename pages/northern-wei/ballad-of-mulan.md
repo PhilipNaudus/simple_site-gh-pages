@@ -80,7 +80,7 @@ They return to see the Son of Heaven, <br />
 Sitting in the royal court
 
 He unrolls the scroll of merit a dozen times<br />
-Giving rewards to hundreds and thousands of men
+Giving hundreds and thousands of rewards
 
 The Khan asks Mulan what she desires
 
