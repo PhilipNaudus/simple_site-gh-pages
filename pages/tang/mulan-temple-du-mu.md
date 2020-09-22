@@ -26,4 +26,4 @@ Deep in the heart of inner Mongolia, they all raise their glasses to the beautif
 <small><a href="https://fanti.dugushici.com/ancient_proses/27451">Original Chinese text</a></small><br /><br />
 </blockquote>
 
-The title of this poem was most likely chosen by the followers of a Taoist sect who began to use this poem as one of their sacred texts (see [A Memorial to the Filial General]).
+The title of this poem was most likely chosen by the followers of a Taoist sect who began to use this poem as one of their sacred texts (see [A Memorial to the Filial General](/pages/yuan/memorial-filial-general)).
