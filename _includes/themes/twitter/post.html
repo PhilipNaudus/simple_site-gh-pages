@@ -38,12 +38,11 @@
 
 				<figure {% if page.imageType contains "float" %} class="float left" style="max-width: 450px;" {% else %} class="big" {% endif %}>
 				{% if page.image contains "#" %}
-				<picture>
-					<source media="(min-width: 830px)" srcset="/assets/images/articles/{{ imageArr[1] }}">
+				<a href="/assets/images/articles/{{ imageArr[1] }}">
 				{% endif %}
 					<img {% if page.imageType contains "big" %} class="fillimg" {% endif %} src="/assets/images/articles/{{ defaultImage }}" alt="{{ page.alt | strip_html }}" />
 				{% if page.image contains "#" %}
-				</picture>
+				</a>
 				{% endif %}
 
 				<figcaption style="text-align: center;"><i>{{ page.alt}} </i></figcaption>
