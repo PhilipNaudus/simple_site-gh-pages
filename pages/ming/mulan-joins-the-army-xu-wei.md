@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <i>The Heroine Mulan Goes to War in Her Father’s Place</i> by Xu Wei (&#38604;&#26408;&#34349;&#26367;&#29238;&#24478;&#36557;, c. 1580)
+title: <em>The Heroine Mulan Goes to War in Her Father’s Place</em> by Xu Wei (&#38604;&#26408;&#34349;&#26367;&#29238;&#24478;&#36557;, c. 1580)
 description: As one of Xu Wei’s most famous plays, this dramatic retelling of Mulan’s story is often credited with bringing this legend into the public spotlight.
 image: mulan-bids-farewell-to-her-family-while-two-soldiers-wait-impatiently.jpg
 bg: b39562
@@ -60,7 +60,9 @@ When Mulan returns home, she is reunited with her family and resumes her feminin
 
 During the wedding celebration, the guests eagerly anticipate seeing the couple bowing to one another. However, Mulan stands erect and blushes. Her mother chides, "You fearlessly commanded an army of men for twelve years! How can you suddenly become bashful?"
 
-<small><a href="https://archive.org/details/02111248.cn/page/n64">Original Chinese text</a></small>
+<a href="https://archive.org/details/02111248.cn/page/n64">Read the original Chinese text of <em>The Heroine Mulan Goes to War in Her Father’s Place.</em></a>
+
+This play is also known as *The Female Mulan.*
 
 <script type="application/ld+json">
 {
