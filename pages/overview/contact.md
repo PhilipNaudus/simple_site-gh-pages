@@ -47,13 +47,13 @@ input[type=submit]:hover {
 				<div id="formdiv">
 				  <form action="https://docs.google.com/forms/u/3/d/e/1FAIpQLSe8tPN2yHWM-FAjr_CvTVKkiC_zjgPl60KLVx8g0yjRqRVRGA/formResponse">
 				    <label for="name">Name (optional)</label>
-				    <input type="text" id="name" name="name" placeholder="Your name...">
+				    <input type="text" name="entry.242436072" placeholder="Your name...">
 
 				    <label for="email">Email Address</label>
-				    <input type="text" id="email" name="email" placeholder="Your email address...">
+				    <input type="text" name="entry.675414612" placeholder="Your email address...">
 
 				    <label for="message">Message</label>
-				    <textarea id="message" name="message"></textarea>
+				    <textarea name="entry.146508461"></textarea>
 				  
 				    <input type="submit" value="Submit">
 				  </form>
