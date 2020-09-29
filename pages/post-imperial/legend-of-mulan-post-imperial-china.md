@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Legend of Mulan During Post-Imperial China
+title: The Legend of Hua Mulan During Post-Imperial China
 description: After the fall of Imperial China, and especially after Mulan’s story traveled to the West, the legend underwent significant alterations as numerous causes from various cultures all began to herald Mulan as their guiding hero.
 image: mulan-returns-in-glory.jpg
 bg: a49b8c

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Questions about Mulan’s Legend and History, Answered
-description: Where was Mulan born? Under which emperor did she serve? How did she die? Did she have a brother or a sister? How old was she when she joined the army?
+description: Where was Hua Mulan born? Under which emperor did she serve? How did she die? Did she have a brother or a sister? How old was she when she joined the army?
 image: mulan-hundred-beauties.png
 bg: cec194
 alt: "An illustration of Mulan included in a woodblock reprinting of New Poems and Pictures of One Hundred Beauties (c. 1800). The text provides a brief summary of the play <a href='/pages/ming/mulan-joins-the-army-xu-wei'>Mulan Joins the Army</a> and the <a href='/pages/northern-wei/ballad-of-mulan'>Ballad of Mulan</a>."

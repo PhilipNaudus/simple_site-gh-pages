@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Legend of Mulan During the Qing Dynasty
+title: The Legend of Hua Mulan During the Qing Dynasty
 description: During a time when the Chinese endured significant oppression, the legend of Mulan experienced a surge in popularity, as the people longed for such a hero.
 image: mulan-joins-the-army-wang-qi-qing-dynasty.jpg#mulan-joins-the-army-wang-qi-qing-dynasty-fullsize.jpg
 bg: c6b7a5
