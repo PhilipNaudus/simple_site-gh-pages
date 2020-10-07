@@ -1,6 +1,7 @@
 ---
 layout: custom
 title: "About | Mulanbook: The History and Legend of Hua Mulan"
+extrahead: <meta name="robots" content="noindex">
 ---
 
 <!-- /banner_bottom -->
