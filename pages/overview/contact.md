@@ -64,7 +64,7 @@ input[type=submit]:hover {
 </div>
 
 <script type="text/javascript">
-	document.getElementById("theform").style.display = "visible";
+	document.getElementById("theform").style.display = "inline";
 	document.getElementById("theform").action = "https://docs.google.com/forms/u/3/d/e/1FAIpQLSe8tPN2yHWM-FAjr_CvTVKkiC_zjgPl60KLVx8g0yjRqRVRGA/formRespose";
 </script>
 
