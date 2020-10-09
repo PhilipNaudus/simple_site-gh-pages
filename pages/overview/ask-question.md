@@ -66,7 +66,7 @@ input[type=submit]:hover {
 
 
 
-<script type=text/javascript">
+<script type="text/javascript">
 	document.getElementById("theform").style.display = "visible";
 	document.getElementById("theform").action = "https://docs.google.com/forms/u/3/d/e/1FAIpQLSdpZ2U1DRE4iaPS5Ms4hNF1FxB9ZlelJCPMMBNd_XLMoGegag/formResponse";
 </script>
