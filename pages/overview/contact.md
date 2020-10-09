@@ -44,8 +44,8 @@ input[type=submit]:hover {
 			<div class="banner_bottom_info">
 				<h1>Contact Me</h1>
 				<div id="formdiv">
-				  <script type="text/javascript"> var submitted = !1 </script><iframe id="hidden_iframe" name="hidden_iframe" onload='submitted&&(window.location="https://mulanbook.com/pages/overview/thank-you-question")' style="display:none"></iframe>
-				  <form action="https://mulanbook.com/pages/overview/thank-you-question" id="theform" style="display:none;" onsubmit="submitted=!0" target="hidden_iframe">
+				  <script type="text/javascript"> var submitted = !1 </script><iframe id="hidden_iframe" name="hidden_iframe" onload='submitted&&(window.location=https://mulanbook.com/pages/overview/thank-you-contact)' style="display:none"></iframe>
+				  <form action="https://mulanbook.com/pages/overview/thank-you-contact" id="theform" style="display:none" onsubmit="submitted=!0" target="hidden_iframe">
 				    <label for="name">Name</label>
 				    <input type="text" name="entry.242436072" placeholder="Your name...">
 
