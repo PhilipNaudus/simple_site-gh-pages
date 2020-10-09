@@ -65,7 +65,7 @@ input[type=submit]:hover {
 
 <script type="text/javascript">
 	document.getElementById("theform").style.display = "inline";
-	document.getElementById("theform").action = "https://docs.google.com/forms/u/3/d/e/1FAIpQLSe8tPN2yHWM-FAjr_CvTVKkiC_zjgPl60KLVx8g0yjRqRVRGA/formRespose";
+	document.getElementById("theform").action = "https://docs.google.com/forms/u/1/d/e/1FAIpQLSe8tPN2yHWM-FAjr_CvTVKkiC_zjgPl60KLVx8g0yjRqRVRGA/formResponse";
 </script>
 
 
