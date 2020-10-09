@@ -46,7 +46,7 @@ input[type=submit]:hover {
 
 				<div id="formdiv">
 				  <script> var submitted = !1 </script><iframe id="hidden_iframe" name="hidden_iframe" onload='submitted&&(window.location="https://mulanbook.com/pages/overview/thank-you-question")' style="display:none"></iframe>
-				  <form action="https://docs.google.com/forms/u/3/d/e/1FAIpQLSdpZ2U1DRE4iaPS5Ms4hNF1FxB9ZlelJCPMMBNd_XLMoGegag/formResponse" onsubmit="submitted=!0" target="hidden_iframe">
+				  <form id="theform" style="display:none;" action="https://mulanbook.com/pages/overview/thank-you-question" onsubmit="submitted=!0" target="hidden_iframe">
 				    <label for="name">Name (optional)</label>
 				    <input type="text" name="entry.242436072" placeholder="Your name...">
 
@@ -66,6 +66,10 @@ input[type=submit]:hover {
 
 
 
+<script type=text/javascript">
+	document.getElementById("theform").style.display = "visible";
+	document.getElementById("theform").action = "https://docs.google.com/forms/u/3/d/e/1FAIpQLSdpZ2U1DRE4iaPS5Ms4hNF1FxB9ZlelJCPMMBNd_XLMoGegag/formResponse";
+</script>
 
 
 <div>
