@@ -45,8 +45,8 @@ input[type=submit]:hover {
 				<h1>Do you have a question about Mulan? Please ask!</h1>
 
 				<div id="formdiv">
-				  <script> var submitted = !1 </script><iframe id="hidden_iframe" name="hidden_iframe" onload='submitted&&(window.location="https://mulanbook.com/pages/overview/thank-you-question")' style="display:none"></iframe>
-				  <form id="theform" style="display:none;" action="https://mulanbook.com/pages/overview/thank-you-question" onsubmit="submitted=!0" target="hidden_iframe">
+				  <script type="text/javascript"> var submitted = !1 </script><iframe id="hidden_iframe" name="hidden_iframe" onload='submitted&&(window.location="https://mulanbook.com/pages/overview/thank-you-question")' style="display:none"></iframe>
+				  <form action="https://mulanbook.com/pages/overview/thank-you-question" id="theform" style="display:none;" onsubmit="submitted=!0" target="hidden_iframe">
 				    <label for="name">Name (optional)</label>
 				    <input type="text" name="entry.242436072" placeholder="Your name...">
 
