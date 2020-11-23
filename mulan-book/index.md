@@ -42,7 +42,7 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 				<figure class="float right" >
 					<img class="shaddow" src="/assets/images/articles/hua-mulan-lu-wanhua-sworn-sisters.jpg" alt="Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua." />
 				</figure>
-				<p>Nevertheless, the overarching plot and each subplot remains intact. Care has been taken to preserve all the major characters, and as well as the themes behind each chapter.</p>
+				<p>Nevertheless, the overarching plot and each subplot remains intact. Care has been taken to preserve all the major characters, as well as the themes behind each chapter.</p>
 			</div>
 		</div>
 	</div>
