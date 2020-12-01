@@ -13,7 +13,8 @@ var hash = hashObj.getHash("HEX");
 
 if (hash=="ee8dcc1795829a75615982ba7de57794e1948d83636c8d3e38ba1cb8fa1bea89469677642965ddac9d646ab5b6f720d08b7d54d3261346dbf9b971e9ec32441e")
 {
-    window.location="http://mulanbook.com/proposal/"+hashObj.update("PdfFile").getHash("HEX")+".pdf";
+    hashObj.update("PdfFile");
+    window.location="http://mulanbook.com/proposal/"+hashObj.getHash("HEX")+".pdf";
 } else
 {
     window.location="http://mulanbook.com/proposal";
