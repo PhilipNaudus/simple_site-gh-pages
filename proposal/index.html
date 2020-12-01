@@ -1,0 +1,25 @@
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jsSHA/2.0.2/sha.js"></script>
+<script language="JavaScript">
+var password;
+var hash="MULANPROPOSAL";
+
+password=prompt('Please enter your password to view this page!','');
+
+var hashObj = new jsSHA("SHA-512", "TEXT", {numRounds: 1});
+hashObj.update(password);
+var hash = hashObj.getHash("HEX");
+
+
+if (hash=="ee8dcc1795829a75615982ba7de57794e1948d83636c8d3e38ba1cb8fa1bea89469677642965ddac9d646ab5b6f720d08b7d54d3261346dbf9b971e9ec32441e")
+{
+    window.location="http://mulanbook.com/proposal/Vq5YWbsHQBQwT34mYsRzvJCzAKAdXPGFYNXkzLgMnVNTDVxbKBYKT9pf3eeGLyVuqQcE6THHy3XyGehY3sBCcVd4b6f564HbZHWZ.pdf";
+} else
+{
+    window.location="http://mulanbook.com/proposal";
+}
+</script>
+</head>
+<body>
+<h1>Please enter the password</h1>
+</body>
