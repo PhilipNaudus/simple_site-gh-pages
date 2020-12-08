@@ -30,7 +30,7 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 	<div class="bozhou_banner">
 		<div class="container">
 			<div class="title1_agile">
-				<h1>This adaptation of Zhang Shaoxian’s novel features strong female characters, epic battles, and romantic tension.</h1>
+				<h1>This adaptation features strong female characters, epic battles, and romantic tension.</h1>
 				<h2>Impossibly unstable bonds are forged across enemy lines, vows are broken, and characters wrestle with the morality of warfare.</h2>
 			</div>
 		</div>
