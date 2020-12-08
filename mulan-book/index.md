@@ -30,7 +30,8 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 	<div class="bozhou_banner">
 		<div class="container">
 			<div class="title1_agile">
-				<h1>This adaptation of Zhang Shaoxian’s novel features strong female characters, epic battles, and romantic tension. Impossibly unstable bonds are forged across enemy lines, vows are broken, and characters wrestle with the morality of warfare.
+				<h1>This adaptation of Zhang Shaoxian’s novel features strong female characters, epic battles, and romantic tension.</h1>
+				<h2>Impossibly unstable bonds are forged across enemy lines, vows are broken, and characters wrestle with the morality of warfare </h2>
 </h1>
 			</div>
 		</div>
@@ -52,7 +53,7 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 			<div class="title1_agile">
 				<h1>Coming soon</h1>
 				<h2>Please be patient while I search for a publisher for this novel.</h2>
-				<p>See below if you would like to be notified when the novel has been published. If you have connections with a publisher or literary agent, please <a href="https://mulanbook.com/mulan-book/publishers">click here</a>.</p>
+				<h2>See below if you would like to be notified when the novel has been published. If you have connections with a publisher or literary agent, please <a href="https://mulanbook.com/mulan-book/publishers">click here</a>.</h2>
 
 			</div>
 		</div>
