@@ -23,14 +23,15 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 				<figure class="float left">
 					<img class="shaddow" src="/assets/images/promo/cover.jpg" alt="Original cover to the Qing dynasty novel Fierce and Filial" />
 				</figure>
-				<p>You’ve read books and seen movies based on this legendary Chinese warrior… but are you familiar with <em>the legend?</em></p>
+				<p>Although Mulan’s story has inspired countless derivative works, few people have had the privilege of reading this classic piece of Chinese literature.</p>
 			</div>
 		</div>
 	</div>
 	<div class="bozhou_banner">
 		<div class="container">
 			<div class="title1_agile">
-				<h1>The original plot and characters remain unaltered, and the story has been retold to engage modern readers.</h1>
+				<h1>This adaptation of Zhang Shaoxian’s novel features strong female characters, epic battles, and romantic tension. Impossibly unstable bonds are forged across enemy lines, vows are broken, and characters wrestle with the morality of warfare.
+</h1>
 			</div>
 		</div>
 	</div>
@@ -38,11 +39,11 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 		<div class="inner_sec_top_aglieits">
 			<div class="banner_bottom_info">
 				<br />
-				<p>It’s more than a translation. Instead of reading footnotes about relevant historical events, you’ll be drawn into the characters’ world so you can experience how the original audience felt about the story.</p>
+				<p>By closely following the plot and characters included in Zhang Shaoxian’s novel (originally published circa 1850), this adaptation will draw the reader into a world that is filled with historical richness.</p>
 				<figure class="float right" >
 					<img class="shaddow" src="/assets/images/articles/hua-mulan-lu-wanhua-sworn-sisters.jpg" alt="Mulan, dressed as a man, next to her sworn sister, Princess Lu Wanhua." />
 				</figure>
-				<p>Nevertheless, the overarching plot and each subplot remains intact. Care has been taken to preserve all the major characters, as well as the themes behind each chapter.</p>
+				<p>While many scenes have been embellished and characters have been given more convincing personalities, this adaptation strives to remain true to Zhang Shaoxian’s original goal: To inspire the reader to live virtuously through conveying an entertaining and engaging story.</p>
 			</div>
 		</div>
 	</div>
@@ -50,7 +51,9 @@ extrahead: '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?famil
 		<div class="container">
 			<div class="title1_agile">
 				<h1>Coming soon</h1>
-				<h2>This book will be made available once I find a publisher who is willing to release this book without altering the plot, or I raise the funds needed to self-publish.</h2>
+				<h2>Please be patient while I search for a publisher for this novel.</h2>
+				<p>See below if you would like to be notified when the novel has been published. If you have connections with a publisher or literary agent, please <a href="https://mulanbook.com/mulan-book/publishers">click here</a>.</p>
+
 			</div>
 		</div>
 	</div>
