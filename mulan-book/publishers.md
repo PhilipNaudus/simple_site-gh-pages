@@ -34,7 +34,6 @@ description: A retelling of the Mulan legend for adults, based on the Qing dynas
 
 				<h2 id="more-information">More Information</h2>
         <p>For more information about this novel, please <a href="https://mulanbook.com/pages/overview/contact">contact me</a>.</p>
-				</div>
 			</div>
 		</div>
 	</div>
