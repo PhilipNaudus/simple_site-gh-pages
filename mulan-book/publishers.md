@@ -19,7 +19,7 @@ description: A retelling of the Mulan legend for adults, based on the Qing dynas
 				<p>A retelling of the Mulan legend for adults, based on the Qing dynasty novel Fierce and Filial by Zhang Shaoxian.</p>
         
 				<h2>Audience</h2>
-				<p>There were 21 million Americans who were under the age of 18 when they watched Disney’s Mulan. These people are now between the ages of 27 and 40.</p>
+				<p>There were 21 million Americans who were under the age of 18 when they watched Disney’s <em>Mulan</em>. These people are now between the ages of 27 and 40.</p>
 				<p>Half of adults within this age demographic purchase and read at least six books per year, and 40% of adults prefer reading fantasy and historical fiction. Thus, the target audience consists of approximately 4 million people.</p>
 				<p>This novel is primarily targeted toward a mass market, as the story has been embellished to engage modern readers. Serious readers are a secondary audience. The book will include an exposition on the original text in an appendix, which is best read after finishing the entire novel first.</p>
 
