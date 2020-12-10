@@ -15,8 +15,14 @@
 	<meta charset="utf-8">
 	
 	{% assign metadesc = page.onpagedescription | split: '</p>' %}
-	{% if page.onpagedescription %}<meta name="description" content="{{ metadesc[0] | strip_html }}">
-	{% elsif page.description %}<meta name="description" content="{{ page.description | strip_html }}">{% endif %}
+	{% if page.onpagedescription %}<meta name="description" content="{{ metadesc[0] | strip_html }}"><meta property="og:description" content="{{ metadesc[0] | strip_html }}">
+	{% elsif page.description %}<meta name="description" content="{{ page.description | strip_html }}"><meta property="og:description" content="{{ page.description | strip_html }}">{% endif %}
+	<meta property="og:title" content="{{ page.title | strip_html }}">
+	{% if page.image %} <meta property="og:image" content="https://mulanbook.com/assets/images/thumbs/articles/{{ page.image }}">
+	{% else %} <meta property="og:image" content="https://mulanbook.com/assets/images/thumbs/articles/mulan-hundred-beauties.png"> {% endif %}
+	<meta property="og:url" content="{{ page.url }}">
+	<meta name="twitter:card" content="summary_large_image">
+
 	
 	{% if page.layout == "custom" %} <link rel="stylesheet" href="/assets/themes/twitter/css/post.css" type="text/css" media="none" onload="if(media!='all')media='all'" />
 	{% else %} <link rel="stylesheet" href="{{ ASSET_PATH }}/css/{{ page.layout }}.css" type="text/css" media="none" onload="if(media!='all')media='all'" />{% endif %}
